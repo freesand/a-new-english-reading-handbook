@@ -2,7 +2,7 @@
 
 ##叶永昌 主编
 
-**上海科学技术文献出版社**
+上海科学技术文献出版社
 
 #内容提要
 
@@ -1695,366 +1695,13 @@ many atime，so（作“如此”讲，不作“因此”讲），here等副词
 
 
 
-And用法中几个值得注意的问题
 
-
-**一、****and****连接两个动词，有时后面动词的行为是前面动词的行为对象或**
-
-
- 目的，译成汉语时可以连着翻译。但有时and前面的部分用来表示条件
-
-
-l. Tryand do it again. 再做做看。（行为对象）
-
-
-2. Pleasesend *and* fetch the minicamera。请派人把小型照相机拿来。（行为
-
-
-目的）
-
-
-3. Letus go *and* try it again。让我们再去试试。（行为目的）
-
-
-4. Tryagain *and you* will succeed. 再试一次，你就会成功。（条件）
-
-
- 注：上述用法中第一个动词多半是表示如下的动词：come，go，try，stop，stay，
-
-
-wait，run,hurry up等。
-
-
-二、and所连接的并列关系及判别
-
-
-1. Itis impossible to 1ive in society *and* be independent ofsociety. 生于社会，
-
-
-不能超乎（或脱离）社会。（*and*连接两个不定式。）
-
-
-2. Everywhereyou can find new types of men *and* objects in the hometown. 
-
-
-在故乡，新人新事比比皆是。（*and*连接两个名词men和objects。）
-
-
-3. Thiscrude oil is a complex mixture of gaseous *and* liquid saturated*and*
-
-
-unsaturatedmolecules. 这种原油系气态、液态饱和分子和气态、液态非饱
-
-
-和分子所构成的混合物。
-
-
-4. Rubbcrgets warmer when stretehcd *and *Cools when relaxed. 橡皮（被）拉
-
-
-伸时发热，而放松时变凉。（*and*连接两个谓语gets和cools。）
-
-
-5. Iprefer seeing a story as a TV film to reading it in a book，becauseI can
-
-
-actua1ly see thecharacters *and* how they are dressed *and* watch their
-
-
-expressions. 我宁愿看电视片故事，而不愿看一本书内的故事，因为这样我
-
-
-能实际地看到各种人物及其穿著打扮，还能注视他们的表情。（第一个*and*
-
-
-连接一个宾语characters和一个宾语从句how…，而第二个and连接动词
-
-
-see和watch。）
-
-
-注意“andthat”在下列两句中是一种加强语气的省略说法，一般可译为
-
-
-“而且”。例如：
-
-
-6. Youmust tell her，*andthat* at once. 你必须告诉她，而且马上告诉她。（that
-
-
-. 26. 
-
-
-
-
-
-
-代表tellhim。）
-
-
-7. Hewill come，*andthat* soon. 他要来，而且很快就来。（that代替will
-
-
-come。）
-
-
-下面这两句，光凭语法分析就判断不了*and*究竟连接了哪两个部分，而必
-
-
-须从逻辑意义上来加以判别：
-
-
-8. Hesaid he would come *and* he did come. 他说他会来的，而他果然来了。（
-
-
-*and*连接Hesaid和hedid come，不连接hewould come和hedid come。）
-
-
-9. Hetold her what had happened *and* left. 他告诉她发生了什么事’然后就
-
-
-走了。（*and*连接told和left，而不是连接happened和left的。）
-
-
-但还必须注意用and把词组和从句连接在一起的情况：
-
-
-10. Physicsis the study of heat，sound，magnetism，electricity，light，the
-
-
-properties ofmatter *and *what it is composed of. 物理学研究热、声、磁、
-
-
-电、光、物质性质以及用以构成物质的东西。（what从句和heat等构成并
-
-
-列。这里可把“东西”引申译为“粒子。”）
-
-
-l l. Thewarmer the air, the faster its molecules move *and* thereforethe
-
-
-faster the dustparticles in it move. 空气越热，则分子运动就越快，因而
-
-
-空气内尘粒运动也就越快。（第一部分为比较状语从句，后面*and*连接两
-
-
-个并列的主句。）
-
-
-12. Themoon is a world that is completely still* and* where uttersilence
-
-
-prevail. 月球是一个全然寂静的世界，是一个万籁无声的世界。（and连
-
-
-接两个定语从句。）
-
-
-l 3. HOWI wish，Johnknew how to apply grammatical rules properly *and*
-
-
-reognized the factthat he is nearly always in the wrong. 我恨不得约翰
-
-
-能知道如何恰当地使用语法规则并且认识到他几乎一直是错的事实。
-
-
-（knew和recognized是并列的虚拟语气。）
-
-
-有时，句中出现几个and，必须分析清楚每个and所表示的并列关系。例
-
-
-如：Smallindustrial enterprises producing iron *and* steel，chemicalfertilizer，
-
-
- coal，machinary，cement，chemicalfibres *and* paper *and* small hydroelectric
-
-
-power statlons areall over the country. 生产钢铁、化肥、煤、机械、水泥、化学
-
-
- 纤维和纸张的小型地方企业以及小型水力发电站遍及全国各地。（句中从iron
-
-
- 到paper，都是producing后的宾语。iron和steel中间用*and**，*是因为“钢铁”是
-
-
- 一固定词组。最后一个*and*才是连接句首的enterprises和句子末尾的stations
-
-
-的。）
-
-
- 注：美国英语用“nice或good+and+形容词”作“very+形容词”讲。
-
-
-1. Yourroom is *nice* *and* warm. 你的房间很暖和。
-
-
-. 27. 
-
-
-
-
-
-
-2. Thismelon is *good and* ripe. 这只西瓜熟透了。
-
-
-三、用and来重叠词的用法
-
-
-I. 用and重叠比较级来表示“越来越……”之意：
-
-
-1. Inspring the day is getting *longer and longer* and the night(is getting)
-
-
-*shorter andshorter*. 春季白天越来越长，夜晚越来越短。
-
-
-2. Thesnow came down *faster and faster* and lay on the earth*thicker* *and*
-
-
-*thicker*。（当时）雪越下越大，地上的雪越积越厚。
-
-
-3. Electronic computersarebecoming *more* *and more* *useful*in scientific
-
-
-researchwork. 电子计算机在科研工作中越来越有用. (只重复*more*，而
-
-
-后面原级形容词不重复。）
-
-
-II. 用and重叠词来表示强调和延续之意：
-
-
-1. Theyhave checked the conclusion *again and again*。他们已经一而再、再
-
-
-而三地检查了这个结论。
-
-
-2. Whatwe want, *first* *and* *foremost*, is* to learn*,*to learn and to learn*。我们
-
-
-首先需要的是学习、学习、再学习。
-
-
-3. Weshould read this book *through* *and* *through*(或*overand over*). 我们应
-
-
-该反复地通读这本书。
-
-
-必须指出，动词短语有时没有全部重复，而只重复其中一部分。例如：
-
-
-4. Theelectrons move *around and around* the nucleus. 电子围着原子核转个
-
-
-不停。
-
-
-5. Abody in motion will *go on and *(*go*)*on* in motion,unless acted upon by
-
-
-an outsideforce. 运动的物体，如果不受外力作用，将继续运动下去。
-
-
-6. We*waited and waited for *a long time，butwe stil1 didn’t see hin come
-
-
-here. 我们等了又等好长时间，但仍未见他来到这里。
-
-
-四、注意and可使句子成分大为省略
-
-
-1. Thebest conductor has the 1east resistance, *and* the poorest (conductor
-
-
-has)thegreatest(resistance). 最好的导体电阻最小，而最差的导体电阻
-
-
-最大。
-
-
-2. Allbodies consist of molecules *and* these(mo1ecules consist)ofatoms. 一
-
-
-切物体都由分子组成，而分子由原子组成。
-
-
-3. Inother words, an atom of chlorine will combine with one hydrogen atom，
-
-
-an atom of oxygenwith two, an atom of nitrogen with three, *and* an atom
-
-
-of carbon Withfour. 换句话说，一个氯原子会与一个氢原于化合，一个氧
-
-
-. 28. 
-
-
-
-
-
-原子会与两个氢原子化合，一个氮原子会与三个氢原子化合，而一个碳原
-
-
-子会与四个氢原子化合。
-
-
-五、注意and前的省略情况，一般以“名词+and…”结构出现
-
-
-l. *Anotherhour*，*and*all the doors will be lockcd. 再过一小时，所有门都要上
-
-
-锁。(Anotherhour，and…=Whenanother hour has passed…)
-
-
-2. *Onemore effort**，**and*we shall succeed. 再努力一下，我们就会成功。(One
-
-
-more effort，and…=Ifwe make one more effort…. ）
-
-
-3. *Twominutes earlier*，*and*we could have caught the last train. 如果早来两
-
-
-分钟，我们就能搭上末班火车了。
-
-
-六、注意and用于加法和一百以上的数字中
-
-
-1. One*and* two are（或make）three. 一加二等于三。
-
-
-2. onehundered *and* twelve pagers. 一百一十二个寻呼机
-
-
-七、and用于罗列举例之末，表示“…等”之意时短语汇总
-
-
-例如：andso on，andso forth，andothers，andthe like，andwhat not以
-
-
-及“，etc. ”（但前面不能用and）等。
 
 
 Any和Some的用法及其差异
 
 
-**一、****any****作“任何的”讲，一般用于否定句、疑问句和条件状语从句中**
+一、any作“任何的”讲，一般用于否定句、疑问句和条件状语从句中
 
 
 l. Hedid not put *any* questions to me. 他未曾向我提任何问题。
@@ -2337,7 +1984,7 @@ your office.）
 Apart及ApartFrom的用法
 
 
-**一、副词****apart****作“分离”、“分开”、“相隔”讲**
+一、副词apart作“分离”、“分开”、“相隔”讲
 
 
 1. Thetwo chain shops are 2 kilometers *apart*. 这两个连锁店相隔2公里。
@@ -2467,7 +2114,7 @@ As的主要用法和判别
  用法，我们打算在下一个专题讨论（见第48～59页）。
 
 
-**一、****as****用作关系代词，引出定语从句**
+一、as用作关系代词，引出定语从句
 
 
 I. such…as像……这（那）样的，像……之类的。as和such连用，such在
@@ -3036,7 +2683,7 @@ III. 让步状语从句连词as虽然，尽管，无论
 
 
 
-2. *Smallas atoms are**，*electronsare still（或even）smaller. 原子虽然很小，但
+2. *Smallas atoms are，*electronsare still（或even）smaller. 原子虽然很小，但
 
 
 电子更小。
@@ -4519,7 +4166,7 @@ I will fight forthe cause of science and education *as long* as Ilive. 我活一
 （c）so（或as）longas…只要……（引出条件状语从句）
 
 
-You may use thatdictionary *so*（或*as*）*long**as* you keep it clean. 你可以用那本辞典，只要你把它保持清洁。
+You may use thatdictionary *so*（或*as*）*longas* you keep it clean. 你可以用那本辞典，只要你把它保持清洁。
 
 
 上句中aslong as和solong as还可用ifonly代替。
@@ -4764,10 +4411,10 @@ Please inform me *astouching*(或concerning)thematter. 关于那件事的情况�
 53. aswell as和…一样，不但…而且…
 
 
-(1)He works *as well**as *he can. 他尽可能地做好工作。
+(1)He works *as wellas *he can. 他尽可能地做好工作。
 
 
-(2)You workd *as well**as* he. 你和他都一样工作。(原义：他工作，而你也工作。)
+(2)You workd *as wellas* he. 你和他都一样工作。(原义：他工作，而你也工作。)
 
 
 (3)Those Chinese pupilsstudy English *as well as* Chinese. 那些中国学生不仅学汉语，而且还学英语。(注意先译后面的Chinese，然后再译前面的English。)
@@ -4949,7 +4596,7 @@ I am reading *thesame* book *as* you read yesterday. 我正在读的书就是你
 70. solong as…(条件从句) 只要…(参阅第53页)
 
 
-Every wire carrying anelectric current has a magnetic field *so*(或*as*)*long**as* the current flows. 只要有电流通过，每根带电的金属丝都产生磁场。
+Every wire carrying anelectric current has a magnetic field *so*(或*as*)*longas* the current flows. 只要有电流通过，每根带电的金属丝都产生磁场。
 
 
 71. so(或as)faras…(条件从句) 就…而论
@@ -4970,7 +4617,7 @@ Every wire carrying anelectric current has a magnetic field *so*(或*as*)*long**
 74. such(…)asto+不定式短语 如此的…以致(结果状语)
 
 
-This problem is *such**as to* interest only a fewpeopIe. (=Itis *such* a problem *as to*interest only a few people. )这样的问题只能使少数人感兴趣。(联系第157页第4句)
+This problem is *suchas to* interest only a fewpeopIe. (=Itis *such* a problem *as to*interest only a few people. )这样的问题只能使少数人感兴趣。(联系第157页第4句)
 
 
 75. withoutso much as+动名词短语 甚至连…也不；竟然没有……
@@ -4982,10 +4629,10 @@ This problem is *such**as to* interest only a fewpeopIe. (=Itis *such* a problem
 (2)She went away*without* *so much* *as* saying good-bye.她竟然不辞而去。
 
 
-**At****的基本含义及其搭配用法分类**
+At的基本含义及其搭配用法分类
 
 
-**一、介词****at****用于表示时间的一个点**
+一、介词at用于表示时间的一个点
 
 
 *at* sixo’clock在六点钟；*at*noon(或midnight)在中午(或半夜)；*at*daybreak(或dawn)在破晓(或黎明)时；*at*sunrise(或sunset)太阳升起(或落山)时；*at*the beginning(或end)ofthe meeting会议开始(或结束)时；*at*the weekend=&lt;美&gt;onthe weekend在周末；*at*the same time(或thattime)
@@ -5002,7 +4649,7 @@ This problem is *such**as to* interest only a fewpeopIe. (=Itis *such* a problem
 同时(或在那时)*at*(the)present(time)当前；*at*the age of ten(年龄)十岁时等
 
 
-**二、****at****用于表示地点的一个点**
+二、at用于表示地点的一个点
 
 
 *at* BeijingHotel在北京饭店；*at*Tianjin University在天津大学；*at*the hospital在医院；*at*the office在办公室；atthe club在俱乐部；atLondon Airporn在伦敦机场；*at*the network information center在网络信息中心等
@@ -5017,25 +4664,25 @@ This problem is *such**as to* interest only a fewpeopIe. (=Itis *such* a problem
 注3：如果at后接某人姓的所有格或某种行业人员的所有格，就可表示某人的住处或某种行业的店铺。例如*at*Mr. white’s在怀特先生家；*at*his uncle’s在他叔叔家；*at*the tailor’s在裁缝店；*at*the barber’s在理发店；*at*the grocer’s在食品杂货店等。
 
 
-**三、****at****用于无法按面积或空间划定范围的某处****(****如****“****在公共汽车站****”****等****)**
+三、at用于无法按面积或空间划定范围的某处(如“在公共汽车站”等)
 
 
 *at* thebus-stop在公共汽车站；*at*the door(或theentrance)在门口(或入口处)；*at*the window在窗户旁边；*at*the foot of the hill在山脚下；*at*the top of the mountain在山顶上[侧重表示在山顶这个高度上]；onthe top of the mountain在山顶这块表面上；*at*page 6在第6页上等
 
 
-**四、****at****用于会议、宴会、婚礼、茶话会等名词前面**
+四、at用于会议、宴会、婚礼、茶话会等名词前面
 
 
 *at* themeeting(或theconference)在会上(或在学术会议、调查会上)；*at*a banquet(或afeast)在一个宴会(或宴席)上；*at*the wedding在婚礼上；*at*the tea party在茶话会上；(*at*the press conference在新闻发布会上等
 
 
-**五、****at****用于价格、速度以及其它任何物理量数值之前以表示一个点**
+五、at用于价格、速度以及其它任何物理量数值之前以表示一个点
 
 
 *at* anycost(或rate)不惜任何代价(或不管怎样)；*at*a rapid rate以飞快的速度；*at*a temperature of 30℃在30℃时；*at*a distance在一定距离处；*at*hand在身边[由“近在乎边”引申过来]；*at*sea level在海平线上；keepsb. *at*arm’s length避免同某人亲近[由“保持一臂距离”引申过来]等
 
 
-**六、****at****与动词连用时可表示动词动作所对准的目标或目的物**
+六、at与动词连用时可表示动词动作所对准的目标或目的物
 
 
 look *at*…观看(黑板即theblackboard)；glance*at*…一瞥(那张画)；stare*at*…盯着看(某人、某物)；aim*at*…瞄准…；point*at*…指着…；fire(agun)*at*…向…开火；shoot*at*…向…射击；go*at *sb. 向某人扑去；run*at*…向
@@ -5051,7 +4698,7 @@ look *at*…观看(黑板即theblackboard)；glance*at*…一瞥(那张画)；st
 某人冲去；rush*at*sb. 向某人冲去；jump(或leap)*at*…跃向(某人)，找某人岔子，欣然抓住(机会等)，急忙接受(建议、工作等)；fly*at*…飞快扑向(某人)；cut*at* sb. 向某人砍去；throw(或fling)outquestions* at* sb. 随即向某人(激烈地)发问；get*at* sb. 指责、攻击或纠缠某人；talk*at* sb。指桑骂槐说某人；laugh*at* sb. 嘲笑某人；shout*at *sb. 对着某人喊叫；knock(或beat，hammer，pound)atthedoor敲打(门等)；work(或labour，go，hammer)*at*…对(英语)下功夫或推敲研究estimate…*at*…把…估计为…；rate(或value)…*at*…将…评价(或估价)为…；guess(*at*)…猜测(年龄、价格等)；grasp*at*…抓住(绳子即arope或机会即thechance)；catch(或dive)*at*a chance抓住(或扑过去抓住)机会；pull*at* the rope用力拉或拉住绳子；come(或get)*at*the meaning of the word理解到这个词义等
 
 
-**七、****begood(****或****bad****，****quick****等****)at…****结构中****at****仍表示****“****对准其中某点****”****而言**
+七、begood(或bad，quick等)at…结构中at仍表示“对准其中某点”而言
 
 
 be good *at*…(他)擅长(汉语)；bebad *at*…他(日语)差或不好；bequick (或slow)*at*translation(他们)翻译快(或慢)；beexpert *at* English(他)对英语很专长;beskillful *at *typing对打字很熟练等
@@ -5060,19 +4707,19 @@ be good *at*…(他)擅长(汉语)；bebad *at*…他(日语)差或不好；bequ
 注：有时和某些名词连用，at也有上述类似用法。例如：bean expert(或agenius)*at*French(她)是对法语有专长(或天才)的人；takeaim *at* the enemy瞄准敌人等
 
 
-**八、****at****作****“****对于****”****讲及与喜怒哀乐的形容词及相应的名词或介词短语连用**
+八、at作“对于”讲及与喜怒哀乐的形容词及相应的名词或介词短语连用
 
 
-**时的搭配用法举例**
+时的搭配用法举例
 
 
 beshocked(或disappointed)*at*the news(她)对这消息感到震惊(或失望)；beglad(或pleased，delightcd)*at*…对…感到高兴；besad(或miserable)*at*… 对…很难过(或伤心)；beangry(或disgusted)*at*…对…生气(或厌恶)；feelone’s surprise *at*…对(这事故即theaccident)感到惊讶；talkof one’s disappointment* at*…谈及自己对……的失望；showone’s pleasure* at*…对……显示很高兴；begrief at…对(某人的去世即sb’sdeath)感到悲伤；bein high spirits *at*…对(远大的前程即agreat future)心境很佳等
 
 
-**九、对于****&quot;at+****形容词最高级”结构的理解和推广，这里形容词最高级前省略**
+九、对于&quot;at+形容词最高级”结构的理解和推广，这里形容词最高级前省略
 
 
-**the****。这表明已转化为名词，并且表示一个极限点，故前用****st****十分合理**
+the。这表明已转化为名词，并且表示一个极限点，故前用st十分合理
 
 
 *at*(the)most至多；*at*(the)least至少；*at*longest最长或最久时；*at*
@@ -5085,7 +4732,7 @@ beshocked(或disappointed)*at*the news(她)对这消息感到震惊(或失望)�
 earliest(或latest)最早(或最晚)；*at*worst最坏情况下；*at*sb’s best在某人最好或全盛时；*at*best最好情况下或充其量；*at*widest最宽处；*at*the very outsiide至多，充其量[一种类似的用法]
 
 
-**十、“****a‘+****冠词****+****动作名词”作“一…就”讲时的搭配用法举例**
+十、“a‘+冠词+动作名词”作“一…就”讲时的搭配用法举例
 
 
 *at*(the)first最初，起初；*at*(the)firstsight(或glance，appearance)乍一看；*at*a moment’s notice一通知就…；*at*the beginning(或start)一开始便…；*at*sb’s request(或invitation)应某人要求(或邀请)；*at*the thought of…一想到(某人、某事)；*at*a guess猜一下或粗略估计等
@@ -5094,22 +4741,22 @@ earliest(或latest)最早(或最晚)；*at*worst最坏情况下；*at*sb’s bes
 注：但*at*a loss却作“不知所措”讲，表示一种失落感。有时还表示“吃亏、受损失”。
 
 
-**十一、表示状态用的****“****at+****抽象名词****”****结构常用千作表语、补语、后置定语、状语**
+十一、表示状态用的“at+抽象名词”结构常用千作表语、补语、后置定语、状语
 
 
 be* at *rest处于静止状态；be*at *peace(或war)处于和平(或交战)状态；*at*will任意地，随意地[由“处于听从意志安排”引申过来]；*at*random胡乱地，杂乱无章；be*at* fault有过错；be*at*(one’s)studics在学习；be*at *work(或schoo1，college)在工作(或上学，上大学)；be*at *table(或meal，dinner)在吃饭；be*at *breakfast(或lunch)在吃早饭(或午饭等)；Whatare you* at*?你在干什么?be*at* a lecture在听讲座或讲课；be*at* high tide(改革等)处于高潮等
 
 
-**十二、几个例外情况**
+十二、几个例外情况
 
 
 atlarge消遥法外，充分或详细地，总的来说[必须结合上下文选择语义]；*at*length最终，详细地，噜嗦地[同上]；*at*heart在内心里，实际上[同上]
 
 
-**Away****的搭配用法及其分类理解**
+Away的搭配用法及其分类理解
 
 
-**一、副词****away****和不少动词连用表示多种多样的“离开”举例。若后接****from…****，则表示“离开…”之意**
+一、副词away和不少动词连用表示多种多样的“离开”举例。若后接from…，则表示“离开…”之意
 
 
 back *away* astep往后退一步；backthe boat *away* *forw* thepier驾船倒退驶离码头；be…*away*(教室)离这里(50米)，(她的生日)离现在(一个月)；be*away*他离开(或缺席)；break*away*(小偷即thethief)挣脱逃走，破除或不遵守陈规戒律(后加*form*the old rules)，脱离该俱乐部[后加*from*the club]；come*away*(轮子即thewheel)脱落；come(或go)*away*(她)同(小孩)一起离开；drive*away*(他)开车离开；get*away*离开，脱身，休假，get(*v*. )*awayfrom*
@@ -5122,19 +4769,19 @@ back *away* astep往后退一步；backthe boat *away* *forw* thepier驾船倒�
 
 
 
-…(她)摆脱(某人)，回避(事实)，使(她的小孩)离开(俱乐部)；get*away*with…(他)同(妻子)外出，(小偷)携带(珠宝等)逃走，(他)受到(警告即warning)；keep(*v*. )*away**from*…不靠近(火)，不抽烟[后加smoking]，让(孩子)离开或不靠近(江河)；make*away*(或off)(孩子)急忙地跑掉；pass*away*(某人)离世或去世，(20年)过去；pull*away*(某人)领先或离开，不断地划船[常用进行时]；ride*away*(或off)乘车(或骑车、骑马)离开；run*away*(或off)跑掉，逃离，逃离家[后加*from*home]；shoot*away*(或off)(小孩、兔子等)急迷离开[英语用shoot(射击)表示离开动作之快]；walk*away*(或off)步行走开，轻易或不费劲地获奖[后加wi‘ththe prize。转义用法]等
+…(她)摆脱(某人)，回避(事实)，使(她的小孩)离开(俱乐部)；get*away*with…(他)同(妻子)外出，(小偷)携带(珠宝等)逃走，(他)受到(警告即warning)；keep(*v*. )*awayfrom*…不靠近(火)，不抽烟[后加smoking]，让(孩子)离开或不靠近(江河)；make*away*(或off)(孩子)急忙地跑掉；pass*away*(某人)离世或去世，(20年)过去；pull*away*(某人)领先或离开，不断地划船[常用进行时]；ride*away*(或off)乘车(或骑车、骑马)离开；run*away*(或off)跑掉，逃离，逃离家[后加*from*home]；shoot*away*(或off)(小孩、兔子等)急迷离开[英语用shoot(射击)表示离开动作之快]；walk*away*(或off)步行走开，轻易或不费劲地获奖[后加wi‘ththe prize。转义用法]等
 
 
-**二、****away****与有关动词搭配表示“不出席、避开、不靠近、拉开距离”时用法**
+二、away与有关动词搭配表示“不出席、避开、不靠近、拉开距离”时用法
 
 
-**举例**
+举例
 
 
-be *away* lastweek with flu(她)上周因流感缺席(或未出席)[用过去一般时]；move(或draw)*awayfrom* sb.(他)拉开和(某人)的距离；keep(或remain)*away**from* the meeting(她)没有出席会议；keep*away* *from* such a drink避开这样一种饮料；sit(或stand)*away**from* her坐(或站)得离她远一点；stay*away* *from *school(或themeeting)(她)缺课或未出席(会议)等
+be *away* lastweek with flu(她)上周因流感缺席(或未出席)[用过去一般时]；move(或draw)*awayfrom* sb.(他)拉开和(某人)的距离；keep(或remain)*awayfrom* the meeting(她)没有出席会议；keep*away* *from* such a drink避开这样一种饮料；sit(或stand)*awayfrom* her坐(或站)得离她远一点；stay*away* *from *school(或themeeting)(她)缺课或未出席(会议)等
 
 
-**三、****away****和有关动词搭配表示“消散、衰退、渐弱、渐息、消瘦”等时的用法举例**
+三、away和有关动词搭配表示“消散、衰退、渐弱、渐息、消瘦”等时的用法举例
 
 
 clear(*v*)*away*(云即theclouds)消散，(怀疑即thedoubt)消失，(警察)驱散(群众)；die*away*(风、声)渐息，(旧的风俗习惯即theold customs)衰退；fall*away*(她的脸)消瘦，(风)减弱，(标准即thestandard)降低，(数量)减少；take…away(药)使(疼痛即thepain)消失；go(或pass)*away*(或off)(疼痛)消失，(雨)停止waste*away*(某人)在消瘦[进行时]，(她的体力即her
@@ -5143,7 +4790,7 @@ clear(*v*)*away*(云即theclouds)消散，(怀疑即thedoubt)消失，(警察)�
 strength)渐弱；wear(v. )away(她)消瘦，(雨)磨损(岩石即rocks)等
 
 
-**四、****away****与有关动词搭配中表示“…掉、…去、…走”等含义时用法举例**
+四、away与有关动词搭配中表示“…掉、…去、…走”等含义时用法举例
 
 
 argue*away*…(他不能)辩解掉(这些事实即thefacts)；blow(v.)*away*(我的帽子)吹跑了[过去时，也可用被动态]，(这个运动即themovement)扫除掉(陈腐的东西即thecobwebs)[常用于转意：出去散步透透空气]；bring*away*…(=come *away* with…)(他)带走或带回(一个很好的想法即agood idea)；break*away*…折断或折掉(树枝即thebranches)；burn*away*(一瓶油即abottle of oil)烧掉了[过去时或完成时]；becalled *away*(他)被叫走；call
@@ -5160,13 +4807,13 @@ argue*away*…(他不能)辩解掉(这些事实即thefacts)；blow(v.)*away*(我
 *away*…(闹声即thenoise)转移(她的注意即herattention)；carry*away*…带走(书)，搬走(桌子)，(洪水即theflood)冲走(许多房子)；cast(或throw，fling)*away*…扔掉或丢掉(旧书)；clear*away*…清除掉(垃圾即therubbish)，排除掉(困难)，收拾走(书、报等)；come*away*(轮子即thewheel)脱落，她会后离开[后加afterthe meeting]；cut*away*…切除掉(肿瘤即thetumour)，砍掉(树等)；eat*away*腐蚀掉(一些金属即somemetals)，(老鼠)啃坏(桌子等)get…*away*(我)将(画)拿掉，(她)将(小孩)带走；give*away*…(他)失掉(机会)，(他)泄露(秘密即thesecret)，(我)赠送(新书)，(她)颁发(奖即theprizes)[均由“把…给掉”引申过来]；improve*away*…(他)通过改进来去掉(缺点即hisshort coming)；pay*away*…(我)付掉(我一半的收入即halfmy income)；send*away*…把(货物)发走，将(这男人)打发走；sweep*away*…扫掉(灰尘即thedirt)，(强风)将(云即theclouds)驱走；talk*away*(他们)通过谈话消除掉(恐惧即thefear)，(我们)谈话花掉(两小时)；tear*away*…撕掉(包装用纸即thewrapping paper)，拽走(某人)；wash(v. )*away*(道路即theroad)冲毁掉了[过去时]，(这不能)洗掉(他的错误)；wipe*away*…(雨)擦掉(足迹即thefootprints)，(她)擦去(汗水即hersweat)等
 
 
-**五、用“有关动词****+away+****表示时间、金钱等名词’’表示“通过有关动作浪费时间、金钱”等含义时的用法举例**
+五、用“有关动词+away+表示时间、金钱等名词’’表示“通过有关动作浪费时间、金钱”等含义时的用法举例
 
 
 cast(或throw)*away*…浪费(时间、钱等)；drink*away*…喝酒消磨(时间)；laugh*away*…以说笑消磨(两个小时)；pass(*v*. )*away*…(他)消磨(许多时间)，(这30年)过去了[完成时]，(她)去世[过去时]；play*away*…(他们)玩掉(整个上午)，赌掉或输掉(许多钱)；wear*away*…(他们)在辩论中花费(许多时间)[后加inthe arguing]等
 
 
-**六、****away****和有关动词搭配表示****“****收拾、存放、收藏、隔离****’’****等时的用法举例。这时****away****的含义由****“****离开或向另一边→在別处→在适当地方****”****引申过来**
+六、away和有关动词搭配表示“收拾、存放、收藏、隔离’’等时的用法举例。这时away的含义由“离开或向另一边→在別处→在适当地方”引申过来
 
 
 clear(v.)*away*(或off)(我)收拾(菜盘即theplates)，(母亲)饭后收拾[后加aftcrdinner]；lay*away*…把(书)放在一边，存(钱等)，为顾客存留(货物)[后加forthe customer]；belaid *away*被埋葬在那边[后加there]，lock*away*…把(钱)锁起来，将(秘密)藏在心中[后加inthe heart]，将(某人)关押或送入精神病医院[结合上下文翻译]；put*away*…贮存(水果等)，存放(钱等)，收拾(玩具即thetoys)，收拾(某人)[指将某人关起来或送往精神病医院等]；take*away*…收拾(盘碟即thedishes)；shut*away*…将(好书)珍藏起来，将(某人)禁闭、关押或隔离等
@@ -5179,13 +4826,13 @@ clear(v.)*away*(或off)(我)收拾(菜盘即theplates)，(母亲)饭后收拾[�
 
 
 
-**七、****away****作“向另一方向”或“向另一边”讲时与有关动词连用举例**
+七、away作“向另一方向”或“向另一边”讲时与有关动词连用举例
 
 
 face awayfrom…(她)将脸转过去避开(我)，(这个花园即thegarden)一侧有(一条河)[意译]；look*away* from me to thegirl(他)视线从我身上转移到那个女孩身上；turn(v.)*away*(他)把(汽车)转向一侧，(她)往侧面转身；(他们)使(讨论即thediscussion)离(题即thetopic)[后加fromthe topic]等
 
 
-**八、****away****在和有关动词搭配表示“不断地、不停地”时的用法举例**
+八、away在和有关动词搭配表示“不断地、不停地”时的用法举例
 
 
 bargain(v. )*away*for…(她们)不断地讨价还价(10分钟即tenminutes)，(她)以(词典)换取(书)；boil*away*(水)一直开了(三分钟)[用进行时]，(水)煮干了[完成时]；burn(v. )*away*(火)在不停地烧[进行时]，(火)烧了(一小时)[过去一般时]，(太阳)把(皮肤即theskin)烧坏；drink*away*(他们)不停地喝酒[进行时]，(他)喝酒消(愁即hissorrow)，(他)把(财产即hisfortune)喝光；drive*away* at one’swork孜孜不倦地工作；eat(v.)*away*(海水)不断地侵蚀着(礁石即roeks)[进行时]，(这小孩在这里)不停地吃；fire(或shoot)*away*(他们)在不断地射击[进行时]；laugh(v. )*away*(她)不断地在笑[进行时]，(他)借笑驱走(恐惧即hisfears)；pull*away*(他们)不停地划船离开，(汽车)离开停车场[后加fromparking place]；work*away*(她)一个劲地干下去，(他的嘴即hismouth)不停地抽动；write*away*(他)整个下午一直在不停地写[现在完成进行时]等
@@ -5218,7 +4865,7 @@ d. weall went *away with* something to think over. 我们带着要仔细考虑�
 e. Don’t go*awaywith*theideathatyouwon’tbecriticized you’re your mistake. 不要以为你犯了错误不会受到批评。
 
 
-**Back****的搭配及其引申用法的理解**
+Back的搭配及其引申用法的理解
 
 
 Back主要作副词用，但还可兼名词、形容词和动词. 这里仅讨论其副词的
@@ -5232,16 +4879,16 @@ Back主要作副词用，但还可兼名词、形容词和动词. 这里仅讨�
 丰富多彩用法。
 
 
-**一、副词****back****与有关动词搭配，表示“向后面、往后退或往回退、在后面”**
+一、副词back与有关动词搭配，表示“向后面、往后退或往回退、在后面”
 
 
-**含义时的用法举例**
+含义时的用法举例
 
 
 cau(v. )*back*(在对方打来电话以后我)回电话；Bear*back* so that the car may pass. 往后挤，让这辆汽车通过。come*back*(她)回来，(短裙子即shortskins)重新流行；drive(v. )*back*驾车回去，(他)开车把(某人)送回去；drop(或fall)*back*(价格)回落；fall*back*(人群即thecrowd)后退，(敌人)退却，(我)往后摔倒；draw(或pull)*back*(人群)往后撤，(他)背弃协议[后加fromthe agreement。由“退离…”引申过来]；Get*back*(或Stay*back*)!后退(或呆在后面)!getback into bed回去睡觉；get*back* to…(他)重返(故乡即hishometown)，(她)再次找(你)谈谈(尤指通电话)；go*back*(你)回去，(你们)后退两米[后加twometers]；go*back* from…(他)背弃(合同即thecontract或朋友)；go*back* to…回到(上海或那个话题即thetopic)(他)回到(他的妈妈)身边；Hewas *back* at nine o’clock. 他九点回来的。Howfar is it to Tianjin and *back*?去天津来回有多远?Theboy is *back* in his work. 这男孩学业落在后面。Keep*back*!别往前走!look*back*往后看；move(v. )*back*往后退，(他)将(他的部下即hismen)调回来；put*back*(船)返航进入港口[后加intothe port]或回到岸边[后加tothe shore]；ride*back*骑马、骑车或乘车回去；run*back*跑回来，开车回来；Wewon’t stand(或sit)*back*if you punish your brother. 如果你惩罚你的兄弟，我们不会坐视不管。Theinformation center stands(或sits)*back*the road. 信息中心的位置离马路有一段距离。step(或stand)b*ack*后退或往后站；turn*back*(她)回来，翻到(第六页)[后加topage six]；walk*back*步行或(走)回来等
 
 
-**二、副词****baek****和有关动词搭配，表示“叫回、带回、送回、放回、收回、调回、搬回、退回、取回、交回****(****或交还****)****、撤回、回请”等含义时的用法举例**
+二、副词baek和有关动词搭配，表示“叫回、带回、送回、放回、收回、调回、搬回、退回、取回、交回(或交还)、撤回、回请”等含义时的用法举例
 
 
 ask(或have)sb. *back*回请某人；callsb. *back*把某人叫回来，10分钟后再给某人打电话[后加inten minutes]，收回(错误的想法即thewrong idea)；bring…*back*将(这些光盘即VCDs)带回来；bringsb. *back*a cup of tea给某人带一杯茶来；draw…*back*拉回或拉开(窗帘即thecurtain)，(他)缩回(脚即hisfoot)；bedriven *back*(敌人)被迫后退；feed(*v*. )*back*to…将(信息即theinformation)反馈给(公司)，(无信息即noinformation)反馈给(公司)；fling(或throw)sb. *back*the ball把球扔回给某人；fling(或throw)*back*one’s head猛然或很快回首；get(或have)themoney *back*收回或取回这笔钱；get
@@ -5258,19 +4905,19 @@ ask(或have)sb. *back*回请某人；callsb. *back*把某人叫回来，10分钟
 (或give，hand)…*back*to sb.将(钥匙即thekey)交还给某人；laythe baby *back* on the bed将婴儿送回到床上；move(v. )*back*调回(坦克即thetanks)，搬回(桌子)；pull…*back*将(钟即theclock)往回拨一小时[后加onehour]，撤回(兵力即one’sforces)，从火焰中拉回或拉出(几个女孩即afew girls)[后加fromthe flames]；paythe money *back* to sb. 将钱付还给某人；put…*back*将(书)放回原处[后加wherethey were]，将(表)往回拨2小时[后加twohours]；pass(或play)theball *back* to sb. 将球传回给某人；place…*back*将(戒指即thering)放回到(匣子)中[后加inthe box]；report…*back*to sb. 向某人汇报(调查结果即thefindings)；send…*back*将(信件)退回,[也可用passthe letter back]，将(小孩)返回到(他的母亲)[后加tohis mother];(卫星即thesatellite)将(照片即thepictures)发送回来；set…*back*将(桌子)往后摆一点[后加alittle]，将(表)往回拨(或拨慢)一小时；take…*back*接回(女孩)，收回(房子)[因未按期付款]，将(书)还给图书馆[后加tothe library]；welcomesb. *back*to…欢迎某人再来(北京)；write*back*写回信，写回信给某人[后加tosb. ]等
 
 
-**三、副词****back****本意不变，跟有关动词搭配时表示“回击、击退、回嘴****(****或顶**
+三、副词back本意不变，跟有关动词搭配时表示“回击、击退、回嘴(或顶
 
 
-**嘴****)****、回敬、报复****”****之意**
+嘴)、回敬、报复”之意
 
 
 answer(或talk)sb. *back*对某人顶嘴或回嘴；beat*back*…击退(敌人即theenemies)，(火焰即theflames)使(消防人员即thefiremen)往后退；fight*back* against the enemy回击敌人；hit(或strike)sb. *back*回击或反击某人；get*back* at sb. 向某人报复；throw*back* the enemy很快击退敌人；paythe enemies *back *for their trick(我们)回惩敌人的阴谋诡计；paysb. backfor his help报答某人的帮忙；give(或pay)*back*the enemies blow for blow(我们)对敌人以牙还牙[由“以打击对付打击回敬或报复敌人”引申过来]等
 
 
-**四、副词****back****与有关动词搭配，表示“追溯到、回忆起、回想起…”含义时**
+四、副词back与有关动词搭配，表示“追溯到、回忆起、回想起…”含义时
 
 
-**的用法举例**
+的用法举例
 
 
 bring *back*…tosb’s mind(这)使某人回忆起(童年时代即thechildhood)[由“把…带回到脑海中”引申过来]；cannotcall her face *back*不能回想起她的容貌[由“不能将…呼唤回来”引申过来]；carrysb. *back*to his(或hcr)youth(这本书)使某人回忆起青年时代[由“将某人带到青年时代”引申过来]；Let’sthrow(或cast)ourthoughts(或minds)*back*to the last meeting. 让我们回忆最后一次会见。(意译)；Theirnames came *back* to her soon. 她很快回想起他们的名字。Itcame *back* to me when she taught us English. 我回忆起何时
@@ -5287,7 +4934,7 @@ bring *back*…tosb’s mind(这)使某人回忆起(童年时代即thechildhood)
 她教我们英语。go*back* to one’s younger days追溯或回忆年轻时代；Thosephotographs took her *back *to her childhood. 那些照片使她回忆起她的童年。look*back* on(或upon)one’syouth回忆青年时代等
 
 
-**五、副词****back****与有关动词搭配，由其本意“往回”引申为“回原处或回原状”时的用法举例。这时动词短语常有“恢复、重新、再……”含义**
+五、副词back与有关动词搭配，由其本意“往回”引申为“回原处或回原状”时的用法举例。这时动词短语常有“恢复、重新、再……”含义
 
 
 The doctorbrought(或put，pulled)her*back* to health. 医生使她恢复了健康。(由“重新把我带、拉到健康状态’’引申过来。)check*back* tomorrow about this matter明天再联系这件事；get(或call)sb.’sstrength *back*(这药即this medicine)恢复了某人的体力[过去时]；come*back* into fashion(那种服装款式即thatstyle of dress)重新流行起来[现在完成时]；gjvesb. his(或her)goodspirits *back*(假日旅行即theholiday travel)恢复某人的良好情绪；go*back* to…(小孩)重返家中[后接thefamily]；Hecan put *back* all the weight he lost in the past twomonths. 他能恢复最近两个月减去的体重。Put(或Bring,Take，Get)theletter *back* where you found it after you read it.
@@ -5296,16 +4943,16 @@ The doctorbrought(或put，pulled)her*back* to health. 医生使她恢复了健�
 看完信后请将信重新放回(或带回、拿回、退回)到你先前发现信的地方。
 
 
-**六、副词****back****与有关动词搭配，表示“耽误、推迟、抑制、忍住、阻拦、隐瞒、紧缩、减少”含义时用法举例**
+六、副词back与有关动词搭配，表示“耽误、推迟、抑制、忍住、阻拦、隐瞒、紧缩、减少”含义时用法举例
 
 
 bite *back* thecomplaints on the tip of the tongue(她)把到嘴边的怨言咽了下去；cut*back*…将(电线即thewire)剪短，将(支出即theexpenses)削减[转译]；fight*back*忍住(笑即one’slaughter)，抑制(做某事的欲望即thedesire to do sth. )；keep(或hold)*back*…抑制(怒火即one’sanger)，(警察即thepolicemen)阻拦(人群即thecrowd)，(河堤即thebanks of the river)阻挡(洪水即theflood)，(雨)耽误(我们)，(她)对我隐瞒(这些事实)[后加fromus。由“使这些事实与我们保持隔开’’引申过来]；pull*back* on one’s spending紧缩(开支)[由“将…往回拉→紧缩”演变过来]；put*back*…(战争)使(经济增长即theeconomic growth)耽误30年[用过去时。后接by30 years]等
 
 
-**Be****的九种基本用法和判别**
+Be的九种基本用法和判别
 
 
-**一、****be****的基本用法**
+一、be的基本用法
 
 
 I.“bc+状语”表示地点，可用副词或介词短语表示。
@@ -5483,25 +5130,25 @@ Such things*are*. 这些情况是存在的。
 3. Ifthere were no friction,then nothing——*beit a huge slab of stone or a tiny grain of sand*——wouldhave its stableposition. 要是没有摩擦力，那末就没有一样东西——不管它是一块大石板还是一粒细砂子——会具有稳定的位置。
 
 
-**二、****be****用法的判别**
+二、be用法的判别
 
 
 be的用法很多，要判断它在句中的作用，首先要注意一下后面跟着的是什么词，其次套用上述九种基本句型，然后再用“是否合乎逻辑”来最后确定它的语法功用和含义(见第69、70页上四个注中的例子)。
 
 
-**Because****，****Becauseof****，****Dueto****，****Owingto,**
+Because，Becauseof，Dueto，Owingto,
 
 
-**Thanksto****和****For****表示原因用法比较**
+Thanksto和For表示原因用法比较
 
 
-**一、连词****because****作“因为”、“由于”讲，一般连接原因状语从句，偶尔引出**
+一、连词because作“因为”、“由于”讲，一般连接原因状语从句，偶尔引出
 
 
-**表语从句**
+表语从句
 
 
-1. Hedidn’t go to school，*because**he was ill*. 他因为有病没去上学。(原因状语从句，从句前可不打逗号)
+1. Hedidn’t go to school，*becausehe was ill*. 他因为有病没去上学。(原因状语从句，从句前可不打逗号)
 
 
 2. a.Thisis *because she studies hard*. 这是由于她学习努力。(表语从句)
@@ -5534,7 +5181,7 @@ b. Thereason why we were late was *that the school bus brokedown*. 我们迟到�
 
 
 
-**二、****becauseof****作“由于”讲，但后面只能接宾语**
+二、becauseof作“由于”讲，但后面只能接宾语
 
 
 1. Thetraffic was held up *because* *of the acciden*t. 由于出事故交通受到阻塞。
@@ -5546,7 +5193,7 @@ b. Thereason why we were late was *that the school bus brokedown*. 我们迟到�
 注：becauseof …一般不能作表语用，应改用dueto…或owingto…(注意后者有时作‘‘(这钱)是欠…的’’讲)。dueto…或owingto…均可作原因状语，而原因状语thanksto…作“多亏…”讲，通常用于好的方面。
 
 
-**三、用****because****和****for****连接句子时的句义差别**
+三、用because和for连接句子时的句义差别
 
 
 1. Theground is wet *because* *it rained lastnight*. 因为昨天下了雨，所以地很湿。(原因状语从句)
@@ -5555,16 +5202,16 @@ b. Thereason why we were late was *that the school bus brokedown*. 我们迟到�
 2. Surelyit rained last night，*forthe ground* *iswet*. 准是昨天下了雨，因为现在地很湿。(这里连词for并不引出原因从句，因为地湿不是下雨的真正原因。because连接原因从句，原因意味强，而for连接一个并列分句，只是对前面分句说明而已。)
 
 
-**四、介词****for****表示原因常取决于搭配的动词、形容词等的要求，为此必须注意上下文**
+四、介词for表示原因常取决于搭配的动词、形容词等的要求，为此必须注意上下文
 
 
 thank sb. *for*his help感谢某人帮助；praisesb. *for*sth. 由于某事表扬某人；feelgreat regret *for* sth. 由于某事深感遗憾；punishsb.*for* sth. 由于某事惩罚某人；befamous(或well-known等)*for*…以…著称(或出名)；aticket *for* speeding一张超速罚款单等
 
 
-**Before****用法和几个在意义上不要混淆的问题**
+Before用法和几个在意义上不要混淆的问题
 
 
-**一、****before****的基本用法**
+一、before的基本用法
 
 
 I. before作介词用，表示时间、位置“在……前”之意
@@ -5637,7 +5284,7 @@ III. 由before引出一种特殊的“定语从句”
 3. Inever mentioned his past *before*. 当时我从未提起他的过去。
 
 
-**二、注意几个在意义上不要混淆的问題**
+二、注意几个在意义上不要混淆的问題
 
 
 I. before和ago含义不同。
@@ -5680,10 +5327,10 @@ II. *beforelong*(不久以后)和*longbefore*(很久以前)含义不同。
 III. bcfore，by，until(或till)表示时间各异(见第93页)。
 
 
-**Behsnd****的用法及其常用短语**
+Behsnd的用法及其常用短语
 
 
-**一、介词****behind****具有“在…后面”、“在…背后”之意，常用其引申的译法**
+一、介词behind具有“在…后面”、“在…背后”之意，常用其引申的译法
 
 
 1. Thesun is now *behind* the clouds. 现在太阳正躲在云层后面。
@@ -5701,7 +5348,7 @@ III. bcfore，by，until(或till)表示时间各异(见第93页)。
 5. What*is behind *rising joblessness?日益增长的失业原因是什么?(由“……失业的背后是什么”引申过来。)
 
 
-**二、介词****behind…****作“误点、过时、成为过去、落后于某人、比…差”等讲**
+二、介词behind…作“误点、过时、成为过去、落后于某人、比…差”等讲
 
 
 1. Thetrain is five minutes *behind time*(或*schedule*). 火车误点五分钟。
@@ -5733,7 +5380,7 @@ III. bcfore，by，until(或till)表示时间各异(见第93页)。
 7. They*fell behind you* in computer science. 他们在计算机科学领域中落在你们后面。
 
 
-**三、副词****behind****有“在后”、“较迟”、“落后”含义**
+三、副词behind有“在后”、“较迟”、“落后”含义
 
 
 1. Hewas *a long way behind*. 他拉下一长段路了。(表语)
@@ -5751,16 +5398,16 @@ III. bcfore，by，until(或till)表示时间各异(见第93页)。
 5. Takecare not *to leave *anything *behind*. 注意别留下东西。(固定短语)
 
 
-**四、****behind****作介词或副词时的其它常用短语**
+四、behind作介词或副词时的其它常用短语
 
 
 sit(或stand)*behind*坐(或站)在后面；saysth. *behind*sb. ’s(或sb.’sback)在某人背后说些什么；beheld *behind* the scenes(会议)是秘密(或幕后)举行的；operatc(或sit)*behind*the scenes在幕后操纵;be*behind* sb. (我)比某人落后[静态]；lag(或trail)*behind*sb. 落在某人后面[动态]；get*behind*…落在(某人)后面，支持(某决议等)[系由“转到某决议的后面”引申过来]，洞察(该事故即theaccident)的内情；go*behind*…探讨(某人演讲、计划等)含义(由“走到…后面琢磨其意’’引申过来)；hang*behind*落后，别人离开后仍留在后面(由原意“挂在后面”引申过来)；bekept *behind*(这小孩)放学后被留下[后加afterschool]；bc*behind *in sth. (我)在某方面落后；remain*behind*或stay*behind*在别人走后仍留下来；stop*behind* to do sth. (在会后或讲座后)留下来做某事(如提问等)；wait*behind *to do sth. 等别人走后留下来做某事：run*behind*(狗)跟在后面奔跑，(这块表)走慢等
 
 
-**Being****的用法和注意点**
+Being的用法和注意点
 
 
-**一、现在分词****being****的用法**
+一、现在分词being的用法
 
 
 I. “be的现在时或过去时形式+being+过去分词”用于现在进行时被动态或过去进行时被动态中。注意英语不用将来进行时被动态，也不用各种完成进行时的被动态。
@@ -5796,7 +5443,7 @@ III. being用于状语，一般有逗号，翻译时常加表示状语的词汇�
 1. *Beingvery small*，atomscannot be seen by ordinary methods. 由于原子太小，用普通方法就不能见到原子。
 
 
-2. (*Being*)*Cooled**in the *air，thiskind of steel becomes harder and harder. 这种钢在空气中冷却时，就变得越来越硬。
+2. (*Being*)*Cooledin the *air，thiskind of steel becomes harder and harder. 这种钢在空气中冷却时，就变得越来越硬。
 
 
 3. *Beingstudents* of *engineering*，weneed to know how to use modern computers.我们作为工科学生，就需要懂得如何使用现代化的计算机。
@@ -5817,7 +5464,7 @@ III. being用于状语，一般有逗号，翻译时常加表示状语的词汇�
 2.*That being thecase*，wewill have to make some alternations in theplan. 情况既然这样，我们就得把计划作一些更改。(原因状语)
 
 
-3.Washing machines arebuilt in various types，*their**functions* *being the same*. 洗衣机可制成各种型式，虽然其功能相同。(让步状语)
+3.Washing machines arebuilt in various types，*theirfunctions* *being the same*. 洗衣机可制成各种型式，虽然其功能相同。(让步状语)
 
 
 4. *Theresistance being very high*,the current in the circuit is low. 如果电阻
@@ -5833,7 +5480,7 @@ III. being用于状语，一般有逗号，翻译时常加表示状语的词汇�
 很大，则电路内电流就小。(条件状语)
 
 
-5. Thereare a large number of different shapes of machine tools，*eachbeing made for* *some particular* *kind of**work*. 各种机床的形状大不相同，每一种都是为特殊的一类加工而制作的。(伴随情况)
+5. Thereare a large number of different shapes of machine tools，*eachbeing made for* *some particular* *kind ofwork*. 各种机床的形状大不相同，每一种都是为特殊的一类加工而制作的。(伴随情况)
 
 
 Ⅴ. being用于介词后的复合宾语结构即“介词+名词或代词+being+…”中。这里being为现在分词. (联系第173页B。)
@@ -5848,16 +5495,16 @@ III. being用于状语，一般有逗号，翻译时常加表示状语的词汇�
 3.We are pleased *atthem being successful*. 我们为他们成功而感到高兴。(若用their代替*them*，则后面*being*为动名词。)
 
 
-4.a. Thecurrent produced is the result *of chemical energy being changed**to electric energy*. 所产生的电流是化学能变为电能的结果。
+4.a. Thecurrent produced is the result *of chemical energy being changedto electric energy*. 所产生的电流是化学能变为电能的结果。
 
 
 b. Coal，petroleum，andclectricity are all the sources *of heat now beingused*. 煤、石油和电都是当前使用的热源。(与a句中相应结构相似，但本句中being短语为后置定语，而a句中being和前面名词chemicalenergy却构成复合结构。必须根据上下文进行逻辑判断。)
 
 
-**二、动名词****being****短语在句中顶一个名词用，可作介词宾语、动词宾语或**
+二、动名词being短语在句中顶一个名词用，可作介词宾语、动词宾语或
 
 
-**主语用**
+主语用
 
 
 1.Water has theproperty of *dissolving sugar*，sugar(has)theproperty of *being dissolved by water*. 水具有溶解糖的特性，糖则具有被水溶解的特性。(介词宾语)
@@ -5875,7 +5522,7 @@ b. Coal，petroleum，andclectricity are all the sources *of heat now beingused*
 5. Thebasement smellcd damp after *being closed* *for* *such along time*. 地下室关闭这么长时间，闻起来有潮湿气味。(介词宾语)
 
 
-**三、****“****be+being+****表语****”****用于表示一时的表现**
+三、“be+being+表语”用于表示一时的表现
 
 
 1. He*is not being modest today*. 他今天表现不太谦虚。
@@ -5895,13 +5542,13 @@ b. Coal，petroleum，andclectricity are all the sources *of heat now beingused*
 3. He*is being* *a good boy today*. 他今天可是个好孩子。
 
 
-**四、“****therebeing…”****结构的用法。参阅第****303****页**
+四、“therebeing…”结构的用法。参阅第303页
 
 
-**Below****的用法**
+Below的用法
 
 
-**一、介词****below****表示方位、数值等“在……下面”、“低于……”之意**
+一、介词below表示方位、数值等“在……下面”、“低于……”之意
 
 
 1. Thesun sinks(或disappears,goes)*below*the horizon. 太阳沉落(或消失)在地干线下。
@@ -5949,7 +5596,7 @@ b. Thetemperature fell(或dropped)*below*zero. 温度降到零度以下。
 2)The river *under*the bridge is ten meters deep. 桥下的河(指桥身正下方的河水)有10米深。
 
 
-**二、副词****below****作“在下”讲，注意可做状语、后置定语和宾语用**
+二、副词below作“在下”讲，注意可做状语、后置定语和宾语用
 
 
 1. Theworking conditions of this device are given *below*. 这种装置的操作条
@@ -5976,25 +5623,25 @@ b. Thetemperature fell(或dropped)*below*zero. 温度降到零度以下。
 5.See* below*. 见下文。
 
 
-**三、****below****和****beneath****，****under****用法比较****(****见下一个专题****)**
+三、below和beneath，under用法比较(见下一个专题)
 
 
-**Beneath****和****Undcr****，****Below****用法比较**
+Beneath和Undcr，Below用法比较
 
 
 在日常用语中under比beneath用得广泛。beneath只是在文学作品中使用比喻时出现较多。
 
 
-**一、介词****beneath****表示“在…之下****(****或下方****)****、在紧靠…底下或在…脚边”**
+一、介词beneath表示“在…之下(或下方)、在紧靠…底下或在…脚边”
 
 
 live(或work)*beneath(*或*under*)thesame roof在同一屋顶下居住(或工作)；weara shin *beneath *the coat将衬衣穿在外衣里面；be*beneath*…(学校)在山脚下[后接*thehill*]，(地窖即*thecellar*)在(厨房)下方；putsome straw *beneath*(或*under*)themat. 将一些稻草铺在席子下面等
 
 
-**二、介词****beneath****在一定上下文中用于表示“在…掩盖、压力或影响下’’的**
+二、介词beneath在一定上下文中用于表示“在…掩盖、压力或影响下’’的
 
 
-**含义**
+含义
 
 
 1. *Beneath*this surface calm are unresolved conmcts. 这种表面平静背后隐藏着悬而未决的冲突。
@@ -6028,7 +5675,7 @@ live(或work)*beneath(*或*under*)thesame roof在同一屋顶下居住(或工作
 注2：under和below用法比较可参阅第78页“Below用法”中的注。
 
 
-**三、介词****beneath****表示某人****(****地位、级别、学识等低于****…****时用法举例****(****常可用****below****代替，还显得通俗些****)**
+三、介词beneath表示某人(地位、级别、学识等低于…时用法举例(常可用below代替，还显得通俗些)
 
 
 1. Iam *beneath* Jenny and Linda in everyway. 我各方面都比詹妮和琳达低。(可用*below*代替)。
@@ -6040,10 +5687,10 @@ live(或work)*beneath(*或*under*)thesame roof在同一屋顶下居住(或工作
 3. Shewould like to make friends with anyone *beneath*her.她愿意跟地位比她低的人交朋友。(同上)
 
 
-**Beside****和****Besodes****的用法及注意事项**
+Beside和Besodes的用法及注意事项
 
 
-**一、介词****beside****作“在…旁边”讲；可引申为“比起来”、“和…无关”等。**
+一、介词beside作“在…旁边”讲；可引申为“比起来”、“和…无关”等。
 
 
 1. Manyautomobiles are running on the road *beside* theriver. 许多汽车在河旁的路上奔驰。
@@ -6061,7 +5708,7 @@ live(或work)*beneath(*或*under*)thesame roof在同一屋顶下居住(或工作
 5. Theirdiscussion is *beside* the question. 他们的讨论离题了。(直译是“…与该问题无关”。)
 
 
-**二、介词****besides****作****“****除****…****以外，还****”****讲**(同时参阅第119～120页)
+二、介词besides作“除…以外，还”讲(同时参阅第119～120页)
 
 
 1. *Besides*the electrons, an atom also contains positive electricalparticles. 除了电子以外，原子还含有带正电的粒子。
@@ -6083,7 +5730,7 @@ live(或work)*beneath(*或*under*)thesame roof在同一屋顶下居住(或工作
 4. *Besidesthat* *he* *drove the car*, he repaired it on the way toBeijing.他不仅驾驶了这辆车，而且在赴京途中还对它进行了修理。(介词*besides*后由连词*that*引出介词宾语从句。)
 
 
-**三、副词****besides****作“此外”、“加之”、“况且”等讲**
+三、副词besides作“此外”、“加之”、“况且”等讲
 
 
 1. Thesecond-hand car he bought was almost new；*besides*，itwas in excellent condition. 他买的那辆二手车几乎是新的，而且运行状况极佳。
@@ -6092,7 +5739,7 @@ live(或work)*beneath(*或*under*)thesame roof在同一屋顶下居住(或工作
 2. *Besides*,the diseases brought by those people had reached epidemicproportions. 此外，当时那些人带来的疾病已达到流行病程度。
 
 
-**四、几个注意点**
+四、几个注意点
 
 
 I. beside一般只作介词用，而besides可作介词或副词用。两词虽相差一个s，但须注意词义差别大。详见上述第一～三项。
@@ -6113,16 +5760,16 @@ II. 介词besides和except在汉语里都译为“除……以外”，但含义
 若besides…与否定句连用，则表示“除…外不再有…”之意，可与except互换：Thereis *nothing* on the table *besides*(或*except*)afloppy disk. 桌上只有一个软盘。
 
 
-**Between****和****Among****的用法辨异**
+Between和Among的用法辨异
 
 
-**一、****between****和****among****都是介词，都作“之间”、“中间”讲，但前者用于“两**
+一、between和among都是介词，都作“之间”、“中间”讲，但前者用于“两
 
 
-**者之间”，而后者用于“三者以上中间”**
+者之间”，而后者用于“三者以上中间”
 
 
-1. Whatis the difference *between a pager* *and a mobile**phone*?寻呼机和移动电话之间的差别是什么?(后置定语)
+1. Whatis the difference *between a pager* *and a mobilephone*?寻呼机和移动电话之间的差别是什么?(后置定语)
 
 
 . 81. 
@@ -6141,7 +5788,7 @@ II. 介词besides和except在汉语里都译为“除……以外”，但含义
 4. *Amongall the* machines computers are used mostwidely. 在所有机器中，计算机使用最广泛。(状语)
 
 
-**二、注意****between****和****among****介词短语作另一介词的宾语**
+二、注意between和among介词短语作另一介词的宾语
 
 
 1. Theair has been removed from *between the* *two pipes*. 已从两管之间抽走了空气。(作介词from的宾语)
@@ -6150,10 +5797,10 @@ II. 介词besides和except在汉语里都译为“除……以外”，但含义
 2.We must select thebest notebook computer from *among those ones*. 我们必须从那些笔记本电脑中间挑出最好的一台。(作介词from的宾语)
 
 
-**三、****between****用于****“****三者以上****”****，则表示其中每两个之间的相互关系**
+三、between用于“三者以上”，则表示其中每两个之间的相互关系
 
 
-1. Weput emphasis on the friendly relation *between* *the people**of all countries*，我们强调各国人民之间的友好关系。
+1. Weput emphasis on the friendly relation *between* *the peopleof all countries*，我们强调各国人民之间的友好关系。
 
 
 2. Earlyman did not know how to explain the difference *betweengases*，*solidsand liquids*. 早期人们不懂如何解释气体、固体和液体之间的差别。
@@ -6162,10 +5809,10 @@ II. 介词besides和except在汉语里都译为“除……以外”，但含义
 3. Theester must be separated *between each washing*. 各次洗涤之间必须将这种酯分离出来。
 
 
-4. Comparethe difference *between doing business* *in the Arab world and**in your country or the U*.*S*. . 请比较一下在阿拉伯世界和你们国家或在美国做生意之间的差别。
+4. Comparethe difference *between doing business* *in the Arab world andin your country or the U*.*S*. . 请比较一下在阿拉伯世界和你们国家或在美国做生意之间的差别。
 
 
-**四、****between****作副词用法举例**
+四、between作副词用法举例
 
 
 1. Ingases，theparticles are far apart with empty space *between*. 在气体中各粒子空隙间距大。
@@ -6177,10 +5824,10 @@ II. 介词besides和except在汉语里都译为“除……以外”，但含义
 一个浴室。
 
 
-**Beyond****的搭配用法及理解**
+Beyond的搭配用法及理解
 
 
-一**、介词****beyond****在位置上表示****“****在****…****以外****”****、****“****在****(****或到****)…****的那一边****”****之意**
+一、介词beyond在位置上表示“在…以外”、“在(或到)…的那一边”之意
 
 
 1. Ourspeciel economic zone is *beyond *the hill. 我们的经济特区在这小山那
@@ -6208,7 +5855,7 @@ II. 介词besides和except在汉语里都译为“除……以外”，但含义
 5. Shecan see *beyond* the end of hisnose. 她能看得远(或看得透)。[由“能看鼻尖以外的东西’’引申过来。]
 
 
-**二、介词****beyond****表示****‘‘****(****时间****)****超过→晚于****…****或****(****数量****)****超过****…”****时的用法举例**
+二、介词beyond表示‘‘(时间)超过→晚于…或(数量)超过…”时的用法举例
 
 
 1. Nowit is *beyond six o*’*clock*. 现在过六点了。(意译)
@@ -6224,7 +5871,7 @@ II. 介词besides和except在汉语里都译为“除……以外”，但含义
 
 
 
-**三、介词****beyond****表示在范围上“超出、超过…”或“出乎…以外”**
+三、介词beyond表示在范围上“超出、超过…”或“出乎…以外”
 
 
 1. Thebook is quite *beyond me*(或*mycomprehension*，*myunderstanding*. )这本书非我所能理解。(表语)
@@ -6239,7 +5886,7 @@ II. 介词besides和except在汉语里都译为“除……以外”，但含义
 4. Byradar people can see the things *beyond the visibility* *ofthem*. 利用雷达人们能看见视线以外的东西。(后置定语)
 
 
-注1：用介词beyond表示在范围上“超出、超过…或出于…以外”的固定短语较多，并且译为汉语时常有丰富多彩的表示方法。又如：*beyondall compartson*无可比拟；*beyondall* *hope*没有希望；*beyond**belief*难以置信；*beyondcomprehension*不能理解；*beyonddispute*无可争论；*beyondcontrol*不受约束，不受控制；*beyondcontroversy*无可争论；*beyondone*’*s grasp*非力所及；*beyonddoubt*无疑；*beyond*expression难以比喻；*beyond*expectation出乎意料，不料等
+注1：用介词beyond表示在范围上“超出、超过…或出于…以外”的固定短语较多，并且译为汉语时常有丰富多彩的表示方法。又如：*beyondall compartson*无可比拟；*beyondall* *hope*没有希望；*beyondbelief*难以置信；*beyondcomprehension*不能理解；*beyonddispute*无可争论；*beyondcontrol*不受约束，不受控制；*beyondcontroversy*无可争论；*beyondone*’*s grasp*非力所及；*beyonddoubt*无疑；*beyond*expression难以比喻；*beyond*expectation出乎意料，不料等
 
 
 . 83. 
@@ -6264,7 +5911,7 @@ II. 介词besides和except在汉语里都译为“除……以外”，但含义
 5. Youmust write a letter to your mother *beyond all*(或*beyondall things*). 你首先必须给你母亲写信。(状语)
 
 
-**四、介词****beyond****作****“****超出→超脱****…”****或****“****超脱→不屑或决不****…”****讲时的用法举例****(****常用于表示某人品质、习性等方面****)**
+四、介词beyond作“超出→超脱…”或“超脱→不屑或决不…”讲时的用法举例(常用于表示某人品质、习性等方面)
 
 
 1. Heis *beyond* such a thing. 他不屑(或决不)做这样的事。
@@ -6276,7 +5923,7 @@ II. 介词besides和except在汉语里都译为“除……以外”，但含义
 3. He hasonlyashortsightedplan,andsoheis*beyond *thinking of the future. 他只有一个眼光短浅的计划，因而不屑考虑将来。
 
 
-**五、介词****beyond****作“除了…外”讲用法举例****(****常用于否定句、疑问句****)**
+五、介词beyond作“除了…外”讲用法举例(常用于否定句、疑问句)
 
 
 1. Ihad no money *beyond *my pension. 那时我除了养老金以外毫无积蓄。
@@ -6288,7 +5935,7 @@ II. 介词besides和except在汉语里都译为“除……以外”，但含义
 3. *Beyond*inviting me to Shanghai，healso sent me a railroad ticket. 除了邀请我去上海以外，他还给我寄来了一张火车票。(只是偶尔用于肯定句。)
 
 
-**六、副词****beyond****作****“****再过去”、“再往前”、“远处或往远处”或“以后时期”等讲，常可根据上下文理解为****beyond****后省略了有关词语**
+六、副词beyond作“再过去”、“再往前”、“远处或往远处”或“以后时期”等讲，常可根据上下文理解为beyond后省略了有关词语
 
 
 1. Thebuilding is very high. Idon’t know whether there is any house*beyond*. 这楼很高。我不知道再前面是否有什么房子。(可以理解为*beyond*
@@ -6313,10 +5960,10 @@ II. 介词besides和except在汉语里都译为“除……以外”，但含义
 4. Theyinvestigated the important events of 1996 and*beyond*. 他们调查了1996年以及(1996年)以后的重要事件。(同上)
 
 
-**Both****的用法及注意点**
+Both的用法及注意点
 
 
-**一、形容词****both****作“两个…都”讲**
+一、形容词both作“两个…都”讲
 
 
 1. *Both*(the)studentshave read a good few books. 这两个学生都读了不少书。(定语)
@@ -6331,7 +5978,7 @@ II. 介词besides和except在汉语里都译为“除……以外”，但含义
 从上述前两句中可看出作定语用的*both*含有“两个……都’’之意。第3句中的*both*用法还表明：街道只有两旁，没有三旁、四旁。
 
 
-**二、代词****both****作****“****两人****”****、****“****两者****”****讲，作同位语用，仍含有****“****两者都****”****之意**
+二、代词both作“两人”、“两者”讲，作同位语用，仍含有“两者都”之意
 
 
 1. Scienceand education *both* play an important part in the nationaleconomy. 科学和教育在国民经济中都起着重要的作用。
@@ -6343,10 +5990,10 @@ II. 介词besides和except在汉语里都译为“除……以外”，但含义
 3. Sheand I are *both* computer programmers.她和我都是计算机程序员。
 
 
-**三、****“****both…and…”****起连接词作用，作****“…****和****…****两者都****”****、****“****又****…****又****”****、****‘‘****不但**
+三、“both…and…”起连接词作用，作“…和…两者都”、“又…又”、‘‘不但
 
 
-…**而且”讲**
+…而且”讲
 
 
 注意“both…and…”能连接各种并列成分，甚至两个句子。
@@ -6381,7 +6028,7 @@ II. 介词besides和except在汉语里都译为“除……以外”，但含义
 6. Itis necessary to build a lot of petrochemical works *both*because China is rich in petroleum *and *because there is agreat demand forpetrochemicals. 由于中国石油丰富，而且对石油化学产品需要量又大，所以有必要建立许多石油化工厂。(连接两个状语从句)
 
 
-**四、注意****&quot;both+****否定式谓语****+…”****构成部分否定**
+四、注意&quot;both+否定式谓语+…”构成部分否定
 
 
 1. *Both*(the)instruments*are not* precision ones. 并非这两个仪器都是精密仪器。(=*Notboth* instruments *are* precision ones. )
@@ -6393,10 +6040,10 @@ II. 介词besides和except在汉语里都译为“除……以外”，但含义
 注：若要把上句改为全部否定，就要用&quot;neither…+肯定式谓语”或&quot;eithcr…+否定式谓语”。详见第212，213，112页。
 
 
-**But****及其搭配关系的用法和判别**
+But及其搭配关系的用法和判别
 
 
-**一、****but****作“但是”讲，连接两个并列成分或两个并列句子**
+一、but作“但是”讲，连接两个并列成分或两个并列句子
 
 
 1. Steelis not brittle，*but*strong. 钢不脆，但坚固。(连接两个表语)
@@ -6414,7 +6061,7 @@ II. 介词besides和except在汉语里都译为“除……以外”，但含义
 5. Usingthis *simple but* *scientific* method would enableArchimedes to solve suchproblems. 当时使用这种简单却又是科学的方法常使阿基米德解出了这样一些题。(连接两个定语)
 
 
-**二、****but(****介词****)****作“除了……以外”讲****(****参阅第****119****页****)**
+二、but(介词)作“除了……以外”讲(参阅第119页)
 
 
 1. Ihave told everybody *but* you. 除了你，我谁都告诉了。
@@ -6444,7 +6091,7 @@ II. 介词besides和except在汉语里都译为“除……以外”，但含义
 6. 1fthe bird did not find land,it would have no choice *but* toreturn to theship. 如果鸟没有发现陆地，它就别无选择，只有飞回船上。(本句but后必须用带to的不定式，因为前面没有出现实意动词do。)
 
 
-**三、****nothingbut…****和****nothingelse but…****的用法****(****不限于上面第****5****、****6****例****)**
+三、nothingbut…和nothingelse but…的用法(不限于上面第5、6例)
 
 
 1. Itis *nothingbut* a home computer. 这只不过是一台家用计算机。
@@ -6459,7 +6106,7 @@ II. 介词besides和except在汉语里都译为“除……以外”，但含义
 4. Heis *nothing but* a conege student. 他只是一个大学生。
 
 
-**四、“****anythingbut+…”****作“决非…”讲，系由“除了…以外，任何什么都行’，引申过来**
+四、“anythingbut+…”作“决非…”讲，系由“除了…以外，任何什么都行’，引申过来
 
 
 l.It is *anything but*a multimedia computer. 这决不是一台多媒体计算机。
@@ -6471,7 +6118,7 @@ l.It is *anything but*a multimedia computer. 这决不是一台多媒体计算�
 3. Isn’tthere *anything* in your hometown *but*mountains?难道你的故乡只有山吗?(意译)
 
 
-**五、****“****what(who****，****whose****等疑问词****)+but…”****表示的意思与****“****nothingbut&quot;****，****“****noone(****或****none)but”****同义****(****参阅本页三和下页六****)**
+五、“what(who，whose等疑问词)+but…”表示的意思与“nothingbut&quot;，“noone(或none)but”同义(参阅本页三和下页六)
 
 
 1. *What*is coal *but* a kind of stone?=Coal is *nothing but* a kindof stone. 煤只是一种石头。(由“煤除了一种石头以外又是什么呢?’’引申过来。)
@@ -6493,7 +6140,7 @@ reading-room?=*Noone*(或*None*)*but*the workers…can enter the read-ing room. 
 3. *Whose*fault is it *but* your own?=It is *no* one’s fault *but*your own. 这只是你的过错。
 
 
-**六、****“****nobody(****或****no…****或****none)but+…’’****作****“****除了****…****以外无人****(****或没有****…****)…****，****’****讲，如果****but****后接一个从句，这时****but****顶替****“****关系代词****that+not'’**
+六、“nobody(或no…或none)but+…’’作“除了…以外无人(或没有…)…，’讲，如果but后接一个从句，这时but顶替“关系代词that+not'’
 
 
 1. *Noone but* a naughty boy would have such an idea. 只有淘气的男孩才会有这样一种想法。(原义为“除了淘气的男孩以外，无人会有…”。)
@@ -6511,7 +6158,7 @@ reading-room?=*Noone*(或*None*)*but*the workers…can enter the read-ing room. 
 5. *No*conege student was there* but* respected theteachers. (当时)那儿没有一个大学生是不尊敬老师的。
 
 
-**七、****‘‘****noone(****或****none****，****nothing****等****)…so…but…”****表示****“****没有人****(****或物等****)……****如此****……****以致****……****不****……’’****之意. 注意这里****but****虽也相当于****thatnot****，但****that****已不是关系代词，而是连词**
+七、‘‘noone(或none，nothing等)…so…but…”表示“没有人(或物等)……如此……以致……不……’’之意. 注意这里but虽也相当于thatnot，但that已不是关系代词，而是连词
 
 
 1. *Noone*(或*Nobody*)is*so *old* but* he maylearn. 一个人无论多老,总是可以学习的。(原义为：没有一个人老到以致不能学习的。)
@@ -6545,7 +6192,7 @@ reading-room?=*Noone*(或*None*)*but*the workers…can enter the read-ing room. 
 
 
 
-**八、****“****notthat…but that…”****作****“****不是****……****而是****(****倒是****)……”****讲. 本句型可理解为句首省略了****Itis****。于是，它就变成了另一种强调句型，只是增加了正反对比而已**
+八、“notthat…but that…”作“不是……而是(倒是)……”讲. 本句型可理解为句首省略了Itis。于是，它就变成了另一种强调句型，只是增加了正反对比而已
 
 
 1. (*Itis*)*Not that* the palmtop is out of order,*but that* Ihave not learned to operateit. 不是掌上型电脑出了故障，而是我还没有学会操作。(联系第90页第十二条，并注意它们用法上的差别。)
@@ -6560,7 +6207,7 @@ reading-room?=*Noone*(或*None*)*but*the workers…can enter the read-ing room. 
 例如：*Butthat* is quite different. 但那是不相同的。
 
 
-**九、“****notonly…but(also)…”****作“不仅……而且……”讲**
+九、“notonly…but(also)…”作“不仅……而且……”讲
 
 
 l.Mr. Wangis *not only* a worker *but*(*also*)astudent. 王先生不仅是个工人，而且是个学生。(若不用*also*，也可在句末加*aswell*。)
@@ -6578,7 +6225,7 @@ l.Mr. Wangis *not only* a worker *but*(*also*)astudent. 王先生不仅是个工
 注：注意*notonly*和*but*后连接的成分必须是并列的同等成分。当*notonly*位于句首并不直接说明主语时，句中主、谓语要采用疑问句格式的颠倒(见上面第3句。)
 
 
-**十、****but(****副词****)****作“不过”、“仅”、“只”讲，但较为文气**
+十、but(副词)作“不过”、“仅”、“只”讲，但较为文气
 
 
 1. Itis *but *a plan. 这仅是一个计划。
@@ -6597,7 +6244,7 @@ l.Mr. Wangis *not only* a worker *but*(*also*)astudent. 王先生不仅是个工
 
 
 
-**十一、“****butfor+****名词”表示“要不是”、“若没有”之意，一般用于虚构的假设句中**
+十一、“butfor+名词”表示“要不是”、“若没有”之意，一般用于虚构的假设句中
 
 
 1. *Butfor* the teacher’s help, we would not havesucceeded. 要不是老师的帮助，我们是不会成功的。
@@ -6609,7 +6256,7 @@ l.Mr. Wangis *not only* a worker *but*(*also*)astudent. 王先生不仅是个工
 注：*butfor*…一般用于虚构的假设，句中要用虚拟语气。注意下列句中*butfor*不作“要不是”解，而作“但是对于……”讲。例如：Sizeand fashion are easily specified for shirts，*butfor* a tea set the terms“size”and“fashion”arenot so clear. 对于衬衫来说，尺寸和款式易于规定，但是对于一套茶具来说，“尺寸”和“款式”这两个术语就不明确了。
 
 
-**十二、“****butthat+****从句”的用法：一般作“假使……不”解；和疑问词或否定词连用，则本身起否定作用**
+十二、“butthat+从句”的用法：一般作“假使……不”解；和疑问词或否定词连用，则本身起否定作用
 
 
 1. *Butthat* you helped us，weshould have failcd. 假使你们不帮助我们，那么我们早就失败了。
@@ -6630,7 +6277,7 @@ l.Mr. Wangis *not only* a worker *but*(*also*)astudent. 王先生不仅是个工
 6.It cannot be *butthat* something will happen. 一定有事情要发生。
 
 
-**十三、****butwhat****表示后面句子是否定意思**
+十三、butwhat表示后面句子是否定意思
 
 
 1. Nota man *but what* likes to see the film“Titanic”. 没有一个人是不喜欢
@@ -6648,7 +6295,7 @@ l.Mr. Wangis *not only* a worker *but*(*also*)astudent. 王先生不仅是个工
 4. Ican’t do it；not*but what* a younger man might be able to do it. 我不能做，但是比我年轻的人也许能做。
 
 
-**十四、****butyet****作连词用，当****“****可是****”****、****“****然而****”****讲**
+十四、butyet作连词用，当“可是”、“然而”讲
 
 
 I agree with you，*butyet* I cannot leave for Beijing at once. 我同意你，可
@@ -6664,7 +6311,7 @@ I agree with you，*butyet* I cannot leave for Beijing at once. 我同意你，�
 是我不能马上去北京。
 
 
-**十五、****allbut****作****“****差不多****”****、****“****几乎****”****讲，在句中作状语**
+十五、allbut作“差不多”、“几乎”讲，在句中作状语
 
 
 1. He*all but* did these experiments. 他几乎做了这些实验。
@@ -6673,13 +6320,13 @@ I agree with you，*butyet* I cannot leave for Beijing at once. 我同意你，�
 2.This gas is *allbut* yellow. 这种气体差不多是黄色的。
 
 
-**十六、“****be+but(****或****only)+too…+****不定式****’’****中，动词不定式意思没有被否定，****buttoo****作****“****十分****”****，****“****非常****”****讲**
+十六、“be+but(或only)+too…+不定式’’中，动词不定式意思没有被否定，buttoo作“十分”，“非常”讲
 
 
 I shall *bebut*(或*only*)*too*pleased to do my best in that line of work. 我将非常高兴地尽力做好那方面的工作。
 
 
-**十七、****canbut****作“只能”讲**
+十七、canbut作“只能”讲
 
 
 1. we*can* *but* have a try. 我们只能试一试。
@@ -6688,7 +6335,7 @@ I shall *bebut*(或*only*)*too*pleased to do my best in that line of work. 我�
 2. I*can but buy* the only CD player. 我只能买这名唯一的光盘播放机。
 
 
-**十八、****cannotbut****作****“****不得不****”****讲**
+十八、cannotbut作“不得不”讲
 
 
 1. I*cannot but* take care of the pump. 我不得不看管这台泵。
@@ -6697,13 +6344,13 @@ I shall *bebut*(或*only*)*too*pleased to do my best in that line of work. 我�
 2. I*cannot but* use his telephone directory. 我不得不使用他的电话簿。
 
 
-**十九、****But****和****Except****，****Besides****，****ApartFrom****用法比较****(****参阅前面第****33****页****)**
+十九、But和Except，Besides，ApartFrom用法比较(参阅前面第33页)
 
 
-**By****的搭配用法及其分类理解**
+By的搭配用法及其分类理解
 
 
-**一、介词****by****作“在…旁边”、“在****(****某人****)****身边”或“从…旁边”讲时的动词短语举例**
+一、介词by作“在…旁边”、“在(某人)身边”或“从…旁边”讲时的动词短语举例
 
 
 1. Havea pager *by*…(我)身边有一个寻呼机[后加me]
@@ -6742,7 +6389,7 @@ theprinciples)[由‘‘坚守在…旁”引申过来]
 9.walk *by* thewindow(我)从窗前走过去
 
 
-**二、介词****by****作****“****通过、经由、取道****”****讲。若后接不带冠词的****air,water****，****land****. ****plane****，****ship****，****train****，****bus****，****bike****或地名等，则表示旅行方式**
+二、介词by作“通过、经由、取道”讲。若后接不带冠词的air,water，land. plane，ship，train，bus，bike或地名等，则表示旅行方式
 
 
 ]. Thevcrossed the river *by* *a long bridge*. 他们经由一座长桥过了河。
@@ -6769,7 +6416,7 @@ theprinciples)[由‘‘坚守在…旁”引申过来]
 注：对于特定时刻的火车或公共汽车，尽管前面出现the但仍可用介词by，但也可用on。其它交通工具前面出现定冠词和修饰语时，则结合具体情况可使用介词in或on。
 
 
-**三、介词****by****表示时间或某时间下限。****by…****表示时间下限时，句中谓语多半要用完成时，但当谓语是系词****be****时，则不必用完成时**
+三、介词by表示时间或某时间下限。by…表示时间下限时，句中谓语多半要用完成时，但当谓语是系词be时，则不必用完成时
 
 
 1. Theywork *by day*.他们白天工作。
@@ -6806,7 +6453,7 @@ theprinciples)[由‘‘坚守在…旁”引申过来]
 
 
 
-**四、在被动态句或短语中用****by****引出行为主体**
+四、在被动态句或短语中用by引出行为主体
 
 
 1. Thesemachines *are driven* *by electricity*。这些机器是由电力驱动的。(句中aredriven by electricity可用*arepower*-*driven*代替。)
@@ -6821,7 +6468,7 @@ theprinciples)[由‘‘坚守在…旁”引申过来]
 *Brown* were bothinteresting andinstructive. 史密斯教授所做的实验和勃朗教授写的书都是既有趣又有教益的。(句中*done*和*written*还可省略。)
 
 
-**五、****by****表示手段或方法，一般含有“通过…的方式”之意**
+五、by表示手段或方法，一般含有“通过…的方式”之意
 
 
 1.You do not Change theShape of a solid *by* putting it in acontainer. 你并不能通过把固体放入容器内改变固体形状。
@@ -6845,10 +6492,10 @@ theprinciples)[由‘‘坚守在…旁”引申过来]
 6. Weknow about magnetism *by how magnetsact*. 通过磁铁如何作用，我们就可知道有关磁性的问题。(*by*接一个由疑问词引出的介词宾语从句。)
 
 
-**六、介词****by…****表示“按照****(****规定、外形、重量、体积、小时、立升、公斤等****)”****含**
+六、介词by…表示“按照(规定、外形、重量、体积、小时、立升、公斤等)”含
 
 
-**义**
+义
 
 
 1. doeverything *by rule*按规定办事
@@ -6888,13 +6535,13 @@ b. prefertravelling *by day*宁愿白天旅行
 9. Hewas a peasant *by birth*. 按出生他是农民。
 
 
-**七、表示数量的净增减值或乘除数以及尺寸、距离等**
+七、表示数量的净增减值或乘除数以及尺寸、距离等
 
 
 1. Ais *by* 4 *feet* longer than B. A比B长四英尺。
 
 
-2. Anincrease in the oxygen content of a coal *by* *1 percent*reduces the calorific value *by about1**. **7per cent*. 煤的含氧量增加l％，其热值就下降约1.7％。
+2. Anincrease in the oxygen content of a coal *by* *1 percent*reduces the calorific value *by about1. 7per cent*. 煤的含氧量增加l％，其热值就下降约1.7％。
 
 
 注1：注意by后接百分数时，用或不用by，均为净增加的百分数。例如：
@@ -6924,7 +6571,7 @@ The quantity ofpetroleum needed for the process will beincreased(*by*)5％. 这�
 8. Thebullet missed his head *by* *a hair*'*sbreadth*. 子弹在他头上掠过过，只差一丝一毫之距。
 
 
-**八、当和动词****seize****，****tare****，****hold****，****catch****等连用时，****by…****表明接触身体的那一部分**
+八、当和动词seize，tare，hold，catch等连用时，by…表明接触身体的那一部分
 
 
 *lead* on *by*the nose牵着鼻子领着走；*hold*the door *by* the handle握着门上的手把；*take*him *by* the hand攥着他的手；*pull*the *by* the sleeve拉着男孩的袖子；*seize*the child *by* the collar抓着小孩的领子；*grab*him *by* the arm急速抓住他的胳膊；*shake*somebody *by* the hand握某人的手等
@@ -6937,16 +6584,16 @@ The quantity ofpetroleum needed for the process will beincreased(*by*)5％. 这�
 
 
 
-**九、以介词短语形式构成的其它常用短语**
+九、以介词短语形式构成的其它常用短语
 
 
 *by accident*=b*ychance*偶然地；*byall means*想方设法，一定要，当然可以；*bychoice*出于自愿；*byday*(或*night*)在白天(或在夜间)；*bydaylight*在大白天；*bydint of*…通过(努力工作即*hardwork*等)；*byfar*+形容词最高级最最…的；*byfar*+比较级重得多[后加*heavier*]；*byhook* *or* (*by*)*crook*以任何手段，想一切办法；*byleaps and bounds*快速地；*bymeans* *of*…借助于或
 
 
-靠…；*bymistake*(或*error*)出于误会，弄错；*byno means*决不；*byoneself*独自地；*bythe way*顺便说一件事；*byturns*轮流地；gohot and cold *by turns*(她)一阵发热一阵发冷[表示发烧、害臊或丢脸]；*by*(或*in*)*virtue**of his position*由于他的职位[较为文气的说法]等
+靠…；*bymistake*(或*error*)出于误会，弄错；*byno means*决不；*byoneself*独自地；*bythe way*顺便说一件事；*byturns*轮流地；gohot and cold *by turns*(她)一阵发热一阵发冷[表示发烧、害臊或丢脸]；*by*(或*in*)*virtueof his position*由于他的职位[较为文气的说法]等
 
 
-**十、****“****动词****+****介词****+…”****的固定短语含义有时也不是一成不变的。这不仅取决于上下文，而且还得靠对****by****的基本含义的理解**
+十、“动词+介词+…”的固定短语含义有时也不是一成不变的。这不仅取决于上下文，而且还得靠对by的基本含义的理解
 
 
 例如：go*by*+…可以理解为“从…旁边通过”，但当见到go*by *the doctor’sadvice时，就应把这个*by*作“按照”去理解，译为“按照医生建议进行”。同理，abide*by* sb. 就应从原文本意“坚守在某人身旁”去理解为“支援或帮助某人”。又如stick*by*…作“忠于(某人)”、“坚持(意见等)”讲，就应从动词stick(粘贴、不离开)和介词*by*(“在旁边紧挨着”)去理解。其效果比死记硬背
@@ -6955,7 +6602,7 @@ The quantity ofpetroleum needed for the process will beincreased(*by*)5％. 这�
 要好得多。
 
 
-**十一、副词****by****作“在近旁”、“从近旁”、“经过或过去”乃由介词短语****by…****发展过来，有时结合上下文还有引申的用法**
+十一、副词by作“在近旁”、“从近旁”、“经过或过去”乃由介词短语by…发展过来，有时结合上下文还有引申的用法
 
 
 1. Walk*by* the window(从窗户旁走过去)→walk*by*(从旁边走过去)
@@ -6970,7 +6617,7 @@ The quantity ofpetroleum needed for the process will beincreased(*by*)5％. 这�
 4. Alot of time has gone(或passed)*by*since then. 从那时起已过了许多时间。
 
 
-**十二、副词****by****由“在近旁”引申到****(****放或搁等****)“****在一旁”，这时常可用****aside****代替**
+十二、副词by由“在近旁”引申到(放或搁等)“在一旁”，这时常可用aside代替
 
 
 1. a. lay(或put，set)thework(或thenovel)*by*放下工作(或这本小说)
@@ -6995,7 +6642,7 @@ b. 1ay(或put，set)…*by*放弃(不同意见即thedifferences)，戒除(坏习
 3. Ialways keep some pain-killers *by*. 我常备一些止痛药在身边。
 
 
-**十三、副词****by****作“顺便”讲，也是“从旁边”引申过来。**
+十三、副词by作“顺便”讲，也是“从旁边”引申过来。
 
 
 1. call*by*顺便访问
@@ -7010,10 +6657,10 @@ b. 1ay(或put，set)…*by*放弃(不同意见即thedifferences)，戒除(坏习
 4. Wouldyou please stop *by* for one brief minute. 请顺便停下歇一下。
 
 
-**Can****的主要用法**
+Can的主要用法
 
 
-**一、****can****作“能、会”讲，表示能力；否定式是****cannot**
+一、can作“能、会”讲，表示能力；否定式是cannot
 
 
 1. Electricity*can* drive motors and so on. 电能开动马达等
@@ -7028,7 +6675,7 @@ b. 1ay(或put，set)…*by*放弃(不同意见即thedifferences)，戒除(坏习
 4. Theseconditions *can* give an impetus to trade. 这些条件会促进贸易。
 
 
-**二、注意****can****或****cannot****后面用完成式，则各表示过去****“****可能****’’****或****“****不可能****”****，用于对过去事物的推论**
+二、注意can或cannot后面用完成式，则各表示过去“可能’’或“不可能”，用于对过去事物的推论
 
 
 1. *Ca*nhe *have said* so?(当时)他可能(或译“会”)是这样说的吗?(试比较：Couldhe say so?(当时)他能这样说吗?)
@@ -7037,7 +6684,7 @@ b. 1ay(或put，set)…*by*放弃(不同意见即thedifferences)，戒除(坏习
 2.She *cannot haveseen* me yesterday. 她是不可能在昨天看见我的。(试比较：Shecould not see me yesterday. 她昨天未能见我。)
 
 
-**三、****cannot****，****can…no****作“不可能、决不会”讲，表示对现在情况的判断**
+三、cannot，can…no作“不可能、决不会”讲，表示对现在情况的判断
 
 
 1. Theircalculations *cannot *be correct. 他们的计算决不会准确的。
@@ -7056,7 +6703,7 @@ b. 1ay(或put，set)…*by*放弃(不同意见即thedifferences)，戒除(坏习
 
 
 
-**四、****can****可用于带有条件句或假设句的主句中**
+四、can可用于带有条件句或假设句的主句中
 
 
 1. Ifhe comes，he*can *help us. 如果他来，他就能够帮助我们。(条件句)
@@ -7065,7 +6712,7 @@ b. 1ay(或put，set)…*by*放弃(不同意见即thedifferences)，戒除(坏习
 2. Ifhe should come tomorrow, he *can* help us to see into thematter. 万一他明天来，他就能够帮助我们调查那件事。(假设句)
 
 
-**五、****can****和****&quot;beable+****不定式”的用法差异**
+五、can和&quot;beable+不定式”的用法差异
 
 
 这两者在意思上差别不大，只是“*beable*+不定式”比*can*具有更多的时态形式。
@@ -7092,7 +6739,7 @@ b. 1ay(或put，set)…*by*放弃(不同意见即thedifferences)，戒除(坏习
 2)*Can* you comeand see our teacher next Sunday?下星期天你能来看望我们的老师吗?
 
 
-**六、注意和****can****连用的一些常用词组**
+六、注意和can连用的一些常用词组
 
 
 1. He*can but* ring up his teacher. (现在)他只好给他的老师打电话。
@@ -7107,10 +6754,10 @@ b. 1ay(或put，set)…*by*放弃(不同意见即thedifferences)，戒除(坏习
 4. We*cannot* thank you *too*much. 我们无论怎样感谢你也不算过分。(本义。可意译为：…万分感谢。)
 
 
-**Could****的主要用法**
+Could的主要用法
 
 
-**一、****could****是****can****的过去式**
+一、could是can的过去式
 
 
 1. I*could* do it yesterday. 我昨天能做那件事。
@@ -7141,7 +6788,7 @@ b. 1ay(或put，set)…*by*放弃(不同意见即thedifferences)，戒除(坏习
 注：以上三例都不宜用could造句。
 
 
-**二、委婉地提出问题或陈述看法**
+二、委婉地提出问题或陈述看法
 
 
 1. *Could*you help me lift this iron plate?你能帮助我抬起这块铁板吗?
@@ -7162,7 +6809,7 @@ b. 1ay(或put，set)…*by*放弃(不同意见即thedifferences)，戒除(坏习
 这时，could和can没有时间的差别。以上五句用can也可，不过用could较为客气、谦虚、委婉一些。
 
 
-**三、****could****用于条件句和假设句的主句中**
+三、could用于条件句和假设句的主句中
 
 
 1. Ifhe worked hard last week，he*could *finish thework. 如果他上周努力工作，他就能完成那项工作。(真实条件句，其主句中*could*指将来，语气委婉。)
@@ -7171,7 +6818,7 @@ b. 1ay(或put，set)…*by*放弃(不同意见即thedifferences)，戒除(坏习
 2. Ifhe had worked hard，he*could* have finished thework. 如果他(当时)努力工作，他早就能够完成那项工作。(假设句。实际上，他过去并没有努力工作，所以他未能完成那项工作。)
 
 
-**四、****“****could+have+****过去分词****”****表示现在对过去事物的判断，可译为“本来能够或本来可以****…”****，暗示当时未实现的动作**
+四、“could+have+过去分词”表示现在对过去事物的判断，可译为“本来能够或本来可以…”，暗示当时未实现的动作
 
 
 1. They*could* have completed this work. 他们本来是能够完成这项工作的。(未实现的动作)
@@ -7190,10 +6837,10 @@ b. 1ay(或put，set)…*by*放弃(不同意见即thedifferences)，戒除(坏习
 3. We*could have done* the work better. 我们本来可以把这项工作做得更好些。
 
 
-**Do****的用法判别**
+Do的用法判别
 
 
-**一、在疑问句和否定句的谓语动词前部见到****do(****包括****does****或****did)****，则****do****一般作助动词用，本身无实在意义；若在肯定句中用****do****，而****do****后又出现主要动词，则系加强语气用**
+一、在疑问句和否定句的谓语动词前部见到do(包括does或did)，则do一般作助动词用，本身无实在意义；若在肯定句中用do，而do后又出现主要动词，则系加强语气用
 
 
 1. A.*Do*you go to the computing center every day?你每天去计算中心吗?
@@ -7211,7 +6858,7 @@ C. No，I*don*'*t*. 不，我不是每天去。(后面不再加*go*)。
 3. She*did* do morning exercises thismorning。她今天早晨确实做早操了。(*did*后的do才是实义动词，表示“做”。)
 
 
-**二、句中谓语为现在一般时或过去一般时，而句首出现****Notonly****，****Scarcely,Never, No sooner****，****Inoo case****等词语，这时句中用助动词****do(****或****does****，****did)****等提前并颠倒主、谓语语序****(****详见第****482****，****483****页****)****。**
+二、句中谓语为现在一般时或过去一般时，而句首出现Notonly，Scarcely,Never, No sooner，Inoo case等词语，这时句中用助动词do(或does，did)等提前并颠倒主、谓语语序(详见第482，483页)。
 
 
 1. *Scarcely*(或*Hardly*)*didthey speak* about the difficulties in their work. 他们很少谈到自已工作中的困难。
@@ -7220,10 +6867,10 @@ C. No，I*don*'*t*. 不，我不是每天去。(后面不再加*go*)。
 2. Shedoesn’t know and *neither does shecare*. 她不知道也不关心。(这里应以第二个分句的句首出现否定词为准，后面主、谓语采用疑问句格式的颠倒语序。)
 
 
-**Down****的搭配用法及其分类理解**
+Down的搭配用法及其分类理解
 
 
-**一、副词****down****同有关动词搭配表示“退下、坐下、躺下、倒下、趴下、放下、取下、搬下、拉下、扔下”等以及“打倒、吹倒、砍倒、压倒”等含义时的用法举例**
+一、副词down同有关动词搭配表示“退下、坐下、躺下、倒下、趴下、放下、取下、搬下、拉下、扔下”等以及“打倒、吹倒、砍倒、压倒”等含义时的用法举例
 
 
 back *down*(某人)退下；beat*down*…打倒(某人)，击倒(那扇门)；blow*down*…(暴风雨即thestorm)吹倒(树等)；break*down*(这门)塌下来，(汽车)抛锚，(计划)告吹，(某人或他的健康)垮下来；bring…*down*将(椅子等)搬下去，将(小孩)领下去，使(那政府)倒台；call…*down*叫(某人)下来，对(他的小说)评价低；climb*down*往下爬；face(或drop)*down*卧倒(或趴下)；come*down*下来；cut*down*…砍倒(树等)，撂倒(一个人)，少(抽烟和喝酒即smokingand drinking)；draw(或pull)…*down*拉下(窗帘即thecurtain)；fall*down*(他)倒下(或摔倒)，(计划)失败；get(v. )*down*(她)蹲下，(他)将
@@ -7239,13 +6886,13 @@ back *down*(某人)退下；beat*down*…打倒(某人)，击倒(那扇门)；bl
 (桌子)搬下来，将(树)砍下，使(某人)疲劳或病倒；go*down*(太阳)下落，(船)下沉，(她)下去或下楼，(墙)倒塌，(这个队即theteam)输了，(那个政府)垮台，(价格)下降等；lay*down*…放下(武器即one’sarms)，铺设(铁路)，建造(一条新船)[由‘‘放新船下水”引申过来]，放下(规则即therules)，存下(几瓶酒即afew bottles of wine)；lie*down*躺下，look*down*往下看，瞧不起某人[后加onsb. ]；put*down*…放下(杯子即thecup)，放下(工具即one’stools)或罢工；run(v.)*down*(他)往下跑，(水)往下奔流，撞倒(小船即theboat)；sit*down*坐下，shut(v. )*down*(他)关下(窗户)，(工厂)倒闭；slip*down*滑倒，standdown(他)退下或退席，(他)让(士兵即thesoldiers)撤岗，step*down*(她)从舞台上下来[后接fromthe stage]，(他)退下来，(她)辞去(高职)[后加fromthe topoffice]；take…*down*取下(窗帘)，领(客人)下楼；throw*down*…扔下(武器)，将(杯子)摔地，拒绝(这个建议)，迅速趴下[后加oneself]；turn*down*…翻下(衣领即thecollar)，拒绝(这项计划)[由“翻手将计划书往下扔”引申过来]；walk*down*往下走等
 
 
-**二、副词****down****与有关动词搭配表示“****(****雨、水等****)****流下、落下、倾泻而下”等时的用法举例**
+二、副词down与有关动词搭配表示“(雨、水等)流下、落下、倾泻而下”等时的用法举例
 
 
 beat *down*…(雨)冲倒(庄稼即thecrops)；becorning *down* in sheets(雨)正大片大片地下着；float*down*(木材即logs)顺流漂浮而下；flow*down*(江河)往下流；pour*down*下倾盆大雨[主语用it]；rain*down*(水)雨点般地落下，(困难)不断地下落在他们身上[后加onthem]；run*down*(水)往下奔流，(他)往下奔跑；stream*down*(她的眼泪即hertears)往下淌等
 
 
-**三、含副词****down****的动词短语表示“写下、记下、抄下”等时的用法举例**
+三、含副词down的动词短语表示“写下、记下、抄下”等时的用法举例
 
 
 book *down*…登记下(一笔款子即asum of money)；charge…*down*to sb.’s account将(货物)记在某人账下；copy*down*…记下(他的话)，抄下(这道题的答案即theanswer to the problem)；get…*down*将(电话留言即thetelephonemessage)记下；go*down*(他的讲话即histalk)在我们的记录中写下[后加inour records]，(这本小说)只写到(第一次世界大战)[后加onlytothe First world War]；put*down*…记下(他的电话号码即histelephone number)，将(这台计算机)下在(我的账即myaccount)上；take…*down*记下(他的演讲即hisspeech)；write*down*…写下(她的证词即herevidence)；be*down* on paper(这些建议)记录在案等
@@ -7256,10 +6903,10 @@ book *down*…登记下(一笔款子即asum of money)；charge…*down*to sb.’
 
 
 
-**四、副词****down****跟有关动词连用表示****“****吞下****”****、****“****咽下****”****、****“****大口吃下或喝下。**
+四、副词down跟有关动词连用表示“吞下”、“咽下”、“大口吃下或喝下。
 
 
-**时的用法举例**
+时的用法举例
 
 
 dash*down*…迅速喝下(一杯酒等)，匆匆写下(一本小说等)；drink…*down*一口喝下(一杯水)；get…*down*困难地把(药丸即thepill或酒等)喝下；…won’tgo *down*(这药丸等)吞不下去；put*down* so much food(这男孩)吃下那么多的食物；swallow*down*…吞下(药或食物等)；take*down*…口服(药等)，带(客人)下楼，拉下(窗户等)；wolf*down*…(他)狼吞虎咽地吃
@@ -7268,10 +6915,10 @@ dash*down*…迅速喝下(一杯酒等)，匆匆写下(一本小说等)；drink�
 (早饭)等
 
 
-…**五、副词****down****跟有关动词连用时表示****“****降落、击落、撂倒****’’****等含义时的用**
+…五、副词down跟有关动词连用时表示“降落、击落、撂倒’’等含义时的用
 
 
-**法举例**
+法举例
 
 
 bring*down*…击落(飞机等)，撂倒(一只老虎)，使(某人)倒台，带领(小孩)下楼(或下来)；come*down*(两架敌机)在战斗中被击落[后加inthe battle]，(我机)安全降落[后加safely]；letthe plane *down* gently让飞机平稳降落；put(或set)(v.)*down*in a heavy fog(使)飞机在浓雾中降落；besent
@@ -7280,10 +6927,10 @@ bring*down*…击落(飞机等)，撂倒(一只老虎)，使(某人)倒台，带
 *down*(飞机)被击落；shoot*down*…击落(飞机)，击倒(敌人)；shut*down*(夜幕即thenight)降临等
 
 
-**六、副词****down****跟有关动词搭配表示****“****下跌、减少、降低、放慢、减弱、衰弱、**
+六、副词down跟有关动词搭配表示“下跌、减少、降低、放慢、减弱、衰弱、
 
 
-**贬低”等含义时的用法举例**
+贬低”等含义时的用法举例
 
 
 beat *down*…使(价格)下跌；break*down*(他或他的健康)衰落，(汽车)出毛病，(这计划)落空；bring*down*…降低(价格)，退(烧即fever)，带(某人)下楼；cut*down*…削减(价格)，砍倒(树)，删减(文章即thearticle)；change*down*(汽车)放慢车速；die*down*(火、风、闹声等)逐渐减弱；ease*down*(the speed)放慢；force*down*…压低(价格)，迫使(飞机)降落；go*down*(价格、温度等)下降，(风)减弱，(公司或健康)正在衰退[用进行时]；slow(*v*. )*down*(汽车)放慢速度，(她)放慢(机器)速度；put…*down*减少(开支即theexpenditure)，贬低(某人或他的书等)；run(*v*. )*down*紧缩(生产即theproduction)，裁减(营业员thesalesmen等)，贬低(某人成就即sb.’sachievements)；step*down*…逐步减少(开支或电压等)；take…*down*压低或刹(某人的傲气即sb.’spride)，使(灯光)变暗；turn(*v*. )*down*将(灯光)调暗，将(无线电)音量调低，(经济)衰退等
@@ -7292,25 +6939,25 @@ beat *down*…使(价格)下跌；break*down*(他或他的健康)衰落，(汽�
 . 101. 
 
 
-**七、副词****down****和有关动词搭配表示“平静下来、冷静下来、平息、镇定、镇**
+七、副词down和有关动词搭配表示“平静下来、冷静下来、平息、镇定、镇
 
 
-**静”时的用法举例**
+静”时的用法举例
 
 
 bcat *down*…平息(叛乱即therebellion)；calm(*v*.)*down*(海洋)平静下来，(那个激动的女孩即thatexcited girl)镇静或冷静下来，使(自己即oneself)镇定；cool(*v*. )*down*…使(发火的人即theangry person)冷静下来,缓和(通货膨胀即theinflation)，(发动机即theengine)冷下来,(他的兴趣即hisinterest)冷下来；die*down*(战斗即thefighting)逐渐平息，(风)减弱；go*down*(风、浪)平静下来，(火)逐渐减弱；settle(*v*. )*down*(局势即thesituation)平静下来，(孩子)安下心来，使(婴儿)安静下来等
 
 
-**八、副词****down****作“在下面、在低处或在地平线下”讲时跟有关动词连用的**
+八、副词down作“在下面、在低处或在地平线下”讲时跟有关动词连用的
 
 
-**情况**
+情况
 
 
 come *down*(这个家族即thcfamily)没落；get*down* and remain *down*弯身蹲下；go*down*(太阳)落山；hold(或keep)*down*…保持(价格)低水平(或不涨)；stay(或stop，remain)*down*(温度)保持低水平，(他)呆在(下面)；standfarther *down*(他)站在更低的地方[用进行时]等
 
 
-**九、副词****down****和有关动词搭配表示“离开大城市去较小城镇、乡村或去市中心商业区以及去南方”时的用法举例**
+九、副词down和有关动词搭配表示“离开大城市去较小城镇、乡村或去市中心商业区以及去南方”时的用法举例
 
 
 go from Shanghai *down*to the home-town从上海去到故乡；live*down* onthe farm住在农场；run*down* to the country跑到农村去，go*down* town去市里商业区；go*down *to…南下去(广东)等
@@ -7319,7 +6966,7 @@ go from Shanghai *down*to the home-town从上海去到故乡；live*down* onthe 
 注：若由小地方去大城市，则常用“有关动词+up”表示。例如：Iam* going up *to Beijing.我准备上北京。
 
 
-**十、副词跟有关动词搭配表示“上上下下干净地、牢固地、彻底地”时的用法举例**
+十、副词跟有关动词搭配表示“上上下下干净地、牢固地、彻底地”时的用法举例
 
 
 fasten *down*…扣紧(箱盖即thelid of the box)；hammer*down*…用锤子将(盖子)钉紧；nail*down*…将(盖子)钉牢；pastea stamp *down* on theenvelop用浆糊将邮票牢固地贴在信封上；rub…*down*将(小孩)上下擦干净，将(桌子)擦得很光滑；sweep*down*…将(房间)彻底打扫；wipe*down*…将(楼梯台阶即thesteps of the stairs)擦干净等
@@ -7328,13 +6975,13 @@ fasten *down*…扣紧(箱盖即thelid of the box)；hammer*down*…用锤子将
 。102. 
 
 
-**十一、副词****down****作表语时的含义要结合上下文并联想其常用的含有****down****的固定动词短语**
+十一、副词down作表语时的含义要结合上下文并联想其常用的含有down的固定动词短语
 
 
 1. I’ll*be down* at once. 我会马上下来。(联系godown，get*down*等。)
 
 
-2. They*were* *down* *with* flu. 他们患流感病倒。(联系*come**down* *with* flu, *be taken down with* flu等。)
+2. They*were* *down* *with* flu. 他们患流感病倒。(联系*comedown* *with* flu, *be taken down with* flu等。)
 
 
 3. Thecomputer was *down*. 这台计算机坏了。(联系*breakdown*等。)
@@ -7349,7 +6996,7 @@ fasten *down*…扣紧(箱盖即thelid of the box)；hammer*down*…用锤子将
 6. Thebarriers *were down*. 这些障碍(或隔阂)消除了。(联系*bepulled down*，*beknocked* *down*，*bepushed down*等。)
 
 
-7. Shewas afraid her classmates would *be down* *on her* forspeaking like that.她当时害怕她的同学会由于她那样讲话而瞧不起她。(联系*look**down on sb*.。
+7. Shewas afraid her classmates would *be down* *on her* forspeaking like that.她当时害怕她的同学会由于她那样讲话而瞧不起她。(联系*lookdown on sb*.。
 
 
 8. He*was down on* his job. 他工作没做好(或失败了)。(联系*falldown*…，topple*down on*…等。)
@@ -7361,16 +7008,16 @@ fasten *down*…扣紧(箱盖即thelid of the box)；hammer*down*…用锤子将
 10. Manytrees *were down*. 那时有许多棵树倒了。(联系*blowdown*，*becut down*等。)
 
 
-**十二、副词****down****的其它习惯用法**
+十二、副词down的其它习惯用法
 
 
 1. *Down*below it was quite cool. (那时)楼下(或地底下)很凉快。2. Everyonefrom the richest *down* to the poorest must respectthelawsof a country. 从最富的到最穷的每个人都必须尊重国家的法律。3. *down*to the beginning of next year直到明年初；4. read*down* to the middle of this page 读到这页的中间；5. *down*with…放下(枪)，打倒(反动政府即counter-rcvplutlonarygovernment)，不要(抽烟)；6. walkup and *down*来回走；7. turnthings upside *down*颠倒是非等
 
 
-**十三、介词****down****作“向或在…下端或下游、沿或顺着…往下”等讲时****09B**
+十三、介词down作“向或在…下端或下游、沿或顺着…往下”等讲时09B
 
 
-**法举例**
+法举例
 
 
 carry goods *down*the hill顺着山往下搬运货物；climb*down* a tree(猫)顺
@@ -7391,10 +7038,10 @@ carry goods *down*the hill顺着山往下搬运货物；climb*down* a tree(猫)�
 河即ariver)而下，(他)走向(花园)那一端；gooff *down* the hill动身下山；hurry*down* the street沿着街道匆匆走去；look*down* the street往街道下端看去；pass*down* the bus往公共汽车车厢里边走；run*down*…(水)顺(河)往下流，(小孩)沿着(街道)往下跑；walk*down* the stairs走下楼等
 
 
-**Each****和****Every****的用法**
+Each和Every的用法
 
 
-**一、****each****作“各自的”、“每个的”讲，作形容词用**
+一、each作“各自的”、“每个的”讲，作形容词用
 
 
 1. Thereare many trees on *each* side of the river. 河流两岸有许多树。
@@ -7403,7 +7050,7 @@ carry goods *down*the hill顺着山往下搬运货物；climb*down* a tree(猫)�
 2. *Each*element has some special properties. 每种元素都有些特殊性质。
 
 
-**二、作“各个”、“每个”讲，作代词用**
+二、作“各个”、“每个”讲，作代词用
 
 
 1. *Each*has his advantages. 各人都有其优点。
@@ -7415,7 +7062,7 @@ carry goods *down*the hill顺着山往下搬运货物；climb*down* a tree(猫)�
 3. Hereare a crowd of women, *each* hold holding a baby in herarms. 这里有一群妇女，每人抱着一个婴孩。(*each*还常用于独立分词结构中。)
 
 
-**三、作“各个”讲，当副词用**
+三、作“各个”讲，当副词用
 
 
 1. Givetham two books *each*. (=Give *each* of them twobooks. )给他们每个人两本书。
@@ -7427,10 +7074,10 @@ carry goods *down*the hill顺着山往下搬运货物；climb*down* a tree(猫)�
 3. Differentkinds of waves have *each* the same threecharacteristics：amplitude,frequency and length. 不同的波(各)都有三个相同的特性：幅度、频率和波长。
 
 
-**四、注意****each****作同位语的用法****(****参阅本页三和第****474****页****)**
+四、注意each作同位语的用法(参阅本页三和第474页)
 
 
-**五、****eachother****作“互相”、“彼此”讲**
+五、eachother作“互相”、“彼此”讲
 
 
 1. wehelp *each* *other*。我们互相帮助。
@@ -7448,7 +7095,7 @@ carry goods *down*the hill顺着山往下搬运货物；climb*down* a tree(猫)�
 
 
 
-**六、****each****和****every****词义辨异**
+六、each和every词义辨异
 
 
 I. every只能作形容词，只有在与名词连用或构成复合词(如everybody每个人)时，才能作主语或宾语等，而each还可以作代词，直接作主语或宾语(见本文第二项例句)。注意every用于部分否定的句子中(见第22页)。
@@ -7463,10 +7110,10 @@ II. every虽指每个，但概括全体，而each仅指“每个”，却以“�
 2. They*each* have a tool. 他们每人有一件工具。(“个别”意义较重。)
 
 
-**-ed****结尾的或不规则动词的过去分词用法和判别**
+-ed结尾的或不规则动词的过去分词用法和判别
 
 
-**一、过去分词的用法**
+一、过去分词的用法
 
 
 I. 构成现在、过去和将来三个完成时的组成部分(见第393～395页)。
@@ -7478,7 +7125,7 @@ II. 过去分词用于不定式的完成时态(见第149，150页)。
 III. 过去分词用于构成各种被动态(详见第397～405页)。
 
 
-1. Thesecomputers have been *infected* *by computer**viruses*. 这些计算机已被病毒感染。
+1. Thesecomputers have been *infected* *by computerviruses*. 这些计算机已被病毒感染。
 
 
 2. Thecontract was *worked out very carefully*. (那时)该合同订得很仔细。
@@ -7511,7 +7158,7 @@ a *solved*problem一个解决了的问题；*boiled*water开(过了的)水；the
 B. 后置定语可以是单个过去分词，也可以是过去分词短语：
 
 
-the problem*discussed*(被)讨论的问题；abook *written* *by the* *old* *scientist*一本由老科学家写的书；theamount of heat *given* *off in* *the**reaction*在该反应中所放出的热量；theproblem *spoken* *of* *at the meeting*在会上(被)谈到的
+the problem*discussed*(被)讨论的问题；abook *written* *by the* *old* *scientist*一本由老科学家写的书；theamount of heat *given* *off in* *thereaction*在该反应中所放出的热量；theproblem *spoken* *of* *at the meeting*在会上(被)谈到的
 
 
 . 105. 
@@ -7542,7 +7189,7 @@ D. 过去分词短语作非限制性定语，一般为后置定语，相当于�
 1. Whatmakes the computer *introduced only* *some* *30 yearsago*(=which was introduced some 30 years ago)，sovaluable a production tool?计算机大约是在30年前问世的。是什么使它成为有价值的生产工具呢?
 
 
-2. Atpresent we are discussing the new suggestion，*broughtup* *by Mr*. *YeHang*(或*which**has been* *brought* *up by* Mr. YeHang). 叶航先生提出了新建议，我们正在进行讨论。
+2. Atpresent we are discussing the new suggestion，*broughtup* *by Mr*. *YeHang*(或*whichhas been* *brought* *up by* Mr. YeHang). 叶航先生提出了新建议，我们正在进行讨论。
 
 
 注：上述非限制性定语翻译时常采用分译法。
@@ -7563,7 +7210,7 @@ D. 过去分词短语作非限制性定语，一般为后置定语，相当于�
 注：如果谓语为将来时，过去分词短语“given+名词”作状语，常用于表示条件。又如：*Given*plenty of labour，thejob will be completed on schedule. 如果提供充分的劳动力，这项工作就将准时完成。（若用was代替willbe，则前面的*Given*短语变为表示原因，句意就改为：由于提供了充分的劳动力，这项工作准时完成了。）
 
 
-4. *Considered**as a building material*，woodis neither strong nor cheap. 虽把
+4. *Consideredas a building material*，woodis neither strong nor cheap. 虽把
 
 
 。106. 
@@ -7594,13 +7241,13 @@ D. 过去分词短语作非限制性定语，一般为后置定语，相当于�
 2. Ourresearch group，*ledby Prof*. *Ouyang*，isdeveloping software. 我们研究小组在欧阳教授领导下正在开发软件。(同上)
 
 
-3. Thetwo companies，*united**by the common interest*，havebeen supporting each other in the last fiveyears. 这两个公司凭共同的利益联合在一起，在过去的五年中一直互相支持。
+3. Thetwo companies，*unitedby the common interest*，havebeen supporting each other in the last fiveyears. 这两个公司凭共同的利益联合在一起，在过去的五年中一直互相支持。
 
 
-4. Thenew Law of Sea，*discussed**by many countries*，willbe brought into effect in the near future. 这个新的海洋法经过许多国家讨论后，将在不久的将来生效。
+4. Thenew Law of Sea，*discussedby many countries*，willbe brought into effect in the near future. 这个新的海洋法经过许多国家讨论后，将在不久的将来生效。
 
 
-5. Chemicalenergy, *stored* *in the ground* *in the* *form**of solid*, *liquid* *or gaseous fuels*，isthe energy of greatest importance to theworld. 化学能贮藏在地下的固态、液态或气态燃料内。它是对世界具有很重要意义的一种能量。(过去分词短语作非限制性定语。)
+5. Chemicalenergy, *stored* *in the ground* *in the* *formof solid*, *liquid* *or gaseous fuels*，isthe energy of greatest importance to theworld. 化学能贮藏在地下的固态、液态或气态燃料内。它是对世界具有很重要意义的一种能量。(过去分词短语作非限制性定语。)
 
 
 Ⅶ. “名词+过去分词”构成“主谓”结构或作表语、定语等用。
@@ -7641,7 +7288,7 @@ A. 用于构成“主谓”结构的三种情况：
 3. Iwork *with the lamp lighted*. 我亮着灯工作。(状语)
 
 
-4. *Without**a word more spoken*，theywent away. 没有再说一句话，他们就走开了。(状语)
+4. *Withouta word more spoken*，theywent away. 没有再说一句话，他们就走开了。(状语)
 
 
 5. Atoms*with the outer layer* *filled *do not formcompounds. 外层填满的原子不形成化合物。(定语)
@@ -7726,7 +7373,7 @@ X. “when，if或unless等+过去分词”是个省略句，从句中省略了�
 3. Suspension—amixture that will separate *if left tostand*. 悬浮液是一种混合物，如果让它静置，它就会发生分离。
 
 
-4. Abody in motion remains in motion at a constant speed in a straightline *unless acted upon* *by an* *external**force*. 若没有受到外力作用，运动的物体继续作匀速直线运动。
+4. Abody in motion remains in motion at a constant speed in a straightline *unless acted upon* *by an* *externalforce*. 若没有受到外力作用，运动的物体继续作匀速直线运动。
 
 
 5. Abeam of light will not bend round corners *unless made* *to doso with the help of a reflecting device*. 光束不能拐弯，除非借助于反射装置才能拐弯。(句中*todo so*…为主语补语。)
@@ -7741,7 +7388,7 @@ l.The machines will runwell *provided* that they are greased intime. 这些机�
 2. *Grantedthat* this is true，whatconclusion can you reach?即使这是实际情况，你又能得到什么结论呢?
 
 
-**二、过去分词的用法判別和注意点**
+二、过去分词的用法判別和注意点
 
 
 I. 过去分词前面为have(或has，had)，本身又不作后面名词的定语，则过去分词用于各种完成时态(见第398页)。
@@ -7787,7 +7434,7 @@ The results *obtained*differed depending on the substance *used*. 所得到的�
 *returned*students归国留学生；*retired*workers退休工人；the*risen* sun升起了的太阳等
 
 
-Ⅴ. 过去分词短语作定语，一般位于所修饰的名词后面。有时，有副词修饰过去分词时，过去分词短语仍可作名词的前置定语。例如：*above**mentioned *rules(上述规则)等。同时还须注意*copperplated*containers(镀有铜的容器)中那种过去分词短语的用法(详见第106页C)。单个过去分词作定语，可位于名词前面或后面。
+Ⅴ. 过去分词短语作定语，一般位于所修饰的名词后面。有时，有副词修饰过去分词时，过去分词短语仍可作名词的前置定语。例如：*abovementioned *rules(上述规则)等。同时还须注意*copperplated*containers(镀有铜的容器)中那种过去分词短语的用法(详见第106页C)。单个过去分词作定语，可位于名词前面或后面。
 
 
 Ⅵ. 过去分词或其短语作状语时多半前后打逗号，这时过去分词所表示的行为系与句中主语有关，但只是被动态关系。有时过去分词短语有逗号隔开，却是说明前面名词的定语；有时过去分词短语没有逗号隔开，却不是定语，而是状语，故必须进行逻辑判别。例如：
@@ -7815,7 +7462,7 @@ The results *obtained*differed depending on the substance *used*. 所得到的�
 
 
 
-3. Thething *formed when* *an element combines* *with**oxygen* is called oxide. 当一种元素同氧化合时所生成的东西就叫做氧化物。(从句说明formed。)
+3. Thething *formed when* *an element combines* *withoxygen* is called oxide. 当一种元素同氧化合时所生成的东西就叫做氧化物。(从句说明formed。)
 
 
 4. Theoxide Fe<SUB>3</SUB>O<SUB>4 </SUB>*formed* by burning iron inoxygen is different from the oxide Fe<SUB>2</SUB>O<SUB>3</SUB>*producedwhen* *ironrusts*. 铁在氧中燃烧所生成的氧化物Fe<SUB>3</SUB>O<SUB>4</SUB>，是和铁生锈时所产生的氧化物Fe<SUB>2</SUB>O<SUB>3</SUB>不同的。(从句说明produced。)
@@ -7848,10 +7495,10 @@ ElectricalEnergy. Theenergy *associated* with clectric charges and theirmovement
 X. “being+过去分词”的用法比较特殊，详见第75～78页。
 
 
-**Either****和****Either…or****的用法**
+Either和Either…or的用法
 
 
-**一、形容词****either****作“两者中间任何一个的”讲**
+一、形容词either作“两者中间任何一个的”讲
 
 
 1. Youmay use *either* home computer. 这两台家用计算机你可以使用。(指两台家用计算机中任何一台而言。)
@@ -7873,7 +7520,7 @@ X. “being+过去分词”的用法比较特殊，详见第75～78页。
 则用any为妥。)
 
 
-**二、代词****either****作“两者之一”、“两者中间任何一方”讲**
+二、代词either作“两者之一”、“两者中间任何一方”讲
 
 
 1. Youmay buy *either* of the mobile phones. 你可以买这两个移动电话中的任何一个。
@@ -7891,7 +7538,7 @@ X. “being+过去分词”的用法比较特殊，详见第75～78页。
 但在口语中也有用谓语的复数形式。例如：Is(或Are)either(或neither)ofthe girls going to the net friend club?这两个女孩都(或都不)准备去网友俱乐部吗？
 
 
-**三、副词****either****作“也”讲，用于否定句**
+三、副词either作“也”讲，用于否定句
 
 
 1.He is not wrong，*nor*is Mr. Zhou*either*. 他没有错，周先生也没有错。(也可改为“…wrongand *neither* is Mr. Zhou. )
@@ -7918,7 +7565,7 @@ X. “being+过去分词”的用法比较特殊，详见第75～78页。
 I know *neither*. 
 
 
-**四、连接词****either…or****作“或……或”、“是……还是……”、“不是……就是”讲**
+四、连接词either…or作“或……或”、“是……还是……”、“不是……就是”讲
 
 
 1. *Either*come in *or* go out. 或者进来，或者出去。
@@ -7953,10 +7600,10 @@ I know *neither*.
 9. *Either*he is right *or* I am. 或是他对，或是我对。(也可写成：*Either*he *or* I am *right*. )
 
 
-**Enough****的用法**
+Enough的用法
 
 
-**一、形容词****enough****作“充足的”、“足够的”讲，作定语时，可位于所修饰的名词前后**
+一、形容词enough作“充足的”、“足够的”讲，作定语时，可位于所修饰的名词前后
 
 
 1. Thecoal is *enough* for two years. 这些煤足供两年用。(表语)
@@ -7971,7 +7618,7 @@ I know *neither*.
 注：当enough所修饰的名词后面跟有较长的状语修饰时，enough更宜于置于所修饰的名词后面(见上述第2，3句)。此外，若用形容词sufficient代替enough作定语时，则它只能位于所修饰的名词前面。
 
 
-**二、副词****enough****作****“****够****”****讲。它修饰形容词、副词或动词时，一般位于其后面**
+二、副词enough作“够”讲。它修饰形容词、副词或动词时，一般位于其后面
 
 
 1. Wewere fortunate *enough* to get an empty car. (当时)我们运气够好，搞到了一辆空车。
@@ -7988,7 +7635,7 @@ I know *neither*.
 3. Hehas talked *quite enough* for today. 他今天说话说够了。
 
 
-**三、名词****enough****作“充足”、“足够”、“足够的东西”讲**
+三、名词enough作“充足”、“足够”、“足够的东西”讲
 
 
 1. Mostpeople here have *enough* to eat and sufficient to put on。 这里大多数人都是丰衣足食。
@@ -8000,7 +7647,7 @@ I know *neither*.
 3. Shehas had *enough* ofsomebody(或something).她对某人(或某事)已感到腻烦而无法再容忍。(由“对……受够”引申过来。)
 
 
-**四、注意有时****enough****在句型“****cannot…toomuch”****中可代替其中的****toomuch****。其实这是由****“****够了****”****引伸到具有****“****太多****”****或****“****多了****”****之意。**
+四、注意有时enough在句型“cannot…toomuch”中可代替其中的toomuch。其实这是由“够了”引伸到具有“太多”或“多了”之意。
 
 
 1. Youcannot take *enough*(=*too much*)care. 你不论怎么小心，也不会过分。
@@ -8012,7 +7659,7 @@ I know *neither*.
 注：应注意上下文和语序，下面句子就不属于本句型：Hehas lived in London for ten years，butstrangely *enough* he can’t speak English. 他在伦敦住了十年，但够奇怪的是他不会讲英语。(插入语)
 
 
-**五、****enough****的其它用法**
+五、enough的其它用法
 
 
 1. Tenyards of carpet will be *enough and* *to spare*. 十码地毯将绰绰有余。
@@ -8030,10 +7677,10 @@ I know *neither*.
 5. That’s*enough* of this nonsense.一派胡言(已经)够了!
 
 
-**Ever****的用法**
+Ever的用法
 
 
-**一、副词****ever****作****“****曾经****”****、****“****以往****”****、****“****在任何时候”讲，通常用于一般疑问句、否定句、条件句中或用于最高级形容词后面的定语从句中，有时也用于进行比较的句中**
+一、副词ever作“曾经”、“以往”、“在任何时候”讲，通常用于一般疑问句、否定句、条件句中或用于最高级形容词后面的定语从句中，有时也用于进行比较的句中
 
 
 1. Haveyou *ever* been to Tianjin?你曾经去过天津吗?
@@ -8059,7 +7706,7 @@ I know *neither*.
 6. Canthe best student become better *than ever*?最好的学生还能比以前更好吗?
 
 
-**二、****ever****用于将来发生的动作，表示强调的意思**
+二、ever用于将来发生的动作，表示强调的意思
 
 
 1. P1easedon’t *ever* do that again!请绝对不要再做那件事了。(祈使句常表示将来动作。)
@@ -8071,7 +7718,7 @@ I know *neither*.
 3. Ifyou *ever* see George，givehim my kindregards. 如果你将来某时见到乔治，请代我向他问好。(当主句为将来时或用祈使句表示将来时态时，条件或时间状语从句内的现在时态实际上表示将来时。)
 
 
-**三、****ever****用于表示目前的习惯性动作或状态**
+三、ever用于表示目前的习惯性动作或状态
 
 
 1. Itis *ever* thus. 常常喳. 止匕。
@@ -8083,13 +7730,13 @@ I know *neither*.
 3. Doyou *ever* go to concerts?你有时去音乐会吗?
 
 
-**四、有时站在过去观点谈将来的情况**
+四、有时站在过去观点谈将来的情况
 
 
 He nearly despaired of*ever* reaching the top. 他那时对于达到顶峰几乎丧失了信心。
 
 
-**五、在疑问句中，疑问词****how****，****what****，****where****，****when****，****which****或****who+ever****作****“****究竟如何、究竟什么、究竟何处、究竟何时、究竟哪个或哪些、究竟谁****’’****讲；还常可连写为****however,whatever****，****wherever****，****whenever****，****whichever****. ****whoever**
+五、在疑问句中，疑问词how，what，where，when，which或who+ever作“究竟如何、究竟什么、究竟何处、究竟何时、究竟哪个或哪些、究竟谁’’讲；还常可连写为however,whatever，wherever，whenever，whichever. whoever
 
 
 1. *However*(=*However*)did he get out of debt?他究竟怎样摆脱债务的?
@@ -8118,7 +7765,7 @@ He nearly despaired of*ever* reaching the top. 他那时对于达到顶峰几乎
 注：上述六句中的*ever*在非正式文体中还可以用*onearth*，*inthe world*，*thehell*，*thedevil*或*thedickens*来代替。
 
 
-**六、带有****ever****的一些常用词组用法举例**
+六、带有ever的一些常用词组用法举例
 
 
 1. Weare determined to move forward *forever*. 我们决心永远向前迈进。(也可用*forever*代替*forever*. )
@@ -8142,10 +7789,10 @@ He nearly despaired of*ever* reaching the top. 他那时对于达到顶峰几乎
 7. Work*as *hard *as ever you can*. 尽可能努力工作吧!
 
 
-**-ever****构成的合成词的用法和判别**
+-ever构成的合成词的用法和判别
 
 
-**Whoever****，****Whichever****，****Whatever****，****Whenever****，****Wherever****，****However**
+Whoever，Whichever，Whatever，Whenever，Wherever，However
 
 
 以-ever构成的合成词在科技文章中常见的如下：
@@ -8169,7 +7816,7 @@ wherever无论哪里；无论到哪里
 however无论；可是
 
 
-**一、基本用法**
+一、基本用法
 
 
 ever本是一个加强语气的词，这里作为词的后缀加于疑问词之后，不仅使疑问词语气有所加强(参阅第115页第五项)，而且也可变为具有让步含义，用于引出让步状语从句(参阅下面第Ⅱ项)。如从句中带有情态动词may，也可表示一种可能性。-ever引出的从句还可用作名词从句。现分别叙述如下：
@@ -8201,7 +7848,7 @@ I. 引出名词从句：
 5. Youmay take *whichever* *book will* *interestyou*. 哪本书你感兴趣，你就可以拿哪本书。(宾语从句)
 
 
-6. Hemay write about *whatever subject* *deals* *with**testtube* *babies*. 他可写涉及试管婴孩的任何题目。(介词宾语从句)
+6. Hemay write about *whatever subject* *deals* *withtesttube* *babies*. 他可写涉及试管婴孩的任何题目。(介词宾语从句)
 
 
 7. *Whichevercomes* *first *may have enough time to do thisexperiment. 无论哪个先来，他就可以有足够时间做这个实验。（主语从句）
@@ -8210,13 +7857,13 @@ I. 引出名词从句：
 II. 引出让步状语从句：
 
 
-1. *Whoever**you may* *be*，youhave no right to do such a thing. 不论你是谁，你都无权做这种事。(可省略*may*。)
+1. *Whoeveryou may* *be*，youhave no right to do such a thing. 不论你是谁，你都无权做这种事。(可省略*may*。)
 
 
 2. *Whateverthe reason may* *be*，thefact remains. 不论什么理由，事实依然变。(同上)
 
 
-3. *Whateverhappens*(或*may**happen*)，wewill not change our plan.不管发生什么事，我们决不改变计划。
+3. *Whateverhappens*(或*mayhappen*)，wewill not change our plan.不管发生什么事，我们决不改变计划。
 
 
 4. *Whatevershape of* *a body may* *be*， itisalwayspossibleto find out itsvolume. 不管物体形状如何，总是能求出它的体积的。
@@ -8225,7 +7872,7 @@ II. 引出让步状语从句：
 5. Youmust finish this experiment today，*whicheverway you* do it.不管你用什么方法，这个实验你务必于今天做完。
 
 
-6. *However**perfect* *a oager is today*, it will become outmoded inthe future. 不管今天寻呼机如何完善，它在将来仍将变为过时。
+6. *Howeverperfect* *a oager is today*, it will become outmoded inthe future. 不管今天寻呼机如何完善，它在将来仍将变为过时。
 
 
 7. *Wheneverour motherland* *needs me*，Iwill respond to her call. 无论什么时候，只要祖国需要我，我就一定响应祖国的号召。
@@ -8293,7 +7940,7 @@ III. 引出具有强调语气的时间、地点、方式状语从句：
 Ⅴ. 在疑问句中however，whatever，whereuer，whenever，whichever，whoever作“究竟如何、究竟什么、究竟何处、究竟何时、究竟哪个(或哪些)、究竟谁”讲。注意其中ever还可分出来单独写。详见第115页第五项。
 
 
-**二、判别时的几个注意点**
+二、判别时的几个注意点
 
 
 I. 如何判别whatever，whoever，whichever引导的从句是名词性从句还是让步从句。
@@ -8325,7 +7972,7 @@ I. 如何判别whatever，whoever，whichever引导的从句是名词性从句�
 II. whatever在让步从句中作表语用时，可以省略be。
 
 
-Friction always opposesthe motion，*whatever**its direction*. 不论方向如何，摩擦总是阻碍运动的。
+Friction always opposesthe motion，*whateverits direction*. 不论方向如何，摩擦总是阻碍运动的。
 
 
 III. 注意whatever作定语用时的两种词序。
@@ -8349,13 +7996,13 @@ whatever可以修饰名词(见下面第1句)，作“无论怎样的”讲，但
 5. Inmechanics the word“resistance”is generally used to mean anything*whatever* that tends to opposemotion. 在力学中，“阻力”这个词一般用来指凡是趋向于阻碍运动的任何作用而言。
 
 
-**Except****和介词****But****用法比较**
+Except和介词But用法比较
 
 
 这里讨论的but仅作“除……以外”讲，不涉及but其它词义的用法。
 
 
-**介词****but****和****except****用法差别如下：**
+介词but和except用法差别如下：
 
 
 1. Allsucceeded *except him*. 除了他，所有人都成功了。(如果句末部分挪到句首，则必须用*Exceptfor him*。详见第86页But专题。由于出现all，可
@@ -8371,7 +8018,7 @@ whatever可以修饰名词(见下面第1句)，作“无论怎样的”讲，但
 2. Thereis nothing on the table *but *a creditcard. 桌子上除了有一张信用卡以外，别无它物。(在否定句中*but*可用*except*或besides代替。)
 
 
-3. a. Hedidn’t know where the net friend club was，*except**that it was near the railwaystation*. (当时)他不知道网友俱乐部在哪里，只知道它在火车站附近。(连词*that*引出介词宾语从句。不宜用but代替*except*。)
+3. a. Hedidn’t know where the net friend club was，*exceptthat it was near the railwaystation*. (当时)他不知道网友俱乐部在哪里，只知道它在火车站附近。(连词*that*引出介词宾语从句。不宜用but代替*except*。)
 
 
 b. Sheknew *nothing but*(或*except*)*thatwe would soon come here*. (当时)她只知道我们很快来这里. (因为有*nothing*，使*but*和*except*可互换。)
@@ -8414,10 +8061,10 @@ b. Sheknew *nothing but*(或*except*)*thatwe would soon come here*. (当时)她�
 注3：参阅第33页专题Apartfrom，Besides，Except，But用法比较。
 
 
-**First****的用法**
+First的用法
 
 
-**一、****first****作序数词或形容词用，“第一”、“最初的”、“头几个”讲**
+一、first作序数词或形容词用，“第一”、“最初的”、“头几个”讲
 
 
 1. Weshall go to Beijing by highway on the *first* of May. 我们将于5月1日由高速公路去北京。
@@ -8444,7 +8091,7 @@ b. Thatwas the *first *time they had been alone together. 那是他们第一次�
 (这里*thefirst*…作“最初的一点点”讲，用于否定句。)
 
 
-**二、副词****&quot;first****作“先”、“初步”、“开始时”讲**
+二、副词&quot;first作“先”、“初步”、“开始时”讲
 
 
 1. Toanswer this question，wemust *first* consider a few factors. 为了回答这个问题，我们必须先考虑几个因素。
@@ -8462,7 +8109,7 @@ b. Thatwas the *first *time they had been alone together. 那是他们第一次�
 5. Shelived in Beijing *first and last about ten years*. 她在北京前后一共住了十年左右。
 
 
-**三、和****first****搭配的常用短语**
+三、和first搭配的常用短语
 
 
 at *first*起初，(at)*first*hand直接地，第一手地；at*first *sight(或
@@ -8481,19 +8128,19 @@ glance，appearance)乍一看；*first*and foremost=*first* of all=*first *off(�
 者主要用于口语中)=(the)*fitst*thing(in the morning)=in the *first* place首先；forthe *first* time第一次[常作状语]；fromthe(very)*first*从一开始，from*first* to last从头到尾；*first*(或firstly)，secondly，thirdly…第一，第二，第三…等
 
 
-**For****的用法及其短语分类理解**
+For的用法及其短语分类理解
 
 
 介词*for*的基本意思之一是“为了…”，在与不同的动词连用时可引申为“为了…目的”、“往某目的地”、“供或当作…用”等含义。当它和有关动词搭配时可引申为“找、搜索、探索…”等或多种多样的“渴望…”意思。*for*…又可表示持续的时间或距离等。在不同上下文中*for*还有多种用法。只要抓住它几个基本用法，就不难于领会英语本义。
 
 
-**一、****for…****表示走向的“目的地”时的动词短语汇总**
+一、for…表示走向的“目的地”时的动词短语汇总
 
 
 change*for*…换(或倒)车去某地；depart*for*…出发去某地；head*for*…走向某地；驶往某地；leave*for*…动身去某地；make*for*…走向某地；pull*for*…(船等)向某地驶去；sail*for*…乘船驶往某地；setoff(或out)*for*…出发(或动身)赴某地；moveoff *for*…(战士)出发去(某地)；setsail *for*…驶往某地或扬帆开往某地；start*for*…启程赴某地；startout(或off)*for*…出发去某地；takeoff *for*…到(乡下即thecountry)去；swim*for*…向(某地)游去；strikeout *for*…使劲地向某地走(或游)去等
 
 
-**二、****for****表示“要什么”中的“要”或“要求得到…”的含义，而相搭配的动词表示通过什么动作或方式****(****以求得到…****)**
+二、for表示“要什么”中的“要”或“要求得到…”的含义，而相搭配的动词表示通过什么动作或方式(以求得到…)
 
 
 advertise*for*…登广告招聘(某人)或寻找(某物)；appeal*for*…呼吁或恳求得到(援助、支持等)；apply*for*…申请得到(钱、接见等)；bargain*for *sth. 为得到某物而讨价还价或期待某物；call*for*…需要(某人、资金、耐心等)[系由“喊叫要某人、某物”引申过来]；change(或exchange)A*for*B用A去换来(或交换到)B；come*for*…(我)来取(邮件等)或来找(某人等)；cry*for*…哭喊着要(妈妈、玩具等)或迫切需要(帮助等)；feel*for*，…(黑暗中)摸着寻找(电灯开关等)；fish*for*…钓或捕(一些鱼等)，间接打听(消息等)[钓鱼时，江河中的鱼一般是看不见的，因此有摸索的含义。“间接打听…”和“寻找…”系由上述钓鱼或捕鱼的形象化动作引申而来]；go*for*…去取(书等)，去请(医生等)，去(散步即awalk)，支持(民主即democracy等)；hunt*for*(或
@@ -8512,7 +8159,7 @@ advertise*for*…登广告招聘(某人)或寻找(某物)；appeal*for*…呼吁
 注：但是substituteA *for* B却作“以A代替B”，跟上面的change，exchange，sell和trade用法不同。
 
 
-**三、****for****也表示“要”，但含有“渴望”等之意时的动词短语举例**
+三、for也表示“要”，但含有“渴望”等之意时的动词短语举例
 
 
 expect *for* avisit to China(或sb. 等)期待或渴望访问中国(或某人等)；wish*for*…渴望(和平等)；hope*for*…渴望(成功即success)；bedying *for*
@@ -8524,7 +8171,7 @@ expect *for* avisit to China(或sb. 等)期待或渴望访问中国(或某人等
 [使用behungry *for*…表示心理状态]；beeager *for*…渴望(成功即success)；long*for*…渴望(幸福即happiness)[由“久久地盼望得到…”引申过来]；thirst(或bethirsty)*for*…渴望得到(水、书、独立、知识等)[使用bethirsty *for*…，则表示渴望的心理状态]等
 
 
-**四、****for…****表示“为了……”之意时的动词短语举例**
+四、for…表示“为了……”之意时的动词短语举例
 
 
 act *for*sb. 为某人办事或代理某人办事；aim*for*…(某国等)旨在或力求20，000万吨钢等)目标；argue*for* sb. 为某人某事争辩；arrange(*v*. )*for*…为(我们)安排(一次会议即ameeting)，安排(学生)乘车去俱乐部[thestudents后接tobe driven to the club]；budget*for* sth. (或-ing短语)为(明年或买新车等)作预算；enter*for*…报名参加(考试即theexam)；prepare*for*…为(考试等)作准备；provide*for*…为(将来、某些困难等)作准备[当主语为某法案、某条款等时，则作“规定(最终期限)’’讲]；readfor…攻读(学位
@@ -8552,7 +8199,7 @@ sb. 为某人讲话，为某人辩护[但有时作讲话支持或赞成(某提�
 *for*…为了(世界和平等)而斗争；wait*for*…等待(某人或某物)等
 
 
-**五、介词短语****for…****表示时限或距离**
+五、介词短语for…表示时限或距离
 
 
 1. Shestayed here *for* two weeks. 她在这里逗留了两周。
@@ -8570,13 +8217,13 @@ sb. 为某人讲话，为某人辩护[但有时作讲话支持或赞成(某提�
 5. Heruns *for* two kilometers every morning. 他每天早晨跑两公里路。
 
 
-**六、****for…****表示原因或理由时的动词短语汇总**
+六、for…表示原因或理由时的动词短语汇总
 
 
 befamous(或famed，remarkablewell-known，distinguished)for…(牛顿)以(他的三个定律即histhree laws)著称，(这个地区即thisarea)以(煤和石油)闻名；begrateful *for*…(我)感谢(您给予考虑即yourconsideration)；bethankful *for*…(我们)感谢(他的帮助即hishelp)，(她)对(她的良好健康即hergood health)而感到欣慰；besorry *for*…(我)为(此即it)抱歉，(我)替(你)难过；feelsorry *for*…(我)为(给您添不少麻烦即givingyou so muchtrouble)而感到抱歉，(我们)为(他处境很困难即himin his great trouble)而感到遗憾；apologize*for* sth. (或动名词短语)因为某事(如迟到等)而道歉；arrestsb. *for*sth. 因为某事而逮捕某人；awardsb. *for*sth. (或动名词短语)因为…而奖励某人；blamesb. *for*sth. 因为某事而责怪某人；chargesb. somemoney *for* sth. (或动名词短语)因为某事索取某人若干钱；criticizesb. *for*sth. (或动名词短语)因为某事而批评某人；excuse(或forgive)*for*sth. 原谅(或宽恕)某人(迟到即beinglate)；praisesb. *for*sth. 因为某事而表扬某人；punishsb. *for*sth. (或动名词短语)因为某事(或偷东西等)而惩罚某人：rewardsb. *for*sth. (或动名词短语)因为某事(或修表)等而给某人报酬；thanksb. forsth. (或动名词短语)因为某事(或帮助我们等)而感谢某人等
 
 
-**七、连词****for****引出具有原因意味的并列分句，但它和****because****引出的原因状语从句的用法不甚相同**
+七、连词for引出具有原因意味的并列分句，但它和because引出的原因状语从句的用法不甚相同
 
 
 1. Steelis widely used in engineering，*for*its properties are most suitable for
@@ -8603,13 +8250,13 @@ constructionpurposes. 钢广泛地用于工程中，因为钢的性能非常适�
 水供应，因为拥有的水可能不适于使用。
 
 
-**八、****for…****表示“对…”之意时的动词短语汇总**
+八、for…表示“对…”之意时的动词短语汇总
 
 
 allow*for*…考虑到或顾及(例外情况，特殊困难等)[系由‘‘对…有所考虑或体谅”引申过来]；answer*for*…对(某种行为等)负责或对…作出交代；care*for*…对(音乐、某人等)喜欢，对(病人等)照料，关心(我们的安全即oursafety)；想要(冰淇淋即icecream)；engage*for*…对(某人要求等)允诺或保证；estimate*for*…对(某种修理等)估计费用；fear*for*…对(或为)某人某事担忧；go*for* sb. (这些书)对某人适用[注意上下文. 若为Igo *for* a doctor则为“我去请医生”]；havea fondness* for*…对某人钟爱或宠爱，爱(花等)；havea love *for* sb. 对某人(如母亲)有爱心；havea liking *for* sth. 对…有嗜好；havean inclination *for* sth. 对…有爱好；haverespect *for* sb. 对某人尊敬；havea talent(或agift)*for*…对…有天才；feelsympathy *for* sb. 对某人同情；beresponsible for…(我们)对(你们的安全即yoursafety)负责，(她)负责(这项研究)，(过高的温度)是(事故即theaccident)的原因；want*for*…缺…[系由“对(如煤、粮等)很需要”引申过来]等
 
 
-**九、介词****for****短语在句首单独出现多半作“就…而论”或“…来说”讲**
+九、介词for短语在句首单独出现多半作“就…而论”或“…来说”讲
 
 
 (除了单纯用for构成的固定介词短语以外)
@@ -8634,7 +8281,7 @@ allow*for*…考虑到或顾及(例外情况，特殊困难等)[系由‘‘对�
 引申过来。)
 
 
-**十、单纯用介词****for****的常用短语举例**
+十、单纯用介词for的常用短语举例
 
 
 *for* hisexperience(或efforts等)尽管他有经验(或努力等)；*For*all that，westill believe her. 尽管如此，我们仍然相信她的话；*for*example(或*for*instance)例如[作插入语用]；*for*fear of+名词或*for*fear that+从句惟恐…，担心…；*for*sure=for certain肯定地；*for*ever=forever永远；*for*rall that尽管如此；*for*good(and all)长期地，永远地；*for*his(own)good为他自己好；*for*once总算有一次，生平第一次；*for*lease(或rent，sale)供租借(或租用、出售)；*for*the purpose+-ing为了(去北京即goingto Beijing)；*for*short简称；*for*the first time第一次；*for*the best往好的变；*for*the sakc of…为了(友谊即thefriendship)；word*for* word逐字逐句地；point*fow *point
@@ -8643,13 +8290,13 @@ allow*for*…考虑到或顾及(例外情况，特殊困难等)[系由‘‘对�
 逐条逐点地等
 
 
-**十一、****for****表示“赞成、支持或同情”之意时的动词短语汇总**
+十一、for表示“赞成、支持或同情”之意时的动词短语汇总
 
 
 ache* for*sb. 对某人表示同情(有“疼某人”之意)；argue(或*speak*)forsb. 为某人争辩(或说好话)[表示支持某人]；declare*for* sth. 声明赞成…(如和平、中立等)；feel(pity)*for*rsb. 对某人表示同情；stand*for*…提倡或主张(公平交易即fairtrading)；vote*for*…投票赞成(某人或某建议)be*for*…赞成…(如计划等)(但当主语为信件、书等而*for*后的词为某人时，则句义变为“这信件、书等是给某人的”)等
 
 
-**十二、****for…****含有“当作”、“认作”、“代表”、“代替”之意时的动词短语举例**
+十二、for…含有“当作”、“认作”、“代表”、“代替”之意时的动词短语举例
 
 
 go*for*…(这个房间等)可当作(会议室等)；mistake…*for*…把…错当成……；pass*for*…(某些人)被认为是(学者即scholars)，(这样的一种料子即sucha material)被认为是(丝绸即silk)；serve*for*…当作(燃料、床等)用；stand*for*…代表(政府、温度等)；take…*for*…把(某人或某物)错当作(日本人或辞典等)；take…*for*granted把(某人或某事)认(作)为理所当然的等
@@ -8658,7 +8305,7 @@ go*for*…(这个房间等)可当作(会议室等)；mistake…*for*…把…错
 注：有时do*for*…中的*for*当“作为”讲。例如：Thisbox may do *for* table. 这个箱子可以权且当一张桌子用。
 
 
-**十三、用介词****for****引出后面不定式或其短语的逻辑主体，参阅第****158****页第三项。**
+十三、用介词for引出后面不定式或其短语的逻辑主体，参阅第158页第三项。
 
 
 . 126. 
@@ -8668,26 +8315,26 @@ go*for*…(这个房间等)可当作(会议室等)；mistake…*for*…把…错
 
 
 
-**Forth****的搭配用法** 
+Forth的搭配用法 
 
 
 
 副词*forth*表示“往外”、. ‘‘外出、离家”和“向前”。与out词义接近，远不如out用得那么广泛。*forth*在其常用动词短语中多数含有“向外”、“由隐而显”之意，较多用于书面语。
 
 
-**一、****forth****跟有关动询连用时表示“往外”、“由隐而显”时的动词短语举例**
+一、forth跟有关动询连用时表示“往外”、“由隐而显”时的动词短语举例
 
 
 blossom*forth*(或*out*). (玫瑰即roses)开花；bring*forth*…(他)提出(问题、证据即evidence)，(这棵树)结出(苹果即applcs)，(她)生(孩子)；break*forth*(欢呼声即cheers)顿时雷动，(他的怒火即hisanger)突然爆发；call*forth*(或*out*)… (他的讲话即hisspeech)引起(热烈的讨论即aheated discussion)；give*forth*(或*out*)…(旧的工厂)冒出(黑烟即blacksmoke)；begiven *forth*(或*out*) (这个报告即thereport)已经发表[用现在完成时被动态]；put*forth*(或*out*)… (她)伸出(手)，(树)长出(新的叶子即new1eaves)，(他)提出(一个计划)[也可用put*forward* a plan代替]，出版(一本书)[put*forth*另外用法见下面第二项]；send*forth*…寄发(书、信)，长出(新的叶子)，发出(光、热、声音)，出版发行(书等)，发布(命令即acommand)；set*forth*(或*out*，*forward*)… (他)提出(新的理论即anew theory)；shoot*forth*(或*out*)(叶子)茁壮抽出，向外射击等
 
 
-**二、****forth****跟有关动词搭配表示****“****外出、离家****”****时的动词短语举例**
+二、forth跟有关动词搭配表示“外出、离家”时的动词短语举例
 
 
 come(或issue)*forth*from…(领导人即theleaders)从(城堡即thecastle)出来；come*forth* with a new idea(他)提出一个新的想法；go*forth*〈书面语〉(军队)出发去打仗[后加tobattle]，(学生)启程旅行[后加onhis journey]，(命令即acommand)被发布[用过去一般时。也可用besent *forth*代替]；becast *forth*(或*out*)(某人)被赶出门或被发配边疆；launch*forth*(或*out*)(他们)出航或出海，(她)启航去日本旅行[后加ona jounrey to Japan]；put*forth*(或*out*)(他)启程航海[后加tosea或ona voyage]，(这条船)出航(横渡大洋即tocross the ocean)；set*forth*(他)出发去上海[后加forShanghai]等
 
 
-**三、****forth****作****“****向前****”****讲时的其它常用短语**
+三、forth作“向前”讲时的其它常用短语
 
 
 pace(或go)*backand* *forth*来回踱步(或走动)；run(或come)*forth*向前跑(或来)；learnFrench，English，chemistryand *so forth*(或*andso on*)学
@@ -8704,25 +8351,25 @@ pace(或go)*backand* *forth*来回踱步(或走动)；run(或come)*forth*向前�
 习法语、英语、化学等；hurry*forth*匆匆前来等
 
 
-**Forward(s)****的搭配用法**
+Forward(s)的搭配用法
 
 
-**一、副词****forward(s)****作“向前”、“往前”讲，可单独使用，但较常用于固定短语。可按上述两个含义理解和记忆下列短语**
+一、副词forward(s)作“向前”、“往前”讲，可单独使用，但较常用于固定短语。可按上述两个含义理解和记忆下列短语
 
 
 bring*forward*…提出(问题等)[可用advance…put*forward*…，setforth…. putforth…代替]；bring*forward*…to…把(会议、钟表等)提前或拨快到(某日期或某时刻)，把(如某笔款子等)转入(第100页等)；call*forward* sb. 邀请或吩咐某人站出来[如目的是让某人领奖品等]；carry*forward*…发扬或推进(优良的传统即thegood traditions等)；carry*forward*…to…把(会议)提前到(某日期等)或将(某笔款子)转到(第100页)；come*forward*(志愿者即volunteers)站出来，(某问题等)自然出现或被提出讨论；get*forward*(战士等)前进；getsth. *forward*to sb. 把(某物)送给某人；go*forward*(军队等)向前挺进，(某人)取得进步，(工作等)有进展，(建议、论点等)被提出；hasten*forward*急忙前去；hurryforward(或on，along)匆忙前去；lean*forward*(我)身子向前靠[如目的为了握手或倾听某人讲话]；look*forward* to+名词或动名词盼望(某事或见到某人等)；move*forward*(谈判等)有进展；press*forward*奋力前进[其反义短语为drawback倒退]；push(*vi*. *vt*. )*forward*向前推进，推动(社会等)前进；put*forward*…提出(理论或问题等)，推举(某人等)，把(照片、护照等)拿给某人看[后加tosb. ]；run*forward*往前奔跑；set(*vi*. ，*vt*. )*forward*(他们)出发(我)提出(建议、问题等)，把(钟表)拨快(一小时)等
 
 
-**二、形容词****forward****作“向前的”、“前面的”、‘‘早到”、“早成熟”、“进展**
+二、形容词forward作“向前的”、“前面的”、‘‘早到”、“早成熟”、“进展
 
 
-**快”、****“****热切的****”****、****“****愿意****”****、****“****随便****”****、****“****自以为是****’’****等含义。前七个词义中还领会到**
+快”、“热切的”、“愿意”、“随便”、“自以为是’’等含义。前七个词义中还领会到
 
 
-**forward****的本义****“****积极向前****”****，而最后两个词义则可理解为它的贬义，变为“自**
+forward的本义“积极向前”，而最后两个词义则可理解为它的贬义，变为“自
 
 
-**以为是”和“随便”。但在具体短语中理解时，必须依靠上下文选择词义**
+以为是”和“随便”。但在具体短语中理解时，必须依靠上下文选择词义
 
 
 a*forward* motion一个向前的运动；the*forward* path前面的小路；the*forward* spring早到的春天；the*forward* wheat早熟的麦子；bewell *forward* with one’s work(某人)工作进展快；bealways *forward*(=be ready)to help others总是乐意(或热心)帮助他人；avery *forward* man一个很随便的(或自以为是的)男人等
@@ -8735,19 +8382,19 @@ a*forward* motion一个向前的运动；the*forward* path前面的小路；the*
 
 
 
-**三、及物动词****forward****作****“****促进****(****某个计划等****)****、促使****(****植物等****)****生长、寄发****…****邮件、货物等或****(****从北京****)****转来****(****信件等****)[****后接****fromBeijing]”****讲。在这里仍可体会到含有****forward****的本义**
+三、及物动词forward作“促进(某个计划等)、促使(植物等)生长、寄发…邮件、货物等或(从北京)转来(信件等)[后接fromBeijing]”讲。在这里仍可体会到含有forward的本义
 
 
-**From****的搭配用法及其短语分类理解**
+From的搭配用法及其短语分类理解
 
 
-**一、用“****from…****”****或“****from…to(****或****till)…****”****表示时间的用法举例**
+一、用“from…”或“from…to(或till)…”表示时间的用法举例
 
 
 *from*March从三月起；*from*now on(或onward(s))从今以后；*from*long ago从很久以前开始；*from*the very beginning(或start)从一开始；*from*before the war从战前起；*from*when I began to learn English从我开始学英语起；*from*beginning to end或*from*start *to* finish自始至终；*from*morning *till*(或*to*)night从早到晚；*from*1992 *through* 1999从1992年到1999年底；*from*Monday *through* Friday从星期一到星期五[强调包括星期五]；*from*day(或year)*to*day(或year)一天(或年)一天(或年)地[也可用*from*one day(或year)toanother，day(或year)byday(或year)，day(或year)afterday(或year)来代替]；have*from* two *to* four English classes a day每天上两到四节英语课等
 
 
-**二、****from****短语表示地点时与动词搭配用例**
+二、from短语表示地点时与动词搭配用例
 
 
 fall *from*…(杯子即thecup)从(桌子)上掉下；flow*from*…(泪水即thetears)从(他眼即hiseyes)流出，(财富即wealth)来自(高科技即hightechnologies)；come*from*…(我)是(北京)人[用现在一般时]，(她)从(北京)来[用过去一般时]，(他们)来自(世界各地即allover或aroundthe world)[用过去一般时]，(她)来自(郊外即outof town)[同上]；go*from*…(火车)从(这里即here或这个车站即thisrailway station)出发，(小孩)从(门背后即behindthe door)走出；run*from* across the road从马路对面跑过来；beacross *from* our supermarket(这家公司即thefirm)位于超市对面；takeoil *from* below the surface of the earth从地球表层下方采油；openthe door *from* within从里面将门打开；Thetooth often decays *from* without牙齿常是从外面蛀坏的。travel*from*…to…从(天津)旅行到(上海)等
@@ -8763,13 +8410,13 @@ fall *from*…(杯子即thecup)从(桌子)上掉下；flow*from*…(泪水即the
 
 
 
-**三、注意****fromhead to foot(****从头到脚****)****，****fromdoor to door****或****fromone door to another(****挨门挨户****)****之类的短语用法**
+三、注意fromhead to foot(从头到脚)，fromdoor to door或fromone door to another(挨门挨户)之类的短语用法
 
 
 visit old people *from*house *to* house(或*from*one house *to* another)(我们)家挨户访问老人；begoing *from* good *to* better(投资环境即theinvestment environment)越来越好；pass(或hand)downthis custom *from *generation *to*generation将这个习俗一代一代地传下去；teachEnglish *from *place *to* place(他)在各地教英语；vary*from* country *to* country(天气即theweatber)随不同国家而异；change…*from*one state *to* another使(水)从一种状态变为另一种状态等
 
 
-**四、****from****短语表示“离…多远”时的用法举例**
+四、from短语表示“离…多远”时的用法举例
 
 
 He is far away *from*Shanghai.他远离上海(可省略away)；be10 Kilometers *from*…(学校)离(这里即here)十公里；be8 minutes’walk(或drive)*from*… (学校)离(高速公路即theexpressway)是步行(或开车)8分钟的距离；befar *from*+形容词或-ing短语(这个想法即thisidea)远远不是(正确的即correct)，(他)根本不是(那样做的即doinglike that)；bcdistant from…. (太阳)离(地球)很远；keepapart *from*…(她)离群[后加thegroup]，(他)不参与(那些活动即thoseactivities)等
@@ -8793,7 +8440,7 @@ He is far away *from*Shanghai.他远离上海(可省略away)；be10 Kilometers *
 2)The computer centeris two blocks* off* our school. 计算机中心离我校两个街区。
 
 
-**五、****from****与有关动词搭配，表示“来源’’时的用法举例**
+五、from与有关动词搭配，表示“来源’’时的用法举例
 
 
 be *from*…(他)出身(工人家庭即aworker’s family)，(这些礼物即these
@@ -8805,25 +8452,25 @@ be *from*…(他)出身(工人家庭即aworker’s family)，(这些礼物即the
 gifts)来自(我的儿女)；expecta great progress *from* sb. 期望某人有很大进步；visitsome professors *from*Europe访问来自欧洲的几位教授；borrow…from…从(某人或图书馆)借来(书等)；get(或obtain. )someinformation *from* sb. 从某人那里得到一些信息；graduate*from*…毕业于(上海大学)；hearfrom sb. 收到某人的信等；beformed *from*…(煤)由(植物即plants)形成；bemade *from*…(啤酒即beer)由(大米即rice等)制成[但桌子由木制成、只能用“bemade of…”结构，因桌子和木之间无实质性的变化，即两者仍是木质的]等
 
 
-**六、****from****与有关动词搭配，表示原因时的用法举例**
+六、from与有关动词搭配，表示原因时的用法举例
 
 
 arise *from*…(经济快速发展即therapid development of economy)由(高科技)引起，(困难)由(洪水即theflood)造成；die*from*…因(心脏病发作即theheart attack)而去世；fallill *from*…由于(流感即flu)卧床不起；feeltired *from* working day and night由于日夜工作而感到疲劳；act*from *necessity出于需要而采取行动；result*from*…(成功即thesuccess)由(正确的政策即thecorrect policy)产生的；turnoff the microwave oven *from* safety(他)出于安全关闭了微波炉[用过去一般时]等
 
 
-**七、****from****短语表示“从…中来看或判断、根据…”时的用法举例**
+七、from短语表示“从…中来看或判断、根据…”时的用法举例
 
 
 *from*my viewpoint根据我的观点；*from*his appearance从他的外表来看；*from*her look根据她的脸色来看；*from*what they have heard根据他们收听到的内容来看；judge*from*(或by)histalk根据他的讲话来判断；singthesong *from* memory凭记忆演唱这支歌；operatea machine *from *experience(他)凭经验操作一台机器等
 
 
-**八、****from…****跟有关动词或形容词搭配，表示“和…不同”时的用法举例**
+八、from…跟有关动词或形容词搭配，表示“和…不同”时的用法举例
 
 
 differ*from*…(这幢楼)与(那幢楼即thatone)不同；bedifferent *from*…(计算机)不同于(游戏机即avideo game machine)；knowthe right from thewrong明辨是非；tell…*from*…(这小女孩)能识别(黑色)和(白色)；distinguish…*from*…区别或辨别(金即gold)和(铜即copper)等
 
 
-**九、****from****和有关动词搭配，表示“隔开、分开、离开”时的用法举例**** **
+九、from和有关动词搭配，表示“隔开、分开、离开”时的用法举例 
 
 
 break*from*…(他)戒(烟即smoking或酒即drinking)；depart*from*…(他的讲话即histalk)离开(主题即thesubject)，(他)离开(上海)，(某人)去世[后接life]；deviate*from*…(某人或他的报告即hisreport)偏离(主题)；be
@@ -8840,10 +8487,10 @@ free *from*…(备件即thespare parts)无(缺陷即defects)，(他)无(危险�
 注：不要将*from*理解为“分开或隔开”并机械地逐字翻译。否则会错译为“阻止、制止或禁止某人和吸烟分开”。应将功能性介词*from*理解为“分开”、‘‘隔开”，而英语动词理解为行为方式，于是可正确地理解为“通过阻止、制止或禁止手段或方式使某人与吸烟分开”。这就是按英语思维形象化地理解英语本意的一些典型例子。
 
 
-**Hardly****和****Scarcely****的用法及注意点**
+Hardly和Scarcely的用法及注意点
 
 
-**一、副词****hardly****和****scarcely****作****“****几乎不****’’****讲，常用以构成否定式，它们可以否定主语、谓语或宾语等**
+一、副词hardly和scarcely作“几乎不’’讲，常用以构成否定式，它们可以否定主语、谓语或宾语等
 
 
 1. Wecould *hardly*(或*scarcely*)understandit. 我们几乎不可能了解这件事。
@@ -8869,7 +8516,7 @@ free *from*…(备件即thespare parts)无(缺陷即defects)，(他)无(危险�
 
 
 
-**二、****“****hardly(****或****scarcely)…when(****或****before)…”****作****“****刚****……****就****……”****讲。注意****hardly****和****scarcely****位于句首时，主、谓语颠倒。参阅第****482****，****483****页**
+二、“hardly(或scarcely)…when(或before)…”作“刚……就……”讲。注意hardly和scarcely位于句首时，主、谓语颠倒。参阅第482，483页
 
 
 1. *Hardly*had I reached the station *when* the trainstarted. 我刚到车站，火车就开了。(有时还可用before代替*when*，但不如*when*广泛使用。)
@@ -8908,10 +8555,10 @@ e. Hestarted back home *as soon as* he saw(或hadseen)the letter. (=*Assoon* *as
 注：用assoon as…时，主句和从句的时态通常一致。若描述将来发生的事，则assoon as引出的时间状语从句要用现在时代替将来时。叙述过去的事，有时也可见到assoon as后面从句中用过去完成时。
 
 
-**Have(****或****Has)****的用法**
+Have(或Has)的用法
 
 
-**一、****have****作“有”讲**
+一、have作“有”讲
 
 
 1. I*have* a few Chinese video compact discs(或VCDs). 我有几张中国光盘。
@@ -8935,7 +8582,7 @@ to effect capture of aparticle. 重核比轻核有较多的能级，所以它更
 5. Nothingworth *having* can be *had* withoutlabour. 不劳动只能是什么都不该有。(动名词*having*作形容词worth的宾语。had用于被动态。)
 
 
-**二、“****have****. ****(****或****had)+****过去分词”构成现在****(****或过去****)****完成时，而****&quot;will(****或****shall)+have+****过去分词”构成将来完成时。****(****见第****393****，****394****，****395****页****)**
+二、“have. (或had)+过去分词”构成现在(或过去)完成时，而&quot;will(或shall)+have+过去分词”构成将来完成时。(见第393，394，395页)
 
 
 1. He *has been* to Microsoft. 他去过微软公司。 (试比较：Shewent to Microsoft. 她[当时]去微软公司了。)(现在完成时)
@@ -8965,10 +8612,10 @@ to effect capture of aparticle. 重核比轻核有较多的能级，所以它更
 9. Yetyou *will have done* no work by merely exertingforce. 仅仅施加力，你仍将是尚未作功。(将来完成时主动态)
 
 
- **三、****“****have****，****had****或****shall(will)+havebeen+-ing”****构成现在、过去、将来这三种完成进行时主动态。****(****参阅第****396****，****397****页****)**
+ 三、“have，had或shall(will)+havebeen+-ing”构成现在、过去、将来这三种完成进行时主动态。(参阅第396，397页)
 
 
-**四、“****have+****带****to****的不定式”，作“只得……”、“只好……”或“要……”讲**
+四、“have+带to的不定式”，作“只得……”、“只好……”或“要……”讲
 
 
 1. We*have* *to* change our method of operation. 我们得改变我们的操作方法。
@@ -8988,7 +8635,7 @@ to effect capture of aparticle. 重核比轻核有较多的能级，所以它更
 产生强烈的X射线，管子必须制成高度真空。(划线处为主语补语。)
 
 
-**五、“****have+****有动作意义的名词”作“做一下某动作”或“进行某动作’’讲**
+五、“have+有动作意义的名词”作“做一下某动作”或“进行某动作’’讲
 
 
 1. Letus *have a look*. 让我们看一看。
@@ -9000,13 +8647,13 @@ to effect capture of aparticle. 重核比轻核有较多的能级，所以它更
 3. Weare *having a meeting*. 我们正在开会。
 
 
-**六、****“****have+****宾语****+****不带****to****的不定式****”****表示****“****使****(****叫****)……****做****……’’****之意**
+六、“have+宾语+不带to的不定式”表示“使(叫)……做……’’之意
 
 
 1. Wewill *<U>have</U>* *you know* that we have made the machine*<U>work</U>* at fullspeed. 我们将要使你知道，我们已使这台机器全速运转了。(划线处为主句中的宾语补语。)
 
 
-2. Wecan’t *have the motor **<U>run idle</U>*. 我们不能让马达空转。(同上)
+2. Wecan’t *have the motor <U>run idle</U>*. 我们不能让马达空转。(同上)
 
 
 注意使用本句型结构时，有时表示主语人的意志，有时表示与主语人的意志无关。
@@ -9027,7 +8674,7 @@ to effect capture of aparticle. 重核比轻核有较多的能级，所以它更
 切不可按照“使”、“让”来译，将&quot;他们”理解为“纵火犯”。)
 
 
-**七、****“****have+****宾语****+****过去分词****(****作宾语补语，不作后置定语****)’’****表示****“****让****……****受到****……”****、****“****让人把****……****弄****……”****、****“****使得****……”****的意思**
+七、“have+宾语+过去分词(作宾语补语，不作后置定语)’’表示“让……受到……”、“让人把……弄……”、“使得……”的意思
 
 
 1. They*have just had the* *instrument adjusted*. 他们刚(请人)把这个仪器调整好。
@@ -9039,7 +8686,7 @@ to effect capture of aparticle. 重核比轻核有较多的能级，所以它更
 3. You*should have the radio repaired*. 你应该(请人)把无线电修好。
 
 
-4. Electricheaters *have* *their electric energy* *transformed**into heat*. 电热器使其电能转变为热能。
+4. Electricheaters *have* *their electric energy* *transformedinto heat*. 电热器使其电能转变为热能。
 
 
 5. He*had his experiment report all* *written outneatly*. 他把实验报告写得清清楚楚。
@@ -9068,7 +8715,7 @@ to effect capture of aparticle. 重核比轻核有较多的能级，所以它更
 He *has* only onefinger *left*. 他只剩下一个指头。(定语)
 
 
-**八、****“****have+****宾语****+****形容词、副词或****-ing(****作宾语补语用****)”****表示****“****听任****……”****、****“****保持****……”****的意思**
+八、“have+宾语+形容词、副词或-ing(作宾语补语用)”表示“听任……”、“保持……”的意思
 
 
 1. Itis too hot，youmust *have all the windows open*. 天气太热，你们得让所有窗户都开着。
@@ -9092,10 +8739,10 @@ He *has* only onefinger *left*. 他只剩下一个指头。(定语)
 但注意本句型结构中的-ing(现在分词)有时不作宾语，而作后置定语。例如：
 
 
-Last year we *had**a dry spell lasting* 130 *days*. 去年我们遇上干旱期持续130天。
+Last year we *hada dry spell lasting* 130 *days*. 去年我们遇上干旱期持续130天。
 
 
-**九、****“****haveit that+…”****作****“****表明****”****、****“****主张****”****、****“****说****”****、****“****声称****”****等讲**
+九、“haveit that+…”作“表明”、“主张”、“说”、“声称”等讲
 
 
 1. Thenewspaper *has it that* our five-year plan wasoverfulfilled. 报纸上说我们的五年计划超额完成了。
@@ -9104,7 +8751,7 @@ Last year we *had**a dry spell lasting* 130 *days*. 去年我们遇上干旱期�
 2. Hewill *have it that* his idea will come true。他会声称他的想法会实现的。
 
 
-**十、****“****had+better+****不带****to****的不定式****”****表示****“****最好****……”****之意**
+十、“had+better+不带to的不定式”表示“最好……”之意
 
 
 1. You*had better* *improve* the equipment with the seniorengineers. 你们最好是跟这些高工一起改进这个设备。
@@ -9124,7 +8771,7 @@ Last year we *had**a dry spell lasting* 130 *days*. 去年我们遇上干旱期�
 
 
 
-**十一、“****havebeen+****不定式”表示刚完成的动作**
+十一、“havebeen+不定式”表示刚完成的动作
 
 
 I *have been* *tosee* a doctor. 我刚才去看医生了。(注意说这句话时正是我刚从医生那儿回来了。)
@@ -9136,7 +8783,7 @@ I *have been* *tosee* a doctor. 我刚才去看医生了。(注意说这句话�
 Our aim has been *towork out* *a successful* *method* *of synthesis* *ofthis compound*. 搞出这种化合物的成功的合成法已是我们的目标。
 
 
-**十二、****havegot****相当于****have****及****havegot to****相当于****haveto****的用法**
+十二、havegot相当于have及havegot to相当于haveto的用法
 
 
 1. We*have got*(=*have*)many different electronicdictionaries. 我们有许多各种各样的电子辞典。
@@ -9145,7 +8792,7 @@ Our aim has been *towork out* *a successful* *method* *of synthesis* *ofthis com
 2. You*have got*(=*have*)to stop it. 你必须加以制止。
 
 
-**十三、注意****having****的用法**
+十三、注意having的用法
 
 
 1. Agreater current will overheat and seriously damage the generator*having the smaller currentcapacity*. 电流大，就能使载流量较小的发电机过热并受到严重损坏。(后置定语)
@@ -9157,19 +8804,19 @@ Our aim has been *towork out* *a successful* *method* *of synthesis* *ofthis com
 3. *Themoon having no* *atmosphere*，therecan be no wind. 由于月亮没有大气层，所以就没有风。(独立分词结构)
 
 
-4. *Dr*. *Ouyang*(’s)*having**left* made the situation herehard. 欧阳博士走后，这里处境就困难了。(复合结构或动名词短语作主语。)
+4. *Dr*. *Ouyang*(’s)*havingleft* made the situation herehard. 欧阳博士走后，这里处境就困难了。(复合结构或动名词短语作主语。)
 
 
 5. *Nothaving enough time*，Icould not gain access to Yahoo. 由于没有足够的时间，我未能再次访问雅虎(网站)。(现在分词短语作原因状语。)
 
 
-6. *Having**failed several* *times*，heneeds some encouragement. 失败了几次以后，他就需要得到一些鼓励。(现在分词短语完成式作时间状语。)
+6. *Havingfailed several* *times*，heneeds some encouragement. 失败了几次以后，他就需要得到一些鼓励。(现在分词短语完成式作时间状语。)
 
 
-7. *Having**had no answer*，hewrote again. 由于无回音，他又写了一封信. (现在分词短语完成式作原因状语。)
+7. *Havinghad no answer*，hewrote again. 由于无回音，他又写了一封信. (现在分词短语完成式作原因状语。)
 
 
-8. Abody at rest cannot be moved without *having* *an enough**force* *acting* on*it*. 如果没有一个足够大的力作用于静止的物体上，那末该物体是不会(被)移动的。(动名词短语作介词宾语，其中包含宾语和宾语补语。)
+8. Abody at rest cannot be moved without *having* *an enoughforce* *acting* on*it*. 如果没有一个足够大的力作用于静止的物体上，那末该物体是不会(被)移动的。(动名词短语作介词宾语，其中包含宾语和宾语补语。)
 
 
 。137. 
@@ -9177,25 +8824,25 @@ Our aim has been *towork out* *a successful* *method* *of synthesis* *ofthis com
 
 
 
-**HOW****，****HOWmany****，****Howmuch****，****Howlong****，**
+HOW，HOWmany，Howmuch，Howlong，
 
 
-**Howfar****，****Howfast****，****Howoften****等用法**
+Howfar，Howfast，Howoften等用法
 
 
-**一、构成特殊疑问句****(****注意主、谓语颠倒现象****)**
+一、构成特殊疑问句(注意主、谓语颠倒现象)
 
 
 1. *How*is mercury different from silver？水银和银有何不同?
 
 
-2. *How**long* have you workcd at the airport？你在机场工作多久了？
+2. *Howlong* have you workcd at the airport？你在机场工作多久了？
 
 
-3. *How**many* pandas are there in China?在中国有多少熊猫?
+3. *Howmany* pandas are there in China?在中国有多少熊猫?
 
 
-4. *How**much* of China’s surface is covered with greenplants？中国表面（积）有多大比例为绿色植物所覆盖?
+4. *Howmuch* of China’s surface is covered with greenplants？中国表面（积）有多大比例为绿色植物所覆盖?
 
 
 5. *Howmuch*(money)should I pay for this pair ofsunglasses?这副太阳镜我该付多少(钱)?
@@ -9219,10 +8866,10 @@ Our aim has been *towork out* *a successful* *method* *of synthesis* *ofthis com
 10. *Howhigh*(或*tall*)isyour apartment building?你们的公寓楼有多高?
 
 
-**二、构成主语从句、宾语从句、表语从句和同位语从句，但从句内主、谓语词序不颠倒**
+二、构成主语从句、宾语从句、表语从句和同位语从句，但从句内主、谓语词序不颠倒
 
 
-1. Itis clearly known *how they learn**English*. 他们如何学英语是清楚知道的。(主语从句，it是形式主语)
+1. Itis clearly known *how they learnEnglish*. 他们如何学英语是清楚知道的。(主语从句，it是形式主语)
 
 
 2. Thequestion is *how much one cubic meter* *of air weighs undernormal conditions*. 问题是在标准情况下，一立方米空气重多少。(表语从句，试与上面第5句比较主、谓语词序。)
@@ -9234,7 +8881,7 @@ Our aim has been *towork out* *a successful* *method* *of synthesis* *ofthis com
 4. Heanswered the question *how volume* *is affected* *bytemperature*. 他回答了温度如何影响体积这个问题。(thequestion的同位语从句)
 
 
-5. Canyou answer us the question of *how* *fast the molecules**move*?你能回答我们分子运动有多快的问题吗?(介词of的宾语从句)
+5. Canyou answer us the question of *how* *fast the moleculesmove*?你能回答我们分子运动有多快的问题吗?(介词of的宾语从句)
 
 
 . 138. . 
@@ -9242,10 +8889,10 @@ Our aim has been *towork out* *a successful* *method* *of synthesis* *ofthis com
 
 
 
-**三、疑问词与动词不定式构成短语常顶一个名词**
+三、疑问词与动词不定式构成短语常顶一个名词
 
 
-l. Ido not know *how* *to operate this* *new*-*type**portable* *computer*？我不知如何操作这种新型手提式计算机?(作宾语)
+l. Ido not know *how* *to operate this* *new*-*typeportable* *computer*？我不知如何操作这种新型手提式计算机?(作宾语)
 
 
 2. *Howmany* *experiments* *to perform a dayis still* aquestion. 一天做多少项实验还是一个问题。(作主语)
@@ -9254,10 +8901,10 @@ l. Ido not know *how* *to operate this* *new*-*type**portable* *computer*？我�
 3. Whatdo you know about *how* *to send* *ane*-*mail*?关于如何寄发电子邮件，你知道什么呢?(常顶一个名词作介词about的宾语。)
 
 
-**If****的用法**
+If的用法
 
 
-**一、连词****if****用于条件和假设句中****(****详见第****452****～****457****页****)**
+一、连词if用于条件和假设句中(详见第452～457页)
 
 
 1. a. *Ifyou study hard*，youwill pass the exam. 如果你努力学习，那么你就能通过这次考试。(真实条件)
@@ -9275,10 +8922,10 @@ b. *Ifthe boy should*(或*wereto*)*study hard*，hewould pass the exam. 假如�
 4. *Ifhe had not been busy yesterday*，he*would have come* to the tradefairs. 假如他昨天不忙，他早就来贸易展销会了。(对过去事实相反的假设，谓语都用虚拟语气。注意和上句表示形式不同。)
 
 
-**二、连词****if****只有在引出宾语从句时才作****“****是否****’’****讲，句末不能加****or****，****not****之类的词**
+二、连词if只有在引出宾语从句时才作“是否’’讲，句末不能加or，not之类的词
 
 
-1. Heasked us *if English is our* *major**subject*. 他问了我们英语是不是我们的主要课程。(可用*whether*代替*if*。)
+1. Heasked us *if English is our* *majorsubject*. 他问了我们英语是不是我们的主要课程。(可用*whether*代替*if*。)
 
 
 2. Idon’t know *if the figures are accurate*. 我不知数字是否精确。(同上)
@@ -9292,7 +8939,7 @@ b. *Ifthe boy should*(或*wereto*)*study hard*，hewould pass the exam. 假如�
 
 
 
-**三、用以表示与事实相反的愿望**
+三、用以表示与事实相反的愿望
 
 
 1. *If*he were in Tianjin now!要是此刻他在天津多好啊！
@@ -9301,13 +8948,13 @@ b. *Ifthe boy should*(或*wereto*)*study hard*，hewould pass the exam. 假如�
 2. *If*I could *only* sec them once more!但愿我能再次见到他们就好了！
 
 
-3. *Ifonly* he had known about it!他当时知道这件事就好了!(若改为*If**only* he knew about it，则变为：他此刻知道就好了→可惜他此刻并不知道。)
+3. *Ifonly* he had known about it!他当时知道这件事就好了!(若改为*Ifonly* he knew about it，则变为：他此刻知道就好了→可惜他此刻并不知道。)
 
 
 4. *Ifonly* she arrives in time!她若能及时到达就好了!(抱有一点希望)
 
 
-**四、****if****用于条件状语从句，其中有省略成分. ****(****详见第****462****页二****)**
+四、if用于条件状语从句，其中有省略成分. (详见第462页二)
 
 
 1. Thatis important，*if*(*itis*)*true*. 如果属实，那很重要。
@@ -9319,7 +8966,7 @@ b. *Ifthe boy should*(或*wereto*)*study hard*，hewould pass the exam. 假如�
 3. *If*(*itis*)*necessary* we shall put the video conferenceoff. 如果需女的话，我们将延期开电视会议. 
 
 
-**五、****ifany****，****ifever****和****ifanything****的用法**
+五、ifany，ifever和ifanything的用法
 
 
 *if any*和*ifever*表示“果真有”、‘‘即使有”，相当于ifthere is any at all而ifanything相当于ifthere is anything(或anydifference)，含有“如果有些什么”、‘‘如果稍有区别的话’’的意思。若主句有few，little，seldom,rarely等否定词，则上述从句为让步状语从句，否则一般表示条件状语从句。例如：
@@ -9349,13 +8996,13 @@ l. Ithink that there is *little*，*ifany*，hope. 我认为希望很小。(让�
 
 
 
-**六、****if****用于****evenif****和****asif****中，分别引出让步状语从句和行为方式状语从句，参阅第****306****，****42****页**
+六、if用于evenif和asif中，分别引出让步状语从句和行为方式状语从句，参阅第306，42页
 
 
-**In****和****Into****的用法及其短语分类理解**
+In和Into的用法及其短语分类理解
 
 
-**一、介词****in****短语的用法**
+一、介词in短语的用法
 
 
 I. *in*用于地点、空间、某范围、方位时，介词短语或其动词短语汇总：*in*the street在街上[但美语用onthe street]；*in*here在这里[here作名词用]；*in*the middle of the bedroom在卧室中间；walk*in* the rain在雨中行走finda hole *in* the cap(他)发现帽子上有个洞等
@@ -9464,7 +9111,7 @@ in theevening(或afternoon)在傍晚(或下午)[若*in*后面出现前置或后�
 间)’’讲，有时前面可加late，far或well以加重时间晚、长的语气。例如：
 
 
-1. Hereviewed the lessons *late*(或*far*)*into**the night*. 他复习功课到深夜。
+1. Hereviewed the lessons *late*(或*far*)*intothe night*. 他复习功课到深夜。
 
 
 2. Theexperiments often continued *into the night*. 实验常持续到夜晚。
@@ -9639,7 +9286,7 @@ make a statement *in*one’s own defence(她)进行申诉为自己辩护；Icall
 them. 尽管彩电贵，但人们仍愿买。(*inspite of the fact that*引出让步从句。)
 
 
-**二、介词****into****作“进人……或进到……里面”讲时的动词短语举例**
+二、介词into作“进人……或进到……里面”讲时的动词短语举例
 
 
 break *into*… 闯入(楼房)；check*into* the hotel办理手续住入旅馆allow(或permit)sb. *into*…允许某人进入(房间)；come*into*…进入(房间)；dive*into*…潜入(江河、森林)，调查研究(问题)；eat*into*…腐蚀(衣服等)；enter*into* business(或*into*details)进入商界或谈论细节；get*into*…进入(汽车)，穿上(外衣)，陷入(困境即difficulties)；go*into*…走进(房子)，研究(问题)；jump*into*…跳进(江河)，迅速穿上(外衣)；launchthe roekets *into*the space发射火箭进入宇宙空间；lead*into*…(这条路)通入(花园等)；let…*into*…让(他)知道(计划、秘密等)，将(管子)插进(墙)；lookinto…往(教室、镜子即themirror)里面看，调查研究(问题)；pour(v. )*into*…(江河)入(海)、将(大量信件)送入(公司)；run*into*…跑入(学校)，偶然遇见(某人)；step*into*…步入(出租汽车)，接替(某人的工作)，穿上(鞋)；pass*into*…(这门科学)进入(新阶段)等
@@ -9653,7 +9300,7 @@ break *into*… 闯入(楼房)；check*into* the hotel办理手续住入旅馆al
 
 
 
-**三、副词****in****作****“****往里进、在里面、在家里****’’****时的动词搭配用法举例**
+三、副词in作“往里进、在里面、在家里’’时的动词搭配用法举例
 
 
 book *in*…=book…*in* 登记(备件即spareparts或机器等)；asksb. *in* 请某人进去；cau*in*…叫(某人)进去，请(医生)来，召口(部队)，要求还(书、钱等)；bring*in*…带来(收入即theincome，新款式即thenew style),引入(新技术)，请来(教授)；count*in*将(某人)算上[指计数在内]，将(这三本书)算上；cut(*v*. )*in* (汽车)超车切入，接入或接上(新的电线或一段影片等)；fly(*v*. )*in* (我们)乘飞机抵达，(他们)将(旅客或鲜菜)空运进去；give(*v*. )*in*… (我)将(作业)交进去或交上去，(他)让步；get*in*…收(麦子即wheat等)，收进(债款即thedebt)，买进(酒等)，请来(医生等)；hand*in*…把(作业等)交进去或交上去；have…*in* 请(医生)来，把(食物)贮备起来；lay*in*…贮备(淡水、食物)，储存(钱等)；leave*in*… 将(狗等)留在家，将(照片、重要内容)保留下来，把(火)留下来[指“让火不熄灭”]；live(或sleep)*in*(保姆等)住在雇主家里，(大学生)住校；pipe…*in*用管道输入（水、油等)，吹奏乐器欢迎(某人)；stay(或remain)*in* 不外出[如留在家中或放学后留校]；takein …把(某人)领进来，让(新鲜空气即freshair)进来，收容或收留(无家可归的人即thehomeless等)，领会或相信(当前形势等)，饱览(姜丽景色即thebeautiful sight)等
@@ -9674,13 +9321,13 @@ drop *in* onsb. 或atthe library顺便访问某人或图书馆；fall*in* on(或
 
 
 
-**四、副词****in****和由名词转化来的动词****(****如****fence****，****ice****，****wall****，****wire****等****)****搭配，表示****“****用篱笆、冰、墙、铁丝等将****……****围住或封住****”****之意**
+四、副词in和由名词转化来的动词(如fence，ice，wall，wire等)搭配，表示“用篱笆、冰、墙、铁丝等将……围住或封住”之意
 
 
 fence*in*…用栅栏把(花园)围起来，将(老虎或犯人)关起来；beiced *in*(港口、机器等)被冰封住；beroped(或wired)*in*(运动场即theplayground)被绳子(或铁丝)围起来；bewallcd* in*(校园即thecampus)被用墙围住等
 
 
-**五、副词兼介词****in****或介词****into****用于表示****“****参加、参与”时的动词短语举例**
+五、副词兼介词in或介词into用于表示“参加、参与”时的动词短语举例
 
 
 be *in*(或*up*)forthe exam正在参加考试；go*in* for the discussion去参加讨论；go*in*参加或进去；go*into*…(他)参加(政界即politics)或参(军即thearmy)；come*in* for…来参加(考试等)；come*in* on the project参与这个项目；get*into*…参加(这个队即thisteam)，参(军即thearmy)，参加(唱歌即singing)；join(*v*. )*in*…参加(我们)一起(跳舞即dancing等)；let’sall join *in*让我们一起参加；letsb. *into*the club允许某人参加俱乐部；havea hand(或apart)*in* sth. 参与某事；geta foot* in* the football team参加足球队；enter*into*…参加(讨论即thediscussion)；partake(或takepart)*in*…参加(讨论等)；Iwant in. 我想进去(或参加)等
@@ -9695,7 +9342,7 @@ be *in*(或*up*)forthe exam正在参加考试；go*in* for the discussion去参�
 2)He turned up late forthe meeting. 他露面参加会议晚了。
 
 
-**六、****into****或****in****跟动词搭配时表示****“****插话、干涉、干预****”****时的用法举例**
+六、into或in跟动词搭配时表示“插话、干涉、干预”时的用法举例
 
 
 break *into* theconversation打断别人谈话[由“闯入别人谈话’’引申过来]；break*in*(某人)插话，(消防员等)破门而入[注意上下文选择语义]；cut*into *the conversation打(或砍)断别人谈话；cut*in*插嘴[cut*in*还可表示“砍入’’]；getin a single word插嘴说句话；get*in*插嘴，(飞机、船等)到达，(雨水)进屋[结合上下文选择语义]；put*in* a good word插嘴说好话；put*in*插话；throw(或fling)；*in*that unnecessary remark插嘴说不必要的意见；throw(或fling)*in*插嘴说；pipe*in*插上一杠子或插嘴[动词pipe作“尖声讲话”讲]；strike*into *someone else’s quarrel干预或介入别人的争吵；strike*in*插嘴；strike*in* with a question插嘴提一个问题；interfere*in*(或*with*)theconversation(或sb. ’sprivateaffairs)打断别人谈话或干预某人私事；push*in* without being invited(他)未受邀请而粗鲁地插话；push*in* on this（她)干预这件事等
@@ -9705,7 +9352,7 @@ break *into* theconversation打断别人谈话[由“闯入别人谈话’’引
 
 
 
-**七、****into****，****in****用于表示“偶然碰到或碰见”时的动词短语用法举例**
+七、into，in用于表示“偶然碰到或碰见”时的动词短语用法举例
 
 
 run*into*…偶然碰见(他)，偶然碰到(门)，跑入(教室)；knock(*v*. )*into*…偶然碰见(她)，把(钉子即nails)敲入(木)中；catchsb. *in*偶然在家或办公室遇见某人；fall*in* with sb. (在旅行中)偶然碰见某人；bang*into*…偶然遇见(某人)，偶然碰到(门)并(伤了胳膊即hurtthe arm)[bang为拟声词，由‘‘砰一响碰到…”引申过来]等
@@ -9714,19 +9361,19 @@ run*into*…偶然碰见(他)，偶然碰到(门)，跑入(教室)；knock(*v*. 
 注：英语有100多个动词短语表示“偶然碰见、碰到……”含义。不限于使用*into*或*in*。必须用形象加联想来理解。
 
 
-**八、****into****用于表示“调查研究”时的动词短语举例**
+八、into用于表示“调查研究”时的动词短语举例
 
 
 dig(本义：掘，挖)*into*…钻研(问题即theproblem)；dive(本义：潜入)*into*…深入研究(问题)；dip(本义掏取)*into*…稍加研究(问题)；go*into*…调查研究(问题)；look*into*…调查(公司的账即thecompany’s accounts)；search(搜查)*into*…调查(一件事即amatter)；research*into*…研究(一个项目即aproject)；examine*into* the rumour调查谣言；inquire(或enquire)*into*… 调查(这一事件即theincident)；investigatet*into*…深入调查(这案子即thecase)[有“官方调查、审查”含义]；check*into* sb. ’sbackground调查某人的经历；seeinto the state of a company调查一家公司的状况等
 
 
-**九、****into****表示“进人某种状态”时的动词短语举例**
+九、into表示“进人某种状态”时的动词短语举例
 
 
 fall *into *sleep(或adangerous state)进入梦乡或陷入险境；get(*v*. )*into*trouble(或suchahabit)(使)陷入困境或(使)养成这样一个习惯；lead(*v*. )*into*…(使)陷入(困境即trouble)，(这个错误)造成(损失即loss)；pass*into *a deep sleep进入沉睡；put…*into*production(或operation，use)将(机器)投入生产(或运转、使用)；run*into* danger闯入险境；go*into* force(合同即thecontract)开始生效；Shortskirts are coming *into* fashion. 短裙子正在流行。fly*into* a temper(他)突然发脾气等
 
 
-**十、****into****表示转义并译为****“****变为、成为****”****时的动词短语举例**
+十、into表示转义并译为“变为、成为”时的动词短语举例
 
 
 convert coal *into*pipeline gas将煤转变为管道煤气；grow(up)(或develop)*into*… (一颗种子即aseed)长成(或发展为)(一颗树)；make…*into*…将(旧房)改为(高楼)，将(这件服装)改为(裙子即askirt)，将(这男孩)培养成(大学生)；pass*into*…水变为(蒸汽)；transformthe little town *into* a bigcity将小城镇改造为大城市；translate(或turn，put，do)Chinese*into*
@@ -9745,13 +9392,13 @@ English将汉语译成英语；turn…*into*…将(大楼)改为(医院)；chang
 *into*…(我们)将(水)变为(冰)，(水)变为(蒸汽)等
 
 
-**十一、****into****表示“分为或分成若干份、块、粉末”时与动词搭配用法举例**
+十一、into表示“分为或分成若干份、块、粉末”时与动词搭配用法举例
 
 
 break the chocolate*into* pieces将巧克力分成块；crushcoal *into* powders将煤碎成粉末；cutpaper *into* strips将纸切成纸条；divide…*into*…将(蛋糕即thecake)分为(三份)，将(9)除以(3)；Thestory falls *into* fourparts. 这故事分为四个部分。separate…*into*…将(空气)分离为(氢、氧等)，将(这个班分为(三个组)；split(*v*. )*into*…将(分子)分解为(原子)，将(原木即thelog)劈成(两半即twohalves)，(学生)分为(四个组)；tear(*v*. )*into*…将(布即thecloth)撕成(长条即strips)，(这些老虎)撕裂(一只小动物)等
 
 
-**十二、****into…****表示使人采取某种行动时与动词搭配用法举例**
+十二、into…表示使人采取某种行动时与动词搭配用法举例
 
 
 argue sb. *into*doing sth. 通过辩论说服某人做某事；persuadesb. *into*doing sth. 劝说某人做某事；push(或shove)sb. *into*doing sth. 推动某人做某事；talksb. *into*lending him the car说服某人将汽车借给他；bepulled *into *helping him with his lessons(她)被拉去帮助他做功课等
@@ -9760,10 +9407,10 @@ argue sb. *into*doing sth. 通过辩论说服某人做某事；persuadesb. *into
 注：若将本类动词短语中的*into*改为*outof*，则就构成反义，就变为“说服、劝说、推动某人不做某事”。
 
 
-**inf****. 动词不定式的用法和判别**
+inf. 动词不定式的用法和判别
 
 
-**一、动词不定式的构成和在句中表示的形式**
+一、动词不定式的构成和在句中表示的形式
 
 
 不定式一般由“*to*+动词原形”构成。它具有原动词的搭配关系(如宾语、状语等)。在科技文章中见到的动词不定式有下列表中几个形式(以write(写)为例)：
@@ -9872,7 +9519,7 @@ I. 已实现的行为
 II. 没有实现的行为
 
 
-1. Weplanned* to have made this* *experiment**yesterday*. 我们本来计划昨天做这个实验。(完成式主动态。实际上昨天没有做这个实验。)
+1. Weplanned* to have made this* *experimentyesterday*. 我们本来计划昨天做这个实验。(完成式主动态。实际上昨天没有做这个实验。)
 
 
 注意有时可用&quot;was(或were)+不定式动词的完成式”表示过去未实现的动作。例如：
@@ -9884,7 +9531,7 @@ II. 没有实现的行为
 3. He*was to have got out* *of bed*(或*gotup*)*at five*. 他本来打算五点起床。
 
 
-**二、动词不定式在句中的用法**
+二、动词不定式在句中的用法
 
 
 I. 作主语
@@ -9899,7 +9546,7 @@ I. 作主语
 It is necessary *todevelop our* *information industries* *rapidly*. 句义同上。)
 
 
-2. Ittakes a definite amount of heat *to change* *a liquid to its**gaseous* *state*. 将
+2. Ittakes a definite amount of heat *to change* *a liquid to itsgaseous* *state*. 将
 
 
 . 150. 
@@ -10098,7 +9745,7 @@ to。例如：
 1)Electricity makeshousehold electric appliances *run*. 电使家用电器运作。
 
 
-2)Let F *represent**force*. 让(或译“设”)F表示力。
+2)Let F *representforce*. 让(或译“设”)F表示力。
 
 
 3)I saw the truck*stop*. 我看见那辆卡车停下来了。
@@ -10128,7 +9775,7 @@ to。例如：
 1)I *listened* *tothe engine make* *a noise*. 当时我倾听发动机发出闹声。
 
 
-2)I like* to look**at children swim*. 我喜欢观看小孩游泳。
+2)I like* to lookat children swim*. 我喜欢观看小孩游泳。
 
 
 注意有时介词后单独接“介词宾语+不定式”，以构成复合宾语。例如：Theweeds grow without *people to help*. 杂草是在无人照料情况下生长的。
@@ -10223,7 +9870,7 @@ chance(机会)，tendency(趋势、倾向)，determination(决心)，order(命
 2）Theastronauts may have to sit in the spacecraft for weeks. with
 
 
-very little *to**do* and no one *to talk with*. 宇航员也许得坐在宇宙飞船好几个星期，并且无所作为和无人可以交谈。
+very little *todo* and no one *to talk with*. 宇航员也许得坐在宇宙飞船好几个星期，并且无所作为和无人可以交谈。
 
 
 5. Thereis no key *with which* *to open the door*. (或…no key *to open the door with*. )没有能打开这扇门的钥匙。
@@ -10318,7 +9965,7 @@ C. “such或so+as+不定式”表示目的或结果状语(判别见第164页Ⅵ
 2. Weshall work *so hard as to overcome ourdiifficulties*. 我们将努力工作，以克服我们的困难。(目的状语)
 
 
-3. Water is reacted(或united)withmany of the oxides so readily *as to form*(或*yield*)*some**important compounds*. 水易于和许多氧化物起反应(或化合)，并形成一些重要的化合物。(结果状语)
+3. Water is reacted(或united)withmany of the oxides so readily *as to form*(或*yield*)*someimportant compounds*. 水易于和许多氧化物起反应(或化合)，并形成一些重要的化合物。(结果状语)
 
 
 4. Thesetwo compounds react in *such *a way *as to give* *offoxygen*. 这两个化合物按这种方式起反应，就能放出氧气。 (结果状语)
@@ -10395,13 +10042,13 @@ X. 注意“疑问词+不定式”在句中的功能(通常顶一个名词)：
 4. Theydid not tell us *whether to go on or to stop*. 他们没有告诉我们继续走还是停下来。(宾语)
 
 
-5. Wehad a useful discussion on the question of *how to repair thismachine**. *我们曾对如何修理这台机器的问题进行了有益的讨论。(介词宾语)
+5. Wehad a useful discussion on the question of *how to repair thismachine. *我们曾对如何修理这台机器的问题进行了有益的讨论。(介词宾语)
 
 
 6. Hewas at a loss as to *how to get rid oftrouble*. 他惊惶失措，不知如何摆脱窘境。(介词宾语)
 
 
-**三、关于“****for****或其它有关介词****+****名词****(****或代词****)+****不定式”结构和不定式动词的主动态及被动态表达方法**
+三、关于“for或其它有关介词+名词(或代词)+不定式”结构和不定式动词的主动态及被动态表达方法
 
 
 I. 用for+名词(或代词)宋表示不定式的行为逻辑主体：
@@ -10532,7 +10179,7 @@ III. 注意某些“动词+有关介词+介词宾语+不定式”本身是固定
 但是在“Ihave much work *to do*”中，就不能用不定式被动态tobe done代替。句中已出现发生动作的“I”是一个理由，正因为如此，不能再在不定式动词前面使用&quot;for+逻辑主语”结构。
 
 
-**四、不定式各种语法作用的判别。**
+四、不定式各种语法作用的判别。
 
 
 I. 根据不定式在句中的位置来进行判别：
@@ -10541,7 +10188,7 @@ I. 根据不定式在句中的位置来进行判别：
 A. 句子一开头就用不定式，后面主语和谓语完整不缺，这时不定式一般作目的状语用，但有时可能是插入语，极少数情况下可能是条件状语等。要根据上下文和短语含义进行判断。例如：
 
 
-1. *Torun* *a direct current motor**，*wemust connect it to a direct currentsource. 为了开动直流电机，我们必须把它接到直流电源上。(目的状语)
+1. *Torun* *a direct current motor，*wemust connect it to a direct currentsource. 为了开动直流电机，我们必须把它接到直流电源上。(目的状语)
 
 
 2. *Tosay the truth*，heis not equal to this task. 老实说，他不能胜任这项任务。(插入语)
@@ -10785,10 +10432,10 @@ B. 下面两句结构都是“so+as+不定式”：
 2. Hewants to pull out the nail，butwe prefer not *to*. 他想要拔掉这个钉子，但我们想还是不拔为宜。
 
 
-**-ing ****现在分词和动名词的用法和判别**
+-ing 现在分词和动名词的用法和判别
 
 
-**一、****-ing****的基本用法**
+一、-ing的基本用法
 
 
 I. “be+-ing+…”构成现在、过去、将来进行时主动态。(参阅第392～393页)
@@ -10955,7 +10602,7 @@ D. -ing(现在分词)短语作状语用，含有时间、原因、让步、方�
 1. *Passingthrough a liquid or solid*，soundis changed into heat. 声音通过液体或固体时，就转变为热。(时间状语)
 
 
-2. Themetal was cooled in the air，*havingbeen heated* *to a definite temperature* *in the**furnace*. 这种金属在炉子里加热到一定温度以后，就放在空气中冷却。(时间状语)
+2. Themetal was cooled in the air，*havingbeen heated* *to a definite temperature* *in thefurnace*. 这种金属在炉子里加热到一定温度以后，就放在空气中冷却。(时间状语)
 
 
 3. Heis standing there，*waitingfor an assignment*. 他正站在那边等待分配任务。(目的状语)
@@ -10983,7 +10630,7 @@ workeronly. 虽然自动锻压机重2，210吨，但只由一个工人操作。(
 语)
 
 
-7. Weincrease the length of the wire，*thus*(或*thereby*)*increasing**its resistance*. 我们增加导线的长度，从而增加了导线电阻。(thus或thereby后的-ing短语一般表示结果含义。)
+7. Weincrease the length of the wire，*thus*(或*thereby*)*increasingits resistance*. 我们增加导线的长度，从而增加了导线电阻。(thus或thereby后的-ing短语一般表示结果含义。)
 
 
 8. Somestudents came *running towards* *us*. 几个学生朝着我们方向跑来。(方式状语)
@@ -11120,10 +10767,10 @@ B. -ing或其短语在所修饰的名词的后面
 4. Thehouse *being built* will be our newlaboratory. 正在建筑中的这所房子将是我们的新实验室。
 
 
-5. Thisglass container，*having**a base* *of* 80 *cm*<SUP>2</SUP>，is15 cm high. 这只底面积为80厘米<SUP>2</SUP>的玻璃容器高15厘米。(分译也可)
+5. Thisglass container，*havinga base* *of* 80 *cm*<SUP>2</SUP>，is15 cm high. 这只底面积为80厘米<SUP>2</SUP>的玻璃容器高15厘米。(分译也可)
 
 
-6. Henryand his friend，*conversing**earnestly* *together*，ceasedas you approached. 亨利和他的朋友在热诚地谈话，当你走过去时，他们便不谈了。
+6. Henryand his friend，*conversingearnestly* *together*，ceasedas you approached. 亨利和他的朋友在热诚地谈话，当你走过去时，他们便不谈了。
 
 
 注1. 现在分词短语作后置定语时，若短语前后有标点符号和其它成分隔开，则为非限制性定语。上面最后两句中的现在分词短语就作非限制性定语。这种定语可理解为非限制性定语从句的紧缩形式。上两句中相应展开的非限制性定语从句分别为：“whichhas a base of 80 cm<SUP>2</SUP>”和“whowere conversing earnestly together”。这时前后逗号仍保留。
@@ -11201,7 +10848,7 @@ a *writing* desk 写字桌
 1. wesaw the train *coming towards the* *station*. (当时)我们看见火车正朝着车站开过来。
 
 
-2. Thoseconditions can’t have you *doing the**experiment*. 那些条件不能使你做这个实验。
+2. Thoseconditions can’t have you *doing theexperiment*. 那些条件不能使你做这个实验。
 
 
 Ⅶ. 注意“主语+动词+宾语+as+-ing”结构，这里-ing作宾语补语用：
@@ -11268,10 +10915,10 @@ a *writing* desk 写字桌
 Ⅺ. -ing(动名词)出现前用形式主语或形式宾语it的两种情况：
 
 
-1. *It*is no use *only learning theories without**practice*. 只学理论而不实践是没有用的。
+1. *It*is no use *only learning theories withoutpractice*. 只学理论而不实践是没有用的。
 
 
-2. Wethink *it* necessary *improving the production**process*. 我们认为改进生产过程是必要的。(形式宾语)
+2. Wethink *it* necessary *improving the productionprocess*. 我们认为改进生产过程是必要的。(形式宾语)
 
 
 注：详见“It用法和判别”(第183，184页)和第188页。
@@ -11347,19 +10994,19 @@ A. 带有-ing的独立分词结构
 8. Istood out of doors，*myhand*(*being*)*on his shoulder*. 我站在室外,一只手搭在他的肩膀上。(表示伴随动作)
 
 
-9. Sothe synthetic plastics industry was born,*other chemists**starting* *to* *synthesize many other useful plastics**of a similar type*. 于是合成塑料工业诞生，而其他化学家就开始合成相似类型的许多其它有用的塑料。(表示结果)
+9. Sothe synthetic plastics industry was born,*other chemistsstarting* *to* *synthesize many other useful plasticsof a similar type*. 于是合成塑料工业诞生，而其他化学家就开始合成相似类型的许多其它有用的塑料。(表示结果)
 
 
 B. 复合结构作主语、宾语、介词宾语(含“物主代词+-ing”作复合结构)
 
 
-1. *Some**companies working together* developed some new-type buildingmaterials. 几家公司协作，研制出一些新型的建筑材料。(复合结构作主语。)
+1. *Somecompanies working together* developed some new-type buildingmaterials. 几家公司协作，研制出一些新型的建筑材料。(复合结构作主语。)
 
 
 2. *Yourgoing there* won’t help much. 你们去那边，不一定会有多少帮助。(主语)
 
 
-3. Weregretted *him*(或*his*)*misunderstanding**us*. 我们由于他误解了我们而感到遗憾。(复合结构或宾语)
+3. Weregretted *him*(或*his*)*misunderstandingus*. 我们由于他误解了我们而感到遗憾。(复合结构或宾语)
 
 
 4. Pleaseexcuse *me*(或*my*)*interruptingyou*. 请原谅我打扰您。(同上)
@@ -11432,16 +11079,16 @@ C. 在withwithout后用“主谓”结构，表示伴随情况等，作状语。
 
 
 
-*experiments*(*having**been*)*carried* *out*，westarted new investigations. 这些实验完成了，我们就开始了新的研究。
+*experiments*(*havingbeen*)*carried* *out*，westarted new investigations. 这些实验完成了，我们就开始了新的研究。
 
 
 XV. 注意“名词或其词组+-ing”用作报刊或一幅画等的标题：
 
 
-**1****. ****Clintonvisiting China****克林顿正在中国访问**
+1. Clintonvisiting China克林顿正在中国访问
 
 
-**2****. ****PremierZhu talking with on old scientist****朱总理和一位老科学家谈话**
+2. PremierZhu talking with on old scientist朱总理和一位老科学家谈话
 
 
 XⅥ. -ing的名词化(第171页Ⅵ中的-ing也可视为名词化)
@@ -11542,7 +11189,7 @@ XX. -ing短语作同位语：
 *decomposing*作splittingup的同位语。)
 
 
-***二、******-ing******用法的判别***
+*二、-ing用法的判别*
 
 
 I. -ing语法功用的初步综合比较：(以cuttingmetal为例)
@@ -11641,10 +11288,10 @@ III. 现在分词短语作时间状语时，如果其动作一发生，谓语动
 2. Allpreparations *made*，westarted the experiment. 一切准备就绪，我们就
 
 
-开始做实验。(可以理解为*made*前省略*having**been*。但当动作紧凑时，常
+开始做实验。(可以理解为*made*前省略*havingbeen*。但当动作紧凑时，常
 
 
-省略*having**been*。)
+省略*havingbeen*。)
 
 
 Ⅳ. 句末“（thus或thereby）+-ing”结构常作结果状语。例如：
@@ -11672,7 +11319,7 @@ advantages，*thus*(或*thereby*)*suppresstinganother aspect of the truth*. 他�
 A. 由-ing引出从句
 
 
-l. Westand by the lathe *watching* *how* *it* *is**operated*. 我们站在车床旁边，看
+l. Westand by the lathe *watching* *how* *it* *isoperated*. 我们站在车床旁边，看
 
 
 着车床是如何操作的。(作状语的现在分词*watching*引出宾语从句。)
@@ -11726,7 +11373,7 @@ watt ofpower. 当电位差为l伏时流过1安培电流，其功率为l瓦。(�
 7. Oneof the ways is by distillation，whichinvolves *heating* *the* *solution* *until*
 
 
-*the* *pure**water* *evaporates*. 其中一种方法是采用蒸馏。蒸馏是将溶液加热，
+*the* *purewater* *evaporates*. 其中一种方法是采用蒸馏。蒸馏是将溶液加热，
 
 
 直到纯水蒸发出来。(状语从句，说明动名词短语*heatingthe solution*。)
@@ -11735,7 +11382,7 @@ watt ofpower. 当电位差为l伏时流过1安培电流，其功率为l瓦。(�
 8. Thesechanges are quite important in *understanding why gases are turned*
 
 
-*into**liquids*. 这些变化对于理解气体为何变成液体是很重要的。(动名词引
+*intoliquids*. 这些变化对于理解气体为何变成液体是很重要的。(动名词引
 
 
 出宾语从句。)
@@ -11826,7 +11473,7 @@ B. 在forget(忘记)，remember(记得)，stop(停止)等词后面的动词不�
 式和-ing动名词所表示的意义不同：
 
 
-1. a. He*forgot* *writing*(或*having**written*)the *letter*. 他忘记了写过那封信。
+1. a. He*forgot* *writing*(或*havingwritten*)the *letter*. 他忘记了写过那封信。
 
 
 (宾语。事实上他过去已写了那封信。)
@@ -11884,10 +11531,10 @@ b. Hemust remember *to send the video mail*. 他必须记住把这个语音邮�
 
 
 
-1）Shedidn’t endure *seeing*（或*to**see*）suchanimals cruelly treated. 那时她不忍去看这样一些动物受到残酷对待。
+1）Shedidn’t endure *seeing*（或*tosee*）suchanimals cruelly treated. 那时她不忍去看这样一些动物受到残酷对待。
 
 
-2）Ican’t bear *being*（或*to**be*）*laughed**at*. 我不能忍受被别人取笑。
+2）Ican’t bear *being*（或*tobe*）*laughedat*. 我不能忍受被别人取笑。
 
 
 C. 动词go后的动作若为表示运动游戏的非谓语动词，则一般用现在分
@@ -11917,10 +11564,10 @@ l. Itis *starting to snow*. 要开始下雪。
 (或煮开)。
 
 
-**Inside****和****Outside****的用法**
+Inside和Outside的用法
 
 
-**一、介词****inside****和****outside****分别作“在……里面”和“在……外面”讲，既可用于表示地点，又可表示界限、领域、范围等**
+一、介词inside和outside分别作“在……里面”和“在……外面”讲，既可用于表示地点，又可表示界限、领域、范围等
 
 
 Waitinside（*outside*）theoffice在办公室内(或外)等待；takEa trip
@@ -11950,7 +11597,7 @@ vocabulary（这些词）属于（或超出）大学生词汇量范围；bea chi
 （或*outside*）marriage（他）是婚内（或外）生的小孩 等
 
 
-**二、介词****inside****和****outside****跟有关动词搭配作“往里…”或“往外…”讲。**
+二、介词inside和outside跟有关动词搭配作“往里…”或“往外…”讲。
 
 
 come*inside* the information center 来到信息中心里面；go*outside* the 
@@ -11968,10 +11615,10 @@ computer center 往计算中心外面走；look*inside* the club 往俱乐部内
 
 
 
-**三、注意美国英语还可用****insideof****…****和****outsideof****…****分别表示“时间、**
+三、注意美国英语还可用insideof…和outsideof…分别表示“时间、
 
 
-**距离在……内或不足……”以及“在……外面或在……附近”的用法**
+距离在……内或不足……”以及“在……外面或在……附近”的用法
 
 
 walk *inside of *amile走路不足一英里；willbe back* inside of *an hour
@@ -11986,10 +11633,10 @@ walk *inside of *amile走路不足一英里；willbe back* inside of *an hour
 theschool（她）对校外的事一无所知；act*outside of* the law（他）行动违法等
 
 
-**四、同时注意****outside****和美国英语****outsideof****单独在句中作“除了…以外”**
+四、同时注意outside和美国英语outsideof单独在句中作“除了…以外”
 
 
-**讲**
+讲
 
 
 1. *Outside*（*of*）Jenney，thereis no one who can take over this task. 除了詹
@@ -12001,7 +11648,7 @@ theschool（她）对校外的事一无所知；act*outside of* the law（他）
 2. Hehas no hobbies *outside*（*of*）gardening. 除园艺外，他没有什么嗜好。
 
 
-**五、注意副词****inside****和****outside****的用法**
+五、注意副词inside和outside的用法
 
 
 1. Theywent inside（或*outside*）. 他们往里（往外）走了。
@@ -12031,7 +11678,7 @@ theschool（她）对校外的事一无所知；act*outside of* the law（他）
 部。
 
 
-**七、形容词****inside****和****outside****分别作“内部的”和“外部的”讲**
+七、形容词inside和outside分别作“内部的”和“外部的”讲
 
 
 an*inside*（或*outside*）diameter内径（或外径）；*inside*information内部情
@@ -12040,10 +11687,10 @@ an*inside*（或*outside*）diameter内径（或外径）；*inside*information�
 报；*outside*work室外工作等
 
 
-**Insteadof****和****Inplace of****的用法**
+Insteadof和Inplace of的用法
 
 
-**一、****insteadof****（复合介词）作“代替”、“而不是”讲**
+一、insteadof（复合介词）作“代替”、“而不是”讲
 
 
 注意这个复合介词后面不仅可接名词、代词，共至叮接形容词、副词、动词
@@ -12113,7 +11760,7 @@ acid. 做这个实验时，加上少量稀硫酸，而不是加浓硫酸。（�
 代。相当于…dilute，butnot concentrated sulfuric acid. ）
 
 
-**二、副词****instead****用法举例**
+二、副词instead用法举例
 
 
 The watt is a smallunit of power so（that）weuse the kilowatt *instead*. 
@@ -12122,7 +11769,7 @@ The watt is a smallunit of power so（that）weuse the kilowatt *instead*.
 瓦特是功率的小单位，因此我们使用千瓦代之。
 
 
-**三、****inplace of****（复合介词）作“代替”（****=insteadof****）讲**
+三、inplace of（复合介词）作“代替”（=insteadof）讲
 
 
 It is generally agreedthat we may use a computer *in place of *this device. 
@@ -12131,10 +11778,10 @@ It is generally agreedthat we may use a computer *in place of *this device.
 一般认为，我们可以用一台计算机代替这个装置。（可用*insteadof*代替）
 
 
-**It****的用法和判别**
+It的用法和判别
 
 
-**一、****It****的基本用法**
+一、It的基本用法
 
 
 I. it作人称代词，通常代替无生命的东西或前面所谈的事情或情
@@ -12296,7 +11943,7 @@ A. it作形式主语：
 7. Itmay surprise you *to know that many metals were used as early as*1,000
 
 
-*B**. **C*. 要是你知道早在公元前一千年就使用了许多金属，你也许会感到惊
+*B. C*. 要是你知道早在公元前一千年就使用了许多金属，你也许会感到惊
 
 
 奇。
@@ -12350,7 +11997,7 @@ feel，regard，find，tell，make，take，have（声称）等。
 而没有实践是无用的。
 
 
-3. Wehave made* it* clear *that agriculture is the* *foundation**of the* *national*
+3. Wehave made* it* clear *that agriculture is the* *foundationof the* *national*
 
 
 *economy*. 我们已说清楚了，农业是国民经济的基础。
@@ -12432,7 +12079,7 @@ C. 科技文章中常见的it作从句的先行代词时的固定句型举例：
 *known that*…众所周知…；*Ithappened that*…碰巧…；*Itis certain that*…
 
 
-肯定的是…[不能用sure代替]；*Itis doubtful that*…人们怀疑的是…*；**It*
+肯定的是…[不能用sure代替]；*Itis doubtful that*…人们怀疑的是…*；It*
 
 
 *wassurprising*（或*amazing*，*astonishing*）*that*…（当时）令人惊讶的是…；*It*
@@ -12505,7 +12152,7 @@ C. 强调状语或状语从句：[原句]After1978 their families began a new
 life. 1978年以后，他们的家庭开始了新的生活。
 
 
-1. [强调句]*It**was* after 1978 *that* their families began a new life. 正是在
+1. [强调句]*Itwas* after 1978 *that* their families began a new life. 正是在
 
 
 1978年以后，他们的家庭开始了新的生活。（强调时间状语）
@@ -12712,7 +12359,7 @@ time. 不论你听到的是什么（消息），你必须及时告诉他。
 
 
 
-**二、****It****的用法和判別**
+二、It的用法和判別
 
 
 Ⅰ. 如果it是人称代词，一般是代替前面的单数名词。只有在极少数情况
@@ -12793,10 +12440,10 @@ on at universitycampuses. 正是那些自己没有上过大学而目前正在送
 语。
 
 
-**Least****（包括作“最不…”讲）的用法**
+Least（包括作“最不…”讲）的用法
 
 
-**一、****least****是****little****（小；少）的最高级，作形容词或副词用**
+一、least是little（小；少）的最高级，作形容词或副词用
 
 
 l. Silverhas the *least* resistance of the metals. 在这些金属中间，银的电阻最
@@ -12818,7 +12465,7 @@ l. Silverhas the *least* resistance of the metals. 在这些金属中间，银�
 3. Ithappened just when I *least* expected it. 那件事就在我最没有想到的时候发生了。
 
 
-**二、****“****least+****形容词或副词****’’****构成劣等最高级，作****“****最不****……”****讲**
+二、“least+形容词或副词’’构成劣等最高级，作“最不……”讲
 
 
 1. Thisis *the least* expensive method. 这是最不费钱的方法。
@@ -12830,7 +12477,7 @@ l. Silverhas the *least* resistance of the metals. 在这些金属中间，银�
 3. Shehas *not* the *least* experience. 她毫无经验。(注意notthe least…作“丝毫无…”讲，由“连最少的…都没有”引申过来。)
 
 
-**三、名词****least****及其常用词组用法举例**
+三、名词least及其常用词组用法举例
 
 
 1. Ahas little，Bhas less，andC has(*the*)*least*. 甲没有多少，乙更少，而丙最少。
@@ -12848,10 +12495,10 @@ l. Silverhas the *least* resistance of the metals. 在这些金属中间，银�
 5. Ihave dode thus and so，*tosay the least* *of it*. 至少可以这样说(或退一步说)，我已如此这般做了。(斜体字为插入语。)
 
 
-**Less(****包括作“较不…”讲****)****的用法**
+Less(包括作“较不…”讲)的用法
 
 
-**一、****less****是****little(****小；少****)****的比较级**
+一、less是little(小；少)的比较级
 
 
 1. Hespends *less* time(in)doing experiments. 他做实验花时间较少。
@@ -12888,7 +12535,7 @@ l. Silverhas the *least* resistance of the metals. 在这些金属中间，银�
 就不想学了。（原义为：他不因为英语难而不怎么学。）
 
 
-**二、“****less+****形容词或副词”构成劣等比较，作“较不…”讲**
+二、“less+形容词或副词”构成劣等比较，作“较不…”讲
 
 
 1. Itis *less warm* than（itwas）1astweek. 天气不如上周那样暖和。
@@ -12897,10 +12544,10 @@ l. Silverhas the *least* resistance of the metals. 在这些金属中间，银�
 2. Hestudies English *less hard* than before. 他学英语不如以前那样努力。
 
 
-**三、“****noless+****形容词或副词”本义为“绝不****+****有关形容词或副词的反**
+三、“noless+形容词或副词”本义为“绝不+有关形容词或副词的反
 
 
-**义词”。**
+义词”。
 
 
 1. *noless small*绝不大（这里smau的反义词为“大”），noless slowly绝不快，
@@ -12921,7 +12568,7 @@ no less long绝不短等
 很努力。现在他学习也绝不差劲。
 
 
-**四、****less****作名词用，表示“较少量”、“较少数”之意**
+四、less作名词用，表示“较少量”、“较少数”之意
 
 
 1. Theydesigned a couple of new-type air conditioners in* less than *ayear. 他
@@ -12933,7 +12580,7 @@ no less long绝不短等
 2. *Lessthan *ten of the thermometers remain. 这些温度计剩下来的不到十支。
 
 
-**五、****less****作介词，当“不足”、“还差”讲**
+五、less作介词，当“不足”、“还差”讲
 
 
 1. Five*less* two leaves three. 五减去二余三。
@@ -12948,7 +12595,7 @@ no less long绝不短等
 云V<SUB>A</SUB>。
 
 
-**六、带有****less****的一些常用词组用法举例**
+六、带有less的一些常用词组用法举例
 
 
 1. a. HeWill be studying *more or less* a Week。他将学习一星期左右。
@@ -12980,7 +12627,7 @@ d. Itis *neither more nor less* a lie. 那是十足的谎言。（斜体字部�
 
 
 
-用说西班牙语了。(注意只用于否定句。第二部分也可改用下列三个短语中的任一个短语：*tosay nothing* *of Spanish*，*not**to* *speak* *of* Spanish或*notto mention Spanish*. )
+用说西班牙语了。(注意只用于否定句。第二部分也可改用下列三个短语中的任一个短语：*tosay nothing* *of Spanish*，*notto* *speak* *of* Spanish或*notto mention Spanish*. )
 
 
 注1：在肯定句中要用more代替其中的less。例如：Ilike chemistry，*muchmore*(或*stillmore*)physics，我喜欢化学，而更喜欢物理。
@@ -13001,10 +12648,10 @@ d. Itis *neither more nor less* a lie. 那是十足的谎言。（斜体字部�
 注2：最后再强调一点：lesser不是little的比较级。little(形容词兼副词)的比较级应该用less。但lesser(“较小的”、“次要的”)大多用作定语。例如：a1esscr river(小河)，alesser nation(小国)等。lesser也可用以修饰形容词。例如：alesser-known modern poet(一位名望较小的现代诗人)等。
 
 
-**Lest****，****Incase****和****Forfear that****引出从句的用法**
+Lest，Incase和Forfear that引出从句的用法
 
 
-**一、连词****lest****引出消极的目的状语从句，谓语中包含****should(****体现虚拟语气****)****，并且还可省略**
+一、连词lest引出消极的目的状语从句，谓语中包含should(体现虚拟语气)，并且还可省略
 
 
 1. We’llhave to use a new-type computer *lest *the production(should)beout of order. 我们将不得不使用新型计算机，免得生产发生故障。
@@ -13013,7 +12660,7 @@ d. Itis *neither more nor less* a lie. 那是十足的谎言。（斜体字部�
 2. Hemust run fast *lest* he(should)miss the train. . 他必须快跑，免得赶不上火车。
 
 
-**二、可用****forfear that****和****incase****等来代替****lest**
+二、可用forfear that和incase等来代替lest
 
 
 1. Helocked up the document *for fear that* *it*(*should*)*bestolen*. 他把文件锁好了，免得被窃。(也可用lest代之。)
@@ -13041,7 +12688,7 @@ d. Itis *neither more nor less* a lie. 那是十足的谎言。（斜体字部�
 拟语气，并且这个should往往还可省略。
 
 
-**三、****lest****用于****fear****，****afraid****，****worried****等词后连接一个从句**
+三、lest用于fear，afraid，worried等词后连接一个从句
 
 
 1. Iam ahaid(或worried)*lest*(=*that*)*heshould get here too late*. 我怕(或担心)他到达这里太晚. (还可用*in*(*mortal*)*fear*代替*afraid*。)
@@ -13050,10 +12697,10 @@ d. Itis *neither more nor less* a lie. 那是十足的谎言。（斜体字部�
 2. Bythe cnd of 1956 she had waited for you ten years in sore fear *lestyou had died*. 到1956年底，她已经等了你十年之久，生怕你已死去。
 
 
-**Like****的搭配用法**
+Like的搭配用法
 
 
-**一、动词****like****作“喜欢”、“喜爱”讲**
+一、动词like作“喜欢”、“喜爱”讲
 
 
 1. I*like* this type of computer best. 我最喜欢这种型式的计算机。
@@ -13062,13 +12709,13 @@ d. Itis *neither more nor less* a lie. 那是十足的谎言。（斜体字部�
 2. we*would like* to visit your special economic zone. 我们很愿意访问你们的经济特区。
 
 
-**二、介词****like****作****“****像****…”****、****“****跟****…****一样****”****讲**
+二、介词like作“像…”、“跟…一样”讲
 
 
 act(或do，study，work)*like*that(他将)那样行动(或做、学习、工作)；look*like*…(他)看上去像(一个老头即anold man)，(他们)看样子要(赢即winning)；Itlooks *like* rain(或snow). 看来要下雨(或雪)。Thesepatients look more *like* themselves again. 这些病人看来恢复健康。Fcel*like* going to the cinema(她)想要去看电影；Itfeels *like* some kind of metal. 它摸起来像是某种金属。sound*like*…(你)说话声音像(你的父亲即yourfather)；taste*like*…(它)味道像(牛奶即milk)；Hisoptical computer is *like* mine. 他的光计算机和我的很相像。Whatis the weather(或room等)*like*?天气(或房间等)怎样?Shestudies hard Subjects *like* mathematics，chemistry，physicsand English. 她努力学习像数学、化学、物理和英语那样一些课程。
 
 
-**三、形容词****like****作****“****相像的、相似的****”****讲**
+三、形容词like作“相像的、相似的”讲
 
 
 be very*like*(你和他)长相很像，(这两幢房子)很相似；geta *like* amount of…得到相同数量的(牛奶、面包即milkand bread等)；workander *like *conditions在同样条件下工作等
@@ -13083,7 +12730,7 @@ be very*like*(你和他)长相很像，(这两幢房子)很相似；geta *like* 
 
 
 
-**四、名词****like****作****“****同样的东西****”****、****“****同类的事情****’’****讲**
+四、名词like作“同样的东西”、“同类的事情’’讲
 
 
 1. Wedid not hear the *like* of it from that timeon. 从那时起我们没有听见过同类的事情。
@@ -13095,7 +12742,7 @@ be very*like*(你和他)长相很像，(这两幢房子)很相似；geta *like* 
 3. Itis the atoms that make up iron，water，oxygenand the *like*(或andother或andother things）是原子构成了铁、水、氧等。、（原义为“…氧和诸如此类的其它东西”。)
 
 
-**五、连词****like****作“如同”、“好像”讲**
+五、连词like作“如同”、“好像”讲
 
 
 1. Wavesin water move *like* the waveform moves along arope. 波在水中移动就像波形沿着绳子移动一样。
@@ -13105,10 +12752,10 @@ be very*like*(你和他)长相很像，(这两幢房子)很相似；geta *like* 
 
 
 
-**Little****和****ALittle ****以及****Few****和****Few****和****AFew****用法差异**
+Little和ALittle 以及Few和Few和AFew用法差异
 
 
-**一、****little****作****“****少量****”****讲。它和****alittle****都可用于不可数名词，作定语、宾语、程度状语。****alittle****表示肯定意义，意思是****“****一些****&quot;****；****little****表示否定意义，意思是****“****很少****”****、****“****没有多少****”****、****“****几乎没有****”**
+一、little作“少量”讲。它和alittle都可用于不可数名词，作定语、宾语、程度状语。alittle表示肯定意义，意思是“一些&quot;；little表示否定意义，意思是“很少”、“没有多少”、“几乎没有”
 
 
 1. a. Thereis *a little* water there. 那儿有一些水。(定语)
@@ -13147,7 +12794,7 @@ d. Shesleptz~erylittlelast m. ght. 她昨晚睡得很少。(状语)
 
 
 
-**二、****(****主语****)little****算否定词，用于反义疑问句时，注意前后谓语一负一正的相互关系。作状语用于句首时，后面主、谓语要颠倒**
+二、(主语)little算否定词，用于反义疑问句时，注意前后谓语一负一正的相互关系。作状语用于句首时，后面主、谓语要颠倒
 
 
 1. Thereis *little* water in the thermos flask，*isthere*?热水瓶里没有水，是不是?(句末不能用“*isn*’*tthere*”)
@@ -13159,13 +12806,13 @@ d. Shesleptz~erylittlelast m. ght. 她昨晚睡得很少。(状语)
 注：当否定词little本身作主语时，这时主、谓语就不颠倒。见上述第一项第4句。
 
 
-**三、****little****作形容词“小的”讲，和****small****意思相近，但****small****单纯表示尺寸“小的”、而****little****除表示“小”以外。还带有一定的主观感情色彩。例如：**
+三、little作形容词“小的”讲，和small意思相近，但small单纯表示尺寸“小的”、而little除表示“小”以外。还带有一定的主观感情色彩。例如：
 
 
 many *little things*of life许多生活小事，*alittle* present一件小礼物，*thelittle* dog这条小狗，the*little* people in society社会上的小人物，these*little *problems这些小问题，that*little* red rose那朵小的红玫瑰等
 
 
-**四、与****little****搭配的常用短语**
+四、与little搭配的常用短语
 
 
 *little* by*little*一点点地或逐渐地；no*less* than(=at least)5 miles决不少于五英里或至少五英里；nota *little*…不少或相当多(糖、经验)等
@@ -13180,7 +12827,7 @@ many *little things*of life许多生活小事，*alittle* present一件小礼物
 2)They are *not a bit*tired. 他们一点不累。
 
 
-**五、****few****和****afew****都用于可数名词之前。****afew(****少数几个****)****表示肯定概念，意思是“虽少但仍有一些”****few****则表示否定概念，意思是“不多”，“没有多少”。两者都可用作主语、宾语和定语等**
+五、few和afew都用于可数名词之前。afew(少数几个)表示肯定概念，意思是“虽少但仍有一些”few则表示否定概念，意思是“不多”，“没有多少”。两者都可用作主语、宾语和定语等
 
 
 1. Wehave *a few* to words to say about this matter. 我们对这件事有几句话要说。(定语)
@@ -13205,10 +12852,10 @@ many *little things*of life许多生活小事，*alittle* present一件小礼物
 
 
 
-**Many****和****Much****的用法**
+Many和Much的用法
 
 
-**一、****many****和****much****都作****“****许多****”****讲，但****many****用于修饰可数名词，而****much****修饰不可数名词**
+一、many和much都作“许多”讲，但many用于修饰可数名词，而much修饰不可数名词
 
 
 1. Inour view，Chinahas *many* oil fields. 在我们看来，中国有许多油田。
@@ -13217,7 +12864,7 @@ many *little things*of life许多生活小事，*alittle* present一件小礼物
 2. Thereis *much natural gas* *in the west* *of China*. 中国西部有许多天然气。
 
 
-**二、代词****many****和名词****much****用法举例**
+二、代词many和名词much用法举例
 
 
 1. *Many*of us were too tired to go further. 我们中间有许多人那时累得不能再接着走了。
@@ -13232,7 +12879,7 @@ many *little things*of life许多生活小事，*alittle* present一件小礼物
 注：manyof和muchof后要用定冠词；若接代词或专门名词，则就不必用the。
 
 
-**三、****“****much(****或****far)+****比较级****”****或****“****much(****或****far)+too+****原级****”****分别作****“…****得多’和“远为太…”之意讲**
+三、“much(或far)+比较级”或“much(或far)+too+原级”分别作“…得多’和“远为太…”之意讲
 
 
 1. Thesun is* much* greater than the moon. 太阳比月亮大得多。
@@ -13253,7 +12900,7 @@ many *little things*of life许多生活小事，*alittle* present一件小礼物
 has *many* moreEnglish books than I do. 她的英语书比我多得多。(意译)
 
 
-**四、副词****much****修饰动词、过去分词时作****“****十分****”****讲**
+四、副词much修饰动词、过去分词时作“十分”讲
 
 
 1. Weall love China *very much*. 我们大家都非常热爱中国。(不能用*very*代替*verymuch*。)
@@ -13273,7 +12920,7 @@ has *many* moreEnglish books than I do. 她的英语书比我多得多。(意译
 am very pleased. 我非常高兴。)
 
 
-**五、含有****many****或****much****的常用固定短语举例**
+五、含有many或much的常用固定短语举例
 
 
 1. *agreat*(或*good*)*many*+可数名词复数 许多(学生、学校等)
@@ -13291,7 +12938,7 @@ am very pleased. 我非常高兴。)
 5. Younever get *as much* useful work out of a machine *as* youput into it. 你从机器得到的有效功，永远不会等同于你输入的功。
 
 
-6. Onthe moon itself the force of gravitation is one sixth *as much**as *it is on the earth，在月球上重力是地球的六分之一。
+6. Onthe moon itself the force of gravitation is one sixth *as muchas *it is on the earth，在月球上重力是地球的六分之一。
 
 
 7. Ihave twice *as many* books *as* be. 我有的书是他有的两倍。(指比他有的书
@@ -13330,7 +12977,7 @@ am very pleased. 我非常高兴。)
 注2：“manya+可数名词单数”用法特殊，举例如下：
 
 
-1. *Many**a teacher* often *shows* concern for us. *Hewants* us to make progress
+1. *Manya teacher* often *shows* concern for us. *Hewants* us to make progress
 
 
 everyday. 许多老师经常关心我们。他们要我们天天进步。（注意谓语用第
@@ -13355,10 +13002,10 @@ everyday. 许多老师经常关心我们。他们要我们天天进步。（注�
 近义短语颇多，详见第497～499页。
 
 
-**May****的主要用法**
+May的主要用法
 
 
-**一、****may****作“可以”解，表示许可；否定式是****mustnot(‘‘****不准”****)****或****maynot(“****不可”****)**
+一、may作“可以”解，表示许可；否定式是mustnot(‘‘不准”)或maynot(“不可”)
 
 
 1. *May*I use this instrument to measure?我可以用这个仪器来测量吗?
@@ -13373,7 +13020,7 @@ everyday. 许多老师经常关心我们。他们要我们天天进步。（注�
 4. You*may *not operate the multimedia computer likethat. 你不可那样操作那台多媒体计算机。
 
 
-**二、****may****作“或许”、“也许”解，表示可能性；否定式****maynot****作“也许不”、“或许不”讲**
+二、may作“或许”、“也许”解，表示可能性；否定式maynot作“也许不”、“或许不”讲
 
 
 1. Aman’s ability *may* be great or small.一个人能力有大小。
@@ -13391,7 +13038,7 @@ everyday. 许多老师经常关心我们。他们要我们天天进步。（注�
 5. She*may* be buying an IC telephone card. 她也许在买一张IC卡(或电话磁卡)。
 
 
-**三、****may****用于目的从句**
+三、may用于目的从句
 
 
 1. Heworks and studies hard that(或sothat，或inorder that)he *may* serve thc people better. 为了更好地为人民服务，他刻苦学习和工作。
@@ -13400,7 +13047,7 @@ everyday. 许多老师经常关心我们。他们要我们天天进步。（注�
 2. Cablesare usually laid underground that their life *may *be prolonged. 电缆通常铺设在地下，为的是延长使用期限。
 
 
-**四、****may****用于让步从句**
+四、may用于让步从句
 
 
 1. wemust fulfil our task，howeverdifficult it *may* be. 无论我们的任务如何艰巨，我们一定要完成它。
@@ -13423,7 +13070,7 @@ everyday. 许多老师经常关心我们。他们要我们天天进步。（注�
 3. whatever*may* happen，weare determined to do this work. 无论发生什么事情，我们下定决心去做这项工作。
 
 
-**五、****may****用于条件句或假设句里**
+五、may用于条件句或假设句里
 
 
 1. Ifhe arrives here，*hemay* come to help us. 如果他到达这里，他也许来帮助我们。(真实条件句)
@@ -13432,7 +13079,7 @@ everyday. 许多老师经常关心我们。他们要我们天天进步。（注�
 2. Ifhe should need this home computer，he*may* use。如果他万一需要这台家用计算机，他可以使用它。(假设句)
 
 
-**六、“****may+have+****过去分词”表示现在对过去事物的推断**
+六、“may+have+过去分词”表示现在对过去事物的推断
 
 
 1. They*may* have tried every means. 他们那时也许试用了各种方法。(或译“……各种手段。”)
@@ -13459,7 +13106,7 @@ everyday. 许多老师经常关心我们。他们要我们天天进步。（注�
 B：“Idon’t know. She*may* have got lost. ”乙：‘‘我不知道。她也许迷路了。”
 
 
-**七、“****maywell+****动词”和“****andwell+****主语****+may”****用法举例在本句型中****well****按****withgood reason(****有充分理由****)****或****reasonably(****有理地****)****去理解，就易于记住本句型用法**
+七、“maywell+动词”和“andwell+主语+may”用法举例在本句型中well按withgood reason(有充分理由)或reasonably(有理地)去理解，就易于记住本句型用法
 
 
 1. He*may well* be proud of his success。他有理由为他的成功而自豪。
@@ -13481,7 +13128,7 @@ B：“Idon’t know. She*may* have got lost. ”乙：‘‘我不知道。她�
 
 
 
-**八、****“****主语****+mayaswell+****动词****+****比喻体****+as+****动词原形****+****本体****”****用法。这是比较特殊的连接比喻的方式，一般可译为****“****不妨****”****或****“****不如****”****，含消极口吻，不如****wouldrather…(****宁愿****…****)****或****hadbetter****…****”(****最好****…****)****具有积极语气**
+八、“主语+mayaswell+动词+比喻体+as+动词原形+本体”用法。这是比较特殊的连接比喻的方式，一般可译为“不妨”或“不如”，含消极口吻，不如wouldrather…(宁愿…)或hadbetter…”(最好…)具有积极语气
 
 
 1. You*may as well* call a cat a little tiger *as* call a tiger abig cat. 你可以把虎叫做大猫，同样也无妨可把猫叫做小老虎。
@@ -13496,10 +13143,10 @@ B：“Idon’t know. She*may* have got lost. ”乙：‘‘我不知道。她�
 的用法。例如：We*may as well* set out on our travels. 我们最好出发去旅行。
 
 
-**Might****的主要用法**
+Might的主要用法
 
 
-**一、****might****作****“****可以****”****讲：****1****. ****may****的过去时；****2****. 虽指现在时，但口气谦虚、婉转，属虚拟语气用法之一**
+一、might作“可以”讲：1. may的过去时；2. 虽指现在时，但口气谦虚、婉转，属虚拟语气用法之一
 
 
 1. Iasked him whether I *might* use his mobilephone. 我曾问他，我是否可以使用他的移动电话?
@@ -13508,7 +13155,7 @@ B：“Idon’t know. She*may* have got lost. ”乙：‘‘我不知道。她�
 2. *Might*I borrow your poeket calculator?我可以借用你的袖珍计算器吗?
 
 
-**二、****might****作****“****也许****”****、****“****或许****”****讲，表示可能性：****1****. 用于过去时；****2****. 虽指现在时，但对所推断的事情把握不大**
+二、might作“也许”、“或许”讲，表示可能性：1. 用于过去时；2. 虽指现在时，但对所推断的事情把握不大
 
 
 1. Theytold me that they *might* come. 他们告诉我说，他们或许来。
@@ -13523,10 +13170,10 @@ B：“Idon’t know. She*may* have got lost. ”乙：‘‘我不知道。她�
 4. Yououghtn’t to have driven that car with the brakes out0f order.You*might* have had a serious aceident. 你本来就不该驾驶那辆刹车失灵的汽车。你会出严重车祸的。
 
 
-**三、****might****用于目的从句。如果主句的谓语动词是过去时，目的状语从句**
+三、might用于目的从句。如果主句的谓语动词是过去时，目的状语从句
 
 
-**的谓语动词用****&quot;might****十原形动词”**
+的谓语动词用&quot;might十原形动词”
 
 
 1. Hetaught you English(so)that you *might* serve the peoplebetter. (当时)他教你们英语，是为了你们可更好地为人民服务。
@@ -13545,13 +13192,13 @@ B：“Idon’t know. She*may* have got lost. ”乙：‘‘我不知道。她�
 下厂，以便理论结合实践。
 
 
-**四、****might****用于让步从句。如果主句的谓语动词是过去时，从句的谓语动词用“****might+****原形动词”**
+四、might用于让步从句。如果主句的谓语动词是过去时，从句的谓语动词用“might+原形动词”
 
 
 Whatever *might*happen，theywere determined to do the work. 无论发生什么事情。当时他们都下定决心去做那项工作。
 
 
-**五、****might****用于条件句或假设句，包括用于过去未实现的动作**
+五、might用于条件句或假设句，包括用于过去未实现的动作
 
 
 1. Ifhe arrived here yesterday，he*might* go to help them. 如果他昨天到达这里，他也许去帮助他们。(真实条件句)
@@ -13569,7 +13216,7 @@ Whatever *might*happen，theywere determined to do the work. 无论发生什么�
 5. Themachine *might have* *passed*(或*stood*)thetest. 该机器本可早已检查合格。(实际上过去未实现。)
 
 
-**六、****“****主语****+mightas well+****动词****+****比喻体，****as+****动词原形****+****本体****”****用法。这是一种比较特殊的连接比喻的方式，一般可译为“正如不能…一样，也不能****…”**
+六、“主语+mightas well+动词+比喻体，as+动词原形+本体”用法。这是一种比较特殊的连接比喻的方式，一般可译为“正如不能…一样，也不能…”
 
 
 1. Youmight as well expect the sun to rise in the west as expect us toChange our plan. 你不能使我们改变计划，正如不能使太阳从西方升起一样。
@@ -13584,10 +13231,10 @@ Whatever *might*happen，theywere determined to do the work. 无论发生什么�
 3. Ifyou had others do your sum，you*might* *as well* have them eat yourlunch. (如果)你要别人代做算术，何不叫别人代你吃饭呢!
 
 
-**More****以及形容词和副词比较级的用法及注意点**
+More以及形容词和副词比较级的用法及注意点
 
 
-**一、****more****是****many****，****much****的比较级**
+一、more是many，much的比较级
 
 
 1. Hehas *mote* e-mails than I(have). 他的电子邮件比我多。
@@ -13608,7 +13255,7 @@ Whatever *might*happen，theywere determined to do the work. 无论发生什么�
 4. Thebeauty of the place is *more* than I can describe. 这地方风景之美非我所能描绘。‘
 
 
-**二、注意****&quot;much(****或****many****，****alittle****，****afew****或具体数字等****)+more”****的用法。这时****more****前面的不定数或具体数字表示比原有的多出的数量**
+二、注意&quot;much(或many，alittle，afew或具体数字等)+more”的用法。这时more前面的不定数或具体数字表示比原有的多出的数量
 
 
 1. Weneed *much more* help than you. 我们比你们需要多得多的帮助。
@@ -13641,13 +13288,13 @@ Whatever *might*happen，theywere determined to do the work. 无论发生什么�
 10. Thereis hardly *any more*. 差不多没有了。(原句直译为：几乎再没有任何什么了。)
 
 
-**三、名词****more****的用法**
+三、名词more的用法
 
 
 Do you need a little*more* of this milk?这种奶你是否还需要一点?
 
 
-**四、“副词****more+****形容词或副词”构成比较级的用法**
+四、“副词more+形容词或副词”构成比较级的用法
 
 
 1. Hetreats this substance with the acid *more carefully* thanbefore. 他比以前更小心地用酸来处理这种物质。
@@ -13684,7 +13331,7 @@ l. Heis *no more* a teacher *than* we are. 他不是教师，如同我们不是�
 注：than后面的文字表面上具有肯定的形式，但其含义仍属否定。翻译时要特别注意。
 
 
-**六、带有****more****的一些常用词组**
+六、带有more的一些常用词组
 
 
 1. Haveyou *any more* paper？你还有纸吗？
@@ -13763,13 +13410,13 @@ twentyyears. 在最近20年中该城市人口已增加一（或两）倍多。�
 
 
 
-**Most****以及形容词和副词最高级的用法和注意点**
+Most以及形容词和副词最高级的用法和注意点
 
 
-**一、“****the+****形容词或副词最高级****+****比较范围（有时可不表示出）”用于**
+一、“the+形容词或副词最高级+比较范围（有时可不表示出）”用于
 
 
-**三个以上的人或事物之间进行比较。副词最高级一般不用****the**
+三个以上的人或事物之间进行比较。副词最高级一般不用the
 
 
 1. Whohas* the most* books？谁的书最多？
@@ -13887,10 +13534,10 @@ industrial]y. 铁碳合金是工业上使用的最重要的合金。
 速度就是自由落体的加速度。
 
 
-**三、形容词最高级前面没有****the****，不表示比较，而只作“非常”或“在很大程**
+三、形容词最高级前面没有the，不表示比较，而只作“非常”或“在很大程
 
 
-**度上”讲，但作表语时，若不和别人、别物相比，常不用****the****，仍作“最……”讲**
+度上”讲，但作表语时，若不和别人、别物相比，常不用the，仍作“最……”讲
 
 
 1. Itis *a most important* problem. （=Itis *a very important* problem. ）这是
@@ -13923,7 +13570,7 @@ industrial]y. 铁碳合金是工业上使用的最重要的合金。
 题. （出现物主代词时，最高级形容词前面的the就不再使用。）
 
 
-**四、****most****的单独使用**
+四、most的单独使用
 
 
 most后面用副词或形容词，才构成最高级。单个most有时作many和
@@ -13996,22 +13643,22 @@ a stationary beltbetween a steam engine and a machine to be driven. 大多
 注：most作“大多数”、“大部分”讲时，前面不加the。
 
 
-**五、注意****-most****在词尾构成形容词最高级**
+五、注意-most在词尾构成形容词最高级
 
 
 innermost最内部的，rearmost最后面的，uppermost最上的等
 
 
-**must****的主要用法**
+must的主要用法
 
 
-**一、情态动词****must****作“必须“讲，和****haveto****，****needto****近义。否定式用****need**
+一、情态动词must作“必须“讲，和haveto，needto近义。否定式用need
 
 
-**not****（或****needn’t****），作“不必”讲。若用****mustnot(****或****mustn’t)****，则作“不可以”、“不**
+not（或needn’t），作“不必”讲。若用mustnot(或mustn’t)，则作“不可以”、“不
 
 
-**准”讲，有“禁止”的含义**
+准”讲，有“禁止”的含义
 
 
 1. we*must *become one with the people. 我们必须和群众打成一片。
@@ -14032,7 +13679,7 @@ innermost最内部的，rearmost最后面的，uppermost最上的等
 4. You*must not* set fire to these materials. 你不可焚烧这些材料。
 
 
-**二、****must****作“一定”、“准是”讲，表示推断**
+二、must作“一定”、“准是”讲，表示推断
 
 
 1. Thisconclusion* must* be correct。这个结论一定是正确的。
@@ -14066,10 +13713,10 @@ innermost最内部的，rearmost最后面的，uppermost最上的等
 注：“must+完成式动词”表示对过去情况的推断，参阅上述第4，5句。
 
 
-**三、用于过去时和将来时，一般以****hadto****和****willhave to****代替****must****，只是**
+三、用于过去时和将来时，一般以hadto和willhave to代替must，只是
 
 
-**偶尔用****must**
+偶尔用must
 
 
 1. You*had *to set your house in order yesterday. 昨天你应该把你屋子收拾
@@ -14120,10 +13767,10 @@ haveto。此外，由于理论推测或循自然规律而产生什么结果，�
 4. You*mustn*’*t* do that. 你不可做那种事。（表示命令或禁止）
 
 
-**名词或其短语作前置定语及其新发展**
+名词或其短语作前置定语及其新发展
 
 
-——**夹带介词短语的名词性词组作前置定语**
+——夹带介词短语的名词性词组作前置定语
 
 
 在英语中，名词直接放在名词前作定语是常见的现象。例如：qualitysteel
@@ -14144,7 +13791,7 @@ haveto。此外，由于理论推测或循自然规律而产生什么结果，�
 有力。
 
 
-**一、名词作定语的几种情况和判别**
+一、名词作定语的几种情况和判别
 
 
 I. 单个或多个名词作名词或其相应词组的定语。例如：
@@ -14177,7 +13824,7 @@ II. 名词性词组作单个名词的定语。例如：
 the *optical disc*library光盘库，the*iron and steel* industry钢铁工业，the
 
 
-*left luggage*office行李寄存处，*workdone* factor作功系数，a*Ph**. **D**. *student
+*left luggage*office行李寄存处，*workdone* factor作功系数，a*Ph. D. *student
 
 
  a *Doctor ofPhilosophy* student博士生 等
@@ -14435,10 +14082,10 @@ the leather goodsdepartment皮革制品部；theUnited Nations Organization
 联合国组织 等
 
 
-**二、名词作前置定语的新发展****—****—夹带介词短语的名词性词组作前置定**
+二、名词作前置定语的新发展——夹带介词短语的名词性词组作前置定
 
 
-**语**
+语
 
 
 Asia *by car*lnc. 亚洲汽车旅行公可；Bush*State of Union* Address布什的
@@ -14514,13 +14161,13 @@ can-eat Italian gourmetbuffet. 请享受一顿你能品尝各种意大利美味�
 自助餐。
 
 
-**Near****的用法**
+Near的用法
 
 
-**一、形容词****near****作表语，表示“空间或时间靠近或临近”之意，而作定语**
+一、形容词near作表语，表示“空间或时间靠近或临近”之意，而作定语
 
 
-**时则表示“近的”或“亲近的”**
+时则表示“近的”或“亲近的”
 
 
 1. Ourshool is *near* from here. 我校离这里很近。
@@ -14541,7 +14188,7 @@ b. Thecapital shortage was *near* to ruining our boss. （当时）资金短缺�
 乎使我们的老板破产。
 
 
-**二、介词****near****表示“在…附近”或“靠近…”，仍可用于地点时间方面**
+二、介词near表示“在…附近”或“靠近…”，仍可用于地点时间方面
 
 
 1. Pleasestand *near* your dad. 请站在你爸爸身旁。
@@ -14600,10 +14247,10 @@ b. Thecapital shortage was *near* to ruining our boss. （当时）资金短缺�
 2）Henever goes* near*a dancing hall. 他从来不去舞厅。
 
 
-**三、副词****near****表示“附近、临近、近乎、几乎”之意。注意有时“****near+****形**
+三、副词near表示“附近、临近、近乎、几乎”之意。注意有时“near+形
 
 
- **容词”前面使用****somewhere****，****anywhere****或****nowhere****的用法**
+ 容词”前面使用somewhere，anywhere或nowhere的用法
 
 
 1. Itwas *near* upon six o’clock. 那时快六点钟了。
@@ -14624,13 +14271,13 @@ b. Thecapital shortage was *near* to ruining our boss. （当时）资金短缺�
 6. Aretheir answers anywhere *near* correct？他们的答案都接近于正确吗？
 
 
-**Need****和****Dare****的用法及注意点**
+Need和Dare的用法及注意点
 
 
-**一、作为情态动词，****need****和****dare****一般用于疑问句和否定句中，后面要求**
+一、作为情态动词，need和dare一般用于疑问句和否定句中，后面要求
 
 
-**用不带****to****的不定式动词**
+用不带to的不定式动词
 
 
 1. *Need*she buy a P C？（=*Does*she *need *to buy a P C？她有必要买一台个
@@ -14698,10 +14345,10 @@ b. Thecapital shortage was *near* to ruining our boss. （当时）资金短缺�
 doctor？你要不要派人请医生来？（这里*need*为实义动词。）
 
 
-**二、情态动词****need****和****dare****后用不带****to****的完成式动词不定式表示过去**
+二、情态动词need和dare后用不带to的完成式动词不定式表示过去
 
 
-**未实现的动作**
+未实现的动作
 
 
 1. Sheneedn’t have gone to the club last week. 她上周其实不必去俱乐部。
@@ -14719,7 +14366,7 @@ doctor？你要不要派人请医生来？（这里*need*为实义动词。）
 上我那样说了。）
 
 
-**三、实义动词****need****和****dare****后接带****to****的不定式短语的用法**
+三、实义动词need和dare后接带to的不定式短语的用法
 
 
 1. Mycomputer is down. It*needs* to be repaired at once. 我的计算机坏了。需
@@ -14737,7 +14384,7 @@ doctor？你要不要派人请医生来？（这里*need*为实义动词。）
 点。
 
 
-**四、注意****dare****的下列用法**
+四、注意dare的下列用法
 
 
 1. I*dare* you to break the windows. 我量你不敢打破窗户。（原文未出现否定
@@ -14752,10 +14399,10 @@ doctor？你要不要派人请医生来？（这里*need*为实义动词。）
 Don’t you*dare*（或You*dare*）！量你不敢（或你敢）！
 
 
-**Neither****，****Nor****和****Neither****…****nor****…****的用法**
+Neither，Nor和Neither…nor…的用法
 
 
-**一、****neither****作形容词用，原意作“两者之中没有一个的”讲**
+一、neither作形容词用，原意作“两者之中没有一个的”讲
 
 
 1. *Neither*answer is right. 这两个答案都不对。（原义是：两个答案中没有一
@@ -14781,7 +14428,7 @@ Don’t you*dare*（或You*dare*）！量你不敢（或你敢）！
 
 
 
-**二、****neither****作代词用，当“两者中任何一个都不”讲**
+二、neither作代词用，当“两者中任何一个都不”讲
 
 
 1. *Neither*of them wants to go. 他们两个都不想去。（原义为：他们两个人中
@@ -14799,7 +14446,7 @@ a neutron has*neither*. 质子带有一个正电荷，电子带有一个负电�
 这两种电荷都没有。
 
 
-**三、连词“****neither****…****nor****…”****作“既不……又不……”讲**
+三、连词“neither…nor…”作“既不……又不……”讲
 
 
 1. *Neither*Sidney *nor* I *am* going to buy piratical VCDs. 锡德尼和我都不打算
@@ -14884,10 +14531,10 @@ write. 埃米莉既能说又能写。
 
 
 
-**四、“****not****…****neither****”****和“****not****（或****seldom****等）…****nor****”****连用，作“不…，也不**
+四、“not…neither”和“not（或seldom等）…nor”连用，作“不…，也不
 
 
-…”**讲**
+…”讲
 
 
 1. Hewill not go，*neither*will I. 他不去，我也不去。
@@ -14944,10 +14591,10 @@ B：*Neither*he is. *Neither*is his younger sister. 乙：他确实不用
 定句中要用either. 这两种用法一般彼此不换。）
 
 
-**Never****用法**
+Never用法
 
 
-**一、用****never****（永不，从来没有）表示否定**
+一、用never（永不，从来没有）表示否定
 
 
 1. Weshall *never* forget today’s network conference. 我们永不忘记今天的网
@@ -14987,7 +14634,7 @@ B：*Neither*he is. *Neither*is his younger sister. 乙：他确实不用
 时，句中主、谓语也采用倒装词序（见上面第4句和下面第Ⅱ项第2句）。
 
 
-**二、两点注意**
+二、两点注意
 
 
 Ⅰ. 注意下列两句中，由于never位置不同，句义就不同：
@@ -15017,10 +14664,10 @@ cause of publichealth *as* she. 从来没有一个人像她那样全心全意地
 公共卫生事业。
 
 
-**Nomatter *****how*****（或****what****，****where****，****who****等）疑问词的用法**
+Nomatter *how*（或what，where，who等）疑问词的用法
 
 
-*No* *matter**how*（或what，where，who，where，when等）引出的让步状语
+*No* *matterhow*（或what，where，who，where，when等）引出的让步状语
 
 
 从句常可分别用However，Whatever，Wherever，Whoever，Whenever等来代
@@ -15111,10 +14758,10 @@ is，而句义不变。）
 2）*Nomatter if* he gets into trouble. 如果他惹了麻烦，那也无关紧要。
 
 
-**None****，****Nobody****（或****Noone****），****Notone****和****Nothong****用法异同**
+None，Nobody（或Noone），Notone和Nothong用法异同
 
 
-**一、泛指无一人，用****nobody****或****noone**
+一、泛指无一人，用nobody或noone
 
 
 1. *Nobody*（=*No* *one*）knewthe composition of this substance before now. 
@@ -15129,10 +14776,10 @@ is，而句义不变。）
 找到过一种可以凭空产生能量的方法。
 
 
-**二、上下文表明有一定范围，数量超过三个以上（包括三个），则要用**
+二、上下文表明有一定范围，数量超过三个以上（包括三个），则要用
 
 
-**none****，也可用****notone****，但不可用****nobody****或****noone**
+none，也可用notone，但不可用nobody或noone
 
 
 1. *Notone*（或*None*）ofthe answers is right. 这些答案没有一个是对的。（使用none时，后面谓语用is或are均可。）
@@ -15166,10 +14813,10 @@ b. Allthe naughty children（或Allof them）werenot back yesterday. 并不是�
 7. *Nonebut a strong man* could have liftedit. （那时）只有强壮的人才抬得动它。（隐含“那时现场无强壮的人”。），
 
 
-**三、副词****none****用于比较级前作“一点也不”、“毫不”讲，后常接****for****短语，**
+三、副词none用于比较级前作“一点也不”、“毫不”讲，后常接for短语，
 
 
-**而****none****用于“****too+****形容词（或副词）”前面，则作“不太”、“一点也不”讲**
+而none用于“too+形容词（或副词）”前面，则作“不太”、“一点也不”讲
 
 
 1. Joe’scar is *none the worse for *wear（=Use has done the car no harm）. 乔的车子一点也没有损耗。（指“使用这辆车并未给它带来什么损坏”。）
@@ -15190,7 +14837,7 @@ b. Allthe naughty children（或Allof them）werenot back yesterday. 并不是�
 6. Theyare* none* so fond of their son. 他们一点也不喜欢自己的儿子。
 
 
-**四、注意****noneother than…****及****noother than…****的用法和理解**
+四、注意noneother than…及noother than…的用法和理解
 
 
 1. Heis *none other the* the departmentchief. 他正是部门主任。（原义是：他不是别人，正是部门主任。）
@@ -15202,7 +14849,7 @@ b. Allthe naughty children（或Allof them）werenot back yesterday. 并不是�
 3. Itis *no other than* this. 正是这个
 
 
-**五、****nothing****的用法**
+五、nothing的用法
 
 
 1. *Nothing*in the world moves faster than light. 世界上没有东西比光运动得更快了。
@@ -15233,13 +14880,13 @@ b. Allthe naughty children（或Allof them）werenot back yesterday. 并不是�
 6. Thesituation is *nothing else but*fine. 形势大好。（由“…除了好以外不会是其它任何什么”转译过来。）
 
 
-**Not****和****No****用法差别**
+Not和No用法差别
 
 
 一般来说，no相当与notany或nota，但有时两者用法略有差别或有较大差别。
 
 
-**一、在“****be+not****（或****no****）****+****表示”结构中，用****not****仅是一般的否定，而用****no****作“决不”、“丝毫不”讲，否定语气比****not****强**
+一、在“be+not（或no）+表示”结构中，用not仅是一般的否定，而用no作“决不”、“丝毫不”讲，否定语气比not强
 
 
 1. a）Iam* not* a physicist. 我不是物理学家。
@@ -15257,7 +14904,7 @@ b）Sheis *on *good at English composition. 她对于英语作文一窍不通。
 3. Ihaven’t seen Derek for years，buthe is* no* different. 我已有多年未见到德立克了，但他丝毫没变样。
 
 
-**二、在“****notmore****（或其它词的比较级）…****than…”****和“****nomore****（或其它词的比较级）…****than…”****中，前者为一般否定，但原文在****than****后却不出现任何否定词**
+二、在“notmore（或其它词的比较级）…than…”和“nomore（或其它词的比较级）…than…”中，前者为一般否定，但原文在than后却不出现任何否定词
 
 
 1. a）Heis *not* *more* wounded *than *you. 他的伤不如你的重。
@@ -15316,22 +14963,22 @@ enormousoptimism. 任何人在中国只要呆上几小时，就会感到有一�
 且one（指人）和hours不属于同类；无法进行对比。）
 
 
-**三、与数字连用时，****notmore than ten****为“不超过****10****”****（即至多****10****，也许低**
+三、与数字连用时，notmore than ten为“不超过10”（即至多10，也许低
 
 
-**于****10****），而****nomore than 10****则为“只有****10****”****（着重表示“决不超过****10****，而只有****10**
+于10），而nomore than 10则为“只有10”（着重表示“决不超过10，而只有10
 
 
-**那么多”之意，给人以“数量不够大”的口气。****notless than 50****为“至少****50****”****（也许**
+那么多”之意，给人以“数量不够大”的口气。notless than 50为“至少50”（也许
 
 
-**不止****50****），而****noless than 50****则为“达到****50****”****或“竟然有****50****”****，并给人以“数量不**
+不止50），而noless than 50则为“达到50”或“竟然有50”，并给人以“数量不
 
 
-**小的”口气。因此，还可加译“竟然”或“高达”等字。注意这种用法还可推广到表**
+小的”口气。因此，还可加译“竟然”或“高达”等字。注意这种用法还可推广到表
 
 
-**示长、宽、厚等方面**
+示长、宽、厚等方面
 
 
 1. *nolonger than* 20 days至多（或最长）20天（甚至不到20天）
@@ -15349,13 +14996,13 @@ enormousoptimism. 任何人在中国只要呆上几小时，就会感到有一�
 5. Hisbrother *no less than *you is wrong. （至少）跟你一样，他的兄弟也错了。
 
 
-**四、****not****用于表示主句后面被否定的省略句**
+四、not用于表示主句后面被否定的省略句
 
 
 1. Itis going to blow hard. 要刮大风吧。
 
 
-We hope*not*. 我们希望不要刮大风。（不能说*We**don*’*t* *hope*. ）
+We hope*not*. 我们希望不要刮大风。（不能说*Wedon*’*t* *hope*. ）
 
 
 2. Isthere any doubt about it？关于这件事还有什么疑义吗？
@@ -15387,7 +15034,7 @@ appear等。
 
 
 
-**五、“****all****，****both****或****every****（包括****everything****，****everybody****，****everywhere****等）****+****否定式谓语****+****…”****不是全部否定，而只是部分否定**
+五、“all，both或every（包括everything，everybody，everywhere等）+否定式谓语+…”不是全部否定，而只是部分否定
 
 
 1. *All*the answers* are not* right. （部分否定）
@@ -15478,10 +15125,10 @@ I *don*’*t*know them *at all*. 我一点也不认识他们。
 
 
 
-**六、当否定式谓语和****always****，****often****，****quite****，****entirely****，****wholly****，****altogether****连**
+六、当否定式谓语和always，often，quite，entirely，wholly，altogether连
 
 
-**用时，一般都是部分否定**
+用时，一般都是部分否定
 
 
 1. Forces*do not always* produce movement. 力并非总是产生运动的。（不能理
@@ -15508,7 +15155,7 @@ I *don*’*t*know them *at all*. 我一点也不认识他们。
 译为“他完全不同意”。）
 
 
-**七、注意有时英语否定主句，而汉语译成否定后面的宾语从句**
+七、注意有时英语否定主句，而汉语译成否定后面的宾语从句
 
 
 1. I*do not think*（that）thetest will end in failure. 我认为试验不会以失败而
@@ -15532,10 +15179,10 @@ feel等。但含义相似的hope，fear，surmise猜测，presume推测，assume
 定等却都不具有think那样的否定用法。
 
 
-**Of****的主要用法及其固定短语的分类理解**
+Of的主要用法及其固定短语的分类理解
 
 
-**一、****Of****短语做后置定语表示所属关系和特征时的汇总**
+一、Of短语做后置定语表示所属关系和特征时的汇总
 
 
 I. of短语做后置定语表示所属关系时的用法举例
@@ -15672,10 +15319,10 @@ absolutelycontradictory points of view. 他发现自己具有两种绝对对立
 有很大帮助。（muchhelp前省略of。）
 
 
-**二、****of****表示同位关系时的用法举例（附：夹带****of****短语的名词性词组做前**
+二、of表示同位关系时的用法举例（附：夹带of短语的名词性词组做前
 
 
-**置定语…前置定语的新发展）**
+置定语…前置定语的新发展）
 
 
 the city *of*Beijing 北京市；thecounty of 宝坻县；theroom
@@ -15751,7 +15398,7 @@ a Florida House *of*Representatives employee 一位弗罗里达州众议院的�
 注3：夹带介词短语的名词性词组作前置定语并不限于中间夹带of短语。这是当前英语名词作前置定语的新发展。目前国内英语教学和教材中基本上没有反映。本书另设专题讨论。（详见第209页）
 
 
-**三、****of****短语表示部分和全体的关系；这里****of****本意为“在…中间”**
+三、of短语表示部分和全体的关系；这里of本意为“在…中间”
 
 
 1. Half*of *the students present出席学生的半数[如果作主语，则按复数名词来考虑后面的谓语形式]，95per cent *of *the exam paper试卷的百分之九十五[如果作主语，则按单数名词来选择后面的谓语形式]等
@@ -15777,11 +15424,11 @@ a Florida House *of*Representatives employee 一位弗罗里达州众议院的�
 4. Three*of* us will go to the plant. 我们中间有三个人将去工厂。（如果用Thethree *of* us，则为“我们三个人”，指“我们总共三个人”）
 
 
-**四、****of****短语表示数量和种类用法（参阅第****7****页）**
+四、of短语表示数量和种类用法（参阅第7页）
 
 
 
-**五、“****a****（或物主代词、****that****等）****+****名词****+of+a+****名词”结构及其相应的复数结构；这时“****a+****名词****+of****等”作“像…般的”讲**
+五、“a（或物主代词、that等）+名词+of+a+名词”结构及其相应的复数结构；这时“a+名词+of等”作“像…般的”讲
 
 
 *a*paradise *of* *a* house 天堂般的房子；herangel *of a* daughter她那天使般的女儿；thosepalaces *of* houses 那些宫殿式的房子等
@@ -15793,7 +15440,7 @@ a Florida House *of*Representatives employee 一位弗罗里达州众议院的�
 注2：对于下列结构也必须注意逻辑判断。例如：afraction *of *a second就只能理解为“一秒的几分之一”即“几分之一秒”。
 
 
-**六、****of****短语用于表示材料、成分、来源等**
+六、of短语用于表示材料、成分、来源等
 
 
 be built*of*…（房子等）由（砖、木等）建成；becomposed *of*…（水）由（氢和氧）组成；becomprised *of*…（美国）由（五十个洲）构成；beformed *of*…（雨）由（灰尘和水滴）形成；bemade up *of*…（物质）由（原子）构成；consist*of*…（某书等）由（十五章）组成；makea teacher *of* sb. 把某人培养成一名教师等
@@ -15841,7 +15488,7 @@ be built*of*…（房子等）由（砖、木等）建成；becomposed *of*…�
 2）Beeris made from rice andwheat. 啤酒由米和麦子制成。（不能用of代替from，因啤酒已不具有米和麦子的性质，这里已发生了化学变化。）
 
 
-**七、****of****作“对于”和“因为”等讲时跟作表语的形容词搭配用法举例**
+七、of作“对于”和“因为”等讲时跟作表语的形容词搭配用法举例
 
 
 Ⅰ. 表示害怕方面
@@ -15850,7 +15497,7 @@ be built*of*…（房子等）由（砖、木等）建成；becomposed *of*…�
 be afraidof…害怕（蛇、狗等）；befearful of…害怕或担心（罢工等）；befrightened of…惧怕（雷、蛇等）[注意bethreatened with penaties（或abeating等）]
 
 
-**七、****of****作“对于”和“因为”等讲时跟作表语的形容词搭配用法举例**
+七、of作“对于”和“因为”等讲时跟作表语的形容词搭配用法举例
 
 
 I. 表示害怕方面
@@ -15940,7 +15587,7 @@ be patient*of*…能忍受（痛苦等）；beguilty *of*…犯有（某种罪�
 等），错在（低估某人或对困难估计不足）[*of*后也可接动名词短语]等
 
 
-**八、动词和****of****连用，****of****短语表示原因，这时****of****具有“出于…”含义**
+八、动词和of连用，of短语表示原因，这时of具有“出于…”含义
 
 
 come* of*carelessness（事故）出于粗枝大叶；die（或perish）*of*one’s
@@ -15952,10 +15599,10 @@ wound由于受伤死亡或丧命；marrysb. *of*one’s choice自愿和某人结
 born*of*…（某想法）出自（帮助病人的愿望）等
 
 
-**九、和有关动词连用时，****of****有时作“涉及到”中的“到”讲，类似于****about**
+九、和有关动词连用时，of有时作“涉及到”中的“到”讲，类似于about
 
 
-**（关于、有关）的用法，常可译为“听到、讲到、说到、想到、读到”等，当然还有其它一些译法**
+（关于、有关）的用法，常可译为“听到、讲到、说到、想到、读到”等，当然还有其它一些译法
 
 
 hear*of*…听到（这个消息等）；know*of*…知道有（某物、困难）的存在，
@@ -15985,7 +15632,7 @@ little（或badly）*of*…对（某人、某事）评价不好或不赞成；ta
 注：注意of的另一种类似用法，其句型是“有关动词（如remind，warn，inform
 
 
-等）+直接宾语sb. ***of*…”。例如：accusesb. *of*…控告某人（偷钱、破
+等）+直接宾语sb. *of*…”。例如：accusesb. *of*…控告某人（偷钱、破
 
 
 坏合同等）；convincesb. *of*…使某人确信（成功等）；informsb. *of*…通
@@ -16000,7 +15647,7 @@ little（或badly）*of*…对（某人、某事）评价不好或不赞成；ta
 …告诉某人（我们的计划）等
 
 
-**十、****of****短语与有关动词搭配，表示“分离、摆脱、解脱”之意**
+十、of短语与有关动词搭配，表示“分离、摆脱、解脱”之意
 
 
 acquit sb. *of*…[接thecrime，murder等]宣告某人（无罪或无谋杀罪
@@ -16040,13 +15687,13 @@ acquit sb. *of*…[接thecrime，murder等]宣告某人（无罪或无谋杀罪
 或背部]等
 
 
-**十一、注意“****the+****具有动作意义的名词****+of+****名词”的结构，最后一个名**
+十一、注意“the+具有动作意义的名词+of+名词”的结构，最后一个名
 
 
- **词多半是行为对象（见****A****），而原动词的搭配关系还可以保留在该词组后面（见**
+ 词多半是行为对象（见A），而原动词的搭配关系还可以保留在该词组后面（见
 
 
- **B****），但也有是行为主体的（见****C****），只能根据上下文进行逻辑判断**
+ B），但也有是行为主体的（见C），只能根据上下文进行逻辑判断
 
 
 A. theuse *of* the new machine新机器的使用；theinvasion* of* Kuwait入
@@ -16079,7 +15726,7 @@ D. makea study* of* sth. 对某事进行研究；makean adjustment *of* the
  instrument对仪表进行调节[这里make作“进行”和“作”讲]等
 
 
-**十二、“主语****+be+****不定量词****+of+a+****名词”的用法举例**
+十二、“主语+be+不定量词+of+a+名词”的用法举例
 
 
 1. Sheis something* of* a chemist. 她是个不错的化学家。
@@ -16134,10 +15781,10 @@ D. makea study* of* sth. 对某事进行研究；makean adjustment *of* the
 nine. 玛丽九岁时是一个相当难管的小学生。
 
 
-**十三、****of****与其它动词构成的常用固定短语（见****A****）及其它的****of****固定短语**
+十三、of与其它动词构成的常用固定短语（见A）及其它的of固定短语
 
 
-**（见****B****）**
+（见B）
 
 
 A. of与其它动词构成的常用固定短语
@@ -16176,7 +15823,7 @@ accord（或will）自愿的，主动的；instead*of*…代替…，而不是�
 …代替…[最后两短语用法见注]。
 
 
-注：instead**of不仅可接名词、代词及其相应词组，还可接与句中某成分相应
+注：insteadof不仅可接名词、代词及其相应词组，还可接与句中某成分相应
 
 
 的形容词、副词、介词短语，有时甚至可接动名词或动词。但是inplace of
@@ -16191,7 +15838,7 @@ accord（或will）自愿的，主动的；instead*of*…代替…，而不是�
 1）Wedecided to use electricity *instead* *of* steampower. 那时我们决定用
 
 
-电来代替蒸汽动力。（也可用*in**place of*替换）
+电来代替蒸汽动力。（也可用*inplace of*替换）
 
 
 2）Thingsare now better* instead of* worse. 现在情况好转，而不是变坏。
@@ -16218,7 +15865,7 @@ temperatures belowinstead of at 100℃. 在海拔高处，气压很低，因此
 十四、由of引出动词不定式的逻辑主体的用法特点，参阅第159页Ⅱ。
 
 
-**Off****的用法及其固定短语的分类理解和判断**
+Off的用法及其固定短语的分类理解和判断
 
 
 off是介词兼副词，搭配广泛，用法灵活。为了便于理解和记忆，拟采用介
@@ -16235,7 +15882,7 @@ off是介词兼副词，搭配广泛，用法灵活。为了便于理解和记�
  词和副词用法交替讨论，这样会有利于从英语角度去理解其来龙去脉。
 
 
-**一、****off****的介词和副词用法比较（以“从……下来”为例）**
+一、off的介词和副词用法比较（以“从……下来”为例）
 
 
 Come*off*…（封面或把手等）从（书或门）上掉下来；fall*off*…（画等）
@@ -16319,13 +15966,13 @@ branch之后。
 level*off*（价格等）稳定下来[由“变得平坦和平整”引申过来]等
 
 
-**二、介词****off****短语与有关动词搭配有表示“从…下来”引申到表示“离开”**
+二、介词off短语与有关动词搭配有表示“从…下来”引申到表示“离开”
 
 
- **和表示空间和时间上的距离（如“离…不远、在…附近”等），并且还可转译为**
+ 和表示空间和时间上的距离（如“离…不远、在…附近”等），并且还可转译为
 
 
- “**离题、不上（班）、失去（平衡）、戒（烟）”等方面**
+ “离题、不上（班）、失去（平衡）、戒（烟）”等方面
 
 
 the post office *off*the main street 位于主要街道附近的（或离主要街道不
@@ -16398,7 +16045,7 @@ borrow some money*off*（或*form*）sb. 向某人借些钱；buysth. *off*（�
 为明显：“出钱将某人买下或买过来”。
 
 
-**三、副词****off****表示“空间或时间上的距离”用法举例**
+三、副词off表示“空间或时间上的距离”用法举例
 
 
 副词off表示“空间和时间上的距离”只是用在一定上下文中未提及所离
@@ -16422,7 +16069,7 @@ far *off* 看见远处的大海；befar（或along way，aweek）*off*（某节�
 很远（或一周）等。
 
 
-**四、副词****off****用于“离开、动身”时的动词短语用法举例**
+四、副词off用于“离开、动身”时的动词短语用法举例
 
 
 come *off *withsb. （我）和某人一齐离开（因为房间里太热等）；drive*off*
@@ -16510,10 +16157,10 @@ firecrackers*off*为“燃放鞭炮”，而shootsb’s leg或house则为“用�
 第252页。
 
 
-**五、副词****off****用于“关闭、关（灯）”时的动词短语用法举例。这里****off****表示**
+五、副词off用于“关闭、关（灯）”时的动词短语用法举例。这里off表示
 
 
-**断开（电路或管路等），而动词表示行为方式**
+断开（电路或管路等），而动词表示行为方式
 
 
 cut*off*…关掉（电动机等）[由“切、砍方式断开电路→关掉…”引申过
@@ -16537,7 +16184,7 @@ switch*off*…关掉（电视机等）；turn*off*…关（无线电等）[由�
  筒（receiver）“往上挂才能挂掉电话”有关]等
 
 
-**六、副词****off****用于“从上面下来”或“…出”时的动词短语用法举例**
+六、副词off用于“从上面下来”或“…出”时的动词短语用法举例
 
 
 blow（或take）…*off*（大风）把（屋顶即theroof）刮下来；get*off*下公共
@@ -16568,10 +16215,10 @@ tellsb. *off*责备或数落（某人）[即“把某人数落下来”]；betol
 （或*for*sth. ）（某人）被叫出作某事 等
 
 
-**七、副词****off****用于“脱去（衣、鞋、帽）”时的动词短语用法举例，其中动词表**
+七、副词off用于“脱去（衣、鞋、帽）”时的动词短语用法举例，其中动词表
 
 
-**示行为方式**
+示行为方式
 
 
 cast*off*…很快脱下（冬衣）扔在一旁；get*off*…脱去（衣服等）；leave…
@@ -16604,7 +16251,7 @@ cast*off*…很快脱下（冬衣）扔在一旁；get*off*…脱去（衣服等
  等）把（帽子等）吹走；help（sb. ）*off*with…帮助（某人）脱去（毛衣、鞋）等
 
 
-**八、副词****off****用于“刪掉、略去、勾销”时的动词短语用法举例**
+八、副词off用于“刪掉、略去、勾销”时的动词短语用法举例
 
 
 cross…off（或*out*）删去（某词、句）[cross是“对某词句打‘×’”，连用
@@ -16634,7 +16281,7 @@ achievements）；wipe*off*…勾销（债务）等
 详见专题“Out用法”（第256页）。这时所搭配的动词都表示行为方式。
 
 
-**九、副词****off****表示“…掉、…走”时的动词短语用法举例**
+九、副词off表示“…掉、…走”时的动词短语用法举例
 
 
 blast（*vt*. *vi*. ）*off*…炸掉（高楼）[主语为宇宙飞船，则为“用火箭起飞
@@ -16708,7 +16355,7 @@ blast（*vt*. *vi*. ）*off*…炸掉（高楼）[主语为宇宙飞船，则为
 公司）勾销或注销（撞毁的汽车、债务），抹煞（某人成就）等
 
 
-**十、副词****off****表示“隔开、依然保持一定距离”时的动词短语用法举例**
+十、副词off表示“隔开、依然保持一定距离”时的动词短语用法举例
 
 
 close*off*…封锁（街道），使（某区）与外界隔绝[直意是：封闭（某区）使之
@@ -16744,7 +16391,7 @@ hold*off*…（接名词或动名词短语）（傲慢）使（人）不敢接�
 疏远等
 
 
-**十一、副词****off****用于“休假、收工”时的动词短语用法举例**
+十一、副词off用于“休假、收工”时的动词短语用法举例
 
 
 take a few days*off*请几天假；leave*off* work at 18 o’clock（他们）18点
@@ -16766,10 +16413,10 @@ take a few days*off*请几天假；leave*off* work at 18 o’clock（他们）18
 evening*off*（某人）傍晚不上班时出外散步等
 
 
-**十二、副词****off****用于“完成、成功”时的短语用法举例。但这里的“成功”大**
+十二、副词off用于“完成、成功”时的短语用法举例。但这里的“成功”大
 
 
-**多数用于难度大而几经周折后办成的事**
+多数用于难度大而几经周折后办成的事
 
 
 bring*off*…做成功（一笔难度大的生意[adeal]或某件困难的事等），救
@@ -16823,7 +16470,7 @@ work（做完许多工作）中的*off*似乎以“完成”含义译出，其�
 （或“对付出去”）表示完成。
 
 
-**十三、副词****off****作表语时的多种含义的理解和判断**
+十三、副词off作表语时的多种含义的理解和判断
 
 
 副词*off*作表语是多义词。必须根据前面各个搭配中*off*的用法选择其
@@ -16917,7 +16564,7 @@ fallen（或dropped）*off*. 股票行市已经下跌。）
 个奶油已变质了。）
 
 
-**On****和****Upon****的用法及其固定短语的分类理解和判断**
+On和Upon的用法及其固定短语的分类理解和判断
 
 
 On（介词）作“在…上”讲，但其用法远远不限于此。加上on还兼作副词
@@ -16938,7 +16585,7 @@ On（介词）作“在…上”讲，但其用法远远不限于此。加上on�
 类阐述。
 
 
-**一、介词****on****作“在……上面、在（某人）身上”或“朝向…”讲**
+一、介词on作“在……上面、在（某人）身上”或“朝向…”讲
 
 
 这种用法十分广泛，只要合乎逻辑，一般都可用这种*on*短语。例如：
@@ -17018,7 +16665,7 @@ mittee当委员；step*on* the gas &lt;&gt;踩汽车油门，加快速度；赶�
 会让警察跟踪你。
 
 
-**二、介词****on****和有关动词连用，表示“上车、上船、上台、上场、上演”等意思**
+二、介词on和有关动词连用，表示“上车、上船、上台、上场、上演”等意思
 
 
 get*on*…上（公共汽车、火车、飞机等）；getonly forty people *on*（或*onto*）
@@ -17054,7 +16701,7 @@ board后接thetrain或theairplane，则整个短语便为“上这趟列车，�
 stage上演一出戏等。
 
 
-**三、介词****on****与有关动词连用作“集中在…上、在…上强调”讲**
+三、介词on与有关动词连用作“集中在…上、在…上强调”讲
 
 
 concentrate one’sattention（或efforts，thoughts）*on*（或*upon*）…（某
@@ -17095,10 +16742,10 @@ emphasis（或stress）*on*（或*upon*）…将重点放在（考试等）上�
 语）等
 
 
-**四、介词****on****后接线状物的名词（如江河、道路、边界等），表示“邻接、濒临**
+四、介词on后接线状物的名词（如江河、道路、边界等），表示“邻接、濒临
 
 
-**或接壤这些地方”**
+或接壤这些地方”
 
 
 row a boat *on*the lake在湖上划船；beon the river（房屋或某城市等）位
@@ -17204,10 +16851,10 @@ II. 用“介词*on*或upon+动名词或其短语（或具有动作含义的抽�
 特先生抵达这里后，我们立即给他打了电话。
 
 
-**六、介词****on****与有关动词连用，表示“依靠、以…为基础、根据或按照、在…**
+六、介词on与有关动词连用，表示“依靠、以…为基础、根据或按照、在…
 
 
-**下”，其中“在…下”还含有原因的意思**
+下”，其中“在…下”还含有原因的意思
 
 
 act*on*（或*upon*）…按照（某人的指示、劝告、建议等）办事或行动[若*on*
@@ -17240,13 +16887,13 @@ act*on*（或*upon*）…按照（某人的指示、劝告、建议等）办事�
  来转动”引申过来]，（轮子）以（轴）为中心转动等
 
 
-**七、介词****on****短语表示目的状语，这时其动词常为****come****，****go****，****enter****，**
+七、介词on短语表示目的状语，这时其动词常为come，go，enter，
 
 
- **journey****，****leave****，****plan****，****send****，****visit****等，而这时****on****的介词宾语常为****trip****，****picnic****，**
+ journey，leave，plan，send，visit等，而这时on的介词宾语常为trip，picnic，
 
 
-**business****，****holiday****等**
+business，holiday等
 
 
 come *on*visit to Tianjin来天津访问；enter*on* a long journey开始长途
@@ -17261,10 +16908,10 @@ hometown *on*sick leave访问故乡休病假；leave*on* business去出差；sen
 *on* anexpedition派（军队）去远征，派（科学家）去考察等
 
 
-**八、介词****on****用于“影响、同情、怜悯”等词后，作“对于…”讲。其实质仍是**
+八、介词on用于“影响、同情、怜悯”等词后，作“对于…”讲。其实质仍是
 
 
-**由****on****的本义“在…上”、“朝向…”引申过来**
+由on的本义“在…上”、“朝向…”引申过来
 
 
 act*on*…（酒）对（头脑、心脏等）有作用或有影响；grow*on*…（服装款式
@@ -17310,7 +16957,7 @@ badinfluence（或effect）*on*the other boys. 那时你对其他男孩儿产生
 同情）这个女孩。
 
 
-**九、介词****on****作“就…问题或事情或关于…”讲**
+九、介词on作“就…问题或事情或关于…”讲
 
 
 congratulatesb. *on*…向某人祝贺（成功、生日等）[由“就…向某人祝贺”
@@ -17429,7 +17076,7 @@ chance*on*（或*upon*）…偶然的碰到（某人），偶然看见（那本�
 表）[联系strike*on* rocks用于“（船等）触礁”，正说明其动作突然和偶然]等
 
 
-**十一、常见的****on****短语作表语（见****Ⅰ****）和状语（见****Ⅱ****）的用法**
+十一、常见的on短语作表语（见Ⅰ）和状语（见Ⅱ）的用法
 
 
 I. 介词*on*短语作表语，表示状态、特征和处境等。
@@ -17556,10 +17203,10 @@ cup *on* behalfof…代表（足球队）领奖杯；puthim *on* his honour相�
 whole就整个来说，总的说来等
 
 
-**十二、副词****on****和有关动词连用表示“开灯、开收音机、开煤气、水等”之**
+十二、副词on和有关动词连用表示“开灯、开收音机、开煤气、水等”之
 
 
- **意。这里副词****on****表示“搭上去（相接触）”，系由其本义“…上去”引申过来**
+ 意。这里副词on表示“搭上去（相接触）”，系由其本义“…上去”引申过来
 
 
 *goon*（灯）亮，（暖气等）开放，（自来水即tapwater）供应；leave…*on*让
@@ -17580,7 +17227,7 @@ recorder），上演（戏剧）；stay*on*（电灯、煤气等）仍然亮着�
 则为“煤气、水或电视机开着。”]
 
 
-**十三、副词****oil****表示“继续下去、往前走、往前传”等时的动词短语汇总**
+十三、副词oil表示“继续下去、往前走、往前传”等时的动词短语汇总
 
 
 carry *on* 不间断地进行（工作、研究等）；drive*on*继续驾车；follow*on*
@@ -17626,7 +17273,7 @@ letters*on*（他）将这些信转寄出去[由“继续寄即再寄…”引�
 talk *on*继续谈下去；walk*on*步行走下去；work*on*（他们）继续工作等
 
 
-**十四、副词****on****表示“穿戴”时的动词短语汇总**
+十四、副词on表示“穿戴”时的动词短语汇总
 
 
 fit（或try）…*on*试穿戴（衣、帽、鞋等）；get…*on*穿戴（衣、帽、鞋等）；go
@@ -17717,7 +17364,7 @@ B. 单个*on*作后置定语。例如：
 十六、onto和onto的用法异同
 
 
-英语原先无*onto*一词，只有*on**to*分开来写的形式。*onto*是近几十年才形
+英语原先无*onto*一词，只有*onto*分开来写的形式。*onto*是近几十年才形
 
 
  成的新词，在美国用的较为广泛。但*onto*具有口语性质，多用于非正式文体中。
@@ -17726,7 +17373,7 @@ B. 单个*on*作后置定语。例如：
 例如：
 
 
-climb *on**to*（或*onto*）theroof（猫等）爬到屋顶上；pourwater *on* *to*（或
+climb *onto*（或*onto*）theroof（猫等）爬到屋顶上；pourwater *on* *to*（或
 
 
 *onto*）thesponge把水倒在海绵上；projecta TV picture *on to*（或*onto*）the
@@ -17747,13 +17394,13 @@ bank派部队去东岸；be*on* *to*（或*onto*）…察觉（某人的秘密�
 走，到了下一条街。（不能用onto代替onto）
 
 
-注2：当*on**to*中的*to*为不定式动词的柿志，不能用*onto*代替*on**to*。例如：We
+注2：当*onto*中的*to*为不定式动词的柿志，不能用*onto*代替*onto*。例如：We
 
 
 went *on to *readEnglish. 我们接着读英语。
 
 
-**十七、****upon****和****on****的用法比较**
+十七、upon和on的用法比较
 
 
 *upon*只能作介词语，其用法和介词*on*相同，但比*on*正式，多见于正式文
@@ -17805,16 +17452,16 @@ be onstrike（那些工人）正在罢工等
 
 
 
-**Once****的用法**
+Once的用法
 
 
-**一、副词****once****作“一次”、“一遍”、“一倍”讲**
+一、副词once作“一次”、“一遍”、“一倍”讲
 
 
 1. Ms. Liaohas been to Tianjin once or *twice*. 廖女士去过一两次天津. 
 
 
-2. *Not**once* has he done as I have asked. 他从来没有一次（即一次也没有）按
+2. *Notonce* has he done as I have asked. 他从来没有一次（即一次也没有）按
 
 
 我要求去做过。（句首使用否定的状语就要求后面的主谓语倒装。）
@@ -17844,7 +17491,7 @@ thepolice. 他又一次酒后开车回家，但是这一次被警察拦住了。
 often本意是“过分频繁，超过一次、多于一次、又一次”。）
 
 
-8. *Once**and* *again*，Jennysaid，“TheInternet is playling an important role in
+8. *Onceand* *again*，Jennysaid，“TheInternet is playling an important role in
 
 
 the nationaleconomy.”詹妮再三地说：“互联网在国民经济中起着重要的
@@ -17853,7 +17500,7 @@ the nationaleconomy.”詹妮再三地说：“互联网在国民经济中起着
 作用。”
 
 
-**二、副词****once****作“一度”、“曾经”讲**
+二、副词once作“一度”、“曾经”讲
 
 
 1. I*once* thought that the answer to this question wascorrect. 我一度认为这
@@ -17874,16 +17521,16 @@ the nationaleconomy.”詹妮再三地说：“互联网在国民经济中起着
 （这里once转为形容词，但仍含有“一度的”意思. ）
 
 
-**三、连词****once****作“一旦”、“一经”讲，连接时间或条件从句，但有时连接一**
+三、连词once作“一旦”、“一经”讲，连接时间或条件从句，但有时连接一
 
 
-**个省略句，省略与主语相同的主语或****it****及谓语****be****的相应形式**
+个省略句，省略与主语相同的主语或it及谓语be的相应形式
 
 
 1. *Once*you begin，youmust continue. 一经开始，你就必须继续下去。
 
 
-2. *Once*（或*When**once*）itis gone，perhapsyou will never get it back. 一旦失
+2. *Once*（或*Whenonce*）itis gone，perhapsyou will never get it back. 一旦失
 
 
 去什么，你也许永远找不回来。
@@ -17902,10 +17549,10 @@ the nationaleconomy.”詹妮再三地说：“互联网在国民经济中起着
 
 
 
-**四、“****once+****过去分词”作后置定语时，可理解为“****ifonce****…”****，具有条件从**
+四、“once+过去分词”作后置定语时，可理解为“ifonce…”，具有条件从
 
 
-**句含义**
+句含义
 
 
 1. Suchfish *once* taken out of the water will soon die. 如果一旦将这样的鱼从
@@ -17923,13 +17570,13 @@ will soon die. ）
 （=Ifonce the circuit is closed，itwill…）
 
 
-**五、和****once****连用的其它常见短语**
+五、和once连用的其它常见短语
 
 
 1. Theywere determined to end the matter once and *forever*[或*once*（*and*）
 
 
-*for**all*]. 他们决心一劳永逸地（或终于）结束这件事。
+*forall*]. 他们决心一劳永逸地（或终于）结束这件事。
 
 
 2. *Onceupon a time*，*therewas* an honest young man named Sidney. 从前有
@@ -17956,10 +17603,10 @@ b. Thesoldiers turned round and ran away *all* *at once*. 士兵们向后转并�
 一起跑步离开。
 
 
-**OHe****和****Ones****的用法**
+OHe和Ones的用法
 
 
-**一、****one****作数字“一”讲，并有引申用法（见第二、三例）**
+一、one作数字“一”讲，并有引申用法（见第二、三例）
 
 
 l. *One*plus（或and）oneis two. 1加1等于2。
@@ -17974,10 +17621,10 @@ l. *One*plus（或and）oneis two. 1加1等于2。
 4. Youdon’t try to talk at *one* time. 你们不要同时抢着讲话。
 
 
-**二、****one****泛指“一个人”，后接****of+****某类人或物，则为“…中之一（人或物）。**
+二、one泛指“一个人”，后接of+某类人或物，则为“…中之一（人或物）。
 
 
-**在一定的上下文中还可表示同一个人或物**
+在一定的上下文中还可表示同一个人或物
 
 
 1. *One*should study and work for people. 人应该为人民而学习和工作。
@@ -18004,13 +17651,13 @@ l. *One*plus（或and）oneis two. 1加1等于2。
 怀特教授是同一个人。
 
 
-**三、不定代词****one****作主语时，后面要用****he****，****his****或****one****，****one’s****作其相应的**
+三、不定代词one作主语时，后面要用he，his或one，one’s作其相应的
 
 
- **代词。注意****one****或****ones****可分别代替前面出现的可数名词单数或复数，也可能**
+ 代词。注意one或ones可分别代替前面出现的可数名词单数或复数，也可能
 
 
- **分别代替前面复数名词的单数或前面单数名词的复数**
+ 分别代替前面复数名词的单数或前面单数名词的复数
 
 
 1. Theidea of“atom”hasa long history，*one*extending back to about 600 B. 
@@ -18055,10 +17702,10 @@ plants. Oneis that they are less expensive to operate than conventional
 不如普通发电厂贵。
 
 
-**Or****，****OrElse****，****Else****的用法**
+Or，OrElse，Else的用法
 
 
-**一、****or****作“或者”讲，连接两个同等成分**
+一、or作“或者”讲，连接两个同等成分
 
 
 1. Matteris anything like air，wateror metals. 物质是像空气、水或金属之类
@@ -18073,16 +17720,16 @@ plants. Oneis that they are less expensive to operate than conventional
 or requestinput. 计算机本身不知道何时加、减、比较或要求输入。
 
 
-**二、****or****作“即”、“就是”讲，引出同位语，表示****or****后面和前面是同一成分、**
+二、or作“即”、“就是”讲，引出同位语，表示or后面和前面是同一成分、
 
 
- **同一内容或同一人、物（参阅第****474****页和****477****页八）**
+ 同一内容或同一人、物（参阅第474页和477页八）
 
 
-**三、用“****either****…****or****…”****或者“****either****…****orelse****…”****来表示“不是……（否**
+三、用“either…or…”或者“either…orelse…”来表示“不是……（否
 
 
-**则）便是……”之意**
+则）便是……”之意
 
 
 1. *Eitheryou or* I am about to go to Beijing. 不是你便是我要马上去北京。
@@ -18119,7 +17766,7 @@ with othersubstances to produce a product of greater weight，or（*else*）it
 种的物质。
 
 
-**四、****orelse****，单个****or****或单个****else****作“否则”讲**
+四、orelse，单个or或单个else作“否则”讲
 
 
 1. Bequick *or* *else*（=otherwise）you’llbe late. 快，否则就要迟到了。
@@ -18140,7 +17787,7 @@ with othersubstances to produce a product of greater weight，or（*else*）it
 后的词语省略，含威胁语气。）
 
 
-**五、“…****or****…”****作“不论…”讲，表示让步意义**
+五、“…or…”作“不论…”讲，表示让步意义
 
 
 1. *Yesor no*，youmust answer this question。不论是与否，你总得回答这个
@@ -18149,13 +17796,13 @@ with othersubstances to produce a product of greater weight，or（*else*）it
 问题。
 
 
-2. *Fineor rainy*（或*Rain**or* *shine*），wemust go to the plant. 不论晴雨，我们
+2. *Fineor rainy*（或*Rainor* *shine*），wemust go to the plant. 不论晴雨，我们
 
 
 一定去工厂。
 
 
-**六、和****or****连用的其它常见短语**
+六、和or连用的其它常见短语
 
 
 例如：orrather更确切地说，threekilometers *or* so三公里左右，sooner
@@ -18170,13 +17817,13 @@ kilometers more orless30公里左右（=moreor lass 30 kilometers），orvice
 versa或者反过来（也是这样）等
 
 
-**七、副词****else****作“其他或其它”、“別的”讲，常用于疑问词、不定代词及不**
+七、副词else作“其他或其它”、“別的”讲，常用于疑问词、不定代词及不
 
 
- **定副词的后面，翻译时一般加“（另外）还”、“另有”、“再有”等词**
+ 定副词的后面，翻译时一般加“（另外）还”、“另有”、“再有”等词
 
 
-1. *Who**else* will come here?（另外）还有谁将到这里来?
+1. *Whoelse* will come here?（另外）还有谁将到这里来?
 
 
 2. *whatelse* are you going to do？你还准备做什么？
@@ -18204,7 +17851,7 @@ versa或者反过来（也是这样）等
 6. Whose*else* could this pen be？这支钢笔还能是谁的呢？
 
 
-7. *How**else* *could* I have conducted the research？我那时还能怎样进行这项
+7. *Howelse* *could* I have conducted the research？我那时还能怎样进行这项
 
 
 研究呢？
@@ -18234,7 +17881,7 @@ versa或者反过来（也是这样）等
 除了你以外，所有其他人都参加欢迎会了。
 
 
-12. *Nobody**else* but him could ever do such a thing. 除了他以外，就再没有人
+12. *Nobodyelse* but him could ever do such a thing. 除了他以外，就再没有人
 
 
 能够做这样的事。
@@ -18243,10 +17890,10 @@ versa或者反过来（也是这样）等
 13. Iought to put it before *all* *else*. 我应该把它放在所有其它东西前面。
 
 
-14. He*has* *not* *anything* *else*（=*nothing**else*）tosay. 他再没有什么可说了。
+14. He*has* *not* *anything* *else*（=*nothingelse*）tosay. 他再没有什么可说了。
 
 
-15. Thereis *nowhere* *else*（=*not**anywhere* *else*）forme to go. 我无其它地方
+15. Thereis *nowhere* *else*（=*notanywhere* *else*）forme to go. 我无其它地方
 
 
 可去。
@@ -18255,19 +17902,19 @@ versa或者反过来（也是这样）等
 16. Iam going to take you *somewhere* *else*. 我打算带你去另外一个地方。
 
 
-注：*elsewhere*和*somewhere**else*含义相同。例如：Thosetalkbacks were found
+注：*elsewhere*和*somewhereelse*含义相同。例如：Thosetalkbacks were found
 
 
-*elsewhere*（=*somewhere**else*）. 那些对讲机是在别处发现的。
+*elsewhere*（=*somewhereelse*）. 那些对讲机是在别处发现的。
 
 
-**Other****和****Another****用法差异**
+Other和Another用法差异
 
 
-**一、****other****（前加定冠词****the****）用于两人或两事物中的“另一个”，而****another**
+一、other（前加定冠词the）用于两人或两事物中的“另一个”，而another
 
 
-**用于不定数目中的另一个**
+用于不定数目中的另一个
 
 
 1. Henryholds a pair of sunglasses in one hand，andhis portable phone in *the*
@@ -18309,10 +17956,10 @@ versa或者反过来（也是这样）等
 在中国没有另外一个大学像我校那样有那么多的学生。
 
 
-**二、****another****（由****an+other****构成）大多用于单数，而****other****用于单复数均**
+二、another（由an+other构成）大多用于单数，而other用于单复数均
 
 
-**可，视需要而定；****others****是代词复数**
+可，视需要而定；others是代词复数
 
 
 1. Oneis a worker，*another*is a peasant，anda third is a soldier. 一个是工
@@ -18366,10 +18013,10 @@ cool for* anotherfive minutes*（或*fivemore minutes*）. 肉还得再煮五分
 （言外之意，已煮了五分钟。）
 
 
-**三、****otherthan****用法见下面的专题**
+三、otherthan用法见下面的专题
 
 
-**Otherthan****的用法**
+Otherthan的用法
 
 
 一、otherthan原意为“与……不同的”或“并非…”
@@ -18409,7 +18056,7 @@ broughttogether. 当这些反应物放在一起时，常发生不希望有的一
 状，而在别的方面。
 
 
-**二、****otherthan****常常可译为“除了……以外”**
+二、otherthan常常可译为“除了……以外”
 
 
 1. Ihave not operated any computers *other than* the personalcomputer. 除了
@@ -18439,7 +18086,7 @@ far. 除了到目前为止所讨论的那些能量形式以外，该定律还考
 4. Hecould not do it *other than* hurriedly. 他只能匆匆忙忙地做了那件事。
 
 
-**三、****no****…****otherthan****作“除……外……不”讲**
+三、no…otherthan作“除……外……不”讲
 
 
 1. *No*fuels *other than* petroleum will be fit for thispurpose. 除石油外其他燃
@@ -18454,7 +18101,7 @@ far. 除了到目前为止所讨论的那些能量形式以外，该定律还考
 出其它什么。
 
 
-**四、****none****（或****no****）****otherthan****…****作“不是别的，正是…”讲**
+四、none（或no）otherthan…作“不是别的，正是…”讲
 
 
 1. Itis *none other than *a minicomputer. 这就是微型计算机。（意译）
@@ -18469,10 +18116,10 @@ far. 除了到目前为止所讨论的那些能量形式以外，该定律还考
 3. Ms. Liaois *no other than* our teacher. 廖女士正是我们的老师。
 
 
-**Otherwise****用法**
+Otherwise用法
 
 
-**一、连词****otherwise****作“否则”讲，与****orelse****和****ifnot****同义**
+一、连词otherwise作“否则”讲，与orelse和ifnot同义
 
 
 1. Heatthe water，*otherwise*it will freeze. 把水加热，否则水会结冰。
@@ -18502,7 +18149,7 @@ to themeeting. 他昨天忙于作实验，否则他早就来开会了。（本�
 *yesterday*，所以构成了对过去事实相反的假设，后句谓语用虚拟语气。）
 
 
-**二、副词****otherwise****作“取别的方式”、“除此以外”、“从其它方面来说”讲**
+二、副词otherwise作“取别的方式”、“除此以外”、“从其它方面来说”讲
 
 
 1. Youthink it will rain today，buthe thinks* otherwise*. 你认为今天会下雨，
@@ -18544,7 +18191,7 @@ to the *otherwise*unusable coal seam and the coal is ignited. 在地下煤的气
 燃煤层。
 
 
-**三、形容词****otherwise****作“別样的”、“其它性质的”讲**
+三、形容词otherwise作“別样的”、“其它性质的”讲
 
 
 1. Someof the methods are successful，someare *otherwise*. 在这些方法中间
@@ -18562,10 +18209,10 @@ to the *otherwise*unusable coal seam and the coal is ignited. 在地下煤的气
 形式。）
 
 
-**Ought****用法**
+Ought用法
 
 
-**一、情态动词****ought****作“应该”讲，后接带****to****的不定式，语气比****should****强**
+一、情态动词ought作“应该”讲，后接带to的不定式，语气比should强
 
 
 1. You*ought to* answer this question at once. 你应该立即回答这个问题。
@@ -18595,7 +18242,7 @@ not表示“不应该”。
 问句要求句末用ought的否定式shouldn’t。）
 
 
-**三、****oughto****作“该”讲，用于表示可能性、期望。**
+三、oughto作“该”讲，用于表示可能性、期望。
 
 
 1. It*ought to* if about ten o’clock. 现在该是十点钟左右。
@@ -18604,13 +18251,13 @@ not表示“不应该”。
 2. You*ought to* *look* through binoculars. 你（应该）最好用望远镜观察。
 
 
-**四、****ought****没有时态变化，得靠上下文去体会。一般用于现在时和将来时**
+四、ought没有时态变化，得靠上下文去体会。一般用于现在时和将来时
 
 
- **（包括过去将来时），但不能用于叙述过去，除非表示过去应该做而实际未做的**
+ （包括过去将来时），但不能用于叙述过去，除非表示过去应该做而实际未做的
 
 
-**事（参阅下面第五项）**
+事（参阅下面第五项）
 
 
 1. Westudents *ought to* learn English hard。我们学生应该努力学习英语。
@@ -18649,7 +18296,7 @@ l. He*ought to have repaired* the digital computer yesterday. 他昨天本应修
 样做。（实际上他当时却这样做了。）
 
 
-**Out****及****Outof****的各自搭配用法的理解和判断**
+Out及Outof的各自搭配用法的理解和判断
 
 
 *out*为副词，而*outof*为复合介词。现按下列十六个大类来体会它们在各
@@ -18658,7 +18305,7 @@ l. He*ought to have repaired* the digital computer yesterday. 他昨天本应修
 种短语中的含义。
 
 
-**一、****out****表示“在外面、外向、到外面、出去、离开”时的动词短语汇总**
+一、out表示“在外面、外向、到外面、出去、离开”时的动词短语汇总
 
 
 ask sb. *out*to do sth. 请某人到外面（做某事）；dine（或eat）*out*在外面
@@ -18689,7 +18336,7 @@ ask sb. *out*to do sth. 请某人到外面（做某事）；dine（或eat）*out
 等。
 
 
-**二、****out****和有关动词搭配，作“…出”等讲时的动词短语汇总（共十类）**
+二、out和有关动词搭配，作“…出”等讲时的动词短语汇总（共十类）
 
 
 Ⅰ. *out*与有关动词搭配表示“拟定出”、“制订出”、“设计出”、“提出”之意。
@@ -18776,7 +18423,7 @@ Befired（*out*）（某人）被免职，被解雇；freezesb. *out*用冷淡�
 go *out of*work（某人）失业；kicksb. *out*把（某人）踢出去或解雇[相当于
 
 
-throw sb. *out**of* work（或ajob）解雇某人]；letsb. *out*让某人出去[直意]，解
+throw sb. *outof* work（或ajob）解雇某人]；letsb. *out*让某人出去[直意]，解
 
 
 雇某人[转义]；putsb. *out*把（某人）赶走或解雇；readsb. *out*宣布开除某人，
@@ -18906,7 +18553,7 @@ bark*out*…突然大声喊叫（警告等）；break*out* like that（某人）
 叫嚷；break*out* laughjng（某人）爆发出大笑声；break*out in* curses（某人）破口
 
 
-大骂；burst（*vi**. *）*out*突然喊叫；burst*out*+-ing突然（笑或哭）起来；burstout
+大骂；burst（*vi. *）*out*突然喊叫；burst*out*+-ing突然（笑或哭）起来；burstout
 
 
 inlaughter突然笑起来；burst*out* into a song突然唱起歌来；callout…大声叫
@@ -19051,7 +18698,7 @@ school（退学）等形式表示]；empty*out*…把（油等）倒空出去；
 案）；write*out*…写出或腾写（契约），开出（支票、药方）等。
 
 
-**三、****out****用于“扫掉、擦掉、清理掉、洗去等”含义的短语动词举例**
+三、out用于“扫掉、擦掉、清理掉、洗去等”含义的短语动词举例
 
 
 cancel（*v*. ）*out*抵销掉（债务等），成绩或过错）相抵销；clear*out*…打扫
@@ -19075,7 +18722,7 @@ cancel（*v*. ）*out*抵销掉（债务等），成绩或过错）相抵销；c
 把（澡盆等）擦洗干净，抹掉或勾销（债务）等。
 
 
-**四、****out****用于“删掉、划掉、略去”时的动词短语汇总**
+四、out用于“删掉、划掉、略去”时的动词短语汇总
 
 
 black*out*…涂黑去掉即抹掉（某些词句等）；blank*out*删掉（某一句等）
@@ -19114,7 +18761,7 @@ line* out *aplan则为“草拟一个计划”，而line…through是“中间�
 
 
 
-**五、****out****和有关动词搭配，表示“打开、散开、摊开、伸直、展开、解决”等**
+五、out和有关动词搭配，表示“打开、散开、摊开、伸直、展开、解决”等
 
 
 break*out*…打开（一瓶饮料等）；open*out*…摊开（报纸等）或展开（地图
@@ -19132,7 +18779,7 @@ break*out*…打开（一瓶饮料等）；open*out*…摊开（报纸等）或�
 等）；stretch*out*（某人）身子摊开平躺等。
 
 
-**六、****out****用于“扑灭、熄灭、踏灭”等时的动词短语汇总**
+六、out用于“扑灭、熄灭、踏灭”等时的动词短语汇总
 
 
 be*out*（火等）熄灭[联系lights-*out*（熄灯）等]；beat*out*…用扑打方式熄
@@ -19162,7 +18809,7 @@ be*out*（火等）熄灭[联系lights-*out*（熄灯）等]；beat*out*…用�
 来]等。
 
 
-**七、****out****用于“疲倦、失去知觉、昏倒”时的动词短语汇总**
+七、out用于“疲倦、失去知觉、昏倒”时的动词短语汇总
 
 
 be beaten*out*（某人）筋疲力尽；black（vi. ）*out*（某人在高空时）失去知觉
@@ -19189,7 +18836,7 @@ played*out*（某人）筋疲力尽，（某理论等）过时，（才能等）
 惫不堪；runoneself *out*（他）跑得筋疲力尽等。
 
 
-**八、****out****表示“清楚”等含义时的动词短语汇总**
+八、out表示“清楚”等含义时的动词短语汇总
 
 
 argue*out*…辩清楚（问题及其性质等）；beat*out*…弄明白、推敲出或阐明
@@ -19218,7 +18865,7 @@ argue*out*…辩清楚（问题及其性质等）；beat*out*…弄明白、推�
 讲]等。
 
 
-**九、****out****表示“完全、彻底、结束或终止”时的动词短语汇总**
+九、out表示“完全、彻底、结束或终止”时的动词短语汇总
 
 
 blow*out*（暴风雨等）吹完或停吹[通过本例翻译可体会到上面所写的“结
@@ -19260,7 +18907,7 @@ write oneself*out*（某作家）写作能力枯竭或无力写出作品[由“�
 注：从广义讲，最后两例也可归入前面第七项。
 
 
-**十、****out****用于“注意、当心”等时的动词短语汇总**
+十、out用于“注意、当心”等时的动词短语汇总
 
 
 listen*out*留心听；listen*out *for…留心听好（注意事项等）；look（*v*. ）*out*
@@ -19284,10 +18931,10 @@ listen*out*留心听；listen*out *for…留心听好（注意事项等）；loo
 车、机会等）。
 
 
-**十一、****outof****常作“从****…****内出来”或“离开”讲。若常用****out****的固定短语后接**
+十一、outof常作“从…内出来”或“离开”讲。若常用out的固定短语后接
 
 
-**of****…****，则就指出具体的出处或来由。这时****outof****必须紧接在一起**
+of…，则就指出具体的出处或来由。这时outof必须紧接在一起
 
 
 l. a. come*out*出来
@@ -19332,7 +18979,7 @@ b. getthe ink stain *out *of the shirt去掉或洗掉衬衫上的墨水迹
 b. play*out* of doors（小孩等）在户外玩耍
 
 
-**十二、****outof****表示“失去、丧失”之意时的动词短语汇总**
+十二、outof表示“失去、丧失”之意时的动词短语汇总
 
 
 be* out of *one’ssense（或temper，patience等）（某人）失去理智（即发
@@ -19350,10 +18997,10 @@ go *out of *one’smind（某人）神经错乱；be*out of* touch with sb. 和�
 job（某人）失业；be*out of *order（机器等）出故障[指“失去工作状态”]等。
 
 
-**十三、****outof****用于“由…制成、建成、做成（或雕刻成）、由（工资或基金等）**
+十三、outof用于“由…制成、建成、做成（或雕刻成）、由（工资或基金等）
 
 
-**支付（或出版）…”时的动词短语汇总**
+支付（或出版）…”时的动词短语汇总
 
 
 be made *outof*…（面粉等）由（小麦）制成，（某工艺品等）由（玻璃、象牙）
@@ -19383,7 +19030,7 @@ built（*out*）*of*等。
 is made from riceand wheat。from不可用*outof*代替。
 
 
-**十四、注意在非正式文体中用****out****表示****outof****，从而造成难点**
+十四、注意在非正式文体中用out表示outof，从而造成难点
 
 
 look* out of*the window…从窗内看（花园）；duck*out*（*of*）one’s
@@ -19417,7 +19064,7 @@ window从窗口跳出；throwsth. *out*（*of*）awindow onto…把（包裹等�
 
 
 
-**十六、注意****outof****和****in****（或****into****）构成反义词组对比**
+十六、注意outof和in（或into）构成反义词组对比
 
 
 1. a. be*out of* use（机器等）不使用了
@@ -19450,13 +19097,13 @@ b. gointo service营业，工作，运行
 b. talk（或argue）sb. into+-ing说服某人做某事
 
 
-**Ovet****及其搭配用法分类理解和判断**
+Ovet及其搭配用法分类理解和判断
 
 
-**一、介词****Over****用于“在…上方、在…以上或…的另一边”时的动词短语**
+一、介词Over用于“在…上方、在…以上或…的另一边”时的动词短语
 
 
-**举例**
+举例
 
 
 be right*over*…（阅览室）正好位于（我们教室）上方；beequal to three
@@ -19498,7 +19145,7 @@ and lookahead伏在（栏杆）上并往前看（即凭栏远眺）；shine*over
 路的另一边”]等
 
 
-**二、介词****over****用于“覆盖、遍布、遍及”时的动词短语举例**
+二、介词over用于“覆盖、遍布、遍及”时的动词短语举例
 
 
 be all*over*…（水或书）洒遍或撒满（地、桌）；go*over*…（茶、牛奶）洒在
@@ -19523,10 +19170,10 @@ be all*over*…（水或书）洒遍或撒满（地、桌）；go*over*…（茶
 植（树）；travelall *over* China游遍中国等
 
 
-**三、介词****over****由“覆盖地理区域”转意为“覆盖某段时间****→****在…期间”讲**
+三、介词over由“覆盖地理区域”转意为“覆盖某段时间→在…期间”讲
 
 
-**时的动词短语举例**
+时的动词短语举例
 
 
 go downtown *over*the weekend进市里中心区度周末；knowsb. well
@@ -19541,7 +19188,7 @@ talk about sth. *over*a bottle（或acup of tea）在喝酒（或喝茶）时谈
 “在…上方”引申转译]”等
 
 
-**附：介****over****和****during****在时间方面用法比较**
+附：介over和during在时间方面用法比较
 
 
 over作“在…期间”讲，后面一般用有时间意义的名词及其短语，如
@@ -19556,10 +19203,10 @@ his visit，theirstay，thediscussion等。由此可见，during搭配范围比o
 泛。
 
 
-**四、介词****over****用于“从…上面通过或超过”（可引申为“略过、漏掉、掩饰”）**
+四、介词over用于“从…上面通过或超过”（可引申为“略过、漏掉、掩饰”）
 
 
-**或“通过媒介（如无线电）”时的动词短语举例**
+或“通过媒介（如无线电）”时的动词短语举例
 
 
 jump*over*…跳过（小溪等），跳过或略去（某些细节等）；fly*over*…飞越
@@ -19627,10 +19274,10 @@ see*over*…参观并查看（工厂等）；pass*over*…飞越（山顶），�
 
 
 
-**五、介词****over****由“越过、超过…”用于转义“克服或胜过…”时的动词短语**
+五、介词over由“越过、超过…”用于转义“克服或胜过…”时的动词短语
 
 
-**举例**
+举例
 
 
 go*over*…克服（困难、障碍等），摆脱（失望、苦恼、悲痛等），治好（疾病等）
@@ -19648,10 +19295,10 @@ go*over*…克服（困难、障碍等），摆脱（失望、苦恼、悲痛等
 （某人）[由“步行越过（马路、人群等）”引申过来]等
 
 
-**六、介词****over****用于“为了或由于…、对于…、在（某问题上）”时的动词短语**
+六、介词over用于“为了或由于…、对于…、在（某问题上）”时的动词短语
 
 
-**举例**
+举例
 
 
 carry out muchdiscussion *over*…对（某课题等）进行许多讨论；cry*over*
@@ -19687,10 +19334,10 @@ much difficulty*over*（或with）…对于（数学或钱的问题等）有不�
 satisfaction*over*…对（某事）表示满意等。
 
 
-**七、介词****over****作“在…以上”讲，从而引申出相应的副词****over****表示“越出、**
+七、介词over作“在…以上”讲，从而引申出相应的副词over表示“越出、
 
 
-**在上方、从上方、过分、剩下”之意**
+在上方、从上方、过分、剩下”之意
 
 
 have what is neededand a bit *over*（某人）拥有所需的东西并且还超过一
@@ -19711,7 +19358,7 @@ have what is neededand a bit *over*（某人）拥有所需的东西并且还超
 weigh ten kilos andover（这些东西等）重10公斤和10公斤以上等
 
 
-**八、副词****over****作“过来、过去”，甚至引申为“结束”讲时的动词短语举例**
+八、副词over作“过来、过去”，甚至引申为“结束”讲时的动词短语举例
 
 
 ask sb. *over*+todo sth. 请某人过去（或过来）做某事；be*over*（夏天）过
@@ -19802,13 +19449,13 @@ the car*over*（司机等）把车开往一边；take…*over*接替（某人职
 （钥匙、钱、财产等）转移给某人，把（小偷等）扭送到（警察局即thepolice）等
 
 
-**九、副词****over****由上述“通过一段距离”引申为“通过一段时间的距离”，有**
+九、副词over由上述“通过一段距离”引申为“通过一段时间的距离”，有
 
 
-**时作“耽搁一段时间”讲。它还可和有关动词以及****to****或****till****连用，就含“推迟、延**
+时作“耽搁一段时间”讲。它还可和有关动词以及to或till连用，就含“推迟、延
 
 
-**期”之意**
+期”之意
 
 
 go *over*to…（某问题等）延迟到（下届代表大会等）；hang*over* till…（某
@@ -19842,10 +19489,10 @@ go *over*to…（某问题等）延迟到（下届代表大会等）；hang*over
 （使）该工作拖延到下一年等
 
 
-**十、副词****over****由“越过”引申为“从头到尾过一遍、仔细重复一遍、重新”时**
+十、副词over由“越过”引申为“从头到尾过一遍、仔细重复一遍、重新”时
 
 
-**与动词构成的短语举例**
+与动词构成的短语举例
 
 
 check…*over*把（书稿等）校阅一遍；do…*over*重新收拾或重新装饰（房
@@ -19869,7 +19516,7 @@ check…*over*把（书稿等）校阅一遍；do…*over*重新收拾或重新�
 （问题、答案）等
 
 
-**十一、副词****over****作“覆盖、遍及”讲时的动词短语举例**
+十一、副词over作“覆盖、遍及”讲时的动词短语举例
 
 
 ache all*over*（他）全身疼痛，lookall *over* for…到处寻找（手表）；cover
@@ -19878,7 +19525,7 @@ ache all*over*（他）全身疼痛，lookall *over* for…到处寻找（手表
  …*over*把（棉花、粮）覆盖好；freeze*over*（江河等）封冻等
 
 
-**十二、副词****over****用于“翻倒、翻转、转过来变为…”时的动词短语举例**
+十二、副词over用于“翻倒、翻转、转过来变为…”时的动词短语举例
 
 
 change *over*from…to…（铁路线等）由（蒸汽机车）改为（电气机车等）；
@@ -19908,7 +19555,7 @@ over（汽车等）滚翻；turn*over*（汽车、船等）翻倒，（某人）
  （某公司）转为（生产个人计算机即PC. ）[to后接名词或动名词短语]等
 
 
-**十三、****over****与其它副词或介词连用的情况**
+十三、over与其它副词或介词连用的情况
 
 
 be *over* *andabove*…（他的工资等）多于或超过（平均工资等）；get50
@@ -19936,16 +19583,16 @@ dollars *over*and above…除了（工资、奖金等）还拿50美元[overand a
 
 
 
-[无线电通话用语]；read…*over**and over*（*again*）再三地阅读（某故事等）；
+[无线电通话用语]；read…*overand over*（*again*）再三地阅读（某故事等）；
 
 
 sit* overhere*坐在这边；stand*over there*站在那边等
 
 
-**十四、****over****和****above****的用法比较，参阅第****11****，****12****页**
+十四、over和above的用法比较，参阅第11，12页
 
 
-**代词有时出现在所代的名词之前**
+代词有时出现在所代的名词之前
 
 
 代词一般出现在所代替的名词之后，即名词先出现，然后才用代词代替
@@ -19987,7 +19634,7 @@ be in aposition（或condition）towalk. 没有人的脚和地之间的摩擦，
 对此不高兴。（it在句中代替“学生迟到”这个情况。）
 
 
-**通过上面五个例句，可以归纳如下两点：**
+通过上面五个例句，可以归纳如下两点：
 
 
 A：见到代词，首先是往前找它所代表的名词。但对于上述五句中的it，
@@ -20014,10 +19661,10 @@ B：翻译成汉语时，一般要先译代词所代替的名词，然后再译�
 词所代替的名词。
 
 
-**形容词型物主代词和名词型物主代词的用法辨异**
+形容词型物主代词和名词型物主代词的用法辨异
 
 
-**一、形容词型和名词型物主代词的形式**
+一、形容词型和名词型物主代词的形式
 
 
  1. 形容词型物主代词：my，your，his，her，its，our，your，their. 
@@ -20033,7 +19680,7 @@ B：翻译成汉语时，一般要先译代词所代替的名词，然后再译�
 
 
 
-**二、形容词型物主代词只能作定语**
+二、形容词型物主代词只能作定语
 
 
 1. Thisis *my*（或*your*，*his*，*her*）book. 这是我的（或你的，他的，她的）书。
@@ -20048,10 +19695,10 @@ B：翻译成汉语时，一般要先译代词所代替的名词，然后再译�
 的）计算机公司吗？
 
 
-**三、名词型物主代词等于“形容词型物主代词****+****上下文中出现的有关的**
+三、名词型物主代词等于“形容词型物主代词+上下文中出现的有关的
 
 
-**名词”，始终在句中顶一个名词来用。不可用上述物主代词代替**
+名词”，始终在句中顶一个名词来用。不可用上述物主代词代替
 
 
 1. Whichelectronic dictionary is* yours*？哪个电子词典是你的（词典）？（表语
@@ -20090,7 +19737,7 @@ B：翻译成汉语时，一般要先译代词所代替的名词，然后再译�
 宾语，也不可用my代之。但可用“…ofmy own”代替。）
 
 
-**四、注意形容词型物主代词和****own****连用情况**
+四、注意形容词型物主代词和own连用情况
 
 
 1. Shebought it for *her own* use. 她购买了这个东西供自用。（注意own作形
@@ -20111,10 +19758,10 @@ B：翻译成汉语时，一般要先译代词所代替的名词，然后再译�
 4. Thisword has a distinct meaning of *its own*. 该词有其独特的含义。
 
 
-**Provided****（****that****）和****Providing****（****that****）的用法和判别**
+Provided（that）和Providing（that）的用法和判别
 
 
-**一、连词****provided****（****that****）和****providing****（****that****）作“只要”讲，引导条件从句**
+一、连词provided（that）和providing（that）作“只要”讲，引导条件从句
 
 
 1. Iwill set the machine to pieces once again *provided*（或*providing*）*that*I
@@ -20145,13 +19792,13 @@ have enoughtime. 只要我时间够，我就一定再把机器拆一次。（句
 tooexpensive. 只要花费不太贵，我们将去巴黎度假。
 
 
-**二、由于****that****常省略，注意别与动词****provide****（供给）的过去时、过去分词**
+二、由于that常省略，注意别与动词provide（供给）的过去时、过去分词
 
 
- **和现在分词混淆。判别时主要根据****provided****或****providing****后面是否有一个从**
+ 和现在分词混淆。判别时主要根据provided或providing后面是否有一个从
 
 
- **句。若连接的是从句，****provided****或****providing****作“只要”讲，否则就作“供给”讲**
+ 句。若连接的是从句，provided或providing作“只要”讲，否则就作“供给”讲
 
 
 1. a. Weshall do this test *provided*（或*providing*）theweather is fine. 只要
@@ -20178,16 +19825,16 @@ b. Weare well *provided* with food and clothing. 我们衣食供应充足。
 体的体积与绝对温度成正比。（同上1. a. ）
 
 
-**三、用****provided****或****providing****引出的条件状语从句常可用****if****代替。由于**
+三、用provided或providing引出的条件状语从句常可用if代替。由于
 
 
- **provided****或****providing****含有以某种特定的“规定”作为条件，而且还是提出条件**
+ provided或providing含有以某种特定的“规定”作为条件，而且还是提出条件
 
 
- **的人要求或坚持实现这个条件，所以并不是所有用****if****连接的条件状语从句都**
+ 的人要求或坚持实现这个条件，所以并不是所有用if连接的条件状语从句都
 
 
- **可用****prodded****或****providing****代替。**
+ 可用prodded或providing代替。
 
 
 1. Weshall hold the farewell meetint here *provided*（或*providing*）thatno
@@ -20208,13 +19855,13 @@ that还可省略。也可用if代替句中*provided*或*providingthat*。）
 不宜用*provided*或*providing*代替。）
 
 
-**Rather****和****Fairly****的用法差异**
+Rather和Fairly的用法差异
 
 
-**（联系近义词****Quite****，****Pretry****）**
+（联系近义词Quite，Pretry）
 
 
-**一、副词****rather****和****fairly****都可作“相当地”讲。但含义不同**
+一、副词rather和fairly都可作“相当地”讲。但含义不同
 
 
 1. Thisis d *rather*（或*ratheran*）easybook. 这本书颇为浅易。（有过于浅易、
@@ -20270,10 +19917,10 @@ quite，rather，pretty，very代替。但它们并不属于同样一个水平�
 上面这五个词的顺序逐渐加大。
 
 
-**二、****rather****可用于比较级或****too****（作“过分或太…”讲）之前，但****fairly****无此**
+二、rather可用于比较级或too（作“过分或太…”讲）之前，但fairly无此
 
 
-**用法。**
+用法。
 
 
 1. Iam *rather* *better* today. 我今天身体好得多了。
@@ -20282,7 +19929,7 @@ quite，rather，pretty，very代替。但它们并不属于同样一个水平�
 2. Thedress design is *rather* too difficult for me. 服装设计对我说来太难了。
 
 
-**三、****orrather****用作插人语，表示“更正确地说”、“更精确地说”之意**
+三、orrather用作插人语，表示“更正确地说”、“更精确地说”之意
 
 
 1. Hearrived vcry early this morning，*orrather*，atfour o’clock. 他今晨到达
@@ -20300,10 +19947,10 @@ indirect source ofenergy. 有些人认为电是一种燃料，但这是不对的
 地说，电是一种间接的能源。
 
 
-**四、“****would****（或****had****）****rather****”****作“宁愿”、“愿”解，后接动词，也可后接不用**
+四、“would（或had）rather”作“宁愿”、“愿”解，后接动词，也可后接不用
 
 
- **that****连接的宾语从句。在后一种情况下，从句谓语用过去时表示虚拟语气**
+ that连接的宾语从句。在后一种情况下，从句谓语用过去时表示虚拟语气
 
 
 1. I*would rather *come earlief。我宁愿早点来。
@@ -20367,13 +20014,13 @@ fairlydangerous，（加*以示后面英语是错的）而要用*rather*bad（�
 3）Theydecorated the room fairly. 他们把房间装饰得很漂亮。
 
 
-**Ratherthan****的用法和注意点**
+Ratherthan的用法和注意点
 
 
-**一、****ratherfhan****用于表示主观愿望的抉择，即“宁愿……而不……”、“不**
+一、ratherfhan用于表示主观愿望的抉择，即“宁愿……而不……”、“不
 
 
- **是（或不应该是）这样，而是（或而应该是）那样”**
+ 是（或不应该是）这样，而是（或而应该是）那样”
 
 
 1. Heinsisted on staying *rather than *go. （当时）他坚持要留下来，而不愿意
@@ -20415,13 +20062,13 @@ fairlydangerous，（加*以示后面英语是错的）而要用*rather*bad（�
 或“wouldas soon…as…”句型代替，句意相似。例如上面第3句即可。
 
 
-**二、****ratherthan****反映客观上的差异，即表示“是……而不是……”、“与其**
+二、ratherthan反映客观上的差异，即表示“是……而不是……”、“与其
 
 
-**说是……不如说是……”、“倒不如说”之意。注意****ratherthan****连接的两端应是**
+说是……不如说是……”、“倒不如说”之意。注意ratherthan连接的两端应是
 
 
-**同类的词或成分**
+同类的词或成分
 
 
 1. Itis *rather *good *than *bad. 这倒是好的，不算坏。（联系同义或近义的句子：
@@ -20509,7 +20156,7 @@ and therefore burnmore calories. 如果你慢跑而不是步行30分钟，那么
 你就会跑更长的距离，因而消耗更多卡的热量。
 
 
-**三、判别时注意点**
+三、判别时注意点
 
 
 Ⅰ. 在句中有would，had等词，表示一种主观意愿时，ratherthan多半作
@@ -20570,10 +20217,10 @@ III. ratherthan如出现在句首，则该句就作“不是……，而是…�
 述第二项第5句。
 
 
-**Right****用法**
+Right用法
 
 
-**一、形容词****right****作“正确”、“对”、“恰当”讲**
+一、形容词right作“正确”、“对”、“恰当”讲
 
 
 1. That’s（=Thatis）*right*，Ithink. 我想，这是对的。
@@ -20594,7 +20241,7 @@ III. ratherthan如出现在句首，则该句就作“不是……，而是…�
 的事情。
 
 
-**二、形容词****right****作“直的”、“垂直的”讲**
+二、形容词right作“直的”、“垂直的”讲
 
 
 1. Heregards AB as a *right* line. 他认为AB是一条直线。（句中asa* right*
@@ -20609,7 +20256,7 @@ line是宾语补语。）
 三角形。
 
 
-**三、形容词****right****作“右的”、“正面的”讲**
+三、形容词right作“右的”、“正面的”讲
 
 
 1. Inthe *right *shop there are all sizes of gloves. 右边的商店内有各种尺码的
@@ -20624,7 +20271,7 @@ line是宾语补语。）
 3. Thisis the *right* side of a piece of cloth. 这是一块布的正面。
 
 
-**四、副词****right****作“正确地”、“恰当地”、“恰好”、“完全地”讲**
+四、副词right作“正确地”、“恰当地”、“恰好”、“完全地”讲
 
 
 1. Youhave just done *right*. 你刚才做得不错。
@@ -20642,13 +20289,13 @@ line是宾语补语。）
 3. Thewheel turned *right* round. 轮子转了一圈。
 
 
-**五、副词****right****作“在右面”、“向右”讲**
+五、副词right作“在右面”、“向右”讲
 
 
 Don’t turn*right*！别向右拐弯！
 
 
-**六、名词****right****作“正确”、“权利”、“右”讲**
+六、名词right作“正确”、“权利”、“右”讲
 
 
 1. Ifwe study very hard，weshall be able to know the difference between
@@ -20675,7 +20322,7 @@ Don’t turn*right*！别向右拐弯！
 存权大会。（一种反对人工堕胎的大会）
 
 
-**七、带****right****的一些常用词组用法举例**
+七、带right的一些常用词组用法举例
 
 
 1. Mywatch broke down，pleaseset it *right*. 我的表坏了，请修理一下。（set
@@ -20702,10 +20349,10 @@ Don’t turn*right*！别向右拐弯！
 7. Theywork *right along*. 他们不停地工作。
 
 
-’**s****的用法**
+’s的用法
 
 
-**一、****’****s****一般表示人或动物等的所有关系，用于名词复数的词尾形式为****s’**
+一、’s一般表示人或动物等的所有关系，用于名词复数的词尾形式为s’
 
 
 the*teachers*’help老师们的帮助；*children*’*s*books儿童读物；*mare*’*s*milk
@@ -20714,10 +20361,10 @@ the*teachers*’help老师们的帮助；*children*’*s*books儿童读物；*ma
 马奶；*China*’*s*market中国的市场等
 
 
-**二、表示店铺、教堂的名称或某人的家时，名词所有格后面的名词常不**
+二、表示店铺、教堂的名称或某人的家时，名词所有格后面的名词常不
 
 
-**出现。**
+出现。
 
 
 1. Wemet him at the* tailor’s *yesterday. 我们昨天在裁缝店遇见了他。
@@ -20736,19 +20383,19 @@ the*teachers*’help老师们的帮助；*children*’*s*books儿童读物；*ma
 3. Theyare having a meeting at *Mr*. *Fang*’*s*. 他们正在方先生家开会。
 
 
-**三、注意名词所有格后的名词由于前面已经提到而被省略的情况，同时**
+三、注意名词所有格后的名词由于前面已经提到而被省略的情况，同时
 
 
-**也注意****of****后单独使用名词所有格的情况**
+也注意of后单独使用名词所有格的情况
 
 
-I. Thisbook* isn’t mine*，but*Ms**. **Ye’s*。这本书不是我的，而是叶女士的。
+I. Thisbook* isn’t mine*，but*Ms. Ye’s*。这本书不是我的，而是叶女士的。
 
 
 2. Thatis a close friend of *Professor Lin’s*. 那是林教授的一位密友。
 
 
-**四、注意“名词所有格****+-ing****”****构成复合结构的用法**
+四、注意“名词所有格+-ing”构成复合结构的用法
 
 
 1. Thename of the picture is“*PremierZhou*’*s* talking with an old worker”、
@@ -20775,10 +20422,10 @@ I. Thisbook* isn’t mine*，but*Ms**. **Ye’s*。这本书不是我的，而�
 船的长度；*aton*’*s* weight一吨的重量等
 
 
-**六、无生命的名词一般用****of****来表示所有格关系，但目前也有用****’****s****表示所**
+六、无生命的名词一般用of来表示所有格关系，但目前也有用’s表示所
 
 
-**有格的情况**
+有格的情况
 
 
 1. Thisis our *car’s *engine. 这是我们汽车的发动机。
@@ -20802,19 +20449,19 @@ I. Thisbook* isn’t mine*，but*Ms**. **Ye’s*。这本书不是我的，而�
  注：目前在英语中用of短语仍比用’s更多些。因此，使用本结构时应谨慎为宜。
 
 
-**七、****’****s****表示字母、数字、略语等的复数**
+七、’s表示字母、数字、略语等的复数
 
 
 *ABC’s* ofscience科学的基础；1970’*s*二十世纪七十年代；inthe early
 
 
-1900’*s*在二十世纪初期；five*B**. **T**. **U’s*5个英热单位（也有用fiveB. T. U. 而
+1900’*s*在二十世纪初期；five*B. T. U’s*5个英热单位（也有用fiveB. T. U. 而
 
 
 不加’s）
 
 
-**八、****’****s****是****us****，****has****，****is****的缩语**
+八、’s是us，has，is的缩语
 
 
 1. *Let*’*s*make an adjustment. 让我们调整一下。（指us）
@@ -20837,34 +20484,34 @@ I. Thisbook* isn’t mine*，but*Ms**. **Ye’s*。这本书不是我的，而�
 4. *It’s*much better than we thought. 这比我们想的好得多了。（指is）
 
 
-**九、注意易混淆的几个句子意思**
+九、注意易混淆的几个句子意思
 
 
-1. *Thisis Mr**. **Fang’spicture*. 这是方先生的照片。
+1. *Thisis Mr. Fang’spicture*. 这是方先生的照片。
 
 
-2. Thisis a *picture* fo *Mr**. **Fang*. 这是方先生本人的照片。
+2. Thisis a *picture* fo *Mr. Fang*. 这是方先生本人的照片。
 
 
-3. Thisis a *picture* fo *Mr**. **Fang*. 这是方先生所持有的照片中的一张。
+3. Thisis a *picture* fo *Mr. Fang*. 这是方先生所持有的照片中的一张。
 
 
-4. Thispicture is *Mr**. **Fang’s*. 这张照片是方先生的。
+4. Thispicture is *Mr. Fang’s*. 这张照片是方先生的。
 
 
-**Should****用法**
+Should用法
 
 
-**一、****should****用于第一人称将来一般时助动词****shall****的过去将来时（见第**
+一、should用于第一人称将来一般时助动词shall的过去将来时（见第
 
 
-**391****页）**
+391页）
 
 
-**二、****should****用于非真实条件从句中（详见第****455****页假设情况汇总表）**
+二、should用于非真实条件从句中（详见第455页假设情况汇总表）
 
 
-**三、****should****作“应该”讲**
+三、should作“应该”讲
 
 
 1. We*should *complete our test in time. 我们应按时完成试验。
@@ -20876,10 +20523,10 @@ I. Thisbook* isn’t mine*，but*Ms**. **Ye’s*。这本书不是我的，而�
 结合。
 
 
-**四、****should****用于表示建议、要求、决定、命令等意义的主从复合句内，这时**
+四、should用于表示建议、要求、决定、命令等意义的主从复合句内，这时
 
 
- **从句谓语一般是“****should+****动词原形”，并且其中****should****常可省略**
+ 从句谓语一般是“should+动词原形”，并且其中should常可省略
 
 
 1. Theypropose（或demand，insist，decide，order）thatyou *should* read the
@@ -20909,13 +20556,13 @@ bcchecked. 核对实验结果是必需的（或重要的）。
 测量要准确。
 
 
-**五、****should****用于****if****或****incsse****引出的从句内，表示从句的内容将来不大可**
+五、should用于if或incsse引出的从句内，表示从句的内容将来不大可
 
 
- **能实现。这时主句要用****would****，****should****，****could****或****might****与动词原形来配合’详**
+ 能实现。这时主句要用would，should，could或might与动词原形来配合’详
 
 
-**见第****458****页三**
+见第458页三
 
 
 1. IfSidney *should* come today，Iwould go to see the test tube twins together
@@ -20940,13 +20587,13 @@ withhim. 假如锡德尼果真今天前来，那么我就同他一起去看试�
 了一个笔记本电脑，以备有时间就可上网。
 
 
-**六、****should****用于“****forfear that****…****（唯恐……）”、“（****forfear****）. ****est…****（免得**
+六、should用于“forfear that…（唯恐……）”、“（forfear）. est…（免得
 
 
- ……**）”和“****forfear****（****lest****）…（恐怕……）”引导的目的状语从句中。其中**
+ ……）”和“forfear（lest）…（恐怕……）”引导的目的状语从句中。其中
 
 
-**should****常可省略**
+should常可省略
 
 
 1. *Lest*the wall（*should*）collapse，theywent out of the house. 生怕墙倒坍，
@@ -20982,7 +20629,7 @@ may等。例如：Theparents worried for fear that their children *would*（或
 might）hurt. 家长当时很担心，怕他们的孩子会（或可能）受到伤害。
 
 
-**七、****should****用来表示谦逊、客气、委婉语气等含义，常用于第一人称**
+七、should用来表示谦逊、客气、委婉语气等含义，常用于第一人称
 
 
 1. I*should* say it wohld be better to have a look at itagain. 我倒是以为最好
@@ -21000,13 +20647,13 @@ might）hurt. 家长当时很担心，怕他们的孩子会（或可能）受到
 4. I*should* like to visit this place again. 我倒是愿意再次访问此地。
 
 
-**八、“****should+have+****过去分词”表示过去该做而实际上尚未做的动作。其**
+八、“should+have+过去分词”表示过去该做而实际上尚未做的动作。其
 
 
- **否定式则表示过去不该做而实际上已经做的动作。两者都含有劝告，甚至责备**
+ 否定式则表示过去不该做而实际上已经做的动作。两者都含有劝告，甚至责备
 
 
-**意思**
+意思
 
 
 1. Thosecells *should have been* *kept* in some dry places. 那些电池早就该放
@@ -21041,7 +20688,7 @@ might）hurt. 家长当时很担心，怕他们的孩子会（或可能）受到
 照看这些小孩。但为什么不看着他们呢？
 
 
-**九、****should****用于表示惊奇和欣喜的句子中，表示“竟然”、“居然”等含义**
+九、should用于表示惊奇和欣喜的句子中，表示“竟然”、“居然”等含义
 
 
 1. Itis strange that the wheel *should *turn so slowly. 真怪，这个轮的转动竟
@@ -21074,7 +20721,7 @@ might）hurt. 家长当时很担心，怕他们的孩子会（或可能）受到
 文。）
 
 
-**十、注意“****Why****（或****How****）****+should+****…”****句型表示“不能理解”的事**
+十、注意“Why（或How）+should+…”句型表示“不能理解”的事
 
 
 l. Why*should* you speak so impolitely？为什么你如此无礼貌地说话？
@@ -21101,10 +20748,10 @@ theseminerals. 当你读这篇文章时，你最好能往四周瞧瞧，并看�
 样的矿物。
 
 
-**Since****的用法和判别**
+Since的用法和判别
 
 
-**一、****since****的四种用法**
+一、since的四种用法
 
 
 I. 引导原因从句：since表示原因的意味稍弱，常译为“既然”，有时也可译
@@ -21157,7 +20804,7 @@ about any device isits efficiency. 既然热和功可以相互转换，那么对
 但前者多用于书面语中。例如：
 
 
-*Inasmuch**as*（或Inas much as）itis not your fault，youneedn’t care. 既
+*Inasmuchas*（或Inas much as）itis not your fault，youneedn’t care. 既
 
 
  然这不是你的错，你就不必介意了。（也可用since代之。）
@@ -21258,7 +20905,7 @@ ago）. 自从1978年（或22午前）以来我们取得了伟大的成就。（
 离家，从那时起我一直未听到她的音讯。
 
 
-**二、****since****用法的判别**
+二、since用法的判别
 
 
 I. 如果主句用完成时态，则since引导的从句通常是时间从句，除此以外，
@@ -21315,13 +20962,13 @@ III. 至于since和名词构成介词短语，一般作时间状语用。since�
 时，一般作副词用。
 
 
-**So****的主要用法**
+So的主要用法
 
 
-**一、副词****so****作“如此地”、“这样地”、“那样地”讲，有时代替上文中有关形**
+一、副词so作“如此地”、“这样地”、“那样地”讲，有时代替上文中有关形
 
 
-**容词、名词和动词，译成“也”或“确实”**
+容词、名词和动词，译成“也”或“确实”
 
 
 1. Why（isthat）*so*？为什么这样呢？
@@ -21379,7 +21026,7 @@ b. Youare a net fan and *so *is she. 你是网迷，而她也是网迷。
 B：Ithink *so*. 我想是这样的。（=Ithink（that）itis going to snow. ）
 
 
-**二、连词****so****作“因而”、“所以”解**
+二、连词so作“因而”、“所以”解
 
 
 1. Thedoor was locked* so* he could not come in. 门锁工了，所以他不能进来。
@@ -21388,7 +21035,7 @@ B：Ithink *so*. 我想是这样的。（=Ithink（that）itis going to snow. �
 2. Theyasked us to go，*so*we went. 他们要求我们去，因此我们就去了。
 
 
-**三、与****so****连用的一些常用词组**
+三、与so连用的一些常用词组
 
 
 1. Shedoes *not* speak English so well *as *you。她英语不如你说得好。
@@ -21447,13 +21094,13 @@ order to代替。）
 
 
 
-**Sothat****和****so****（或****Such****）…****that****引导从句的用法和判别**
+Sothat和so（或Such）…that引导从句的用法和判别
 
 
-**一、****sothat****引导目的从句或结果从句。前者译“为了”、“以便”；后者译“以**
+一、sothat引导目的从句或结果从句。前者译“为了”、“以便”；后者译“以
 
 
-**致于”、“使得”、“因此”**
+致于”、“使得”、“因此”
 
 
 l. Pleasespeak slowly *so that we can take everything down*. 请慢慢讲，以便
@@ -21531,10 +21178,10 @@ worked hard，*sothat*（或*withthe result that*）*hiswork was* *finished in*
 ：
 
 
-**二、****so****（或****such****）…****that****引导结果从句作“这么……，以致”或“所以”解**
+二、so（或such）…that引导结果从句作“这么……，以致”或“所以”解
 
 
- **在****so****后是形容词，副词或分词，而在****such****后是名词**
+ 在so后是形容词，副词或分词，而在such后是名词
 
 
 1. Acomputer* is such an important device that* modern industrycannot
@@ -21595,7 +21242,7 @@ is known，thecenter of mass of the whole can be usually found. 当将物体
 量中心。（没按原文结构翻译）
 
 
-**三、判别时几个值得注意的问题**
+三、判别时几个值得注意的问题
 
 
 I. 凡是用sothat或so（或such）…that引导的目的或结果状语从句，
@@ -21666,7 +21313,7 @@ III. sothat引出的从句内出现情态动词，则大多数是目的状语从
 2. Ishall put the gear here *so that he will see it *when hecomes. 我将把齿轮放在这里，以便他来时就会看到。（目的状语从句，尽管从句内无情态动词。）
 
 
-**SOOn****，****Nosooner……than****和****Assoon as****的用法**
+SOOn，Nosooner……than和Assoon as的用法
 
 
 一、副词soon作“不久”、“早”讲
@@ -21693,7 +21340,7 @@ l. Youwill *soon* go to the factory. 你们很快要下厂了。（指时间的�
 2. Speakto me as *fast* as you can. 你对我说话能多快就多快。（指说话速度的）
 
 
-**一、“****nosooner…than”****一般用于叙述过去事情，表示****“****一****…****就****…****”的意思。如果表示否定的短语****nosooner****位于句首，后面主、谓语就颠倒**
+一、“nosooner…than”一般用于叙述过去事情，表示“一…就…”的意思。如果表示否定的短语nosooner位于句首，后面主、谓语就颠倒
 
 
 1. *Nosooner* had we reachcd this conclusion *than* they greed toit. 我们一得出这个结论，他们就同意了。
@@ -21711,7 +21358,7 @@ l. Youwill *soon* go to the factory. 你们很快要下厂了。（指时间的�
 否定式而已，故用过去完成时。
 
 
-**三、“****assoon as****”****引导的是时间从句，作****“****一****……****就****……”****讲（详见第****54****页第****42****条）**
+三、“assoon as”引导的是时间从句，作“一……就……”讲（详见第54页第42条）
 
 
 1. *Assoon* *as* I saw him，Itold him what we needed. 我一见他，就告诉了他，我们需要什么。
@@ -21741,7 +21388,7 @@ l. Youwill *soon* go to the factory. 你们很快要下厂了。（指时间的�
 2）Hedidn’t arrive *as soon* *as* we hadexpected. 我们早就料到，他到不了。（assoon as并非引出时间状语从句。）
 
 
-**四、注意都表示“一……就……”的几个同义句的表达式**
+四、注意都表示“一……就……”的几个同义句的表达式
 
 
 1. a. Shesent an e-mail *as soon as* she received a letter fromyou. 她一接到你的来信就发了一个电子邮件。
@@ -21756,7 +21403,7 @@ b. Shehad *no sooner* received a letter from you *than* she sentan e-mail.
 c. Shehad *scarcely*（或hardly）receiveda letter from you *when*（或before）shesent an e-mail. 
 
 
-2. a. *As**soon as *I had done that，Irealized I had made a mistake. 我一做完那件事就意识到我犯了一个错误。
+2. a. *Assoon as *I had done that，Irealized I had made a mistake. 我一做完那件事就意识到我犯了一个错误。
 
 
 同义的句子如下：
@@ -21768,7 +21415,7 @@ b. Directly（或Immediately，Themonment，Theinstant）Ihad done that，Ireali
 c. Shortlyafter I had done that，Irealized I had made a mistake. 
 
 
-**五、注意“主语****+would****（或****had****）****+assoon+…+as+****被弃事物或动作”这种句型，它表示“宁愿…而不…”之意**
+五、注意“主语+would（或had）+assoon+…+as+被弃事物或动作”这种句型，它表示“宁愿…而不…”之意
 
 
 1. He*would*（just）*assoon* have an internet chat with net friends *as *go for awalk. 他宁愿和网友在网上聊天，而不愿出去散步。
@@ -21783,7 +21430,7 @@ c. Shortlyafter I had done that，Irealized I had made a mistake.
 注：这里用would或had表示虚拟语气。
 
 
-**六、注意****“****主语****+would+sooner+****原形动词…****+than+****原形动词****”****这种句型，它表示****“****宁愿早点****…****而不愿****…”****之意**
+六、注意“主语+would+sooner+原形动词…+than+原形动词”这种句型，它表示“宁愿早点…而不愿…”之意
 
 
 1. I*would sooner* leave *than* stay at home. 我宁肯离开，而不愿留在家里。
@@ -21805,10 +21452,10 @@ c. Shortlyafter I had done that，Irealized I had made a mistake.
 注：这里用would表示虚拟语气。
 
 
-**Spite****（主要是****Inspitee of****）用法**
+Spite（主要是Inspitee of）用法
 
 
-**一、****“****inspite of+****宾语****”****作让步状语用，表示****“****不顾****”****、****“****尽管****”****、****“****虽然****’’****之意**
+一、“inspite of+宾语”作让步状语用，表示“不顾”、“尽管”、“虽然’’之意
 
 
 1. Weshall go *in spite *of the rain. 尽管下雨，我们仍将去。
@@ -21820,13 +21467,13 @@ c. Shortlyafter I had done that，Irealized I had made a mistake.
 work tocompletion. 虽然有困难，但我们必须完成这项工作。
 
 
-注：联系forall…也含有“尽管”、“不顾”之意。例如：*Forall this*（或*all**that*），shehelped me. 虽然（或尽管）如此，她还是帮了我。
+注：联系forall…也含有“尽管”、“不顾”之意。例如：*Forall this*（或*allthat*），shehelped me. 虽然（或尽管）如此，她还是帮了我。
 
 
-**二、“****inspite of the fact that…****（从句）作“不顾……事实”讲**
+二、“inspite of the fact that…（从句）作“不顾……事实”讲
 
 
-*In spite of the fact**that* at first you did not succeed，youmust try again. 
+*In spite of the factthat* at first you did not succeed，youmust try again. 
 
 
 尽管你第一次未成功，但你必须再试。（原意为：不必顾虑第一次未成功的事实……。）
@@ -21856,10 +21503,10 @@ spiteof语气较强，notwithstanding语气较弱，而despite（后面of现极�
 afterward. 有些人做事不考虑会有什么后果产生。
 
 
-**still****的用法和注意点**
+still的用法和注意点
 
 
-**一、形容词****still****作“静”、“寂静的”、“静止的”讲**
+一、形容词still作“静”、“寂静的”、“静止的”讲
 
 
 1. *still*water静水；*still*lemonade无气柠檬水
@@ -21877,7 +21524,7 @@ afterward. 有些人做事不考虑会有什么后果产生。
 
 
 
-**二、“副词****still+****比较级”表示“还要或更…”之意**
+二、“副词still+比较级”表示“还要或更…”之意
 
 
 1. Inappearance this computer is *still* better than thatone. 从外表上看，这台
@@ -21910,7 +21557,7 @@ afterward. 有些人做事不考虑会有什么后果产生。
 more. 如果再加热，沸水的温度也不再上升。
 
 
-**四、副词****still****修饰全句，作“可是”、“还”讲**
+四、副词still修饰全句，作“可是”、“还”讲
 
 
 1. *Still*，youmust help him repair the air-conditioner。可是，你必须帮助他
@@ -21931,13 +21578,13 @@ more. 如果再加热，沸水的温度也不再上升。
 做另外一个试验。
 
 
-**五、动词****still****作“使得…平静”讲**
+五、动词still作“使得…平静”讲
 
 
 Anythimg cannot*still *the sea. 任何东西都不能使海洋平静下来。
 
 
-**六、词组****stillless****（何况），****stillmore****（况且）分别用于否定和肯定句**
+六、词组stillless（何况），stillmore（况且）分别用于否定和肯定句
 
 
 1. Henever thought of the tesflight，*stillless* did he conduct it. 他从没想到
@@ -21952,7 +21599,7 @@ Anythimg cannot*still *the sea. 任何东西都不能使海洋平静下来。
 那就更会拆机器了。
 
 
-**七、同音词****still****（*****n*****. ）作“蒸馏釜”讲**
+七、同音词still（*n*. ）作“蒸馏釜”讲
 
 
 The liquidremaining in the *still* contains much free acl. d. 蒸馏釜内剩下的
@@ -21966,7 +21613,7 @@ The liquidremaining in the *still* contains much free acl. d. 蒸馏釜内剩下
 
 
 
-**八、几点注意**
+八、几点注意
 
 
 I. 注意still的词序以及在比较级前出现作“还要”、“更加”讲。
@@ -21993,10 +21640,10 @@ II. 注意stillless，stillmore在否定和肯定句中用法（见上述第六�
 III. still除作名词、动词用外，在其它大部分情况下作“仍然”讲。
 
 
-**That****和****Those****的基本用法和判别**
+That和Those的基本用法和判别
 
 
-**一、****that****的基本用法**
+一、that的基本用法
 
 
 I. that表示“那”、“那个”，而those表示“那些”。两者都作定语用。
@@ -22275,7 +21922,7 @@ contented. 我要的就是让你愉快满意，别无其它。（nothing后为�
 than…为nothing的后置定语。）
 
 
-11. Weare sure（*that*）*theplan has been thought out very carefully**，**indeed*. 
+11. Weare sure（*that*）*theplan has been thought out very carefully，indeed*. 
 
 
 我们确信那个计划确是非常仔细地考虑出来的。（宾语从句）
@@ -22483,7 +22130,7 @@ Nickel steel isalso elastic，*thatis*，itcan stand vibration，shocks，and
 高温度的理由。（定语从句）
 
 
-2. 1949was the year* that*（=*when*）*the**People*’*s* R*epublic of China was*
+2. 1949was the year* that*（=*when*）*thePeople*’*s* R*epublic of China was*
 
 
 *founded*. 1949年是中华人民共和国成立的年份。（定语从句）
@@ -22589,7 +22236,7 @@ that引出时间状语从句，其中*that*还可省略。）
 工作。（*forthe reason that*引出原因状语从句。）
 
 
-**二、****that****用法的判别**
+二、that用法的判别
 
 
 I. 用以避免重复某一名词而用的that，只代替单数名词（见第287页ⅡB
@@ -23049,10 +22696,10 @@ that of the liquidphase，water. 水很不寻常，因为它的固相（冰）�
 longer. 无线电波和光波相似，所不同的只是无线电波的波长要长得多。
 
 
-“**比较级****+than****”****的用法和注意点**
+“比较级+than”的用法和注意点
 
 
-**一、用于对两者进行比较。在****than****后面的比较状语从句内，与主句相同**
+一、用于对两者进行比较。在than后面的比较状语从句内，与主句相同
 
 
 部分可省略，而不同部分须写出。有时than后的从句有主语、谓语颠倒现象
@@ -23178,10 +22825,10 @@ in a*lower*-*than*-*planned* orbit. “挑战者号”那时正在比预定计�
 
 
 
-**二、单个****more****是****many****（“许多”，用于可数名词复数）和****much****（“许多”，用**
+二、单个more是many（“许多”，用于可数名词复数）和much（“许多”，用
 
 
-**于不可数名词）的比较级**
+于不可数名词）的比较级
 
 
 1. Inthis container there is* more* water than in* that*one. 这个容器内的水比那
@@ -23199,7 +22846,7 @@ in a*lower*-*than*-*planned* orbit. “挑战者号”那时正在比预定计�
 3. Hehas *more* English books* than* I（have或do）. 他的英语书比我多。
 
 
-**三、注意比较级和****than****割裂的情况**
+三、注意比较级和than割裂的情况
 
 
 1. Thissmall lamp has a *higher* resistance *than* that largeone. 这个小灯泡的
@@ -23241,13 +22888,13 @@ books. 我们从计算机网络收集的材料已比从书中收集的多。（�
 时，你就觉得比举一个轻物要累。
 
 
-**四、注意比较级前加****much****，****alot****，****agreat deal****，****many****，****far****，****byfar****，****still**
+四、注意比较级前加much，alot，agreat deal，many，far，byfar，still
 
 
-**或****even****，****alittle****，****abit****，数字****+times****，****any****（如****anymore****或****anylonger****等用于**
+或even，alittle，abit，数字+times，any（如anymore或anylonger等用于
 
 
-**疑问句或否定句）等**
+疑问句或否定句）等
 
 
 l. Wemust unite to *win still greater* victories. 我们必须团结起来争取更大的
@@ -23317,16 +22964,16 @@ greatdeal代之，意思相同。若用morethan ten degrees代替*alot*，则句
 少理解为快两倍。）
 
 
-**五、注意****not****和****no****同“比较级****+than****”****连用时的含义差别（见第****218****页第**
+五、注意not和no同“比较级+than”连用时的含义差别（见第218页第
 
 
-**二项）**
+二项）
 
 
-**六、以****-or****结尾的七个形容词有比较级含意，却不用****than****连接一个比较**
+六、以-or结尾的七个形容词有比较级含意，却不用than连接一个比较
 
 
-**状语从句，而用介词****to****引出一个被比较的对象**
+状语从句，而用介词to引出一个被比较的对象
 
 
 1. ThisIP phone is（*much*或*far*）*superior*in quality *to* that one. 这部网络电
@@ -23353,7 +23000,7 @@ greatdeal代之，意思相同。若用morethan ten degrees代替*alot*，则句
 prior（较先于）等。其中只有superior和inferior允许前面加much或far。
 
 
-**七、用比较级形式表示最高级含义的方法**
+七、用比较级形式表示最高级含义的方法
 
 
 1. TheCollege of Education Building is *higher than all other buildings*（或
@@ -23385,7 +23032,7 @@ prior（较先于）等。其中只有superior和inferior允许前面加much或f
 
 
 
-**八、注意带比较级的主句中有省略成分**
+八、注意带比较级的主句中有省略成分
 
 
 1. *Better*to do well than to say well. 说得好不如做得好。（句首省略Itis）
@@ -23397,10 +23044,10 @@ prior（较先于）等。其中只有superior和inferior允许前面加much或f
 to be *done*. ）
 
 
-**九、“****the+****比较级……（从句），****+the+****比较级……（主句）”结构表示“越**
+九、“the+比较级……（从句），+the+比较级……（主句）”结构表示“越
 
 
-……**越……”之意**
+……越……”之意
 
 
 1. *Themore *you practise，*themore* you know. 实践越多，知道越多。
@@ -23463,10 +23110,10 @@ to be *done*. ）
 中主语、谓语可能出现颠倒现象（见第3句）。
 
 
-**十、注意“正常语序****+****比较级…（主句），****the+****比较级…（从句）”结构的**
+十、注意“正常语序+比较级…（主句），the+比较级…（从句）”结构的
 
 
-**用法**
+用法
 
 
 1. Thereforea compound is considered *the more stable*，*thesmaller* its
@@ -23521,7 +23168,7 @@ harder it draws. ）
 也根本不必加。例如：*When*we encounter *more* difficulties，weshould *be*
 
 
-*more**spirited*；*when*we are *more* at danger，weshould be more
+*morespirited*；*when*we are *more* at danger，weshould be more
 
 
 *courageous*. 遇到困难越多，就越应振作精神；处境越危险，就越应鼓足
@@ -23557,16 +23204,16 @@ rooms in the beachhouse，the*smaller *of which served as a kitchen. 那
 时这幢海滨房子里有两个房间，其中较小的一间作厨房用。
 
 
-**Therebe****结构及****thereexists****等相类似的句子**
+Therebe结构及thereexists等相类似的句子
 
 
-**一、****therebe****结构的形式和用法**** ****英语表示某时某处有（指存在、不是指**
+一、therebe结构的形式和用法 英语表示某时某处有（指存在、不是指
 
 
- **占有）某人某物时就采用“****there+be****（****be****随后面的主语单复数和时态而变）****+**
+ 占有）某人某物时就采用“there+be（be随后面的主语单复数和时态而变）+
 
 
- **主语****+****状语”这种句型。在疑问句中将****there****退居第二位即可**
+ 主语+状语”这种句型。在疑问句中将there退居第二位即可
 
 
 1. *Thereare *many multimedia computers in our company. 我们公司有许多台
@@ -23610,7 +23257,7 @@ rooms in the beachhouse，the*smaller *of which served as a kitchen. 那
 的along，longtime. ）
 
 
-**二、几点注意**
+二、几点注意
 
 
 Ⅰ. 句中there没有“那里”这个意思。需要表达“那里”这个意思时，句末还
@@ -23829,7 +23476,7 @@ III. there后面除了用is，are，was和were以外，还可用包含be的各�
  上有一个工人和几个学生。（用are当然也可以。）
 
 
-**三、注意“****thereis no+****动名词”表示“不可能……”之意**** **
+三、注意“thereis no+动名词”表示“不可能……”之意 
 
 
 1. *Thereis no accounting for* his conduct. 无法解释他的行为。
@@ -23838,7 +23485,7 @@ III. there后面除了用is，are，was和were以外，还可用包含be的各�
 2. *Thereis no telling *what will happen. 未来的事无可奉告。
 
 
-**四、注意****therebe****结构的非谓语形式的表示方法和用法**
+四、注意therebe结构的非谓语形式的表示方法和用法
 
 
 1. Ido not want there to be any mistake in the homework. 我不希望在课外作
@@ -23868,7 +23515,7 @@ magazines in ourreading-room. 我们阅览室内的英语杂志决不是多了�
 家里。（这里*Therebeing*…为独立分词结构。）
 
 
-**五、与****therebe****类似的结构**
+五、与therebe类似的结构
 
 
 在科技文章中有时我们还能见到”there+seem（或appear，happen，used
@@ -23942,13 +23589,13 @@ undiscovered. 根据周期表，似乎还有一些元素未发现。
 9. *Therelies *a wide river near our city. 我市附近有一条宽阔的河流。
 
 
-**六、若要表示事物或人物的有无，尤其当主语部分文字较长时，为了引起**
+六、若要表示事物或人物的有无，尤其当主语部分文字较长时，为了引起
 
 
- **对方对句中主语的注意，常常先在句首加一个****there****充数，将真正的主语移到**
+ 对方对句中主语的注意，常常先在句首加一个there充数，将真正的主语移到
 
 
-**句末**
+句末
 
 
 利用这种观点可解释以上所有的“therebc”结构及其类似的结构中主语
@@ -23993,10 +23640,10 @@ elementaryschool. 突然从小学来了一群学生冲入电影院。
 种用来烹煮食物的奇妙的太阳炉灶。
 
 
-**七、注意****therebe****结构作定语从句时，省略作从句主语的关系代词；同时**
+七、注意therebe结构作定语从句时，省略作从句主语的关系代词；同时
 
 
-**注意在以****therebe****开头的句子中，主语的定语从句有时省略关联词**
+注意在以therebe开头的句子中，主语的定语从句有时省略关联词
 
 
 1. Hehas made a list of all the papers *there are on this subject*。他将所有关于
@@ -24034,7 +23681,7 @@ which。）
 词。）
 
 
-**八、****therebe****结构的其它常用搭配**
+八、therebe结构的其它常用搭配
 
 
 1. Thereis no reason（或sense）indoing such a thing. 没有理由做这样的事。
@@ -24058,10 +23705,10 @@ which。）
 *use*后不能用不定式。）
 
 
-**Though****和****Although****的用法和注意点**
+Though和Although的用法和注意点
 
 
-**一、连词****though****和****although****作“虽然”讲，引出让步状语从句**
+一、连词though和although作“虽然”讲，引出让步状语从句
 
 
 1. *Although*（或*Though*）heis only eighteen years old，hehas learned how to
@@ -24097,10 +23744,10 @@ anything. 尽管她去廉价商店了，但她什么都没有买。
 2）Iwas still calm *aithough *I was afraid. 虽然害怕，当时我还是镇静的。
 
 
-**三、注意****though****或****although****引出让步从句时可省略与主句相同的主语**
+三、注意though或although引出让步从句时可省略与主句相同的主语
 
 
-**及其相应的****be****的形式**
+及其相应的be的形式
 
 
 1. *Though*（或*Although*）ina hurry，hestopped to answer my question。尽
@@ -24125,10 +23772,10 @@ marks in hisexaminations. 约翰虽是我班最好学生之一，但无把握在
 考试中取得良好成绩。
 
 
-**三、注意****though****（不包括****although****）引出的让步从句有时有词序颠倒的**
+三、注意though（不包括although）引出的让步从句有时有词序颠倒的
 
 
-**情况**
+情况
 
 
 1. Closethough these friends are，theyoften argue at the meeting。尽管这些
@@ -24143,10 +23790,10 @@ marks in hisexaminations. 约翰虽是我班最好学生之一，但无把握在
 winning. 虽然这些篮球队员拼搏打球，但那时仍无望获胜。
 
 
-**四、****though****还可作并列连词用，作****”****可是****”****讲，位于主句后面，并且其前面**
+四、though还可作并列连词用，作”可是”讲，位于主句后面，并且其前面
 
 
-**还有逗号**
+还有逗号
 
 
 1. Hydrogenhas its weight，*though*it is the lightest of all chemical elements. 
@@ -24155,10 +23802,10 @@ winning. 虽然这些篮球队员拼搏打球，但那时仍无望获胜。
 氢有其重量，但它在所有化学元素中最轻。
 
 
-**五、****asthough****（或****asif****）作“好像…似的”和****eventhough****（或****evenif****）作“尽**
+五、asthough（或asif）作“好像…似的”和eventhough（或evenif）作“尽
 
 
-**管、即使”讲时用法举例**
+管、即使”讲时用法举例
 
 
 1. Heacted as though（或asif）noaccident had happened. 他表现得似乎什
@@ -24197,7 +23844,7 @@ question. 当时她举起右手，好像要向她的老师提一个问题。
 出的这种从句内，也可用陈述语气。
 
 
-**六、副词****though****作“可是”讲，常用于句末，但****although****无此用法**
+六、副词though作“可是”讲，常用于句末，但although无此用法
 
 
 1. Thesecond reason is the most important one，*though*。可是第二个理由是
@@ -24216,7 +23863,7 @@ question. 当时她举起右手，好像要向她的老师提一个问题。
 
 
 
-**Through****及其搭配的动词短语用法和判断**
+Through及其搭配的动词短语用法和判断
 
 
 through既是介词，又是副词。这两种用法紧密相关，在一定上下文中常
@@ -24228,13 +23875,13 @@ through既是介词，又是副词。这两种用法紧密相关，在一定上�
  此本文基本上就将这两者放在一起讨论，让读者了解其演变过程。
 
 
-**一、介词****through****在空间上作“从…通过”或“穿过…”讲，一般限于后面的**
+一、介词through在空间上作“从…通过”或“穿过…”讲，一般限于后面的
 
 
- **介词宾语在其它的场合下可以和****in****相搭配为前提，副词*****through*****可理解为省**
+ 介词宾语在其它的场合下可以和in相搭配为前提，副词*through*可理解为省
 
 
-**略了有关介词宾语的结果。**
+略了有关介词宾语的结果。
 
 
 例如：push*through *the crowds to the door. （他）穿过人群，来到门口。其
@@ -24386,10 +24033,10 @@ hardwork通过努力工作取得很大成就；see…*through*…通过（窗户
 见（某人、某物），透过（云层）看到（月亮）等。
 
 
-**二、****through****表示“从头到尾把…看完、审阅、翻阅、检查、看穿”之意时有**
+二、through表示“从头到尾把…看完、审阅、翻阅、检查、看穿”之意时有
 
 
-**关动词短语用法举例**
+关动词短语用法举例
 
 
 check these proofs*through*校阅完这些校样；go*through*…翻阅（报纸即
@@ -24445,10 +24092,10 @@ videotape）放一遍；see*through*…看穿（某人或他的谎言即hislie�
 （几本书）等
 
 
-**三、****through****与有关动词搭配，表示“阅完、花完、完成”之意。这里****through**
+三、through与有关动词搭配，表示“阅完、花完、完成”之意。这里through
 
 
- **体现“从头到尾”，基本上体现上述短语中的“完”字含义**
+ 体现“从头到尾”，基本上体现上述短语中的“完”字含义
 
 
 carry…*through*完成（某课题、任务等）；follow…*through*把（事情等）进
@@ -24502,13 +24149,13 @@ go）*through*with…把（计划、工作、任务、交易等）进行到底�
 他挂靴不踢足球了。
 
 
-**四、介词****through****与有关动词搭配用于转义，表示一种经历。例如：“度过**
+四、介词through与有关动词搭配用于转义，表示一种经历。例如：“度过
 
 
- **（艰难历程）、克服（困难等）、经历（几个阶段）”。副词****through****一般可理解为介**
+ （艰难历程）、克服（困难等）、经历（几个阶段）”。副词through一般可理解为介
 
 
-**词****through****后面省略了有关名词的结果**
+词through后面省略了有关名词的结果
 
 
 have been*through*…（某人）经历了（一场重病、一段艰难时期），（某新产
@@ -24564,7 +24211,7 @@ the world war）；Hewas 1ucky to come *through*. 他很幸运地走过了这段
 不易”的色彩]等
 
 
-**五、****through****后接有关名词表示“通过一段时间”或“一直到某日期”**
+五、through后接有关名词表示“通过一段时间”或“一直到某日期”
 
 
 be（或stay）here*through *May（他）整个五月份将呆在这里[用将来一般
@@ -24579,7 +24226,7 @@ be（或stay）here*through *May（他）整个五月份将呆在这里[用将�
 the night通宵工作等
 
 
-**六、介词****through****接有关名词表示原因，它和动词的搭配很广**
+六、介词through接有关名词表示原因，它和动词的搭配很广
 
 
 fall ill *through*eating too mueh（他）由于吃得太多而病倒；getthe chance
@@ -24594,13 +24241,13 @@ fall ill *through*eating too mueh（他）由于吃得太多而病倒；getthe c
 mistakes *through*one’s inexperience（某人）由于没有经验而犯错误等
 
 
-**Throughout****的搭配用法**
+Throughout的搭配用法
 
 
-**一、介词****throughout****作“遍及或贯穿（某国家、地区、城镇等）”时的用法**
+一、介词throughout作“遍及或贯穿（某国家、地区、城镇等）”时的用法
 
 
-**举例**
+举例
 
 
 1. Thenews spread *throughout *the city. 这消息传遍全市。
@@ -24644,7 +24291,7 @@ throughout theworld或aroundthe world代替。）
 含“整个”、“全部”的意思。
 
 
-**二、介词****throughout****作“遍及或贯穿整个或一段时期”讲时的用法举例**
+二、介词throughout作“遍及或贯穿整个或一段时期”讲时的用法举例
 
 
 1. Itrained *throughout* the night. 雨下了整整一夜。
@@ -24677,10 +24324,10 @@ throughout theworld或aroundthe world代替。）
 vacation. 整个假期我们在乡间休养。
 
 
-**三、副词****throughout****表示“整个地、完全地”或“从头到尾，始终或一直”时**
+三、副词throughout表示“整个地、完全地”或“从头到尾，始终或一直”时
 
 
-**的用法汇总**
+的用法汇总
 
 
 1. Jennyis an excellent senior engineer *throughout* and is going tovisit to
@@ -24710,10 +24357,10 @@ all through代替。）
 5. Wefollow a correct policy *throughout*. 我们始终遵循一条正确的政策。
 
 
-**Time****（****Times****）的用法和注意点**
+Time（Times）的用法和注意点
 
 
-**一、作“倍数”讲，其一般搭配格式和用法如下（详见第****499****，****500****页）**
+一、作“倍数”讲，其一般搭配格式和用法如下（详见第499，500页）
 
 
 Ⅰ. “基数词（3以上）或many，afew等词+times，”作状语：
@@ -24813,7 +24460,7 @@ equals accelerationmultiplied by mass即“…等于加速度被乘以质量”�
 的时间周期仅仅几秒钟。
 
 
-**二、作“次数”讲，其一般搭配格式如下**
+二、作“次数”讲，其一般搭配格式如下
 
 
 Ⅰ. “基数词等+times+单位时间范围等”（但用once，twice表示一次、两
@@ -24857,10 +24504,10 @@ I. “序数词等+time（单数）”表示“第几次”：
 mistakcs. 当他们第二次读这本书时，发现了不少错误。
 
 
-**三、作“时间”讲，一般用****time****。注意****sometime****，****sometime****，****sometimes****用**
+三、作“时间”讲，一般用time。注意sometime，sometime，sometimes用
 
 
-**法**
+法
 
 
 1. a. Wehave no time to do it. 我们没有时间做这件事。
@@ -24941,7 +24588,7 @@ English. 你在教英语的同时，也就在提高你自己的英语水平。�
 副词that引出修饰time的定语从句。）
 
 
-**四、作“时期”、“时代”、“日子”讲，一般用****times****（复数）**
+四、作“时期”、“时代”、“日子”讲，一般用times（复数）
 
 
 1. Whethermatter can be split up is known to have interested many people
@@ -24978,10 +24625,10 @@ from ancient*times*. 物质是否能够分割，据了解从古代起就有许�
 合宾语，其中as又引出相对的主语补语。）
 
 
-**五、****once****作“一次”讲，而****ata time****也作“一次”讲和****atone time****作“一度”**
+五、once作“一次”讲，而ata time也作“一次”讲和atone time作“一度”
 
 
-**讲，只限用于下列类似场合**
+讲，只限用于下列类似场合
 
 
 1. Shegoes to our office *once *a week. 她每周去办公室一次。
@@ -25109,10 +24756,10 @@ movement ofelectrons. 你应该清楚地知道，每当发生磁效应的时候�
 *time*从前等。
 
 
-**To****的搭配用法及其分类理解**
+To的搭配用法及其分类理解
 
 
-**一、****to****表示到、朝向或往（某地、某境地等）时的动词短语举例**
+一、to表示到、朝向或往（某地、某境地等）时的动词短语举例
 
 
 add（*v*. ）*to*…将（5）加到（9）止去，（山、河）增添（该城市的美丽即the
@@ -25171,7 +24818,7 @@ thepoint），送（小孩）到（学校）；*goto*…去到（信息中心即
 turn to theright向右转等
 
 
-**二、介词****to****表示“达到某数字、金额、温度等”时的动词短语举例**
+二、介词to表示“达到某数字、金额、温度等”时的动词短语举例
 
 
 amount（或come）*to*…（收入即theincome）达到（3000元）；beclose *to*
@@ -25192,13 +24839,13 @@ over six billionpeople）[用现在完成时]；countup* to*…（这孩子）�
 rise*to*…（温度）升到（100℃）等
 
 
-**三、介词****to****和有关名词（如****toa degree****，****osome extent****等）连用表示“达**
+三、介词to和有关名词（如toa degree，osome extent等）连用表示“达
 
 
- **到某种程度”或****to****与有关动词搭配表示“冷却到加热到、打碎到、摔成、恢复到**
+ 到某种程度”或to与有关动词搭配表示“冷却到加热到、打碎到、摔成、恢复到
 
 
-…”**时的用法举例**
+…”时的用法举例
 
 
 Ⅰ. *to*a greater or less degree或多或少地；*to*a certain extent 在某种程度
@@ -25265,7 +24912,7 @@ traffic *to *acomplete stop（那）使交通完全停顿；put…*to*…使（�
 
 
 
-**四、介词****to****作“到”讲，用于表示时间、年龄、距离等短语中**
+四、介词to作“到”讲，用于表示时间、年龄、距离等短语中
 
 
 ten minutesto…（四点）差十分[或到四点还有十分]；It’stwo
@@ -25295,7 +24942,7 @@ labour from morning*to*（或till）night从早劳动到晚上；*Up*to now he h
 set outyet. 到目前为止他尚未出发。
 
 
-**五、介词****to****和有关动词搭配时作“对…”或“向…”讲举例**
+五、介词to和有关动词搭配时作“对…”或“向…”讲举例
 
 
 appeal to…向（法院即thecourt）上诉，诉者（法律即thelaw或武力即
@@ -25334,7 +24981,7 @@ sth. tosb. 向某人提起某事；report…tosb. 向某人报告（某事），
 gave a mobile phoneto me. 他给了我一个移动电话. 
 
 
-**六、介词****to****与有关动词连用表示相对位置、反应、反响、合拍等**
+六、介词to与有关动词连用表示相对位置、反应、反响、合拍等
 
 
 （他们）背对背站立；answer（或reply）*to*her email回复她的电子邮件；react
@@ -25362,7 +25009,7 @@ idea（他）对你的想法没有说什么[也是一种反应]；dance*to* the 
 
 
 
-**七、“介词****to****十有关名词或代词”作“对…来说”用法举例**
+七、“介词to十有关名词或代词”作“对…来说”用法举例
 
 
 Ⅰ. 上述to短语单独用于句首或用于avictory，asupport，ablow，a
@@ -25398,7 +25045,7 @@ successful. 在我看来，她会成功。*Thissuggestion sounds very fine to us
 建议在我们听起来似乎很好。
 
 
-**八、介词****to****和有关动词连用，具有“动词本意”****+****汉语“于”的含意。例如**
+八、介词to和有关动词连用，具有“动词本意”+汉语“于”的含意。例如
 
 
 “屈服于…、适应于…、习惯于…、归属于…、倾向于…”等
@@ -25440,10 +25087,10 @@ viewpoint）；be（或get）used（或accustomed）*to*…（她）习惯于（
 thework或那样说话即speakinglike that）等
 
 
-**九、介词****to****和有关动词搭配表示“同意…、赞成…、听从…、承认…”等时**
+九、介词to和有关动词搭配表示“同意…、赞成…、听从…、承认…”等时
 
 
-**的用法举例**
+的用法举例
 
 
 answer* to*sb’s call听从或服从某人的呼唤；agree*to*…同意（这个计划或
@@ -25472,10 +25119,10 @@ stealingmoney等）[后接动名词短语居多]；hear*to* doing sth. 同意或
 having done wrong）等
 
 
-**十、介词****to****与有关动词、数词、形容词或名词、代词搭配，表示比较、比例、**
+十、介词to与有关动词、数词、形容词或名词、代词搭配，表示比较、比例、
 
 
-**比分、参照等用法举例**
+比分、参照等用法举例
 
 
 compare…*to*…将（社会即thesociety）比作（午台即thestage），把（某
@@ -25529,7 +25176,7 @@ notes. 他想参考一下你的笔记。
 事。（后置定语）
 
 
-**十一、不少形容词和少数副词在其后面要求用****to****表示“对…”含义**
+十一、不少形容词和少数副词在其后面要求用to表示“对…”含义
 
 
 bejust（或polite，nice，friendly，kind等）*to*sb. （我们）对某人（公正、有
@@ -25567,10 +25214,10 @@ predictions. 所有的结果跟我们的预测相反。
 
 
 
-**十二、介词****to****的短语和有关动词搭配时表示目的、原因和结果的用法**
+十二、介词to的短语和有关动词搭配时表示目的、原因和结果的用法
 
 
-**举例**
+举例
 
 
 come*to*…（他）前来（帮助即hisassistance或支持你们即yoursupport）；
@@ -25594,7 +25241,7 @@ work* to *theneglect of our scientific research. 我们不能把这些活动当�
 denial of theother. 他们从未片面地强调一方面而导致否定另一方面。
 
 
-**十三、介词****to****表示前后两者的所属关系**
+十三、介词to表示前后两者的所属关系
 
 
 a coat *to*sb. ’sname某人的外衣；thekey* to* the test试题答案；mykey* to*
@@ -25609,10 +25256,10 @@ a statue *to*the great poet一个伟大诗人的塑像；saya lot* to* your adva
  （他）说了许多对你有利的话[用过去一般时]等
 
 
- **十四、副词****to****和有关动词搭配，表示“（门、窗）关闭、（船）抛锚、（某人）苏**
+ 十四、副词to和有关动词搭配，表示“（门、窗）关闭、（船）抛锚、（某人）苏
 
 
-**醒、（某人）大干、大吃、大打出手”等**
+醒、（某人）大干、大吃、大打出手”等
 
 
 The wind blew thedoor* to*. 风把门光上了。Allthe windows were fast* to*. 
@@ -25645,7 +25292,7 @@ pulled the skylight*to*. 她将天窗拉了一下关好。Ipushed the door *to*.
 fro来回走动；swingto and fro来回摆动等。
 
 
-**Together****的搭配用法及其分类理解**
+Together的搭配用法及其分类理解
 
 
 副词together的基本词义是“一起”，但和有关动词或其它短语连用时构
@@ -25660,10 +25307,10 @@ fro来回走动；swingto and fro来回摆动等。
 
 
 
-**一、****together****与有关动词等搭配时引申为****“****聚集、聚合、集合、收集、收拾、**
+一、together与有关动词等搭配时引申为“聚集、聚合、集合、收集、收拾、
 
 
-**拼装”等用法举例**
+拼装”等用法举例
 
 
 be* together*with…跟（某人或某物）在一起；call（或gather）…together
@@ -25678,7 +25325,7 @@ be* together*with…跟（某人或某物）在一起；call（或gather）…to
 *together *将（零件即theparts）装置在一起；knockthe boards *together* and
 
 
-make abookshelf将木板拼凑在一起打成一个书架；get（*v**. *）*together*（使）相
+make abookshelf将木板拼凑在一起打成一个书架；get（*v. *）*together*（使）相
 
 
 聚或见面，收集（一切材料即allthe materials）；lay…*together*将（铅笔）有序
@@ -25696,10 +25343,10 @@ make abookshelf将木板拼凑在一起打成一个书架；get（*v**. *）*tog
 *together*学习（或工作、住）在一起等
 
 
-**二、****together****和有关动词搭配，表示****“****联合、团结、协调一致、重归于好”等**
+二、together和有关动词搭配，表示“联合、团结、协调一致、重归于好”等
 
 
-**时的用法举例**
+时的用法举例
 
 
 bing…*together*使（他们）和解或重归于好；come*together*（他俩）重归于
@@ -25755,10 +25402,10 @@ thecoat匆匆穿上（或脱下）外衣，throwoneself *down*迅速趴下]等
 
 
 
-**三、注意****together****位于句首和有关动词连用时常有“共同努力、同心协**
+三、注意together位于句首和有关动词连用时常有“共同努力、同心协
 
 
-**力”含义**
+力”含义
 
 
 1. *Together*they carried the computer control console into the workshop. 他
@@ -25779,10 +25426,10 @@ thecoat匆匆穿上（或脱下）外衣，throwoneself *down*迅速趴下]等
 力地向下一个城市推进。
 
 
-**四、****together****位于表示时间天数或小时数的后面常可理解为“一连…天、**
+四、together位于表示时间天数或小时数的后面常可理解为“一连…天、
 
 
-**连续…小时”等含义**
+连续…小时”等含义
 
 
 1. Itrained for three hours *together*。雨连续下了三小时。
@@ -25797,13 +25444,13 @@ thecoat匆匆穿上（或脱下）外衣，throwoneself *down*迅速趴下]等
 论了五十分钟。
 
 
-**五、****together****的本义为“一起”，当和有关的具体动词搭配时有不少灵活的**
+五、together的本义为“一起”，当和有关的具体动词搭配时有不少灵活的
 
 
- **译法。例如结合上下文有时可译为“同时”、“相互或彼此”、“一致地或完整**
+ 译法。例如结合上下文有时可译为“同时”、“相互或彼此”、“一致地或完整
 
 
-**地”等**
+地”等
 
 
 1. Whydid all the troubles come *together*？为什么所有这些困难同时来临?
@@ -25836,7 +25483,7 @@ thecoat匆匆穿上（或脱下）外衣，throwoneself *down*迅速趴下]等
 地造一个简单的句子。
 
 
-**六、注意****togetherwith****…****的用法和****alongwith****…****很相似**
+六、注意togetherwith…的用法和alongwith…很相似
 
 
 1. Dr. Ouyang，*together*（或*along*）*with*his wife，sonand daughter，entered
@@ -25862,10 +25509,10 @@ operate acomputer. 德立克和其他同学一起正在学习操作计算机。�
 as wellas代替，则表示“…和其他同学一样，…”。）
 
 
-**Too****的多种用法和判别**
+Too的多种用法和判别
 
 
-**一、****too****作“也”讲，只用于肯定句中**
+一、too作“也”讲，只用于肯定句中
 
 
 1. weare carrying out this research，*too*. 我们也在进行这项研究。
@@ -25883,7 +25530,7 @@ as wellas代替，则表示“…和其他同学一样，…”。）
 *either*. 如果不是这样，他也不必去那里。（不可用*too*代*either*。）
 
 
-**二、****too****作“太”讲，用于形容词或副词前**
+二、too作“太”讲，用于形容词或副词前
 
 
 1. Thereis too much sugar in the cup of milk. 这杯牛奶内糖太多了。
@@ -25898,10 +25545,10 @@ as wellas代替，则表示“…和其他同学一样，…”。）
 这个问题太难一点，但过不了太久便能解决。
 
 
-**三、当“****too+****形容词或副词****+****动词不定式”时，后面动词不定式意义在翻**
+三、当“too+形容词或副词+动词不定式”时，后面动词不定式意义在翻
 
 
-**译时一般要加上一个否定词**
+译时一般要加上一个否定词
 
 
 1. Thequestion is too hard to understand. 问题太难，理解不了。
@@ -25995,10 +25642,10 @@ eager（热心的，渴望的）等时，则后面的不定式短语仍不被否
 不易于保持恒定了。
 
 
-**四、当“****only****或****but+too+****……****+****动词不定式”时，后面的动词不定式在**
+四、当“only或but+too+……+动词不定式”时，后面的动词不定式在
 
 
-**翻译时不必加否定词**
+翻译时不必加否定词
 
 
 1. Weare only too pleased to work together with. 我们一起工作太高兴了。
@@ -26087,16 +25734,16 @@ c. I*couldn*’*t* get home *fast enough*。我恨不得马上回到家里。
 过分。（句中*difficult*词意接近*impossible*，故仍属本类句型使用范围。）
 
 
-**六、用****too****时数量或程度的增减情况。参阅第****502****页****Ⅺ****V**
+六、用too时数量或程度的增减情况。参阅第502页ⅪV
 
 
-**Toward****（****s****）的搭配用法及其分类理解**
+Toward（s）的搭配用法及其分类理解
 
 
 Toward（s）…基本上只作介词用，常用于口语中。美国人常用toward。
 
 
-**一、介词****toward****（****s****）基本词意为“朝着或朝向…”**
+一、介词toward（s）基本词意为“朝着或朝向…”
 
 
 go*toward*（*s*）…向（某人）走去，朝（计算机中心即thecomputer center）
@@ -26129,10 +25776,10 @@ theconclusion得出结论，come（或amount）to3000 yuan（总数即the
 total）达到3000元；cometo an end（雨）停止等
 
 
-**二、介词****toward****（****s****）跟有关词语连用，有时由“朝向…”引申为“对于（某**
+二、介词toward（s）跟有关词语连用，有时由“朝向…”引申为“对于（某
 
 
-**人、某事”（讲，为此必须注意上下文）**
+人、某事”（讲，为此必须注意上下文）
 
 
 befriendly（或kindly）*toward*（*s*）…（他）对（你们）友好；feela lot of
@@ -26161,10 +25808,10 @@ project）开始兴致勃勃地谈论等
 
 
 
-**三、介词****torward****（****s****）跟有关名词或动名词短语搭配时作“朝着某目标、为**
+三、介词torward（s）跟有关名词或动名词短语搭配时作“朝着某目标、为
 
 
-**了某目标”讲的用法举例**
+了某目标”讲的用法举例
 
 
 make an efforttoward（s）peace为和平作出努力；savesome money
@@ -26188,10 +25835,10 @@ a longway）toward（s）…（这）大大地有助于（提高英语口语即b
 spoken Engish）等
 
 
-**四、介词****toward****（****s****）跟时辰、某日搭配时，就由“朝着…”引申为“将近…”**
+四、介词toward（s）跟时辰、某日搭配时，就由“朝着…”引申为“将近…”
 
 
-**或“快到…”讲**
+或“快到…”讲
 
 
 *toward*（*s*）sixo’clock将近六点时；*toward*（*s*）daybreak天快亮时；
@@ -26206,7 +25853,7 @@ spoken Engish）等
 注：如果用by，upto，uptill代替上述的*toward*（*s*），则变为“到…时”。
 
 
-**五、介词****toward****（****s****）…作“接近某数量”或“靠近某地”讲时的用法**
+五、介词toward（s）…作“接近某数量”或“靠近某地”讲时的用法
 
 
 *toward*（*s*）5tons of coal将近五吨煤；*toward*（*s*）onetenth of your
@@ -26218,16 +25865,16 @@ spoken Engish）等
 river靠近河不远的一座学校等
 
 
-“**Used+****带****to****的不定式”，**
+“Used+带to的不定式”，
 
 
-“**beused+to+****名词”和**
+“beused+to+名词”和
 
 
-“**beused+****带****to****的不定式”用法差异**
+“beused+带to的不定式”用法差异
 
 
-**一、“****used+****带****to****的不定式”表示过去习惯性动作或状态**
+一、“used+带to的不定式”表示过去习惯性动作或状态
 
 
 1. She*used to turn *toward the window，wherenothing faced her hut the open
@@ -26315,10 +25962,10 @@ b. *Usedthere to be* a standing lamp in the corner of the room？以往在房角
 和*usedto*…来代替。）
 
 
-**三、“****beused+****介词****to+****名词（或动名词短语）”表示“习惯于……”之意，**
+三、“beused+介词to+名词（或动名词短语）”表示“习惯于……”之意，
 
 
-**并有时态之分**
+并有时态之分
 
 
 1. Thesestudents had been used to（或hadbeen accustomed to）hearing
@@ -26345,7 +25992,7 @@ when they wentabroad. （那时）这些学生在国内已习惯于听外国人�
 我很习惯于（或已经）习惯于你们美国人说话的方式。（句末为定语从句。）
 
 
-**四、“****beused+****带****to****的不定式”表示“（被）用来干什么”之意**
+四、“beused+带to的不定式”表示“（被）用来干什么”之意
 
 
 Computers can also*be used to design* machines and instruments. 计算机
@@ -26363,10 +26010,10 @@ Computers can also*be used to design* machines and instruments. 计算机
 也可用来设计机器和仪器。
 
 
-**Under****的搭配用法及其分类理解**
+Under的搭配用法及其分类理解
 
 
-**一、介词****under****作“在…下方”讲或引申为数量“不足…”讲时的用法举例**
+一、介词under作“在…下方”讲或引申为数量“不足…”讲时的用法举例
 
 
 pass* under*the bridge（汽车等）在桥下通过；Alot of water has passed
@@ -26429,10 +26076,10 @@ to me that he is anofficer *under *a general. 在我看来，他似乎是低于�
 军官。
 
 
-**二、介词****under****和有关动词搭配，表示“在…条件下”或“在…领导，指导**
+二、介词under和有关动词搭配，表示“在…条件下”或“在…领导，指导
 
 
-**下”时的用法举例**
+下”时的用法举例
 
 
 work *under*her able leadership（或guidance）（他们）在她的很有才干的
@@ -26460,7 +26107,7 @@ sail. 这条船扬帆疾行。
 
 
 
-**三、介词****under****和有关名词连用，表示“处于…过程中、正在…中”之意**
+三、介词under和有关名词连用，表示“处于…过程中、正在…中”之意
 
 
 This suggestion is*under* study. 这个建议正在研究中。be*under*…（这座
@@ -26514,7 +26161,7 @@ computers to thenational economy. 这样一些问题就属于计算机用于国�
 信息技术。
 
 
-**五、副词****under****用法举例**
+五、副词under用法举例
 
 
 There is a fencethere，andthe mouse wants to go *under*. 那边有围墙，
@@ -26532,7 +26179,7 @@ keep）*under*（游泳的人即theswimmers）呆（或停留）在下面约五�
 *for about fiveseconds*]等
 
 
-**六、****under****作形容词用法举例**
+六、under作形容词用法举例
 
 
 an *under*layer下层；anunder servant一个手下仆人；takean *under* dose
@@ -26547,7 +26194,7 @@ taken an overdose ofsleeping pills. 这病人服用过量安眠药后一小时�
 迷了。
 
 
-**七、****Under****，****Below****，****Beneath****等用法比较参阅第****80****页**
+七、Under，Below，Beneath等用法比较参阅第80页
 
 
 329
@@ -26557,7 +26204,7 @@ taken an overdose ofsleeping pills. 这病人服用过量安眠药后一小时�
 
 
 
-**Until****和****Till****的用法和理解**
+Until和Till的用法和理解
 
 
 until和till词意相同，只是在正式文件或句首常用until。它们既可作介
@@ -26566,10 +26213,10 @@ until和till词意相同，只是在正式文件或句首常用until。它们既
  词，又可作连词，引出时间状语或时间状语从句。
 
 
-**一、****until****和****till****用于肯定句时，句中谓语动词常表示持续性动作，句意为**
+一、until和till用于肯定句时，句中谓语动词常表示持续性动作，句意为
 
 
-“**持续性动作到…（时）为止”**
+“持续性动作到…（时）为止”
 
 
 1. *Until*when shall we wait for her？我们要等到她何时为止？
@@ -26587,13 +26234,13 @@ midnight. 她持续复习化学直到半夜12点以后。（介词短语after…
 until或till的宾语. ）
 
 
-**二、****until****（和****till****）用于否定句中，可先按“直到…以前没有…”来理解，但**
+二、until（和till）用于否定句中，可先按“直到…以前没有…”来理解，但
 
 
- **一到句中表示的这个时间，动作由否定变为肯定，也即谓语动作发生了。一**
+ 一到句中表示的这个时间，动作由否定变为肯定，也即谓语动作发生了。一
 
 
-**般可译为：“直到…时才…”**
+般可译为：“直到…时才…”
 
 
 1. Idid not find the letter *until*（或*till*）thismorning. 我直到今天早晨才发
@@ -26635,7 +26282,7 @@ you have listenedto the tape. 请你在听了磁带录音后再看听力理解�
 出一个好主意。（注意*tillthen*插在谓语中间。）
 
 
-**三、强调结构“****itis****（或****was****）****notuntil****…****that****…”****的用法**
+三、强调结构“itis（或was）notuntil…that…”的用法
 
 
 1. *Itwas not until* 10 o’clock（或*until*the rain stopped）thatwe continued to
@@ -26659,10 +26306,10 @@ invented whichcould lead to a rapid development of knowledge economy.
 直到约40年前才发明了电子计算机，从而导致知识经济的迅速发展。
 
 
-**四、****until****引导的时间状语从句可以省略与主句相应的主语及其****be****的相**
+四、until引导的时间状语从句可以省略与主句相应的主语及其be的相
 
 
-**应形式**
+应形式
 
 
 The letter is to beleft here *until*（或*till*）calledfor。这封信留在这里待
@@ -26671,13 +26318,13 @@ The letter is to beleft here *until*（或*till*）calledfor。这封信留在�
 领。
 
 
-**五、注意****Until****（或****till****），****Before****，****By****引出的短语或从句在时间方面的差**
+五、注意Until（或till），Before，By引出的短语或从句在时间方面的差
 
 
-**异。参阅第****93****页**
+异。参阅第93页
 
 
-**Up****的用法及其动词短语的分类理解和判断**
+Up的用法及其动词短语的分类理解和判断
 
 
 *up*的基本意思是“向上、起来、在高处、走近、达到较高或厉害程度”等。但
@@ -26740,7 +26387,7 @@ top of themountain可理解为“把汽车开到山顶”。若是bringthe total
  讲，同时联想同义近义的pull（或draw）upa horse（或car），效果就更好。
 
 
-**一、副词****up****表示“起来、向上、向上发展”的动词短语举例**
+一、副词up表示“起来、向上、向上发展”的动词短语举例
 
 
 hand *up*…tosb. 把（刷子）递给（高处如梯子上的）某人[相当于passsth. 
@@ -26865,10 +26512,10 @@ flame）突然升起；take*up*…拿起（武器），吸起（灰尘即dirt）
 
 
 
-**二、****up****用于“卖光、全部买下、烧光、吃光、喝光、填满、付清、结束、完成、**
+二、up用于“卖光、全部买下、烧光、吃光、喝光、填满、付清、结束、完成、
 
 
-**清理干净、弄脏、搞乱”时的动词短语举例**
+清理干净、弄脏、搞乱”时的动词短语举例
 
 
 buy*up*…全部买下（商店内的钢笔等）；sell*up*…=sell *out*…（他）卖光
@@ -26946,7 +26593,7 @@ money（或aprofit）“捞取钱财（或利润）”讲]；rest*up*（某人�
 讯），（他）英语测试考砸[后加theEnglish test]，（敌人）陷入困境等
 
 
-**三、****up****表示“到较高程度、到厉害程度”时的动词短语举例**
+三、up表示“到较高程度、到厉害程度”时的动词短语举例
 
 
 break（*v*. ）*up*拆开（旧船等），敲开（路面等），使（土壤等）裂开，（冰、婚姻
@@ -26998,13 +26645,13 @@ project]；tear*up*…撕碎（信件、合同等）；wash（*v*. ）*up*洗干
 （潮水即thetide）把（小船）冲到岸上；wear*up*（或out）…将（衣服等）穿破等
 
 
-**四、副词****up****跟某些动词连用，表示该动词的动作完成之意，常可译为“…**
+四、副词up跟某些动词连用，表示该动词的动作完成之意，常可译为“…
 
 
- **好、…了、…住、…成、…上、…出”等，甚至还可加其它一些词来表达“完成”。本**
+ 好、…了、…住、…成、…上、…出”等，甚至还可加其它一些词来表达“完成”。本
 
 
-**项实际上是对前几项的补充**
+项实际上是对前几项的补充
 
 
 bear*up*（病人）顶得住[由“承受住、撑住身子、支撑起来”转义而来]；bear
@@ -27046,7 +26693,7 @@ cover*up*…盖好（食物等），给（婴儿等）盖好被子，（谎言�
  （某人）给（乐器）调好音或定弦，开始演奏或唱，调试好（发动机）等
 
 
-**五、****up****用于“熬夜、不睡觉、直挺着、起身”时的动词短语举例**
+五、up用于“熬夜、不睡觉、直挺着、起身”时的动词短语举例
 
 
 be *up* aunight doing sth. 他（做某事）一夜未睡觉[注意这里表语*up*表示
@@ -27087,7 +26734,7 @@ verywell]，（人）保持良好状态，保持（英语）水平；remain*up*�
 等）想起床、起身或起来等
 
 
-**六、****up****用于“建立起、创办起、兴建起等”时的动词短语举例**
+六、up用于“建立起、创办起、兴建起等”时的动词短语举例
 
 
 build（*v*. ）*up*把（墙等）砌高、扩建（图书馆等），（她的存款即hersavings）
@@ -27117,7 +26764,7 @@ build（*v*. ）*up*把（墙等）砌高、扩建（图书馆等），（她的
 很快地搭起（小屋等）；work*up*…建立起（公司、研究所等），制订（计划）等
 
 
-**七、****up****“****用于增长、提高、增强、上升、上涨、加快”时的动词短语举例**
+七、up“用于增长、提高、增强、上升、上涨、加快”时的动词短语举例
 
 
 be *up* by+8per cent（产量、消费）增加8％；build（*v*. ）*up*（和平希望）
@@ -27187,7 +26834,7 @@ bring…*upto*…使（总数即thetotal）达到（三百万元）；work（*v*
 额在上升（或增长）。
 
 
-**八、****up****用于“提出、提起、提名”时的动词短语举例**
+八、up用于“提出、提起、提名”时的动词短语举例
 
 
 bring*up*…（他在会上）提起或提出（某问题、证据等）；come*up*（或
@@ -27287,7 +26934,7 @@ magnification ofthe telescope）提高到30倍[后接thirty]；take*up*…领（
 
 
 
-**十、****up****用于表示“抚养、喂养、培育成人”时的动词短语中举例**
+十、up用于表示“抚养、喂养、培育成人”时的动词短语中举例
 
 
 bring*up*…抚养、养育（某人）[本义为：“将（孩子）拉扯大”，但包含“教育
@@ -27308,7 +26955,7 @@ sb. *up*抚养（自己的弟、妹等），饲养（动物等）；grow*up* int
 [与*turnout*…近义]等
 
 
-**十一、****up****用于表示“呕吐、吐出、吐露”的动词短语中举例**
+十一、up用于表示“呕吐、吐出、吐露”的动词短语中举例
 
 
 bringup…吐出（大部分饭食即mostof the meal等）[由“从体内往上带
@@ -27344,7 +26991,7 @@ cast（*v*. ）*up*呕吐（食物等）[由“往上丢弃已吃的食物”引
 （火箭）上天等
 
 
-**十二、****up****用于表示“发生、出现、露面、涌现”的动词短语中举例**
+十二、up用于表示“发生、出现、露面、涌现”的动词短语中举例
 
 
 come*up*（如果）发生任何事[ifanything comes *up*]，吹起一阵轻风[主语
@@ -27397,10 +27044,10 @@ evidence）；Somethingis *up*. 出了点事。
  注：表示“发生、出现”的近义短语很多，不限于用“…*up*”。参阅第254页。
 
 
-**十三、****up****，****upwith****或****upto****用于“赶上、并驾齐驱、保持同步或协调一致”，**
+十三、up，upwith或upto用于“赶上、并驾齐驱、保持同步或协调一致”，
 
 
-**的动词短语中举例**
+的动词短语中举例
 
 
 come* up*with…（我们）赶上（长途汽车等）；catch*up*…一catch*up* with
@@ -27427,7 +27074,7 @@ times），追上或赶上（某人或公共汽车等）；check*up* with…（�
 （事实等）相符等
 
 
-**十四、****up****用于表示“收拾、安排、装修”的动词短语中举例**
+十四、up用于表示“收拾、安排、装修”的动词短语中举例
 
 
 clean* up* theroom把房间打扫干净[但clean*up*…还可用于转义，作“肃
@@ -27463,7 +27110,7 @@ clean* up* theroom把房间打扫干净[但clean*up*…还可用于转义，作�
 *up*…整理（厨房）等
 
 
-**十五、****up****用于表示“集中加在一起、凑集、合计”的动词短语中举例**
+十五、up用于表示“集中加在一起、凑集、合计”的动词短语中举例
 
 
 add*up*…把（这些数字）加起来，全面估计（优、缺点）[由“把优、缺点放在
@@ -27504,7 +27151,7 @@ debts）；sum*up*…计算出（生产成本等），（老师）总结或归�
  （汽车）形成一条长龙[意译。这里含有“聚集”含意]等
 
 
-**十六、****up****用于表示“堵塞、阻挡、拦住、封住、堵满”的动词短语中举例**
+十六、up用于表示“堵塞、阻挡、拦住、封住、堵满”的动词短语中举例
 
 
 The traffic banked*up *at the intersection. 交叉口上交通拥挤起来。（这里
@@ -27549,10 +27196,10 @@ be filled* up*with…（运河）填满（淤泥即mud）；fill*up*…with…�
  （窗缝、门户等），封死或堵上（墙孔、窗口）等
 
 
-**十七、****up****用于表示“保存、封存、搁置、收藏、躲藏、埋藏、关押、穿得暖和”**
+十七、up用于表示“保存、封存、搁置、收藏、躲藏、埋藏、关押、穿得暖和”
 
 
-**的动词短语中的举例**
+的动词短语中的举例
 
 
 bottle*up*…将（酒等）装入瓶中，把（感情、怒火等）闷在心里，把（敌舰等）
@@ -27613,7 +27260,7 @@ wellwrapped（或covered）*up*（孩子们）穿得很暖和[由“孩于们的
  wind（使）穿得暖和些以抵挡寒风[联系bundle本义：捆、包]等
 
 
-**十八、****up****用于表示“疲劳、过分疲劳”的动词短语中举例**
+十八、up用于表示“疲劳、过分疲劳”的动词短语中举例
 
 
 be beaten*up*（某人）精疲力尽[由“身体被打垮”比喻引申过来]；knock
@@ -27628,7 +27275,7 @@ sb. up（长途旅行）使某人疲乏；beused *up*（某人）筋疲力尽等
 表示方法（参阅第257页）。
 
 
-**十九、****up****用于“打扮、装饰****”****时的动词短语中表示“达到较高水平”**
+十九、up用于“打扮、装饰”时的动词短语中表示“达到较高水平”
 
 
 make（*v*. ）*up*为（某人）梳妆打扮[中间用*oneself*，则为“自己梳妆打扮”，
@@ -27652,7 +27299,7 @@ make（*v*. ）*up*为（某人）梳妆打扮[中间用*oneself*，则为“自
 打扮得整齐漂亮等
 
 
-**二十、****up****用于“大声讲、有点过分地赞扬”时的动词短语举例**
+二十、up用于“大声讲、有点过分地赞扬”时的动词短语举例
 
 
 answerup大声回答，清楚地答话；speakup（或out）大声讲话，大胆地
@@ -27667,7 +27314,7 @@ up…称颂或过分地赞扬（该城市等）；set*up *a protest（或aloud y
 大声抗议（或高声喊叫，嚎啕大哭）；sing*up*（或*out*）使劲地唱，唱得很漂亮等
 
 
-**二十一、****up****用于“讨好、奉承、吹捧、吹嘘、宣扬”时的动词短语举例**
+二十一、up用于“讨好、奉承、吹捧、吹嘘、宣扬”时的动词短语举例
 
 
 playup…宣扬（自己的较好作用、房子的高质量等）；play*up* to sb. （他）
@@ -27679,7 +27326,7 @@ playup…宣扬（自己的较好作用、房子的高质量等）；play*up* to
 捧某人；talk*up *to sb. 向某人献殷勤等
 
 
-**二十二、****up****用于“振作、激动、紧张、发脾气”时的短语动词举例**
+二十二、up用于“振作、激动、紧张、发脾气”时的短语动词举例
 
 
 be burned* up*about sth. （他）为某事发火；blow*up*（某人）大发脾气或发
@@ -27708,7 +27355,7 @@ opponents）；getworked *up*（某人）激动起来；gets hotted *up*（好�
 with joy他喜笑颜开。[相当于：Asmile lighted（或lit）sb’sface *up*. ]
 
 
-**二十三、****up****用于“放弃、抛弃、让出”时的动词短语举例**
+二十三、up用于“放弃、抛弃、让出”时的动词短语举例
 
 
 give*up*…放弃（这个生意、希望等），戒（烟、酒等）；pass（*v*. ）*up*放过或
@@ -27726,10 +27373,10 @@ give*up*…放弃（这个生意、希望等），戒（烟、酒等）；pass�
  *oneself*]，向某人让出（房间等），让（座位）给某人等
 
 
-**二十四、注意****up****作表语时的丰富多采的用法。必须根据上下文及其常用**
+二十四、注意up作表语时的丰富多采的用法。必须根据上下文及其常用
 
 
-**的固定短语的意思去体会其含义**
+的固定短语的意思去体会其含义
 
 
 1. Thesun is *up*. 太阳已升起。（*up*本义：起来，在高处。）
@@ -27738,7 +27385,7 @@ give*up*…放弃（这个生意、希望等），戒（烟、酒等）；pass�
 2. Myhand（或thisladder）hasbeen *up* for some minutes. 我的手已经举了
 
 
-（或这个梯子已经摆了）几分钟了。（联系*hold**up*…和*putup*…作“举
+（或这个梯子已经摆了）几分钟了。（联系*holdup*…和*putup*…作“举
 
 
 （手）”和“支起（梯子）”讲。）
@@ -27805,7 +27452,7 @@ hisblood（或anger）*up*. 你的粗暴无礼惹他非常生气或惹他的血�
 
 
 
-高。*have*（或户*put*，*set*）*one’s**hackles*（某人）发怒等）
+高。*have*（或户*put*，*set*）*one’shackles*（某人）发怒等）
 
 
 11. Sheis *up* with you now. 她现在跟你不相上下。（联系*keep*，*catch*，*get*或
@@ -27844,10 +27491,10 @@ hisblood（或anger）*up*. 你的粗暴无礼惹他非常生气或惹他的血�
 17. Thewind was *up* again. 又起风了。（联系*come* *up*，*blowup*。）
 
 
-**二十五、副词****up****和其它介词短语连用时，可分別按各自词义或和前面的**
+二十五、副词up和其它介词短语连用时，可分別按各自词义或和前面的
 
 
-**动词短语相结合一起来理解**
+动词短语相结合一起来理解
 
 
 The shops keep open*up till*（或*upto*）8p. m. 商店营业到晚上八点；
@@ -27880,7 +27527,7 @@ ship *up *forShanghai正乘船去上海；Hewas two *up on* me. 他赢了我二�
 well *upin*…（某人）精通（物理）[联系learn*up*…，study*up*…]等
 
 
-**二十六、****upagainst****用于“偶然碰到或遇见”时的动词短语举例**
+二十六、upagainst用于“偶然碰到或遇见”时的动词短语举例
 
 
 come *upagainst*…遭遇到（一些出乎意料的耽搁即someunexpected
@@ -27920,10 +27567,10 @@ come *upagainst*…遭遇到（一些出乎意料的耽搁即someunexpected
 hishead），（她）碰到（老师、麻烦或强大的竞争）等
 
 
-**二十七、介词****up****作“沿着…往上、沿着…过去、向（或在）…的较高处”用**
+二十七、介词up作“沿着…往上、沿着…过去、向（或在）…的较高处”用
 
 
-**时的动词短语举例**
+时的动词短语举例
 
 
 climbup…沿着（山）或顺着（树）往上爬，（旧车）沿着（道路）往上爬行；
@@ -27971,10 +27618,10 @@ He has had his* ups*and *downs* in his life. 他一生中经历不少甜酸苦�
  汇量的增加，你对含*up*的短语的体会将越来越深。
 
 
-**Way****的主要用法及注意点**
+Way的主要用法及注意点
 
 
-**一、名词****way****作“道路”、“路程”讲**
+一、名词way作“道路”、“路程”讲
 
 
 1. Heis on the *way to Beijing*. 他正在去北京的途中。
@@ -28020,7 +27667,7 @@ way的定语。该句可译为：她正在回家途中。
 b. Don’tstand* in the way *of the teacher. 别妨碍老师。（状语）
 
 
-**二、名词****way****作“方法”、“方式”讲**
+二、名词way作“方法”、“方式”讲
 
 
 1. Thereare several ways to reduce this equation. 有几种解这个方程式的方
@@ -28065,7 +27712,7 @@ b. Don’tstand* in the way *of the teacher. 别妨碍老师。（状语）
 略（见第5句）。
 
 
-**三、名词****way****作“方面”讲**
+三、名词way作“方面”讲
 
 
 1. Thismethod is successful *in some ways*. 这种方法在某些方面是成功的。
@@ -28095,7 +27742,7 @@ The composition ofa gas，liquidor solid mixture may be expressed *in*
 *manyways*. 气体、液体或固体混合物的组成可用许多方法表示。
 
 
-**四、科技英语中常见的带****way****的词组**
+四、科技英语中常见的带way的词组
 
 
 l. Weshall learn the truth *by the way of* making inquiries。我们将进行调查
@@ -28154,10 +27801,10 @@ which plants buildup in photosynthesis。人类使用的大部分能量来自太
 7. Don’tstand *in the way*. 别站着挡道。
 
 
-**What****的用法和判别**
+What的用法和判别
 
 
-**一、****what****作“什么”、“什么东西（或事情）”、“怎样的人（指职业）”等讲**
+一、what作“什么”、“什么东西（或事情）”、“怎样的人（指职业）”等讲
 
 
 1. *Whatis* on the plate？盘子上放着什么东西？
@@ -28196,7 +27843,7 @@ b. *Which*is your teachcr，sheor he？哪一个是你的老师，是她还是�
 7. *What*is the weather（或theroom等）*like*？天气（或这房间等）怎样？
 
 
-**二、****what****作“什么的”、“什么样的”讲，后面直接接名词单复数均可**
+二、what作“什么的”、“什么样的”讲，后面直接接名词单复数均可
 
 
 1. *What*computers have you ever used？你使用过什么样的计算机？
@@ -28220,13 +27867,13 @@ b. *Which*is your teachcr，sheor he？哪一个是你的老师，是她还是�
 
 
 
-**三、****what****仍作“什么”或“什么样的”解，可引出主语从句、宾语从句、表语**
+三、what仍作“什么”或“什么样的”解，可引出主语从句、宾语从句、表语
 
 
-**从句等名词性从句**
+从句等名词性从句
 
 
-1. *What**knowledge* *property* *right means* is not known toall of us. 知识产权
+1. *Whatknowledge* *property* *right means* is not known toall of us. 知识产权
 
 
 是什么，并不是我们大家都知道。（主语从句）
@@ -28259,10 +27906,10 @@ b. *Which*is your teachcr，sheor he？哪一个是你的老师，是她还是�
 值我昨天付的价钱。（worth的宾语从句）
 
 
-**四、****what****相当于****thatwhich****或****thething****（或****things****）****that****（或****which****）的意**
+四、what相当于thatwhich或thething（或things）that（或which）的意
 
 
-**思，也可引出主语从句、宾语从句和表语从句**
+思，也可引出主语从句、宾语从句和表语从句
 
 
 1. *What*（=*Thething that*）*hasbeen said above* is very important. 以上所说
@@ -28348,10 +27995,10 @@ weigh的状语。）
 thirtyyears. 计算机的现代概念已不是过去30年的那种概念了。
 
 
-**五、****what****作定语，却无疑问词含意，而表示****asmuch****（或****many****）****as****或****any**
+五、what作定语，却无疑问词含意，而表示asmuch（或many）as或any
 
 
-**（或****all****）…****that****之意**
+（或all）…that之意
 
 
 1. Wewill give him *what* support I can. =Iwill give him as much support as
@@ -28396,7 +28043,7 @@ subject. 请借给我你所有的有关这个课题的参考书。
 太少了！
 
 
-**六、****what****作感叹词用，修饰可数名词单数时，必须用不定冠词**
+六、what作感叹词用，修饰可数名词单数时，必须用不定冠词
 
 
 1. *Whata wide* foot bridge it is！这是座多么宽的步行桥啊！
@@ -28417,7 +28064,7 @@ subject. 请借给我你所有的有关这个课题的参考书。
 科学家能发明多么奇妙的新型的多媒体计算机啊！
 
 
-**七、****what****可引出比较状语从句，这时****what****可用****as****来代替**
+七、what可引出比较状语从句，这时what可用as来代替
 
 
 1. Westudents are to the cause of world peace* what*（或*as*）ascrew is to a
@@ -28443,7 +28090,7 @@ machine. 我们学生的作用对于世界和平事业来说，犹如一台机�
 细胞核对于细胞来说，犹同北京对中国以及伦敦对英国。
 
 
-**八、****what****的常用结构**
+八、what的常用结构
 
 
 I. 可将whatyou call…，whatwe call…，whatis ealled…，whatis
@@ -28588,7 +28235,7 @@ ship was late ingetting to port. 一方面由于天气不好，一方面由于�
 *and whatnot*. 塑料能制成机器零件、无线电元件、管件、工具以及其它等。
 
 
-**九、****what****用法判别**
+九、what用法判别
 
 
 I. 句末出现问号，句首的what一般作疑问词用。what后面有它所修饰的
@@ -28706,10 +28353,10 @@ of是并列的，通过最后一个and将最后一个of后面的两个并列的�
 语从句连接起来。）
 
 
-**When****的用法和判别**
+When的用法和判别
 
 
-**一、****when****作“什么时候”讲，当疑问词用**
+一、when作“什么时候”讲，当疑问词用
 
 
 1. *When*did you buy the stocks and bonds？你何时买的这些股票和债券？
@@ -28752,7 +28399,7 @@ That was in1979，since*when* things have been better. 那是在1979年，
 
 
 
-**二、****when****引导时间状语从句**
+二、when引导时间状语从句
 
 
 1. *Whenwater becomes solid*，wecall it ice. 当水变成固体时，我们把它叫做
@@ -28827,7 +28474,7 @@ That was in1979，since*when* things have been better. 那是在1979年，
 *letter*. 他说，他写完那封信以后就能去看你。
 
 
-**三、****when****引出名词从句**
+三、when引出名词从句
 
 
 l. Ididn’t know *when*（=whattime）itwas. 那时我不知道是什么时候。
@@ -28872,7 +28519,7 @@ l. Ididn’t know *when*（=whattime）itwas. 那时我不知道是什么时候�
 月我一定每天上班，除非我生病例外。（介词宾语从句）
 
 
-**四、****when****引导定语从句，常用来修饰前面表示时间的名词**
+四、when引导定语从句，常用来修饰前面表示时间的名词
 
 
 1. Mayis the month *when we are most busy*. 五月是我们最忙的一个月
@@ -28926,10 +28573,10 @@ b. Shecame here in 1953，*whenshe was only a little girl*. 她于1953年来
 *when he was astudent*。这是王工程师当大学生时的一些照片。
 
 
-**五、****when****作“那时”讲，等于****andthen****。在本情况下，****when****前一般有逗号，**
+五、when作“那时”讲，等于andthen。在本情况下，when前一般有逗号，
 
 
-**并列地连接前后两个句子**
+并列地连接前后两个句子
 
 
 1. Theywere just about to give up the question，*whensuddenly they found*
@@ -28972,7 +28619,7 @@ b. Shecame here in 1953，*whenshe was only a little girl*. 她于1953年来
 号。）
 
 
-**六、****when****的基本用法判别举例**
+六、when的基本用法判别举例
 
 
 1. a. Askher *when she will come back*. 你问她什么时候回来。（句中when引
@@ -29147,10 +28794,10 @@ keep moving *whenin motion*。惯性是物质静则恒静或动则恒动的倾�
 fact。）
 
 
-**Where****的用法和判断**
+Where的用法和判断
 
 
-**一、作“在哪里”、“往哪里”讲，当疑问副词用**
+一、作“在哪里”、“往哪里”讲，当疑问副词用
 
 
 1. *Where*did you read the data？你在哪里阅读这些资料的？
@@ -29178,7 +28825,7 @@ fact。）
 4. Tellme *where* to place the electronic brains. 告诉我把电脑放到哪里。
 
 
-**二、****where****引导地点状语从句**
+二、where引导地点状语从句
 
 
 1. Awhite smoke forms *where the gases meet*. 这些气体相遇处，有一股白烟
@@ -29223,7 +28870,7 @@ electriccurrent. 钢不仅常用于电线申，而且还用于要求钢进行传
 方冷。
 
 
-**三、****where****引导名词从句**
+三、where引导名词从句
 
 
 1. Wedon’t know *where he works*. 我们不知道他在哪里工作。（宾语从句）
@@ -29259,7 +28906,7 @@ kilometre. 从我们工作的地方到网民俱乐部的距离仅半公里。（
 从句）
 
 
-**四、****where****引导限制性定语从句**
+四、where引导限制性定语从句
 
 
 1. Beijingis the place *where they live*。北京是他们居住的地方。（本句也可不
@@ -29298,7 +28945,7 @@ pressure islow. 空气从压力高的地方往压力低的地方移动。（可�
 个大型高科技公司工作。
 
 
-**五、****where****引导非限制性定语从句**
+五、where引导非限制性定语从句
 
 
 1. Wewent to the industrial exhibition，*wherewe saw a great many* *new*-*type*
@@ -29328,16 +28975,16 @@ S=Vt
 式中，S——距离；V——平均速度；t——时间
 
 
-**Whether****的用法和判断**
+Whether的用法和判断
 
 
-**一、****Whether****作“是否”讲，可用以引出主语从句，宾语从句，介词宾语从**
+一、Whether作“是否”讲，可用以引出主语从句，宾语从句，介词宾语从
 
 
-**句，表语从句，同位语从句。有时****whether****还可用****whether****…****ornot****，****whether**
+句，表语从句，同位语从句。有时whether还可用whether…ornot，whether
 
 
-**or not****…****形式来代替。**
+or not…形式来代替。
 
 
 1. *Whetherthe materials could stand*（或*pass*，*bear*）*thetest is *still a question. 
@@ -29447,7 +29094,7 @@ whether，因为whether强调两方面的选择，故后面常用or，而if只�
 的事是这台计算机是否处于正常状况。（表语从句）
 
 
-**二、****whether****引导同位语从句**
+二、whether引导同位语从句
 
 
 1. Letus go through the problem *whether we can take these measures forthe*
@@ -29468,7 +29115,7 @@ whether，因为whether强调两方面的选择，故后面常用or，而if只�
 *magnetism*. 他们问了他关于电流能否由磁力产生的问题。
 
 
-**三、****whether****引导让步从句（从句内成分省略情况参阅第****462****页）**
+三、whether引导让步从句（从句内成分省略情况参阅第462页）
 
 
 1. Theseworking conditions are applicable *whether the product is pure ornot*. 
@@ -29484,7 +29131,7 @@ whether，因为whether强调两方面的选择，故后面常用or，而if只�
 
 
 
-2. Allsubstances，*whetherthey are*（或*maybe*）*gaseous**，**liquidor solid*，are
+2. Allsubstances，*whetherthey are*（或*maybe*）*gaseous，liquidor solid*，are
 
 
 made up ofatoms。所有物质，不论它们是气体、液体或固体，都由原子组
@@ -29517,7 +29164,7 @@ help him to doit. 不管他成败如何，我们都必须帮助他做这件事�
 轻重，都有其体积。
 
 
-**四、****whether****和****if****的用法判别**
+四、whether和if的用法判别
 
 
 Ⅰ. If作“是否”讲，引导的从句就是宾语从句，一般都在主句之后。如果if
@@ -29618,10 +29265,10 @@ l. Allmagnets behave the same，*bethey large or small*. （…thesame
 赴。
 
 
-**Which****的用法和判断**
+Which的用法和判断
 
 
-**一、****which****的基本用法**
+一、which的基本用法
 
 
 Ⅰ. which作“哪一个”、“哪些”讲，当定语，用于疑问句和名词从句：
@@ -29952,7 +29599,7 @@ C. 关系代词which用于不定式短语中，而该不定式短语作前面名
 料的好城市。
 
 
-**二、判别****which****用法时注意事项**
+二、判别which用法时注意事项
 
 
 Ⅰ. which或带which的介词短语前面有逗号的，则后面的定语从句为非
@@ -30182,10 +29829,10 @@ III. 注意对“介词+which”的用法。
 2. Thatwas the town *where*（或*inwhich*）*hewas born*. 那是他出生的城镇。
 
 
-**While****的基本用法及判别**
+While的基本用法及判别
 
 
-**一、****while****的基本用法**
+一、while的基本用法
 
 
 Ⅰ. while作“（正）当……时候”讲，连接一个时间状语从句。用while连接
@@ -30355,7 +30002,7 @@ in the structure ofany material. 值得指出的是，加热可以使任何材�
 
 
 
-**二、****while****和****when****引导时间状语从句和并列分句时的差别**
+二、while和when引导时间状语从句和并列分句时的差别
 
 
 while引导的时间状语从句和其主句的动作必是同时发生，并且从句的动
@@ -30400,10 +30047,10 @@ while引导的时间状语从句和其主句的动作必是同时发生，并且
 “而”讲。不能用when代替。）
 
 
-**who****和****whom****的用法**
+who和whom的用法
 
 
-一**、疑问词****who****（主格）和****whom****（宾格）作“谁”等讲**
+一、疑问词who（主格）和whom（宾格）作“谁”等讲
 
 
 1. *Who*is he？他是谁？（若用*What*代替*Who*，则句意变为问他的职业。）
@@ -30470,7 +30117,7 @@ business. 就谁去上海出差，我已咨询了这里所有领导的意见。�
 的人。
 
 
-**二、关系代词****who****和****whom****用于定语从句**
+二、关系代词who和whom用于定语从句
 
 
 1. Thisis the student *who repaired our radio set yesterday*. 这人就是昨天修
@@ -30518,7 +30165,7 @@ He is no longer theboy（*whom*）*hawas before he entered the university*.
 他不再是上大学前的那样一个小孩了。
 
 
-5. Dr. Ouyang，*whomyou in our office last week**，**isour geneal*
+5. Dr. Ouyang，*whomyou in our office last week，isour geneal*
 
 
 *manager*. 那位欧阳博士就是你上周在我办公室见过的，他是我们的总经
@@ -30533,7 +30180,7 @@ He is no longer theboy（*whom*）*hawas before he entered the university*.
 孩，并乐于为他们做任何事. （非限制性定语从句）
 
 
-**三、****who****用于“****Itis****…****who****…”****强调句型中**
+三、who用于“Itis…who…”强调句型中
 
 
 1. *Itis *your teacher who often warns you against smoking. 经常告诫你们不
@@ -30570,7 +30217,7 @@ thecampus. 正是那些过去从未上过大学而目前正在送其子女或希
 *who*引出并列的定语从句，第三个*who*是强调句型中要求的*who*。）
 
 
-**四、****who****和****whoever****引出从句的用法差别**
+四、who和whoever引出从句的用法差别
 
 
 1. Ithink，*whoever*knows the truth will tell you about it. 我想，知道真实情
@@ -30600,10 +30247,10 @@ thecampus. 正是那些过去从未上过大学而目前正在送其子女或希
  无论谁来这里，告诉他们我已去天津了。总之，who不具有上述三种用法。
 
 
-**Whose****的用法**
+Whose的用法
 
 
-**一、疑问词****whose****作“谁的”讲**
+一、疑问词whose作“谁的”讲
 
 
 1. *Whose*book is it？这是谁的书？
@@ -30618,10 +30265,10 @@ thecampus. 正是那些过去从未上过大学而目前正在送其子女或希
 谁的手提式计算机。（宾语从句）
 
 
-**二、引导定语从句的****whose****作“他的”、“她的”和“他们的”讲，而该从句修**
+二、引导定语从句的whose作“他的”、“她的”和“他们的”讲，而该从句修
 
 
-**饰前面表示人的名词或词组**
+饰前面表示人的名词或词组
 
 
 1. Thisbook belongs to the man *whose name is on it*. 这本书属于具名于书上
@@ -30652,10 +30299,10 @@ soon. 昨天我给你看过练习本的那些学生，很快就要到这里来�
 
 
 
-**三、有时引导定语从句的****whose****可作“它的”、“它们的”讲，而该从句修饰**
+三、有时引导定语从句的whose可作“它的”、“它们的”讲，而该从句修饰
 
 
-**前面表示事物或除人以外的动物**
+前面表示事物或除人以外的动物
 
 
 1. Whatis the weight of a block of aluminium whose volume is 0.4 cu.ft.？一
@@ -30694,7 +30341,7 @@ soon. 昨天我给你看过练习本的那些学生，很快就要到这里来�
 房子已经修好。（非限制性定语从句）
 
 
-**四、注意事项**
+四、注意事项
 
 
 Ⅰ. 在whose疑问句或以whose引导的名词从句中，whose一般作“谁的”
@@ -30709,10 +30356,10 @@ II. 定语从句中whose的含义和译法取决于它所修饰的前面的名�
 人还是物，见上面第二、三项各例句。
 
 
-**Why****的用法**
+Why的用法
 
 
-**一、****why****作“为什么”、“为何”讲**
+一、why作“为什么”、“为何”讲
 
 
 1. *Why*is X equal to Y？为什么X等于Y？
@@ -30724,7 +30371,7 @@ II. 定语从句中whose的含义和译法取决于它所修饰的前面的名�
 验？
 
 
-**二、****why****引导各种从句**
+二、why引导各种从句
 
 
 1. Sheknows* why certain elements are very much alike in properties*. 她知道
@@ -30774,7 +30421,7 @@ question。）
 他解决了为什么温度影响电阻那个问题。（同位语从句）
 
 
-**三、注意在一定上下文中，****why****后只用不带****to****的不定式动词或其短语**
+三、注意在一定上下文中，why后只用不带to的不定式动词或其短语
 
 
 1. *Why*get so excited？为什么如此激动？
@@ -30813,13 +30460,13 @@ go and see thedoctor？）
 均可引出原因状语从句。）
 
 
-**Will****的主要用法**
+Will的主要用法
 
 
-**一、****will****用于第二、三人称的单纯将来时（美国英语第一人称可用****will****代**
+一、will用于第二、三人称的单纯将来时（美国英语第一人称可用will代
 
 
-**替****shall****）**
+替shall）
 
 
 1. He*will *soon be able to read English. 他不久就能阅读英语。
@@ -30887,7 +30534,7 @@ go and see thedoctor？）
 4. Comeor go，asyou* will*. 来去听你自愿。（句中*will*等于wish。）
 
 
-**三、****will****表示一种主观猜想，作“谅必”、“大概”、“将会”讲**
+三、will表示一种主观猜想，作“谅必”、“大概”、“将会”讲
 
 
 1. Thiscomputer doesn’t work normally. It*will* be the one you bought ten
@@ -30935,7 +30582,7 @@ yearsago. 这台计算机操作不正常。这大概是你十年前买的那一�
 事情必将继续进行下去。
 
 
-**五、“****willnot****…”****有时表示“总是不”、“说什么也不……”之意**
+五、“willnot…”有时表示“总是不”、“说什么也不……”之意
 
 
 l. Themotor will not operate. 这台电动机总是转动不起来。
@@ -30960,7 +30607,7 @@ l. Themotor will not operate. 这台电动机总是转动不起来。
 已经用尽了能想到的各种办法，但是这辆汽车还是不能走。
 
 
-**六、****will****和****would****类似例句比较**
+六、will和would类似例句比较
 
 
 1. They*will* dance and sing，butthey are hungry. 他们肯定会唱歌跳舞，但
@@ -30990,23 +30637,23 @@ l. Themotor will not operate. 这台电动机总是转动不起来。
 *would*代替*will*，口气就缓和，可译为：…她是会唱的。）
 
 
-七**、****will****还可用于将来进行时，将来完成进行时（参阅目录“时态”专题有**
+七、will还可用于将来进行时，将来完成进行时（参阅目录“时态”专题有
 
 
-**关部分）**
+关部分）
 
 
-**With****的各种搭配用法及分类理解**
+With的各种搭配用法及分类理解
 
 
 介词with的基本词义为“同、跟或和…（一起）”、“具有、带有、伴有或陪衬…”、“以或用…（后接表示工具、实物等词）”、“以…方式”等。至于其它用法，例如“与…相处”、“同意、赞成、一致、符合…”、“与…联系、连接、结合、化合、混合、合作、勾结”、“与…争论、竞争、斗争、”“随身…”、“随着…”、“对于或关于…”、“由于或为了…目的”、“虽然”等意思，都是with短语跟有关动词搭配在一定的上下文前提下引申的用法。
 
 
 
-**一、“****with+****有关名词”跟不少动词及其相应的名词连用可分別表示“同**
+一、“with+有关名词”跟不少动词及其相应的名词连用可分別表示“同
 
 
-**或跟…闲聊、交谈、谈判、讨论等”或“与……一起工作、居住或一起走等”**
+或跟…闲聊、交谈、谈判、讨论等”或“与……一起工作、居住或一起走等”
 
 
 chat withsb. 跟某人闲聊；havea long chat with sb. 跟某人进行一次长时间闲聊；discusswith sb. 跟某人讨论；hold（或have）aheated discussion with sb. 和某人举行（或进行）一次热烈的讨论；negotiatewith sb. Fora contract 为订立个合同和某人谈判；begin（或open）negotiationswith sb. fora contract（我们）为订立合同而开始与某人谈判；contractwith sb. 跟某人订
@@ -31024,10 +30671,10 @@ chat withsb. 跟某人闲聊；havea long chat with sb. 跟某人进行一次长
 合同；be（或keep）intouch（contact）withsb. 与某人接触中（或保持接触）；live（或work）withsb. 和某人较朋友或恋爱（多年即foryears）；gowith…（我们必须）跟上（时代即thetimes），（房子）和（游泳池即theswimming pool）一起出售（或出租），（金钱）和（幸福）并不总是结伴同行[go前加doesnot always]；share…withsb. 通某人分享（股票即thestocks）等
 
 
-**二、“有关动词****+with****…”****表示“与…交往、相处关系或状态”时的用法举**
+二、“有关动词+with…”表示“与…交往、相处关系或状态”时的用法举
 
 
-**例**
+例
 
 
 get（或go）on（或along）wellwith sb. 跟某人材处很好；注意惊叹句用
@@ -31069,10 +30716,10 @@ volume）与（温度）有关[也可用berelated *with*或to…代替]；makefr
 answer）信以为真等
 
 
-**三、“有关动词****+with****…”****表示“同意”、“一致”、“相符”、“合拍”、“相配或**
+三、“有关动词+with…”表示“同意”、“一致”、“相符”、“合拍”、“相配或
 
 
-**协调一致”时用法举例**
+协调一致”时用法举例
 
 
 agree*with*…同意（你或你的计划）；bein agreement *with* sb. there（我）
@@ -31127,10 +30774,10 @@ meet*with*…（他的讲话）和（我们的观点即ourviewpoint）一致；w
 *vi*. ）in*with*…使（我的工作）和（他的计划）合拍，（她）和（我们）协力合作等
 
 
-**四、“有关动词****+with****…”****表示“与…联系、交际、结合、啮合、混合、混淆、**
+四、“有关动词+with…”表示“与…联系、交际、结合、啮合、混合、混淆、
 
 
-**化合、合并、合作、勾结、合谋”等用法举例**
+化合、合并、合作、勾结、合谋”等用法举例
 
 
 combine（*v*. ）*with*…将（电脑）和（电话）结合起来，（理论）结合（实践），
@@ -31181,10 +30828,10 @@ plot *with*sb. （他）和某人策划反对…[后加against…]；conspire*wi
 *with*sb. 与某人密谈 等
 
 
-**五、“有关动词****+with****…”****表示“与…争论、争吵、竞争、交锋、交战、决裂、**
+五、“有关动词+with…”表示“与…争论、争吵、竞争、交锋、交战、决裂、
 
 
-**冲突、斗争、讲道理”等时用法举例**
+冲突、斗争、讲道理”等时用法举例
 
 
 argue（或debate）*with*sb. 与某人争论（或辩论）；battle（或fight，
@@ -31216,7 +30863,7 @@ argue（或debate）*with*sb. 与某人争论（或辩论）；battle（或fight
 
 
 
-**六、在某些动词短语中“****with****…”****作“随着…”或“一…就…”讲的用法举例**
+六、在某些动词短语中“with…”作“随着…”或“一…就…”讲的用法举例
 
 
 Volumes change *with*temperatures. 体积随温度而变。Thebirds fly away
@@ -31240,10 +30887,10 @@ the stream. 他正顺流而游。Skillcome with experience. 技艺随经验而�
 经验越丰富，技艺就越高。
 
 
-**七、含****with****的动词短语表示“赶上…，与…保持同步、同等对比、对比、对**
+七、含with的动词短语表示“赶上…，与…保持同步、同等对比、对比、对
 
 
-**照”等时的用法举例**
+照”等时的用法举例
 
 
 catch（或get）up*with*…赶上（某人或公共汽车），赶上（先进的水平即
@@ -31285,10 +30932,10 @@ best ofthem她唱歌可与他们中间的最佳歌唱家相媲美[由“与最�
 incontrsast（或comparison）*with*Chinese. 与汉语相比，英语较为容易。
 
 
-**八、“有关动词****+with****…”****作“处理、应付、对付、将就过去、容忍、耐心、面**
+八、“有关动词+with…”作“处理、应付、对付、将就过去、容忍、耐心、面
 
 
-**临”讲时用法举例**
+临”讲时用法举例
 
 
 cope *with*…应付（许多任务即alot of tasks），（我们能）对付（某人）；
@@ -31332,10 +30979,10 @@ a workattitude）；can’thold *with* the son cutting a class不能容忍儿子
 临（许多危险即alot of dangers）等
 
 
-**九、“有关动词****+with****…”****作“随身有、随身携带、拥有、设有、备有、伴有、**
+九、“有关动词+with…”作“随身有、随身携带、拥有、设有、备有、伴有、
 
 
-**染有、患有”等讲时的用法举例**
+染有、患有”等讲时的用法举例
 
 
 have money*with*…（我）随身有钱[*with*后加me]；carry…*with*…
@@ -31386,13 +31033,13 @@ was accompanied*with* lightening. 今天雷电交加。Ihave a cold accompanied
 *with*fever. 我感冒还伴有发烧. 
 
 
-**十、“****with+****介词宾语****+****宾语补（足）语”结构用于说明附带情况或交待细**
+十、“with+介词宾语+宾语补（足）语”结构用于说明附带情况或交待细
 
 
- **节举例。注意其中宾语补语可以用现在分词或其短语、过去分词或其短语、副**
+ 节举例。注意其中宾语补语可以用现在分词或其短语、过去分词或其短语、副
 
 
-**词、形容词、介词或不定式短语形式出现**
+词、形容词、介词或不定式短语形式出现
 
 
 *With* thetemperature being constant，thevolume changes *with *the
@@ -31444,10 +31091,10 @@ train drew out，Igot to the railway station. 在火车还有五分钟就要开�
 我到达了火车站。
 
 
-**十一、****with****短语在有关名词后作后置定语，用以表示某些特征、附带的情**
+十一、with短语在有关名词后作后置定语，用以表示某些特征、附带的情
 
 
-**况或作“连同一起”讲**
+况或作“连同一起”讲
 
 
 Have you ever seenanybody* with* this name？可曾见过叫这个名字的
@@ -31483,10 +31130,10 @@ four Englishclasses only *with* a short rest period. 我们上了四节英语课
 吗？
 
 
-**十二、“****with+****表示情绪、意志、程度等的名词”作状语用，表示“……地”**
+十二、“with+表示情绪、意志、程度等的名词”作状语用，表示“……地”
 
 
-**时的用法举例**
+时的用法举例
 
 
 face difficulties*with* courage勇敢地面对（困难等）；meetguests *with*
@@ -31507,10 +31154,10 @@ pride得意地微笑；agreeto the plan *with* one voice（他们）异口同声
 个计划；praisesb. *with*one accord（我们）一致表扬某人 等
 
 
-**十三、****be+****表示态度或情绪的形容词（有时用过去分词形式）****+with****…****”**
+十三、be+表示态度或情绪的形容词（有时用过去分词形式）+with…”
 
 
-**结构用法举例**
+结构用法举例
 
 
 bedelighted（或pleased）*with*…（我）喜欢（这个舞蹈即thedance）；be
@@ -31541,10 +31188,10 @@ situation）；bedisappointed *with*（或*in*）…对（他或他的工作）�
 女）很严格等
 
 
-**十四、****with+****表示工具、手段等含义的名词等”跟有关动词搭配时表示**
+十四、with+表示工具、手段等含义的名词等”跟有关动词搭配时表示
 
 
-“**以或用…”意思时的举例**
+“以或用…”意思时的举例
 
 
 eat*with*…用（筷子即chopsticks）用餐；cleanglass *with*…用（一块布即
@@ -31571,10 +31218,10 @@ CO用一氧化碳污染空气；shoot*with*…用（枪炮）射击；write*with
 用圆珠笔写；welcomea guest *with* open arms张开双臂欢迎客人等
 
 
-**十五、“有关动词****+with****…”****表示“以…开始或结束”、“以…供给或贈给”**
+十五、“有关动词+with…”表示“以…开始或结束”、“以…供给或贈给”
 
 
-**等含义时的用法举例**
+等含义时的用法举例
 
 
 begin（或start）（*v*. ）*with*…（今天）以（好消息即goodnews）开始，（我
@@ -31607,10 +31254,10 @@ many thanks]；presentsb. *with*…赠某人（一台桌面式计算机adesk-top
  provide…*with*…（我们）供给（他们）以（食物即food）等
 
 
-**十六、“有关动词****+with****…”****表示“填充、填满、挤满、充满、富于、满足、满**
+十六、“有关动词+with…”表示“填充、填满、挤满、充满、富于、满足、满
 
 
-**灌（或淹没）”等含义时用法举例**
+灌（或淹没）”等含义时用法举例
 
 
 fill…*with*…将（这个箱子即thebox）填满（沙子即sand），将（这油箱即
@@ -31653,10 +31300,10 @@ rain）淹没，（大厅即thehall）到处是（抱怨声即complains）；bel
 即smoke），（他的讲话即histalk）充满（喜悦即joy）等
 
 
-**十七、****with****短语和有关动词搭配或单独使用作“对于…、关于…”、或“与**
+十七、with短语和有关动词搭配或单独使用作“对于…、关于…”、或“与
 
 
-…**有关、就…说来”讲时的用法举例**
+…有关、就…说来”讲时的用法举例
 
 
 He concernedhimself *with* the plan. 那时他对这个计划很关心。This
@@ -31745,10 +31392,10 @@ information. 至于GDP（指国内生产总值）我们即将发布进一步的
 有关这些理论的辩论将延期到下周举行。
 
 
-**十八、用介词****with****短语表示肯定的条件（联系用介词****without****短语表示**
+十八、用介词with短语表示肯定的条件（联系用介词without短语表示
 
 
-**否定的条件）**
+否定的条件）
 
 
 1. *With*the temperature being constant，thegreater the pressure（is），the
@@ -31763,7 +31410,7 @@ less thevolume（is）. 若温度不变，则压强越大，体积就越小。
 就没有植物。
 
 
-**十九、介词****with****短语作“由于…”讲时用法举例**
+十九、介词with短语作“由于…”讲时用法举例
 
 
 1. What*with* the heavy rain I was late again. 由于下大雨，我又迟到了。
@@ -31796,7 +31443,7 @@ software。你有这样的知识和经验，一定能编出好的软件。
 7. Heis infirm *with* age. 他年老体弱。
 
 
-**二十、介词****with****短语作“虽然或尽管”讲时用法举例**
+二十、介词with短语作“虽然或尽管”讲时用法举例
 
 
 1. *With*all her money，sheisn’t living a happy life. 尽管她很有钱，但她并没
@@ -31865,7 +31512,7 @@ morning we arrivedat an agreement. 我们对这份合同讨论了好几个星期
 接受许多有益的劝告，结果遭到灾难性的后果。
 
 
-**二十二、注意“有关副词****+with****…”****的一些固定短语的用法**
+二十二、注意“有关副词+with…”的一些固定短语的用法
 
 
 *Awaywith*…！把（它）拿走！去掉（旧的观点即oldviewpoints）！让
@@ -31874,10 +31521,10 @@ morning we arrivedat an agreement. 我们对这份合同讨论了好几个星期
 （他）走开！*Downwith* fascism！打倒法西斯！offwith…!脱下（你的帽子即
 
 
-yourcap）！断绝和（他）的关系！Off（或Out）*with*you！给我滚开！*On**with*
+yourcap）！断绝和（他）的关系！Off（或Out）*with*you！给我滚开！*Onwith*
 
 
-your shirt！穿上你的衬衣吧！*Onwith *the dance！起舞吧！*Up**with* China
+your shirt！穿上你的衬衣吧！*Onwith *the dance！起舞吧！*Upwith* China
 
 
 team！支持中国队！Bringall your reference books，*together*（或*along*）*with*a
@@ -31886,13 +31533,13 @@ team！支持中国队！Bringall your reference books，*together*（或*along*
  dictionary. 带上你所有的参考书，同时带一本辞典来。
 
 
-**Within****的搭配用法**
+Within的搭配用法
 
 
-**一、介词****within****表示“在…内部或里面”或“进人…内部”，用于表示空间、**
+一、介词within表示“在…内部或里面”或“进人…内部”，用于表示空间、
 
 
-**距离在某些限度范围内**
+距离在某些限度范围内
 
 
 lie *within*the city walls（这些房子）在城（墙）以内；keep*within* doors
@@ -31941,7 +31588,7 @@ prescribedlimits）内；won’trefuse to do anything *within* reason不会拒�
 
 
 
-**二、介词****within****用于时间、数量方面表示“在…以内”、“不足…”之意**
+二、介词within用于时间、数量方面表示“在…以内”、“不足…”之意
 
 
 be（或come）back*within *an hour（他）一小时内回来berepaired *within*
@@ -31995,7 +31642,7 @@ fiveminutes（这台计算机）在五分钟内修好；receivethe leeter within
 死。（比喻生与死的差距不足一英寸。）
 
 
-**三、介词****within****用在内心、状态方面表示“在…以内”、“不超出…”之意**
+三、介词within用在内心、状态方面表示“在…以内”、“不超出…”之意
 
 
 1. *Within*our knowledge，suchan event has never happened before. 据我们
@@ -32022,10 +31669,10 @@ fiveminutes（这台计算机）在五分钟内修好；receivethe leeter within
 半截。
 
 
-**四、副词****within****用法举例**
+四、副词within用法举例
 
 
-be clean *within**and* *without*（房子、汽车等）里外都干净；bewhite *without*
+be clean *withinand* *without*（房子、汽车等）里外都干净；bewhite *without*
 
 
 and red*within*（窗帘、外衣等）外白内红；inquire*within*入内询问；applywithin
@@ -32047,7 +31694,7 @@ and red*within*（窗帘、外衣等）外白内红；inquire*within*入内询�
 the teachers*within*. 当时他站在门口并看见里面的所有老师。
 
 
-**五、单个副词****within****作介词****from****的宾语**
+五、单个副词within作介词from的宾语
 
 
 open the door from*within*（我）从里面把门打开；beshocked by a cry
@@ -32059,13 +31706,13 @@ ftom*within*（她）被里面传出的叫喊声所震惊；split…from*within*
 内部分裂（党）等
 
 
-**Without****的搭配用法**
+Without的搭配用法
 
 
-**一、介词****without****作“没有”讲，后面可接名词、代词、动名词或其短语等，**
+一、介词without作“没有”讲，后面可接名词、代词、动名词或其短语等，
 
 
- **并且在句中作表语、方式状语、条件状语、后置定语或插人语**
+ 并且在句中作表语、方式状语、条件状语、后置定语或插人语
 
 
 1. Onlya few homes in our community are *without* *electronicbrains*. 我们社
@@ -32116,7 +31763,7 @@ b. Johnlooked at us *without expression*. 那时约翰毫无表情地看着我�
 老师。（插入语）
 
 
-**二、介词****without****后接复合结构的用法举例**
+二、介词without后接复合结构的用法举例
 
 
 1. Watercan give off a lot of heat *without its temperature changing very*
@@ -32156,7 +31803,7 @@ b. Johnlooked at us *without expression*. 那时约翰毫无表情地看着我�
 其内部的运动是看不见的，也可能是热的。
 
 
-**三、介词****without****和否定句搭配时的用法举例**
+三、介词without和否定句搭配时的用法举例
 
 
 1. You*couldn’t* get in *without a passport*. 没有护照你就进不去。
@@ -32180,7 +31827,7 @@ b. Johnlooked at us *without expression*. 那时约翰毫无表情地看着我�
 英语。（或译：我们讲英语不能不出错。）
 
 
-**四、副词****without****用法也可理解为介词****without****后的有关词被省略的结果**
+四、副词without用法也可理解为介词without后的有关词被省略的结果
 
 
 1. Ifwe haven’t any optical computer，weshall have to do *without*. 如果没有
@@ -32201,13 +31848,13 @@ b. Johnlooked at us *without expression*. 那时约翰毫无表情地看着我�
 无抽屉的书桌是截然不相同的。
 
 
-**Would****的用法**
+Would的用法
 
 
-**一、****would****用于表示过去将来时、过去将来进行时、过去将来完成时的谓**
+一、would用于表示过去将来时、过去将来进行时、过去将来完成时的谓
 
 
-**语中**
+语中
 
 
 1. Hesaid（that）Jessica*would go *off with her mother for a holiday. 他说杰
@@ -32266,7 +31913,7 @@ off当时乔想在他送走母亲后就给我们打电话。（在时间从句�
 去将来完成时。）
 
 
-**二、****would****用于假设（详见第****452****～****461****页）**
+二、would用于假设（详见第452～461页）
 
 
 1. Ifhe had time，he*would see *them *home*. 假如他有时间，他就送他们回家
@@ -32337,10 +31984,10 @@ experiments. 本来她早就来超市了，但是她当时太忙于做她的实�
 
 
 
-**五、****would****用于请求、希望或询问的场合下，作“愿意”、“想要”讲，语气比**
+五、would用于请求、希望或询问的场合下，作“愿意”、“想要”讲，语气比
 
 
-**will****委婉**
+will委婉
 
 
 1. *Would*you please tell us how to operate the supermicro computer？请您告
@@ -32409,7 +32056,7 @@ die *than*disgrace himself. ）他宁死不受辱。
 b. *Doyou like *chocolate？你喜欢吃，了克力吗？（仅是一般提问而已。）
 
 
-**六、****would****表示过去多次动作**
+六、would表示过去多次动作
 
 
 1. Newtonwas often so deep in thought that he* would *forget hisdinner. 牛顿
@@ -32457,10 +32104,10 @@ to：
 （这句话并不表示“他现在不再在星期日工作”。）
 
 
-**七、以****would****表示过去的不可避免的倾向，而****wouldn’t****表示过去办不到**
+七、以would表示过去的不可避免的倾向，而wouldn’t表示过去办不到
 
 
-**的事。**
+的事。
 
 
 1. Duringthe war who *would* look up to us？在战争期间，谁看得起我们？
@@ -32472,7 +32119,7 @@ to：
 了。
 
 
-**八、****would****用于科学幻想的文体中**
+八、would用于科学幻想的文体中
 
 
 In 2030，outof curiosity，Imight even take a trip in a spaceshuttle and
@@ -32487,10 +32134,10 @@ become very mucheasier. 2030年我出于好奇心也许乘航天飞机去另外�
 行星旅游度假。到那个时候，宇宙旅行会变得容易多了。
 
 
-**Yet****的用法**
+Yet的用法
 
 
-**一、副词****yet****作“还”、“仍然”讲**
+一、副词yet作“还”、“仍然”讲
 
 
 1. Muchyet remains to be done. 尚有许多事待做。
@@ -32514,7 +32161,7 @@ second. 分子仍然总在运动，其中有些分子的运动速度达每秒一
 热。
 
 
-**二、副词****yet****和比较级连用，作“还要”、“更”讲，常可用****even****代替**
+二、副词yet和比较级连用，作“还要”、“更”讲，常可用even代替
 
 
 1. Thisis a *yet*（或*even*）*moredifficult* task. 这是一项更为艰巨的任务。
@@ -32531,7 +32178,7 @@ second. 分子仍然总在运动，其中有些分子的运动速度达每秒一
 
 
 
-**三、副词****yet****用于现在完成时作“已经”讲，只用于否定句和疑问句中**
+三、副词yet用于现在完成时作“已经”讲，只用于否定句和疑问句中
 
 
 1. Haveyou seen such a space shuttle *yet*？你（已）见过这样的航天飞机吗？
@@ -32552,7 +32199,7 @@ second. 分子仍然总在运动，其中有些分子的运动速度达每秒一
 过了吗？
 
 
-**四、连词****yet****和****andyet****，****butyet****用法举例**
+四、连词yet和andyet，butyet用法举例
 
 
 1. Itis very good，yet（或*but*）itcan be better. 这很好，但还能精益求精。
@@ -32588,7 +32235,7 @@ inventions. 轮子是所有发明中最简单却也许是最非凡的一种。
 it. 大家都认为这是个简单方法，但他不信。
 
 
-**五、词组****asyet****（到目前为止）和****justyet****（就在此刻）常用于否定句中**
+五、词组asyet（到目前为止）和justyet（就在此刻）常用于否定句中
 
 
 1. Theyhave not made such an advanced computer *as yet*。他们目前尚未制造
@@ -32606,7 +32253,7 @@ it. 大家都认为这是个简单方法，但他不信。
 3. Itwill not happen *just yet*. 此事一时尚不致于发生。
 
 
-**动 词时 态**
+动 词时 态
 
 
 任何英语句子里谓语动词所表示的动作，包含着发生的时间和进行方式
@@ -32628,7 +32275,7 @@ it. 大家都认为这是个简单方法，但他不信。
 
 
 
-**一、现在一般时（简称现在时）**
+一、现在一般时（简称现在时）
 
 
 一般现在吋表示经常发生的动作或存在的状态（如习惯、客观事实和普遍
@@ -32652,7 +32299,7 @@ developrapidly. 计算机大有用处。它们能帮助我国国民经济迅速�
 注：当主句为现在或将来时态时，则从句就按实际句意可使用各种相应时态。
 
 
-**二、过去一般时（简称过去时）**
+二、过去一般时（简称过去时）
 
 
 一般过去时表示过去发生的动作或存在的状态。这种动作或状态可能只
@@ -32709,7 +32356,7 @@ II. 用“usedto+动词原形”表示过去习惯动作或存在状态，而“
 空，就操作电脑。
 
 
-**三、将来一般时（简称将来时）**
+三、将来一般时（简称将来时）
 
 
 Ⅰ. 将来一般时的基本意义和形式
@@ -32876,7 +32523,7 @@ F. 注意“is，am或are+likely（或unlikely，liable，certain，sure，bound
 The project *islikely to have been discussed*. 这个项目可能已作了讨论。
 
 
-**四、过去将来时（参阅第****384****页一和第****387****页七）**
+四、过去将来时（参阅第384页一和第387页七）
 
 
 过去将来时表示在过去某一时刻以后将发生的动作或存在的状态。表达
@@ -32946,7 +32593,7 @@ He said he *willdo it in *2010. 他说他将在2010年做这件事。
 
 
 
-**五、现在进行时（参阅第****164****页****1****）**
+五、现在进行时（参阅第164页1）
 
 
  Ⅰ. 现在进行时表示此时此刻或目前一段时间内正在进行或不断进行的动
@@ -32997,7 +32644,7 @@ II. 现在进行时和一般现在时比较：
 分是一般情况。
 
 
-**六、过去进行时（参阅第****165****页****Ⅰ****第****2****句）**
+六、过去进行时（参阅第165页Ⅰ第2句）
 
 
 过去进行时表示过去某时刻或某阶段内正在进行的动作。其表达式为：主
@@ -33018,7 +32665,7 @@ II. 现在进行时和一般现在时比较：
 这里时，我们仍在露天作业。
 
 
-**七、将来进行时（参阅第****165****页****Ⅰ****第****3****句）**
+七、将来进行时（参阅第165页Ⅰ第3句）
 
 
 将来进行时表示将来某时刻或某阶段内在进行的动作。表达式为：
@@ -33074,7 +32721,7 @@ morning。他说今天上午八点到九点他将在上计算机课。
 3）*I*’*llbe doing* our best. 我将竭尽全力。（比*we’lldo our best*婉转）
 
 
-**八、现在完成时（参阅第****134****页二）**
+八、现在完成时（参阅第134页二）
 
 
 1. 现在完成时的基本意义和形式：
@@ -33143,7 +32790,7 @@ after 1949，in1998等时，谓语通常用过去…般时。
 II. 现在完成时和过去一般时的比较：
 
 
-1. *I**opened* the windows this morning. 今天早晨我开了窗户。
+1. *Iopened* the windows this morning. 今天早晨我开了窗户。
 
 
 2. I*have* *opened* the windows. 我已把窗户打开了。
@@ -33249,7 +32896,7 @@ II. 现在完成时和过去一般时的比较：
 帮助我们的。
 
 
-**九、过去完成时（参阅第****134****页二）**
+九、过去完成时（参阅第134页二）
 
 
 过去完成时表示过去某时刻或某动作以前已经完成的动作，即表示“过去
@@ -33350,7 +32997,7 @@ away. 我本来希望出去散步。但有人来找，脱不了身。
 师昨天来这里了。
 
 
-**十、将来完成时（参阅第****134****页二）**
+十、将来完成时（参阅第134页二）
 
 
 将来完成时表示在将来某时刻之前完成的动作。其表达式为：主语+
@@ -33379,7 +33026,7 @@ away. 我本来希望出去散步。但有人来找，脱不了身。
 
 
 
-**十一、现在完成进行时**
+十一、现在完成进行时
 
 
 Ⅰ. 现在完成进行时基本意义和形式：
@@ -33448,7 +33095,7 @@ I *have read*the book. 我读过这本书了。
 下文交待。但后一句”haveread”着重说明“读过”或“读完”了。
 
 
-**十二、过去完成进行时**
+十二、过去完成进行时
 
 
 过去完成进行时表示动作在过去某一时间之前开始’并延续到过去这个
@@ -33483,7 +33130,7 @@ years. 到我来到中国电信时，安在这里已经一直工作了八年。�
 
 
 
-**十三、将来完成进行时**
+十三、将来完成进行时
 
 
  将来完成进行时表示在将来某一时刻以前一直延续的动作。其表达式为：
@@ -33498,7 +33145,7 @@ By next summer she*will have been working* in the insurance company for
 threeyears. 到明年夏天，她一直在保险公司工作将有三年了。
 
 
-**[****附表****] ****英语动词十六种时态形式总表（以动词****work****为例）**
+[附表] 英语动词十六种时态形式总表（以动词work为例）
 
 
 
@@ -33648,10 +33295,10 @@ been
 </TD></TR>	</TABLE>
 </CENTER>
 
-**被动态和几个值得注意的问题**
+被动态和几个值得注意的问题
 
 
-**一、主动态和被动态的概念**
+一、主动态和被动态的概念
 
 
 主动态表示句子的主语是行为的发生者或执行者；
@@ -33861,7 +33508,7 @@ they
 专门化了. 
 
 
-**二、被动态的几种表示形式**
+二、被动态的几种表示形式
 
 
 Ⅰ. 主语原来是主动态句的宾语：
@@ -34063,7 +33710,7 @@ A. 主语原来是“不及物动词+介词+介词宾语”中的介词宾语：
 主动态句：Allof us talked about the matter very often. 
 
 
-3. Aftera while an agreement *was arrived at**. *过一会儿达成了一致的意见。
+3. Aftera while an agreement *was arrived at. *过一会儿达成了一致的意见。
 
 
 主动态句：Allof us arrived at an agreement after a while. 
@@ -34299,7 +33946,7 @@ by引出行为发生者。
 动态。)
 
 
-**三、关于语态的几个值得注意的问题**
+三、关于语态的几个值得注意的问题
 
 
 Ⅰ. 区别被动态和表语的实用价值。“动词be+过去分词’’这个结构不一定
@@ -34581,10 +34228,10 @@ Edison’s moneywas gone. 几个月的心血和多年的理想都化为乌有。
 致。参阅“过去分词”专题第105页。
 
 
-**句子的种类**
+句子的种类
 
 
-**一、按句子的目的来分，有下列四种**
+一、按句子的目的来分，有下列四种
 
 
 Ⅰ. 陈述句 用来叙述一项事实。
@@ -34962,7 +34609,7 @@ III. 祈使句 用来提出请求、命令、建议或祝愿等。主语you常�
 2)Am I angry!我太生气了!
 
 
-**二、按句子结构来分，有下列三种**
+二、按句子结构来分，有下列三种
 
 
 Ⅰ. 简单句 只有一套主谓结构，但容许有并列主语、并列谓语。(例句略)
@@ -35272,7 +34919,7 @@ You have to go*where you met that *experienced programmer. 你务必去你
 *Shanghai*. 他住过多年的岛离上海很远。
 
 
-**句子成分****(SentenceComponents)**
+句子成分(SentenceComponents)
 
 
 句子成分系一个句子的各个组成部分。句子成分与词类不同。词类指孤立
@@ -35290,7 +34937,7 @@ You have to go*where you met that *experienced programmer. 你务必去你
 补语等几个成分将在后面按专题进行说明。
 
 
-**主语****(****包括主语从句****)**
+主语(包括主语从句)
 
 
 主语是一个句子所说明的主体。主语一般位于句首部分，只有在therebe
@@ -35402,7 +35049,7 @@ air. 燃料的燃烧速度有多快，取决于燃料和氧或空气的混合程
 克隆技术的内容对我们是有帮助的。(从句作主语。)
 
 
-**谓语**
+谓语
 
 
 说明主语的动作或状态的句子成分叫做谓语。谓语多半位于主语的后面。
@@ -35420,7 +35067,7 @@ look，feel，seem，appear，prove，go，sound等等。详见目录中动词�
 oughtto，need，dare等。
 
 
-**表语****(****包括表语从句****)**
+表语(包括表语从句)
 
 
 1. Inbusiness dealings，includingelectronic commerce，honestyis *the best*
@@ -35474,7 +35121,7 @@ policy. 做生意包括电子商务，讲信誉是上策。(名词作表语。�
 10. Hisdream has come true。他的梦想实现了。(同上)
 
 
-1l. Informationtechnology is *the* *marrying*-*up* *of**computers*，*television*，*and*
+1l. Informationtechnology is *the* *marrying*-*up* *ofcomputers*，*television*，*and*
 
 
 *satellites*. 信息技术是计算机、电视和卫星的“联姻产物”。(动名词短语作
@@ -35577,10 +35224,10 @@ development of ournational economy. 事实是计算机十分有利于我们国
 为复合谓语(见上述第4，6，9，10，12，14，15，16句)。
 
 
-**宾语****(****包括直接宾语、间接宾语、介词宾语、宾语从句、介词宾语从句和形**
+宾语(包括直接宾语、间接宾语、介词宾语、宾语从句、介词宾语从句和形
 
 
-**式宾语。**
+式宾语。
 
 
 宾语表示动作的对象或承受者。它一般位于及物动词后面。但英语介词后
@@ -35694,7 +35341,7 @@ off的宾语。)
 173页B，166页ⅢC。
 
 
-15. Shewants *Dr**. **Fangto buy an optical computer*. 她要方博士买一台光计
+15. Shewants *Dr. Fangto buy an optical computer*. 她要方博士买一台光计
 
 
 算机。
@@ -35781,7 +35428,7 @@ off的宾语。)
 *aspossible*. 你可以指望你的女儿会尽力用功学习。
 
 
-**间接宾语**
+间接宾语
 
 
 有些及物动词，如give(给)等，需要两个宾语。其中一个指物，另一个多半
@@ -35880,7 +35527,7 @@ pass it toDerek。我买了一块电子表。请把它转交给德立克。
 
 
 
-**定语（包括定语从句）和几个注意点**
+定语（包括定语从句）和几个注意点
 
 
 定语表示形式：修饰名词或代词的词、短语或从句，称为定语或定语从句。
@@ -36073,7 +35720,7 @@ residentsat priceds *compatible with their income level* 以与工资收入水�
 日中国[以上两例为副词作后置定语]，establisha new type *of international*
 
 
-*economicrelations featuring mutual benefit**，**mutualsupport and common*
+*economicrelations featuring mutual benefit，mutualsupport and common*
 
 
 *development*建立新型的互利、互补、共同发展的国际经济关系，Thereis
@@ -36299,7 +35946,7 @@ arrowto the required position on the screen.鼠标是为了使电脑操作简便
 把我从渡口渡到对岸。（*who*引出非限制性定语从句。）
 
 
-**状语（包括状语从句）**
+状语（包括状语从句）
 
 
 І. 状语的主要功用：
@@ -37018,7 +36665,7 @@ b. Thosestudents may，*ifthey study diligently*，getgood marks in the
 exams. 如果那些学生勤奋学习，他们是可能在考试中取得良好成绩的。
 
 
-**谓语在形式上和主语协调的十四种情况**
+谓语在形式上和主语协调的十四种情况
 
 
 一般说来，英语的谓语形式是随主语的人称、单复数以及动作的时态、语
@@ -37030,10 +36677,10 @@ exams. 如果那些学生勤奋学习，他们是可能在考试中取得良好�
 种非一般的情况下如何协调的问题。
 
 
-**一、两个作主语用的名词或代词由****either****…****or****，****neither****…****nor****，****not**
+一、两个作主语用的名词或代词由either…or，neither…nor，not
 
 
- **only****…****but****…****等连接时，谓语动词应按后一个主语的人称和数而变**
+ only…but…等连接时，谓语动词应按后一个主语的人称和数而变
 
 
 1. *Eitherhe or I am* to get online. 不是他就是我要去上网。
@@ -37051,7 +36698,7 @@ exams. 如果那些学生勤奋学习，他们是可能在考试中取得良好�
 letters. 雨雪，和冰雹都不能阻挡邮递员给我们送信。
 
 
-4. *Notonly air**，**butnatural gas consists* of some substances. 不仅空气，而且
+4. *Notonly air，butnatural gas consists* of some substances. 不仅空气，而且
 
 
 天然气也是由若干种物质组成的。
@@ -37063,13 +36710,13 @@ letters. 雨雪，和冰雹都不能阻挡邮递员给我们送信。
 是他去上网呢?
 
 
-**二、主语是单数，而后面跟有****aswell as****，****with****，****togetherwith****. ****along**
+二、主语是单数，而后面跟有aswell as，with，togetherwith. along
 
 
-**with****，****besides****，****inaddition to****，****but****（作介词用），****like****，****unlike****，****including****，**
+with，besides，inaddition to，but（作介词用），like，unlike，including，
 
 
-**except****，****ratherthan****等词或短语连用时，谓语动词仍用单数形式**
+except，ratherthan等词或短语连用时，谓语动词仍用单数形式
 
 
 1. *Airas well as water is* matter. 空气和水（一样）都是物质。
@@ -37141,10 +36788,10 @@ everyday. 是他的母亲而不是他的朋友每天来看望这个试管婴儿�
 除了你和杰西卡以外，无人打算和我们一起去看电影。
 
 
-**三、把作主语用的集合名词作为一个整体看待时，谓语可用单数，若就其**
+三、把作主语用的集合名词作为一个整体看待时，谓语可用单数，若就其
 
 
-**中各个成员来考虑，则谓语可用复数**
+中各个成员来考虑，则谓语可用复数
 
 
 1. a. *Thecommittee was* made up of ten members. （那时）委员会由十人组
@@ -37208,10 +36855,10 @@ disadvantages. *Dothe former* outweigh the latter？像其它东西那
 样，电视既有优点也有缺点。前者是否超过后者？
 
 
-**四、表示数字、时间、钱额、重量、公里等的名词复数作主语时，谓语仍可**
+四、表示数字、时间、钱额、重量、公里等的名词复数作主语时，谓语仍可
 
 
-**用单数**
+用单数
 
 
 1. *Twohours is *enough for us to perform this experiment. 由我们做完这个实
@@ -37232,10 +36879,10 @@ disadvantages. *Dothe former* outweigh the latter？像其它东西那
 5. *Threemetres is *a short distance. 三米是个短距离。
 
 
-**五、不可数名词前面有表示种类等复数含义的词或“****alarge number****等****+**
+五、不可数名词前面有表示种类等复数含义的词或“alarge number等+
 
 
-**of****“****修饰时，其谓语常用复数形式**
+of“修饰时，其谓语常用复数形式
 
 
 1. Th*ereare many kinds of water* in nature. 自然界内有许多种水。（这里显然
@@ -37253,10 +36900,10 @@ disadvantages. *Dothe former* outweigh the latter？像其它东西那
 （或大量）化合物确实存在于自然界中。
 
 
-**六、虽用****and****连接两个主语，但指的是同一人、物或同一概念时，谓语仍**
+六、虽用and连接两个主语，但指的是同一人、物或同一概念时，谓语仍
 
 
-**用单数形式**
+用单数形式
 
 
 1. *Astatesman and poet was* present at the meeting. 有一个政治家兼诗人出
@@ -37277,13 +36924,13 @@ disadvantages. *Dothe former* outweigh the latter？像其它东西那
 gramweight. 当时使用了滑车组，250克的力举起了重1000克的东西。
 
 
-**七、用“****every****，****each****，****no****，****manya****（或****agreat deal of****）或****morethan one+**
+七、用“every，each，no，manya（或agreat deal of）或morethan one+
 
 
-**单数名词“作主语时，谓语用单数，而用“****agreat many****（或****agreat number of**
+单数名词“作主语时，谓语用单数，而用“agreat many（或agreat number of
 
 
-**等）****+****复数名词”时，谓语则用复数**
+等）+复数名词”时，谓语则用复数
 
 
 1. *Everyman and*（*every*）*womanattends *the meeting. 男的、女的都参加这个
@@ -37436,10 +37083,10 @@ listen to suchadvice. 当一个人不想活下去时，常很难听从这样的�
 这里吧？
 
 
-**八、有些名词只有复数形式，可根据谓语单复数、上下文等来判别其主语**
+八、有些名词只有复数形式，可根据谓语单复数、上下文等来判别其主语
 
 
-**所表示的事物的实际单复数**
+所表示的事物的实际单复数
 
 
 1. a. *Thecement works* was set up in 1958. 这个水泥厂建于1958年。
@@ -37502,7 +37149,7 @@ machanics（力学，机械学），electronics（电子学），measles（麻�
 
 
 
-**九、由两个对称部分组成的****scissors****（剪子），****shorts****（运动短裤），****glasscs**
+九、由两个对称部分组成的scissors（剪子），shorts（运动短裤），glasscs
 
 
 （眼镜），compasses（圆规），scales（天平）等为复数名词，其相应谓语用复数形
@@ -37541,10 +37188,10 @@ d. *Thereis a sheet of glass* on the table. 桌上有一块玻璃。
 compass一个指南针，ascale一个秤盘或一个刻度等。
 
 
-**十、“****therebe+****并列主语”和“****herebe+****并列主语”结构中的谓语形式，也**
+十、“therebe+并列主语”和“herebe+并列主语”结构中的谓语形式，也
 
 
-**可随并列主语中的第一个主语的单数形式来变，当然更可用复数形式**
+可随并列主语中的第一个主语的单数形式来变，当然更可用复数形式
 
 
 1. *Thereis* a pen and a pager on the desk. 桌上有一枝钢笔和一个寻呼机。
@@ -37565,10 +37212,10 @@ compass一个指南针，ascale一个秤盘或一个刻度等。
 电子辞典是给你的。（也可用*are*代替*is*。）
 
 
-**十一、****none****作主语时，谓语可用单数或复数。若与可数名词有关，谓语多**
+十一、none作主语时，谓语可用单数或复数。若与可数名词有关，谓语多
 
 
- **半用复数形式，若与不可数名词连用，则谓语用单数形式**
+ 半用复数形式，若与不可数名词连用，则谓语用单数形式
 
 
 1. *Noneknows*（或*know*）agreat deal about this new theory. 没有一个人对
@@ -37609,7 +37256,7 @@ compass一个指南针，ascale一个秤盘或一个刻度等。
 
 
 
-**十二、根据实际情况采用相应的谓语单复数形式**
+十二、根据实际情况采用相应的谓语单复数形式
 
 
 
@@ -37667,10 +37314,10 @@ c. Thcre*are* not a few kinds of water in nature. 自然界有不少种水。（
 一个经济超级大国。（由50个州组成的美国仍然只是一个国家。）
 
 
-**十三、注意****when****，****if****等的省略句中所省略的主语有时不是主句中的主语**
+十三、注意when，if等的省略句中所省略的主语有时不是主句中的主语
 
 
-**（试与第****462****页第二项中的省略句比较）**
+（试与第462页第二项中的省略句比较）
 
 
 1. Accordingto the molecular theory *the speed of the molecules* isincreased
@@ -37694,10 +37341,10 @@ hydrogen. 若在氢气中加热氧化铜，氧化铜的颜色就变。
 就明白了。
 
 
-**十四、在极少数情况下，分词短语作状语时，其逻辑主语（一般都不表示**
+十四、在极少数情况下，分词短语作状语时，其逻辑主语（一般都不表示
 
 
-**出来）却不是主句中的主语**
+出来）却不是主句中的主语
 
 
 1. Havingovercome all the difficulties on the way of improving the
@@ -37730,10 +37377,10 @@ the oldone. 克服了在改进发动机性能的过程中的困难以后，就�
 词短语作状语，其逻辑主语和句中主语是一致的。这是一般情况。）
 
 
-**介词短语在句中的用法和判别**
+介词短语在句中的用法和判别
 
 
-**一、介词和介词短语的形式**
+一、介词和介词短语的形式
 
 
 介词的形式可以是单个的词，如at，in，by，of等；也可以由几个词组成，
@@ -38291,7 +37938,7 @@ is certainly not a*different* language *from* that of everyday life. 语言当�
 不是和日常生活的语言迥然不同的。
 
 
-**三、介词短语用法判別时注意事项**
+三、介词短语用法判別时注意事项
 
 
 Ⅰ. 注意动词与不同的介词搭配，会有各种意思，现以make为例：*tomake*
@@ -38439,7 +38086,7 @@ excess过度，过量；incoordination协调地；incommon共同 等
 Ⅳ. 某些及物动词接上介词，就变为不及物动词，有时词义还有所变化。
 
 
-1. Ilooked but saw（*vt**. *）nothing. 我看了，但未见到什么。
+1. Ilooked but saw（*vt. *）nothing. 我看了，但未见到什么。
 
 
 2. Thismachine is out of order. Please*see*（*vi*. ）*to*it. 这台机器发生故障。请
@@ -38448,25 +38095,25 @@ excess过度，过量；incoordination协调地；incommon共同 等
 检修一下。（“seeto…”原义为“留心”、“注意”。）
 
 
-3. Ifyou don’t believe him，goand* see*（*vi**. *）*into*the matter. 如果你不相信
+3. Ifyou don’t believe him，goand* see*（*vi. *）*into*the matter. 如果你不相信
 
 
 他，你就去调查这件事吧。
 
 
-4. Thisnews* started*（*vi**. *）himthinking. 这条消息引起他的思考。
+4. Thisnews* started*（*vi. *）himthinking. 这条消息引起他的思考。
 
 
-5. Ishall *start*（*vi**. *）*for*Shanghai on Sunday at the latest. 我最迟星期日动
+5. Ishall *start*（*vi. *）*for*Shanghai on Sunday at the latest. 我最迟星期日动
 
 
 身去上海。
 
 
-6. Wemust do our hest* to serve*（*vi**. *）thepeople. 我们必须尽力为人民服务。
+6. Wemust do our hest* to serve*（*vi. *）thepeople. 我们必须尽力为人民服务。
 
 
-7. Thisbox will *serve*（*vi**. *）*for*a seat. 这只箱子可当个座位。（“toserve for
+7. Thisbox will *serve*（*vi. *）*for*a seat. 这只箱子可当个座位。（“toserve for
 
 
 440
@@ -38692,13 +38339,13 @@ quantity ofheat. 该反应放出少量
 置不能挪后。
 
 
-**注意：“介词****+****介词短语、副词或形容词”结构**
+注意：“介词+介词短语、副词或形容词”结构
 
 
 介词宾语一般用名词或代词表示，但有时还可用副词或介词短语来表示。
 
 
-**一、“介词十副词”结构**
+一、“介词十副词”结构
 
 
 1. Weshould work still harder *from now on*. 今后我们应更加努力地工作。
@@ -38752,7 +38399,7 @@ gravity，butvapor flows upward. 由此可见，液体在重力作用下沿着�
 8. Allrooms were cleaned *except here*. 除这里以外，所有房间都打扫了。
 
 
-**二、“介词****+****介词短语”结构**
+二、“介词+介词短语”结构
 
 
 1. Thehovercraft is something* in between* a boat and anaircraft. 气垫船是介
@@ -38827,7 +38474,7 @@ the help ofcomputers. 整个过程由3到6之间的工程师（即四、五位�
 
 
 
-**三、注意“介词****+****形容词”构成介词短语，一般用于固定短语中**
+三、注意“介词+形容词”构成介词短语，一般用于固定短语中
 
 
 1. Theresult of his experiment is far *from satisfactory*. 他的实验结果远远不
@@ -38863,7 +38510,7 @@ the help ofcomputers. 整个过程由3到6之间的工程师（即四、五位�
 定冠词the，因此这些前面加the的最高级形容词已名词化了。
 
 
-**四、注意事项**
+四、注意事项
 
 
 有些句子，乍一看似乎有“介词+介词短语”结构，实际上第一个词不是介
@@ -38893,10 +38540,10 @@ goon是不可分的词组，意义是“继续”，on在这里是副词，不�
 是“赶上”。
 
 
-**宾语不（足）语及注意点**
+宾语不（足）语及注意点
 
 
-**一、宾语补语特点**
+一、宾语补语特点
 
 
 英语中有些及物动词，除有一个直接宾语以外，还要有一个宾语补语，才
@@ -38971,7 +38618,7 @@ answer和matter分别是consider（认为）和cause（引起）的直接宾语�
 2. Ifound the oil thak *empty*. 我发现这个油箱是空的。（宾语补语）
 
 
-**二、宾语补语的表示法**
+二、宾语补语的表示法
 
 
 宾语补语在句中一般有九种表示法：Ⅰ. 名词（或名词性物主代词）；II. 
@@ -39318,7 +38965,7 @@ future. 他们希望在不久的将来把他们的公司发展为当前微软公
 规模。
 
 
-**三、注意在有宾语补语的句子中使用先行词（即形式宾语）****it****的情况**
+三、注意在有宾语补语的句子中使用先行词（即形式宾语）it的情况
 
 
 1. Theythought it right（或ofmuch use）todo this test. 他们原先想，做这项
@@ -39364,7 +39011,7 @@ take等。
 
 
 
-**四、注意宾语和宾语补语被从句割裂的现象**
+四、注意宾语和宾语补语被从句割裂的现象
 
 
 1. Wecall atoms of the same element *that have different atomic weights*
@@ -39412,7 +39059,7 @@ and methods hasbecome increasingly felt. 对工程师的需要已感到增长起
 构成的。）
 
 
-**五、注意句中作其它成分用的短语又引出宾语补语的情况**
+五、注意句中作其它成分用的短语又引出宾语补语的情况
 
 
 1. Whatmade him *consider* Lu Hsun *a writer* worthy of the trustof the
@@ -39451,10 +39098,10 @@ informed并作us的宾语补语。）
 173页B例5～11，13，14、第174页C。
 
 
-**六、注意“****have+****宾语****+****宾语补语（以不带****to****的不定式或过去分词表示）”**
+六、注意“have+宾语+宾语补语（以不带to的不定式或过去分词表示）”
 
 
-**有时仅表示“遭受某种情况”，并不含有句中主语的意志即主观上的想法。**
+有时仅表示“遭受某种情况”，并不含有句中主语的意志即主观上的想法。
 
 
 1. a. Wewill have the twins *go with us*. 我们要这两个双胞胎同我们一块
@@ -39488,10 +39135,10 @@ b. Ishall* have some students come* here。将有一些学生来这里。（无�
 4. She*had her younger sister die*. 她的妹妹死了。（同上。）
 
 
-**主语补****(****足****)****语及注意点**
+主语补(足)语及注意点
 
 
-**一、特点及表示法**
+一、特点及表示法
 
 
 在带有主语补语的句中，谓语一般是被动语态。带有宾语补语的句子，改
@@ -39571,7 +39218,7 @@ III. 用动词不定式及其短语表示主语补语时，不定式动词前面
 
 
 
-2. a. Jameswas seen*** ****to buy the game so ftware for hisson*. 有人看见詹姆士
+2. a. Jameswas seen* to buy the game so ftware for hisson*. 有人看见詹姆士
 
 
 为他儿子买了游戏软件。（未按原文结构翻译）
@@ -39691,7 +39338,7 @@ V. 用过去分词及其短语表示
 液体。
 
 
-**二、注意过去分词短语和有时甚至名词后用****as****引出补语的情况**
+二、注意过去分词短语和有时甚至名词后用as引出补语的情况
 
 
 1. Thosecomputers are advanced products known *as the five main famous*
@@ -39721,7 +39368,7 @@ for use* asoverhead product *and the other for return to the top plate *as*
 3. Ihave taken over a job *as a manager*. 我已经接了当经理的工作。
 
 
-**三、注意某些不及物动词也能引出主语补语**
+三、注意某些不及物动词也能引出主语补语
 
 
 1. Jamesacted *as project manager*. 詹姆士当时担任项目经理。
@@ -39733,10 +39380,10 @@ for use* asoverhead product *and the other for return to the top plate *as*
 industry. 天然气也用作化学工业的重要原料。
 
 
-**条件和假设**
+条件和假设
 
 
-**一、真实条件从句**
+一、真实条件从句
 
 
 从句提出的条件是能实现的。如果该条件实现，则主句所表示的结果也将
@@ -39760,7 +39407,7 @@ industry. 天然气也用作化学工业的重要原料。
 问他一些问题。
 
 
-**二、假设或非真实主从句**
+二、假设或非真实主从句
 
 
 从句所表示的假设与事实相反，或者不大可能实现. 一般可分为下列三种
@@ -39898,7 +39545,7 @@ might等+动词原形”。
 验。）
 
 
-**三、假设情况的其它表示法**
+三、假设情况的其它表示法
 
 
 Ⅰ. 用颠倒主、谓语词序手段表示假设条件从句：假设条件从句中谓语有
@@ -40299,16 +39946,16 @@ true，*wouldhave acted* differently. ）一个真正的朋友就不会这样做
 告诉我们的，但他忘了告诉。
 
 
-**虚拟语气的用法**
+虚拟语气的用法
 
 
-**一、虚拟语气用于假设**（**详见第****452****页专题“条件和假设”）**
+一、虚拟语气用于假设（详见第452页专题“条件和假设”）
 
 
-**二、虚拟语气用于以****osif****和****asthough**（**好像**）**引导的方式状语从句中，**
+二、虚拟语气用于以osif和asthough（好像）引导的方式状语从句中，
 
 
-**表示不太符合实际的比喻**
+表示不太符合实际的比喻
 
 
 1. Thisminicomputer operates *as if it were a new one*. 这台小型计算机操作
@@ -40354,7 +40001,7 @@ true，*wouldhave acted* differently. ）一个真正的朋友就不会这样做
 门。
 
 
-**三、虚拟语气用于以****lest****，****forfear that****和****incase****引导的目的状语从句中**
+三、虚拟语气用于以lest，forfear that和incase引导的目的状语从句中
 
 
 1. Heis working hard *for fear that he should fall behind*. 他工作努力，怕落
@@ -40378,10 +40025,10 @@ true，*wouldhave acted* differently. ）一个真正的朋友就不会这样做
 词原形出现。
 
 
-**四、虚拟语气用于****though**（**或****although**）**，****evenif****和****eventhough****引出的让**
+四、虚拟语气用于though（或although），evenif和eventhough引出的让
 
 
- **步状语从句中，表示已不把让步作为事实，却把它当作假设来用**
+ 步状语从句中，表示已不把让步作为事实，却把它当作假设来用
 
 
 1. *Eventhough she had been very busy*，shewould have helped us. 即使当时
@@ -40417,7 +40064,7 @@ If the news *be*true，hislife is in the greatest danger. 如果这消息确实�
  么他的生命处于极其危险之中。（注意主句并没用虚拟语气。）
 
 
-**五、虚拟语气用于表示愿望的固定句型结构中**
+五、虚拟语气用于表示愿望的固定句型结构中
 
 
 1. You*had better* clear up this problem. 你最好将这个问题解释清楚. 
@@ -40454,10 +40101,10 @@ If the news *be*true，hislife is in the greatest danger. 如果这消息确实�
 不去看电影。
 
 
-**六、虚拟语气用于主句中含有建议、劝告、要求、请求、需要、愿望、命令等**
+六、虚拟语气用于主句中含有建议、劝告、要求、请求、需要、愿望、命令等
 
 
- **词语的有关从句中，****体现****一种“****让****某人做某事”的****主观意向**
+ 词语的有关从句中，体现一种“让某人做某事”的主观意向
 
 
 1. They*suggested *that the World Cup be held every two years. 他们那时建
@@ -40526,10 +40173,10 @@ suggestion，recommendation，motion（作“动议”讲），plan等。见到�
 词，后面从句用should或用动词原形，便是虚拟语气的用法了。
 
 
-**七、虚拟语气用于表示祝愿的祈使句中，一般用动词原形或****may****加动词**
+七、虚拟语气用于表示祝愿的祈使句中，一般用动词原形或may加动词
 
 
-**原形**
+原形
 
 
 1. *Longlive* the friendship between the peoples all over the world。全世界人
@@ -40547,7 +40194,7 @@ suggestion，recommendation，motion（作“动议”讲），plan等。见到�
 2. *May*your life be long. 祝（愿）君长寿！
 
 
-**八、虚拟语气用于表示主观揣測和婉转的语气**
+八、虚拟语气用于表示主观揣測和婉转的语气
 
 
 1. Atthat time the temperature *would *rise rapidly. 那时温度会迅速上升。（句
@@ -40565,7 +40212,7 @@ will就不如*would*显得客气。）
 3. *Might*I come in？我可以进来吗？（用*might*比may语气婉转。）
 
 
-**九、虚拟语气用于****itis time****后的定语从句中**
+九、虚拟语气用于itis time后的定语从句中
 
 
 l. Itis(high)time(that)we(*should*)*set off*. 我们该动身了！
@@ -40580,7 +40227,7 @@ l. Itis(high)time(that)we(*should*)*set off*. 我们该动身了！
 在本句型中，第2句的虚拟语气表示法比第l句用得更广泛. 
 
 
-**十、虚拟语气用于表示惊奇、疑惑、没料到的事**
+十、虚拟语气用于表示惊奇、疑惑、没料到的事
 
 
 1. Itis strange that she *should have failed* to do thistest. 奇怪的是，她竟然
@@ -40613,10 +40260,10 @@ time. 她竟）然用很短时间做完这个实验，真令人惊异。
 should后用一般式动词。
 
 
-**十一、虚拟语气用于****itis important**（**或****natural**）**，****ithas been decided****，****I**
+十一、虚拟语气用于itis important（或natural），ithas been decided，I
 
 
-**am sorry****，****theywere disappointed****等句子后面的从句中**
+am sorry，theywere disappointed等句子后面的从句中
 
 
 1. ItiS very important that China *should join WTO*. （让)中国加入世贸组织
@@ -40649,25 +40296,25 @@ should后用一般式动词。
 4. Iam sorry that he *should be* so weak. 很遗憾，他身体（竟然)这样弱。
 
 
-**十二、注意****should****，****would****和****might****等用于虚拟语气和作其它用法时的**
+十二、注意should，would和might等用于虚拟语气和作其它用法时的
 
 
- **区别。详见****should****，****would****和****might****各自用法的专题介绍**（**参阅第****199****，****274****，****384**
+ 区别。详见should，would和might各自用法的专题介绍（参阅第199，274，384
 
 
-**页有关项****)****。**
+页有关项)。
 
 
-**省**** ****略**** ****（****Ellipsis****）**
+省 略 （Ellipsis）
 
 
 为了避免重复，句子中某些部分可以省略。兹分下列二十一种情况。
 
 
-**一、并列复合句中某些相同成分的省略。注意下列各句中用逗号、分号、**
+一、并列复合句中某些相同成分的省略。注意下列各句中用逗号、分号、
 
 
-**and****、****or****、****butalso****、****while****、****though****等手段把各分句并列地连接起来的方法**
+and、or、butalso、while、though等手段把各分句并列地连接起来的方法
 
 
 1. Thisbeeper w*orks well*，butthat one doesn’t(*workwell*). 这个寻呼机正
@@ -40782,13 +40429,13 @@ our ownshortcomings. 这件事发生了，但也是件好事，因为它帮助�
 句，作“可是”讲。）
 
 
-**二、在用****when****，****while****，****if****，****as5f****，****though**（**或****although**）**，****as****，****until****。****once****，**
+二、在用when，while，if，as5f，though（或although），as，until。once，
 
 
-**whether****，****unless****，****where****等连词连接的状语从句内省略跟主句相同的主语及**
+whether，unless，where等连词连接的状语从句内省略跟主句相同的主语及
 
 
-**其****bc****的相应形式。有时从句中主语****ic****或有关成分**（**见第****5****，****6****句**）**也可省略**
+其bc的相应形式。有时从句中主语ic或有关成分（见第5，6句）也可省略
 
 
 1. *When*(*wateris*)*pure*，wateris a colourless liquid. 水纯时，水是无色的
@@ -40995,13 +40642,13 @@ the level andinclined plane. 大多数机器，不管（它们）多么复杂，
 thc better. 越快越好等. 
 
 
-**三、当见到“****when**（**或****if****，****where****，****wherever****，****whenever****，****assoon as****，****asfast**
+三、当见到“when（或if，where，wherever，whenever，assoon as，asfast
 
 
- **as****，****than****等**）**+possible**（**或****necessary****等）”时，可理解中间省略了****itis**（**或****was**）**，**
+ as，than等）+possible（或necessary等）”时，可理解中间省略了itis（或was），
 
 
-**而这个****it****并不是代替主句中某个主语**
+而这个it并不是代替主句中某个主语
 
 
 1. Answerthese questions，*if*（*itis*）*possible*without referring to the book. 
@@ -41052,10 +40699,10 @@ thc better. 越快越好等.
 行。
 
 
-**四、在****know****，****think****，****consider****，****suppose****，****find****，****believe****，****say****，****show****，**
+四、在know，think，consider，suppose，find，believe，say，show，
 
 
- **decide****等及物动词后面的宾语从句常省略连词****that**
+ decide等及物动词后面的宾语从句常省略连词that
 
 
 1. I*think*(*that*)it will clear up this afternoon. 我想今天下午天气转晴。
@@ -41074,7 +40721,7 @@ thc better. 越快越好等.
 
 
 
-**五、主语从句省略****that****较少见，并且多半只限于有形式主语****it****的句子**
+五、主语从句省略that较少见，并且多半只限于有形式主语it的句子
 
 
 1. Itis certain(*that*)Ms Liao has received my voice mait. 肯定廖女士已经收
@@ -41110,13 +40757,13 @@ thc better. 越快越好等.
 6. It’stime(*that*)she took the floor. 该她发言了. 
 
 
-**六、在限制性定语从句内可省略作宾语和介词宾语的关系代词****whom****，**
+六、在限制性定语从句内可省略作宾语和介词宾语的关系代词whom，
 
 
-**which****，****that****，而在以****thesame…as****和****such…as****引出的某些定语从句内也可****cJ**
+which，that，而在以thesame…as和such…as引出的某些定语从句内也可cJ
 
 
-**省略与主句相同的成分**
+省略与主句相同的成分
 
 
 1. Thesoftwate（*which*或*that*）wedeveloped 1ast year can be used to control
@@ -41161,13 +40808,13 @@ thisprocess. 我们去年开发的软件可用来控制这个过程‘
 你是否认为这男孩正在做他不应该做的事吗？
 
 
-**七、在****direction**（**方向），****way**（**方式），****distance**（**距离），****time**（**时间），****times**
+七、在direction（方向），way（方式），distance（距离），time（时间），times
 
 
-（**倍数**）**……等后面所接的定语从句中省略****that****或****which****以及省略****inwhich****或**
+（倍数）……等后面所接的定语从句中省略that或which以及省略inwhich或
 
 
-**关系副词****that****的情况**
+关系副词that的情况
 
 
 1. Thedirection(*in which*)we move a body can bc changed. 我们移动物体
@@ -41213,13 +40860,13 @@ force is as greatas the effort. 机械效益是阻力相当于作用力的倍数
 the amount of heatproduced. 让电流通过的时间越长，产生的热量就越大。
 
 
-**八、以****therebc****开头的句子，其主语的定语从句常可省略关联词，而****there**
+八、以therebc开头的句子，其主语的定语从句常可省略关联词，而there
 
 
-**bc****结构作定语从句时，省略作主语的关系代词**
+bc结构作定语从句时，省略作主语的关系代词
 
 
-1. Thereis a chance *Dr**. **Fangwill be able to be back for May Day*. 方博士也
+1. Thereis a chance *Dr. Fangwill be able to be back for May Day*. 方博士也
 
 
 许有机会能回来过五一节。
@@ -41237,7 +40884,7 @@ the amount of heatproduced. 让电流通过的时间越长，产生的热量就�
 把所有关于这个题目的书列出一个单子。
 
 
-**对上述八种省略情况的小结**
+对上述八种省略情况的小结
 
 
 上述八种省略情况在英语中是大量出现的。因此在阅读英语时发现句子
@@ -41270,7 +40917,7 @@ matterhow，whether等连接词或therebe结构，因为这些连接词是判别
 注意宾语从句是否省略了连词that。
 
 
-**九、命令句、惊叹句、部分第一人称陈述句、部分问句和答句情况**
+九、命令句、惊叹句、部分第一人称陈述句、部分问句和答句情况
 
 
 Ⅰ. 命令句：
@@ -41381,10 +41028,10 @@ Yes，Ido，thanks. 谢谢，我生活幸福。
 不能去上海地铁站，但我下周能去。
 
 
-**十、用****so**（**见下面****A****），****not**（**见下面****B****）或其它手段**（**见下面****C**）**来省略上文**
+十、用so（见下面A），not（见下面B）或其它手段（见下面C）来省略上文
 
 
-**或问句中的一部分或整个句义**
+或问句中的一部分或整个句义
 
 
 A. 1. CanEmily do this work？埃米莉能做这件工作吗？
@@ -41472,10 +41119,10 @@ C. 1. Doesshe write 1etters to them？她写信给他们吗？
 8. whyso？为什么这样呢？（省略前面提到的上文。）
 
 
-**十一、当用强调句型强调疑问词或让步状语从句的关联词****whatever****等**
+十一、当用强调句型强调疑问词或让步状语从句的关联词whatever等
 
 
-**时，常省略强调句型中的****that**
+时，常省略强调句型中的that
 
 
 1. Whenwas it(that)you recelved his e—mail？你收到他的电子邮件是什么
@@ -41518,10 +41165,10 @@ must look afterher. 不论这女孩在做什么（或准备去哪里），我们
 顾她。
 
 
-**十二、在“****the+****比较级****……****，****the+****比较级****……****”句子中省略****be****或****therebe**
+十二、在“the+比较级……，the+比较级……”句子中省略be或therebe
 
 
-**情况**
+情况
 
 
 1. Thehigher the temperature(*is*)，thegreater the volume(*is*)。温度越高，
@@ -41539,16 +41186,16 @@ must look afterher. 不论这女孩在做什么（或准备去哪里），我们
 3. Themore，thebetter。越多越好。（系成语，还省略其它成分。）
 
 
-**十三、****A****. 注意某些谓语在接一个****that****从句时，原来搭配的介词短语也可**
+十三、A. 注意某些谓语在接一个that从句时，原来搭配的介词短语也可
 
 
-**省略不用**
+省略不用
 
 
 1. a. He*insists upon *carrying out the test。他坚持进行这个试验。
 
 
-b. We*insists*（*upon**it*）*that*theoldworkershaverichexperlence in
+b. We*insists*（*uponit*）*that*theoldworkershaverichexperlence in
 
 
 practice. 我们坚持说老工人具有丰富的实践经验。
@@ -41581,10 +41228,10 @@ busy(*in*)writingprograms忙于编写程序，havedifficulty（或trouble）(
 *in*）sleeping难以睡着等。
 
 
-**B****. 注意某些形容词要求后面接一固定的介词短语，若接一从句，则只用**
+B. 注意某些形容词要求后面接一固定的介词短语，若接一从句，则只用
 
 
- **that****或疑问词接引出从句，从而省略原用的介词**
+ that或疑问词接引出从句，从而省略原用的介词
 
 
 l. Weare not afral *of* dying（或*ofdeath*）=Weare not afraid *that* we shaIl
@@ -41627,7 +41274,7 @@ die。我们不怕死。
 你在1977年去那里了。
 
 
-**十四、用****to****表示前述动词**（**包括谓语或非谓语动词**）**及其短语**
+十四、用to表示前述动词（包括谓语或非谓语动词）及其短语
 
 
 1. Youmay g。t。theradio and 7V tower with them if you want *to*. 你愿意的
@@ -41657,10 +41304,10 @@ die。我们不怕死。
 …，但前面出现的却是动名词短语playing…。）
 
 
-**十五、在某些动词后含有宾语补语或主语补语的复合结构中省略****tobe**
+十五、在某些动词后含有宾语补语或主语补语的复合结构中省略tobe
 
 
-**或****being****的情况**
+或being的情况
 
 
 1. Theyfound the answer(*to be*)correct. 他们发现答案正确。
@@ -41693,7 +41340,7 @@ dependent on man’sdesire to understand his environment and himself. 科
 人类本身。
 
 
-**十六、注意虚拟语气中省略****should****的三种情况**
+十六、注意虚拟语气中省略should的三种情况
 
 
 I. 在suggest，propose，order，urge，insist等动词后面的宾语从句中，或
@@ -41763,10 +41410,10 @@ III. 在以lest或forfear that（惟恐，免得）incase（以防）引导的�
 me. 我一再解释，惟恐学生对我误解。
 
 
-**十七、在用****so+that****连接的从句中省略****so****或****that****的情况**（**参阅第****280****页**
+十七、在用so+that连接的从句中省略so或that的情况（参阅第280页
 
 
-**例****5****，****6****，****7)**
+例5，6，7)
 
 
 1. Weare working hard(*so*)that we may accomplish the splendid goal。fthe
@@ -41799,10 +41446,10 @@ more aboutit. 他们对石油进行了许多研究工作，因此对石油较为
 （后句为程度状语从句省略that。若用*that*，中间逗号不宜用。）
 
 
-**十八、新闻标题要求简练醒目，翻译时更需注意推敲其省略情况及其习**
+十八、新闻标题要求简练醒目，翻译时更需注意推敲其省略情况及其习
 
 
-**惯表示法**
+惯表示法
 
 
 1. Boy14，rescuedfrom cliff face
@@ -41863,10 +41510,10 @@ the need to abortthe rescue in Iran. ）
 在分词表示进行时。
 
 
-**十九、报刊上的广告和手册之类的工具书中的注释性文字省略成份较**
+十九、报刊上的广告和手册之类的工具书中的注释性文字省略成份较
 
 
-**多，阅读或翻译时也必须注意进行逻辑判别**
+多，阅读或翻译时也必须注意进行逻辑判别
 
 
 1. ForSale：Twomodular bedrooms 10 feet by 14 feet，usedonly 14 years. 
@@ -41931,7 +41578,7 @@ equals 860calories. 电能：由电荷和电荷运动结合而成的能量。以
 具体情况作具体的分析”方法，广开思路，特别注意从意义上进行逻辑判断。
 
 
-**二十、注意在一些固定短语中某些介词的省略**
+二十、注意在一些固定短语中某些介词的省略
 
 
 havetrouble(*in*)sleeping（他）难于睡着。havea hard time(*in*)getting
@@ -41958,10 +41605,10 @@ There is nouse(*in*)explaining it to her any more. 这件事再向她解释是�
 跟你年龄相仿的儿子。
 
 
-**二十一、某些词在第一分句中作宾语**（**位于句首），而在****and****后的第二分**
+二十一、某些词在第一分句中作宾语（位于句首），而在and后的第二分
 
 
-**句中作主语**（**一般省略**）**的特殊句型**
+句中作主语（一般省略）的特殊句型
 
 
 1. Allthese *f* *acts* we have discussed，andare examined by every person. 所有
@@ -41997,7 +41644,7 @@ and后的第二分句中的被省略的主语。第3句从which…到句末是�
 宾语，而在and后的第二分句里是被省略的主语。
 
 
-**同位语及同位语从句的表示法和判别**
+同位语及同位语从句的表示法和判别
 
 
 在某一句子成分后面有另外的词、短语或从句（同位语从句）对该成分作
@@ -42006,7 +41653,7 @@ and后的第二分句中的被省略的主语。第3句从which…到句末是�
  进一步说明，在语法上又处于同一地位（即作同一个成分），称为同位语。
 
 
-**一、同位语在所说明的句子成分之后，其间没有逗号**
+一、同位语在所说明的句子成分之后，其间没有逗号
 
 
 1. Unlikeoxygen，theelement *nitrogen* is not active. 与氧不同，元素氮不活
@@ -42046,7 +41693,7 @@ before. 在今日的中国’我们归国留学生能做过去不能做的事情
 三。
 
 
-**二、同位语前后有逗号、冒号或破折号。**
+二、同位语前后有逗号、冒号或破折号。
 
 
 1. Yesterdaythey *each* saw Dr.Fang，*asenior enginner*. 昨天他们各位都见
@@ -42094,7 +41741,7 @@ electron。最简单的原子氢含有一个质子和一个电子。
 式短语作同位语。）
 
 
-**三、用****or****引出同位语**
+三、用or引出同位语
 
 
 1. Theboilng temperature，*orboiling point*，isthe temperature at which a
@@ -42137,7 +41784,7 @@ converted to anyother form of energy. 电流的能量即动电的能量，可以
 化为任何其它种能量。
 
 
-**四、用****suchas****或****as****引出同位语**
+四、用suchas或as引出同位语
 
 
 1. Somesolid fuels，*suchas wood and coal*，arechiefly composed of carbon，
@@ -42188,10 +41835,10 @@ loads. 塑料作为一类材料，并不适于作承受重型结构负荷的材�
 *as*引出同位语，而第二个*as*则引出主语补语。）
 
 
-**五、用****of****引出同位语，这时****of****前常是一个概括的名称，****of****后是具体的东**
+五、用of引出同位语，这时of前常是一个概括的名称，of后是具体的东
 
 
-**西或具体数值**
+西或具体数值
 
 
 1. Thisautomobile is running at a speed *of* 70 *miles an hour*. 该汽车正以每
@@ -42215,13 +41862,13 @@ loads. 塑料作为一类材料，并不适于作承受重型结构负荷的材�
 个先做什么的问题。
 
 
-**六、用****namely****，****forexample****，****including****，****particularly****，****thatis**（**或****i.e****. **）**等**
+六、用namely，forexample，including，particularly，thatis（或i.e. ）等
 
 
-**引出同位语**
+引出同位语
 
 
-1. Thereare two kinds of charges，*namely*，*positive**and negative*（*charges*）. 
+1. Thereare two kinds of charges，*namely*，*positiveand negative*（*charges*）. 
 
 
 . 475. 
@@ -42267,10 +41914,10 @@ loads. 塑料作为一类材料，并不适于作承受重型结构负荷的材�
 关的。
 
 
-**七、用连词****that****等引出从句作同位语，称为同位语从句。有时省略****that****，**
+七、用连词that等引出从句作同位语，称为同位语从句。有时省略that，
 
 
-**造成难点**
+造成难点
 
 
 1. Thisexperiment 1eads to the conclusion* that unlike charges attracteach*
@@ -42279,7 +41926,7 @@ loads. 塑料作为一类材料，并不适于作承受重型结构负荷的材�
 *other*。这个实验导致这样一个结论：异性电荷相吸。
 
 
-2. The question“*whatarethings made**of*？”iS answereddifferentlybV
+2. The question“*whatarethings madeof*？”iS answereddifferentlybV
 
 
 different kinds ofscientists. 物质由什么构成的问题，不同的科学家就有
@@ -42395,7 +42042,7 @@ that he had missedhis lessons because his mother had fallen ill，*an*
 亲病了——这是老师当时原谅他的原因。
 
 
-**八、判别时的几个注意点**
+八、判别时的几个注意点
 
 
 Ⅰ. 区别or连接并列成分和引出同位语两种情况：
@@ -42559,7 +42206,7 @@ technologicalwork. 实践是检验真理的唯一标准，这是一条必须遵�
 
 
 
-**插人语及插人句用法**
+插人语及插人句用法
 
 
 插入语通常与句中其它成分没有语法上的关系，多半用逗号与句子隔开，
@@ -42571,7 +42218,7 @@ technologicalwork. 实践是检验真理的唯一标准，这是一条必须遵�
 或一个句子。
 
 
-**一、常用作插人语的副词举例**
+一、常用作插人语的副词举例
 
 
 indeed的确，certainly当然，surely无疑，however然而，obviously（或
@@ -42619,7 +42266,7 @@ not calledme. 奇怪，他未来过中国联通。更奇怪，他没给我打电
 2）Couldyou expess your idea *frankly*？你能坦诚地表达你的想法吗？
 
 
-**二、形容词或其短语作插人语举例**
+二、形容词或其短语作插人语举例
 
 
 true真的，funny真可笑，strangeto say说也奇怪，needlessto say不用
@@ -42640,7 +42287,7 @@ true真的，funny真可笑，strangeto say说也奇怪，needlessto say不用
 的，你们各自超额完成了自己的任务。
 
 
-**三、介词短语作插人语举例**
+三、介词短语作插人语举例
 
 
 in a few words（或insum，inshort）简而言之，inother words换句话
@@ -42701,7 +42348,7 @@ b. *Ofcourse* I should like everything to be going smoothly.
 forinstance（或examplc）. 例如，她有关计算机科学就比其他同学懂得多。
 
 
-**四、常用作插人语的分词短语举例**
+四、常用作插人语的分词短语举例
 
 
 strictlyspeaking严格地说；generallyspeaking一般地说，judgingftom
@@ -42734,7 +42381,7 @@ undertaken in hishometown。根据他的来信作出判断，一场抵制“白�
 动作不是句中主语发出的。
 
 
-**五、常用作插人语的不定式短语举例**
+五、常用作插人语的不定式短语举例
 
 
 so to speak可说是，orto say或者说，tobe sure无疑地，tosum up概括
@@ -42771,7 +42418,7 @@ operation with manycountries. 首先，中国准备和许多国家加强科学�
 合作。
 
 
-**六、插人句举例**
+六、插人句举例
 
 
 I am sure可以肯定地说；Ibelieve我相信；Ithink（或suppose）我想；I
@@ -42828,7 +42475,7 @@ amounts ofinformation around the country quickly and cheaply. 较为重要
 的是，信息高速公路能把大量信息迅速、便宜地传遍全国。
 
 
-**七、以一般疑问句形式构成的插人句用于特殊疑问句中**
+七、以一般疑问句形式构成的插人句用于特殊疑问句中
 
 
 1. Howdo you think an optical computer is different from your palm
@@ -42855,7 +42502,7 @@ computer？你认为光计算机和你的掌上电脑有什么不同？
 在英语中，“主语在前，谓语在后”这种语序，一般较为固定。但有时由于语
 
 
-**倒装语序和成分分割**
+倒装语序和成分分割
 
 
 在英语中，“主语在前，谓语在后”这种语序，一般较为固定。但有时由于语
@@ -42878,7 +42525,7 @@ computer？你认为光计算机和你的掌上电脑有什么不同？
 并在这里讨论。
 
 
-**一、主语和谓语的倒装**
+一、主语和谓语的倒装
 
 
 Ⅰ. 疑问句（包括反意疑问句句末部分）需要倒装语序（见第405～407页）
@@ -43254,7 +42901,7 @@ in，down，up，away等词置于句首，而句中主语和谓语顺序颠倒�
 2. *Upwent *the arrow into the air. 箭射上了天。
 
 
-**二、由于语法结构和结构匀称需要而引起的语序变动**
+二、由于语法结构和结构匀称需要而引起的语序变动
 
 
 1. Hetold me *in* *detail *how they overcame all thedifficulties. 他详细告诉我，
@@ -43339,7 +42986,7 @@ problem后面，但为了句子结构匀称，不使主句谓语arises孤单地�
 长，谓语太短。为避免“头重脚轻”，定语从句就移到句末。）
 
 
-8. *Of**especial* *interest are the laws* dealing with the effectsof forces upon the
+8. *Ofespecial* *interest are the laws* dealing with the effectsof forces upon the
 
 
 form and motion ofobjects. 论述力对物体形状和运动影响的定律具有特
@@ -43351,7 +42998,7 @@ form and motion ofobjects. 论述力对物体形状和运动影响的定律具�
 挪到谓语后，而表语就置于句首。）
 
 
-**三、定语后置。有下列几种情况**
+三、定语后置。有下列几种情况
 
 
 Ⅰ. 由any，some，no，every等构成的合成代词，其定语都放在这些合成
@@ -43543,7 +43190,7 @@ nevermove. 没有足以克服阻力的力，静止的物体决不会运动。（
 9. Theychecked the distribution pipes buried in the streets，*takingthe water*
 
 
-*to thehouses**，**shopsand factories*. 他们检查了埋在街道下面的配水管道，
+*to thehouses，shopsand factories*. 他们检查了埋在街道下面的配水管道，
 
 
 而这些管道将水送入住户、商店和工厂。（现在分词短语作非限制性定语，
@@ -43588,7 +43235,7 @@ in1978. 我们的办公楼建筑面积约一万五千平方米，建于1978年�
 说明解决这个问题是困难的。
 
 
-**四、强调状语，故状语放在句首**
+四、强调状语，故状语放在句首
 
 
 1. *Down*came the ceiling. 天花板掉下来了。
@@ -43637,7 +43284,7 @@ in1978. 我们的办公楼建筑面积约一万五千平方米，建于1978年�
 
 
 
-**五、强调表语，故表语挪到句首**
+五、强调表语，故表语挪到句首
 
 
 1. *Avery simple experiment *it is. 这是十分简单的实验。
@@ -43685,10 +43332,10 @@ in1978. 我们的办公楼建筑面积约一万五千平方米，建于1978年�
 语，oil…为主语从句，主句省略了谓语is。）
 
 
-**六、强调谓语中不定式、过去分词和现在分词所表示的动作****’****将其短语置**
+六、强调谓语中不定式、过去分词和现在分词所表示的动作’将其短语置
 
 
-**于句首，以表示出强调语气**
+于句首，以表示出强调语气
 
 
 1. *Tobe especially considered* is construction of some elevatedroads. 要特别
@@ -43718,7 +43365,7 @@ policy of openingwider to the outside world。国民经济迅速发展是和对�
 界扩大开放的政策紧密有关的。
 
 
-**七、强调宾语和宾语从句，把它们挪到句首**
+七、强调宾语和宾语从句，把它们挪到句首
 
 
 1. *Allhis life* Einstein had devoted to efforts to build worldpeace. 爱因斯坦
@@ -43771,10 +43418,10 @@ policy of openingwider to the outside world。国民经济迅速发展是和对�
  注：在上述情况下，主句的主语、谓语一般不颠倒。
 
 
-**八、强调宾语补语，把宾语补语挪前**
+八、强调宾语补语，把宾语补语挪前
 
 
-1. *Written**on the label* you have seen 110 volts. 你已经见到110伏特写在标
+1. *Writtenon the label* you have seen 110 volts. 你已经见到110伏特写在标
 
 
 签上了。
@@ -43792,7 +43439,7 @@ policy of openingwider to the outside world。国民经济迅速发展是和对�
 让宾语补语挪前。）
 
 
-**九、注意某些词或成分在句中的位置**
+九、注意某些词或成分在句中的位置
 
 
 Ⅰ. enough，conceivable，possible等词作定语时，其位置也有可能在所修
@@ -43928,7 +43575,7 @@ Copper wire allowsa large current* than does iron wire*.铜线比铁线能容
 许更大的电流通过。
 
 
-**十、在复合谓语中间或非谓语动词短语中间插人其它成分**
+十、在复合谓语中间或非谓语动词短语中间插人其它成分
 
 
 1. I*have never been* in my 1ife so kiodly *treated*. 我一生中从来没有受到如此
@@ -43983,7 +43630,7 @@ achievements intheir research work. 这些年青人，如果努力学习和工�
 bedroom. 我到那时才在卧室角落找到我丢失的表。
 
 
-**十一、定语、定语从句或同位语从句同中心词的分隔**
+十一、定语、定语从句或同位语从句同中心词的分隔
 
 
 Ⅰ. 定语同中心词的分隔：
@@ -44065,7 +43712,7 @@ A. 被分隔的中心词带有后置定语，而该定语由介词短语、分�
 2. Youremember that electric* charges*，positiveand negative，*whichare*
 
 
-*responsible**for electrical forces*，canwipe one another out and disappear. 
+*responsiblefor electrical forces*，canwipe one another out and disappear. 
 
 
 你还记得，担负电力的正负电荷是能够相互抵消和消失的。（形容词短语
@@ -44152,7 +43799,7 @@ technologyintensive economy？有什么强有力的证据可说明必须发展�
 密集型经济？（同上）
 
 
-**十二、非常语序和成分分割引起的难点综合判断**
+十二、非常语序和成分分割引起的难点综合判断
 
 
 1. Awareas we are of the significance of the four modernizations，shallwe
@@ -44265,7 +43912,7 @@ beginning是第一个定语从句内的表语。形容词短语moreacute than mi
 方法。）
 
 
-**数字或数量大小、数的增减、倍数和分数表示法**
+数字或数量大小、数的增减、倍数和分数表示法
 
 
 英语中数字大小、数的增减、倍数和分数表示法跟汉语差别较大，现归纳
@@ -44282,7 +43929,7 @@ beginning是第一个定语从句内的表语。形容词短语moreacute than mi
 为下列几种。
 
 
-**一、数字大小表示法**
+一、数字大小表示法
 
 
 Ⅰ. twenty（或ascore of）cordlessphones二十部无绳电话，twoscores of
@@ -44312,7 +43959,7 @@ below 50
 Today’s roomtemperature is below 20℃。今天室温低于20℃。
 
 
-They bave turnedout *almost*（或*closeupon*）***a thousand pieces of* multi-
+They bave turnedout *almost*（或*closeupon*）*a thousand pieces of* multi-
 
 
 mediacomputers。他们已生产了近千台多媒体计算机。
@@ -44488,7 +44135,7 @@ peoplc）成千上万个人，许许多多人，无数的人
 *within a factorof* ten在一个10的数量级范围内
 
 
-By 1973，theproduction of steel had reaehed 23 million tons，*a**more*
+By 1973，theproduction of steel had reaehed 23 million tons，*amore*
 
 
 496
@@ -44504,10 +44151,10 @@ By 1973，theproduction of steel had reaehed 23 million tons，*a**more*
 吨，比1949年增加140倍以上。（斜体字部分为同位语）
 
 
-**二、英语“大量…、许多…、相当多…、一大堆…、无数…、不少…、大多数**
+二、英语“大量…、许多…、相当多…、一大堆…、无数…、不少…、大多数
 
 
- …**、少量…、没多少**（**个）…等”短语汇总。注意举例中用可数、不可数名词问题**
+ …、少量…、没多少（个）…等”短语汇总。注意举例中用可数、不可数名词问题
 
 
 1. *alot of*…许多（人或房子等）；*lotsof*…好多（小孩或时间等）；*lotsand*
@@ -44582,7 +44229,7 @@ baskets等）；*agenerous quantity of* beer大量啤酒
 *world*）*of*novels大量（或很多很多）小说
 
 
-12. *avariety of goods*各种货物；*alarge*（或*great*）*variety**of* reasons种种
+12. *avariety of goods*各种货物；*alarge*（或*great*）*varietyof* reasons种种
 
 
 理由
@@ -44730,7 +44377,7 @@ work for* thebest part of a month*工作近一个月的时间；standfor* the*
 *a littlework*（或*while*）不少工作（或时间）；*quitea few days*不少天等
 
 
-**三、数的增减和倍数表示法**
+三、数的增减和倍数表示法
 
 
 Ⅰ. “……+数字（或倍数、不定数）+比较级+than+……”结构的用法。这
@@ -45189,7 +44836,7 @@ XV. 注意由一些数词组成的词组：
 九，我们将超额完成今年生产计划。
 
 
-**三、“基数词等****+****序数词”构成分数**
+三、“基数词等+序数词”构成分数
 
 
 1. *onethird*三分之一；*twothirds*三分之二；*one*（或*a*）*hundredth*(=*one*
@@ -45216,7 +44863,7 @@ XV. 注意由一些数词组成的词组：
 强为零点几毫米汞柱时，放电管的大致外形。
 
 
-**语法—逻辑判断—正确理解**
+语法—逻辑判断—正确理解
 
 
 懂得英语语法和句型固然重要，但切不可把它们看作一成不变的东西。有
@@ -45255,10 +44902,10 @@ XV. 注意由一些数词组成的词组：
 
 
 
-**一、固定搭配相同，由于上下文不同，句义可能发生变化；必须进行逻辑**
+一、固定搭配相同，由于上下文不同，句义可能发生变化；必须进行逻辑
 
 
-**判断，以求对原文语义有正确的理解和翻译**
+判断，以求对原文语义有正确的理解和翻译
 
 
 1. a. Heran into the office to find the cause of the trouble of the machine. 他
@@ -45336,7 +44983,7 @@ pans being used inan old-fashioned kitchen。假如今日的年轻妇女能够�
 未直接译出，但在译文中却含有此意。）
 
 
-**二、有时英语代词指代的内容也要靠逻辑判断来确定**
+二、有时英语代词指代的内容也要靠逻辑判断来确定
 
 
 1. a. Whenhis watch broke，*John*had to get someone to repair it. 约翰的表
@@ -45400,10 +45047,10 @@ your。）
 个症状。（句中*yourself*也是泛指. ）
 
 
-**三、有时关系代词****which****或介词短语等具体修饰或说明什么，还需要逻**
+三、有时关系代词which或介词短语等具体修饰或说明什么，还需要逻
 
 
-**辑判断**
+辑判断
 
 
 1. Theintegrated circuits have found immediate application in computers and
@@ -45494,10 +45141,10 @@ suction line *ofeach replenishment* pump. 在每台补给泵的排出管路中�
 line有关。anda strainer后省略了shallbe installed。这些都得靠逻辑判断。）
 
 
-**四、****where****，****when****，****while****等易混淆的语法功能及其含义也要靠逻辑判断**
+四、where，when，while等易混淆的语法功能及其含义也要靠逻辑判断
 
 
-**来确定**
+来确定
 
 
 1. Itis still a question at issue* where *we shall carry outresearch. 在何处进行
@@ -45597,7 +45244,7 @@ retire tosleep. 蝙蝠夏天的活动时间是黄昏到日出，日出后就休�
 否则难于进行逻辑判断. ）
 
 
-**五、关于动词用法上的逻辑判断**
+五、关于动词用法上的逻辑判断
 
 
 这里不涉及动词的固定搭配问题。这里讨论的是有关动词本身在用法上
@@ -45723,7 +45370,7 @@ his men to continuethe voyage. Havingagreed to turn back *if no land was*
 述这些分析只能靠逻辑判别来确定。）
 
 
-**六、有时是否并列关系，是否有什么省略成份，也要靠逻辑判断**
+六、有时是否并列关系，是否有什么省略成份，也要靠逻辑判断
 
 
 l. Wethink it is often possible to obtain a more pure precipitate by
@@ -45780,10 +45427,10 @@ metals。）
 分。必须用数学知识来验证译文，以免发生误差。）
 
 
-**七、新闻标题要求简练醒目，翻译时更需注意逻辑判断。参阅第****471****页第**
+七、新闻标题要求简练醒目，翻译时更需注意逻辑判断。参阅第471页第
 
 
-**十八项**
+十八项
 
 
 . 508. 
@@ -45793,19 +45440,19 @@ metals。）
 
 
 
-**八、报刊上的广告和手册之类的工具书中的注释性文字省略成分较多，**
+八、报刊上的广告和手册之类的工具书中的注释性文字省略成分较多，
 
 
- **阅读或翻译时也必须多加进行逻辑判別. 参阅第****472****页第十九项**
+ 阅读或翻译时也必须多加进行逻辑判別. 参阅第472页第十九项
 
 
-**九、遇到语序不正常的句子，不仅需要语法分析，更需逻辑判断，并根据**
+九、遇到语序不正常的句子，不仅需要语法分析，更需逻辑判断，并根据
 
 
- **逻辑判断来验证语法分析是否正确。参阅第****494****页例****3**
+ 逻辑判断来验证语法分析是否正确。参阅第494页例3
 
 
-**十****、遇到易混淆的句子，必须利用逻辑判断来领会原文**
+十、遇到易混淆的句子，必须利用逻辑判断来领会原文
 
 
 1. *Daysand nights *on the moon are very long. *Oneday* on the moon is as
@@ -45862,10 +45509,10 @@ thantrue. 当时那两个政府之间的友谊是表面的，而并非真诚的�
 apparent理解为“表面的”，才能和“真诚的”形成对比。）
 
 
-**十一、利用逻辑分析来判断译文是否准确，甚至可检验原文有否谬误或**
+十一、利用逻辑分析来判断译文是否准确，甚至可检验原文有否谬误或
 
 
-**排印错误**
+排印错误
 
 
 1. *Worldgovernments* should conduct serious campaigns against smoking. 世
@@ -45932,7 +45579,7 @@ healthwarnings译为“健康警告”。若稍对译文进行逻辑分析，这
 
 
 
-**图书在版编目**（**CIP**）**数据**
+图书在版编目（CIP）数据
 
 
 新编英语阅读手册／0十永吕主编. —上海：上海科学
