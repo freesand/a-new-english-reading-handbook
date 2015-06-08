@@ -1698,2655 +1698,8 @@ many atime，so（作“如此”讲，不作“因此”讲），here等副词
 
 
 
-all
 
 
-Apart及ApartFrom的用法
-
-
-一、副词apart作“分离”、“分开”、“相隔”讲
-
-
-1. Thetwo chain shops are 2 kilometers *apart*. 这两个连锁店相隔2公里。
-
-
-2. Galileoplaced two men about a mile *apart*. 伽里略安置两人相距约一英
-
-
-里。
-
-
-二、副词apart在常用词组内一般作“分开”或“把…放在一边”讲
-
-
-come*apart*（某物等）破碎或散架；fall*apart*（房屋等）倒塌，（公司等）破
-
-
-产，（军队、旧制度等）崩溃；keep…*apart*使…保持分开或泾谓分明；live*apart*
-
-
-分居，生活单过；pull…*apart*把（玩具等）拆开，把（报纸）撕碎，把（冰等）打
-
-
-破，把（这本书）批评得一无是处，把（房间等）弄乱；put…*apart*for…单放
-
-
-（这笔款子、某物等）供…用；set…*apart*for…单放（衣服、钱款等）供（或备）
-
-
-…用；take…*apart*拆卸（机器等）；彻底打败（敌人），严厉批评（某人）；tear
-
-
-…*apart*撕开（纸等），翻乱（房间等），使（某人）心烦意乱；te11…and…*apart*
-
-
-辨别（是非即rightand wrong）等。
-
-
-三、注意apartfrom…和有关动词搭配表示“与…分离或隔开”含义时用
-
-
-法举例
-
-
-1. standapan from…（这女孩）离（其他孩子）而站立，（图书馆）和（邮局）不在
-
-
-. 32. 
-
-
-
-
-
-
-一起，（他）脱离（群众即themasses）
-
-
-2. a. keep…apartfrom…（他）不让（他的妻子）参予（他的工作），（我）把（工
-
-
-作）和（娱乐即pleasure）分得一清二楚
-
-
-b. keepapart from…（她）不参加（任何会议），（他）脱离（群体即the
-
-
-group）
-
-
-3. 1iveapart from…（他）和（家里人即hisfamily）分开住
-
-
-四、apartfrom和besides，except，but等用法比较。（参阅下一个专题）
-
-
-ApartFrom和Besides，Except，But等用法比较
-
-
-apartfrom作“除…以外”讲，其用法基本上与besides相同。在肯定句中
-
-
-apartfrom…表示“包括在内的”意思；在否定句中，它的用法与except相同，
-
-
- 表示“例外”的含义，因此仍可用besides来替换。例如：
-
-
-1. Wehave one hour to rest after lunch *apart* *foom* ourordinary work。除了
-
-
-日常工作，我们午饭后休息一小时。（肯定句中*apartfrom*可用*besides*，*in*
-
-
-*additionto*或〈美〉asidefrom代替。）
-
-
-2. *Apartfrom* a pager the manager gave me many compact discs. 除了寻呼
-
-
-机，经理还给了我许多光盘。（同上）
-
-
-3. Ididn’t buy anything *apart form* a portable phone. 除了手机（或移动电
-
-
-话）以外，我什么都没有买。（在否定句中可用besides，except或but代替
-
-
-*apart from*。）
-
-
-4. Thereis nothing *apart from* a digital hi-definition colour TV set onthe
-
-
-desk. 桌子上只有一台数字高清晰度彩电。（意译。替换词与第3句相同。）
-
-
-As的主要用法和判别
-
-
-英语里的as是一个比较常见、用法繁多的词。它和其它词的搭配关系也
-
-
- 很广泛。现归纳为以下几种作用。至于它的特殊用法，即在各种固定词组里的
-
-
- 用法，我们打算在下一个专题讨论（见第48～59页）。
-
-
-一、as用作关系代词，引出定语从句
-
-
-I. such…as像……这（那）样的，像……之类的。as和such连用，such在
-
-
- 下列句子里作定语用，说明主句里的某个名词。*as*所引导的定语从句修饰前
-
-
- 面的名词，而*as*本身在从句里，可能是主语、宾语或表语。
-
-
-. 33. 
-
-
-
-
-
-
-1. WeWill give you *such* data as will help you in your work. 我们要提供给你
-
-
-们那种对你们工作有帮助的资料。（as作从句里的主语。）
-
-
-2. Heis not* such *a man *as* would leave his work halfdone. 他并不是一个做事
-
-
-半途而废的那种人。（as作从句里的主语，halfdone作宾语补语。）
-
-
-3. Ihope to get *such* a tool as he repaired this instrumentwith. 我希望能够得
-
-
-到一个像他用来修理这个仪器的那类工具。（as作*with*的宾语，这个介词
-
-
-短语作状语。）
-
-
-II. thesame…as和……同样的
-
-
-1. Thisis* the same* tool as I used yesterday. 这和我昨天所使用的工具是相同
-
-
-的。（as作从句的宾语）
-
-
-2. I should like to use *the same* instrument*as* is used in your workshop. 我想
-
-
-用你们车间里所用的同样的仪器。（*as*作从句的主语。）
-
-
-3. Heis not *the same* man *as* he was。他和过去不同了。（as作从句的表语。）
-
-
-4. Mo1ecular weights are expressed in *the same*units *as* atomic weights. 分子
-
-
-量以原子量所用的相同单位表示之。（as作关系副词，定语从句内省略了
-
-
-与主句相同的谓语areexpressed。）
-
-
-5. Ifoneobiectischargedwith *the same* kind of electricity asappears on
-
-
-another nearby，thetwo objects will repel each othcr. 如果一个物体带有
-
-
-与它邻近的物体上所出现的同种类的电荷，这两个物体会相互排斥。（as
-
-
-作从句的主语。）
-
-
-6. Thisis *the same* instrument *as* we stand in needof. 这正是我们迫切需要的
-
-
-那种仪表。（as作介词of的宾语。）
-
-
-7. TheChinese people are not *the same* *as* they were before. 中国人民跟以前
-
-
-不同了。
-
-
-8. Radiowaves travel at *the same* speed *as* light in empty spaceor in air. 在空
-
-
-洞洞的宇宙和空气申，无线电波的传播速度和光速相同。
-
-
-9. Theydo* the same* job as we do. 他们干的是和我们相同的工作。
-
-
-10. Heatradiation is of *the same* nature as light，X-raysand radio waves. 热辐
-
-
-射就其性质而言，是和光、X光及无线电波相同的。
-
-
-注：注意“…sameas”有时发展到接近于*justas*引出方式状语从句的用法。例
-
-
-如：Shehas put her energy into 1iterature—*sameas *you have put yours
-
-
-intocomputers. 正如你把全部精力投入计算机那样，她也把全部精力投
-
-
-入到文学了。
-
-
-III. asmany…as，asmuch…as（分别用于可数和不可数名词）如…一般
-
-
-多；如此之多；凡…的…都
-
-
-. 34. 
-
-
-
-
-
-
-1. *Asmany* instruments *as* are in the laboratory have been mademost use of. 
-
-
-实验室里那么多的仪器都已充分利用了。（as作从句的主语）
-
-
-2. Thereare *as many* books *as* are needed. 凡是需要的书都有了。（as作从句
-
-
-的主语）
-
-
-3. Hehas *as many* books on information technology *as* I have. 他拥有的信息
-
-
-技术书和我拥有的同样多。（as在从句中作宾语）
-
-
-4. Hereis a jar of distilled water. Youmay use as *much* as you need. 这里有
-
-
-一大瓶蒸馏水，你需要多少就可以用多少。（as在从句中作宾语）
-
-
-5. Thesegenerators supply only half *as much* energy *as*required。这些发电机
-
-
-只供应所需能量的一半。（第二个as在从句中作主语，其后省略了is。）
-
-
-下句中可把as（指第二个as）理解为引出相比较的具体内容：
-
-
-He is a man to whomwork means *as much as* life. 他是一个把工作看
-
-
-作和生命一样重要的人。(towhom…也为定语从句。)
-
-
-6. *Asmuch as* half a foot of snow has fallen in Tianjin. 天津已下了半英尺厚
-
-
-的雪。
-
-
-7. Atthis weather analysis center，*asmany as* 35 different charts were
-
-
-constructed for agiven time。当时在这个气象分析中心要为同一个规定
-
-
-的时间绘制多达35种不同的图表。
-
-
-Ⅳ. 关系代词as代替整个主句，并在从句中作主语、宾语、表语之用。as引
-
-
-出的从句为非限制性定语从句。
-
-
-1. *As*(*is*)*announcedin today*’*s papers*，theyhave succeeded in solving many
-
-
-problems inaccordance with the new theory. 据今天报纸发表，他们已根
-
-
-据新的理论成功地解决了许多问题。（as在从句中作主语。）
-
-
-2. *Asis ofter the case*，wehave overfulfilled the production plan. 像往常情况
-
-
-一样，我们又超额完成了生产计划。(as在从句中作主语。)
-
-
-3. *Aswe know*，materialsexpand and contract with the increase and decrease
-
-
-oftemperature. 我们都知道，材料随温度升降而胀缩。(as在从句中作宾
-
-
-语。）
-
-
-4. Thismachine，*asmight be expected*，hasstopped operating。正如所料，这
-
-
-台机器已停止运转. (as在从句中作主语。)
-
-
-5. Sherises early and takes a walk every morning，*asis usual with her*. 她每
-
-
-天早晨早起散步，这对她已习以为常了。（同上，但*as*表示整个主句意思。）
-
-
-6. *Asis very natural*，mancan’t live without air and water. 人没有空气和水
-
-
-就不能生存，这是当然之事。（全部同上。）
-
-
-7. Thesize of the audience，*aswe had expected*，waswell over one thousand. 
-
-
-. 35. 
-
-
-
-
-
-
-听众人数，正不出我们预料，大大超过一千人。（as代表主句意思，在从句
-
-
-中作宾语。）
-
-
-8. Ifhe comes late，*asis usual*，foranother time，we’llnot receive him. 如果
-
-
-他再次像往常那样迟到，我们就不予以接待。（*as*表示条件从句内的he
-
-
-comes late。）
-
-
-9. Arethese two totally different things, having no interconnection，*asis*
-
-
-*ofterimplied*？这些是否是通常所指的没有内在联系的两个完全不同的东
-
-
-西？（as在从句中作主语。现在分词短语havingno interconnection作非限
-
-
-制性定语，说明前面的things。）
-
-
-代替整个主句的关系代词as，常见于下列从句：
-
-
-1. *as*has been said before如上所述
-
-
-2. *as*may be imagined如可想像出来的那样
-
-
-3. *as*is well known众所周知
-
-
-4. *as*we all can see正如我们大家都能看到的那样
-
-
-5. *as*often happens正如经常发生的那样
-
-
-6. *as*will be shown in Fig. 5将如图5所示
-
-
-7. *as*has been explained in the preceding paragraph如在上段里已解释了的那
-
-
-样
-
-
-8. *ashas* *been already* *pointed out*正如已指出的那样
-
-
- 注：上述句子按语法分析为非限制性定语从句，但翻译时一般可译为“如…”、
-
-
-“像…”、“正如…”等. 
-
-
-Ⅴ. as有时代替主句里的表语意思，并在从句中作表语
-
-
-1. Internetaccess is very simple，*as*indeed it is. 网上访问很简单，它实际上
-
-
-的确是这样. (*as*代替simple。)
-
-
-2. Gasolineis combustible, *as* are all of the liquids listed in thefollowing
-
-
-section. 汽油是易燃的，下一节里所列举的那些液体也都是易燃。(as代
-
-
-替combustible。)
-
-
-3. Heis a braye man，*as*are all other members of his family. 像他家庭其他成
-
-
-员一样，他也很勇敢。
-
-
-4. Anatom is not a solid spherical particle，asit was once thought to be. 原
-
-
-子并不像人们曾经认为的那样是刚性球粒。(as代替asolid spherical
-
-
-particle，在从句中作tobe后的表语，并和tobe一起作主语补语。）
-
-
-5. Dr. Ouyangis a large-hearted man，*as*the large-minded men are apt to be. 
-
-
-欧阳博士是个慷慨的人，而心胸开阔的人往往都是这样。
-
-
-6. Shethinks my answer incorrect，*as*it probably is. 她认为我的答案不对，
-
-
-。 36. 
-
-
-
-
-也许我的答案就是不对。(as相当于incorrect。)
-
-
-7. Nowmany young people wish to be scientists，*as*it is quite possible for
-
-
-them to be oncondition that they work hard. 目前许多青年都想当科学
-
-
-家。只要他们刻苦努力，这大有可能如愿以偿的。
-
-
-二、as作关系副词，引出定语从句
-
-
-1. Heanswered with the same simplicity *as *he asked. 他回答和提问，都是同
-
-
-样的直率简洁。
-
-
-2. Werepaired the air conditioner(in)the same way* as* he did. 我们采取和他
-
-
-同样的方法去修理那台空调器。
-
-
-3. Wego the same way *as* they do. 我们和他们走同样一条路。
-
-
-4. A magneticfieldmayberepresentedinthesamemanner *as*anelectric
-
-
-field. 磁场可采用和电场同样的办法表示出来。(定语从句内谓语省略。）
-
-
-以上例句里的withthe same simplictity，thesame way，inthe same
-
-
- manner等词组在主句里都是状语，而*as*所代替的也就是这些词组，所以*as*是
-
-
-关系副词。
-
-
-三、suchas，assuch和asthat的用法
-
-
-I. “名词，+suchas…”这里suchas是复合连接词，引出同位语，以对前
-
-
-面的名词起列举作用。可译为“例如”。
-
-
-1. Thereare different forms of energy，*suchas* heat energy，soundenergy，
-
-
-electric energy，andchemical energy. 有各种不同的能，例如热能、声能、电
-
-
-能和化学能。
-
-
-2. Softmaterials，*suchas* cloth, do not carry sounds so well as wood. iron
-
-
-and othersolids. 像布那样柔软的材料，不如木材、铁和其它固体东西传导
-
-
-声音那样好。
-
-
-II. “…suchas”这里such是代词，作“这样的人、事、物”讲，as是关系代词，
-
-
-引出定语从句。
-
-
-1. Thisbook is not* such as* I expect. 这不是一本像我所希望的书。（such是代
-
-
-词作表语用，是as的先行词。）
-
-
-比较：Thisis not *such* a book *as* I expect. (句义同上，但such作定语用。)
-
-
-2. Iwill explain this phenomenon to *such as* would like to knowit. 我要对那
-
-
-些愿意了解这种现象的人解释。(such是代词，作“这样的人”讲。)
-
-
-上句中to*such*表示“给这样的人”，作状语，但表示间接宾语的含义，而as
-
-
- 引出的定语从句说明*such*。*as*是从句主语。
-
-
-. 37. 
-
-
-
-
-
-
-
-3. Thenew type of space shuttle was made last week，*suchas* none of us had
-
-
-seenbefore. 这种新型的航天飞机上周制成，像这样的飞机过去我们中间
-
-
-谁也没有见过。
-
-
-III. assuch作“像这样的人、事、物”、“作为这样的人、事、物”、“以……资
-
-
-格、名义、身份“、“因而”讲。
-
-
-1. Weagree to the plan *as such*. 我们同意像这样的计划。
-
-
-2. Heis an old worker，andis respected *as such*. 他是一位老工人，因而受到
-
-
-尊敬。（或译为：受到老工人应该受到的尊敬。）
-
-
-四、用连词as等引出状语从句
-
-
-Ⅰ. 时间状语从句连词as 正当…的时候，随着…
-
-
-1. Hecame up *as I was speaking*. 我正在说话的时候，他来了。
-
-
-2. *Asthe piston moves down*，thepressure in the cylinder decreases. 当活塞
-
-
-下移时，汽缸里的压力减小。
-
-
-3. Wecannot see sound waves *as* *they trauel* *throughair*. 声波在空气申传播
-
-
-时，我们是看不见的。
-
-
-4. *As*a little girl she began to operate a computer. 她还是个小女孩时就开始
-
-
-操作计算机。(As后省略了shewas。)
-
-
-5. Thevolume varies as the temperature rises. 体积随温度升高而变。
-
-
-注1：由*aslong as*或*aslong as*引出的时间状语从句可参阅第52，53页，而由
-
-
-as soonas引出的时间状语从句可参阅第54，55页。
-
-
-注2：还可用asand when表示“当…时”，主要用来指一件不肯定的将来的事
-
-
-或一个行动。例如：Theywill decide on their team as and when they
-
-
-qualify for thecompetition. 当他们有资格参加比赛时将决定其球队的
-
-
-组成。
-
-
-II. 原因状语从句连词as或inasmuchas由于，因为
-
-
-1. *Asthis problem is of great interest*，wewill discuss it once again. 因为这个
-
-
-问题很有意义，所以我们再讨论一次。
-
-
-2. *Asthey had forgotten your address*, they did not know how to get intouch
-
-
-withyou. 由于忘记了你的地址，他们（当时）不知如何跟你取得联系. 
-
-
-3. *Inasmuchas it is raining hard*，Iwon’t go for a walk. 由于正下大雨，我就
-
-
-不去散步了。
-
-
-III. 让步状语从句连词as虽然，尽管，无论
-
-
-1. *Busyas he is*，hestudies English very hard. 尽管他忙，他还是努力学习英
-
-
-语。
-
-
-. 38. 
-
-
-
-
-
-
-2. *Smallas atoms are，*electronsare still（或even）smaller. 原子虽然很小，但
-
-
-电子更小。
-
-
-3. *Muchas I should like to see you*, I am afraid you could not have anyfree
-
-
-time. 虽然我特别愿意看见你，但恐怕你不可能有空余时间。
-
-
-4. *Childas he is* , he knows something of electricity。他虽然还是个小孩，但他
-
-
-懂得一些电学知识。（注意在本句型中，作表语用的可数名词单数前不能
-
-
-加冠词a。）
-
-
-5. *Tryas you may*，youwill not succeed. 虽然你可以试试，但不会成功。
-
-
-6. *Studyas he may*，hewon’t get good marks，becausehis method of 
-
-
-studying is notscientific. 虽然可以学习，但他得不了好分数，因为他的学
-
-
-习方法不科学。
-
-
-这种让步状语从句的特点：把从句里的表语（第一、二、四句）、状语（第三
-
-
-句中的mueh）或实义动词（第六句中的*study*）提前，紧跟着就是as，然后再跟
-
-
-随其它成分。
-
-
-必须注意，本句型偶尔可用于表示原因状语从句。只能根据上下文来判
-
-
- 别。如果主句和从句之间在意义上有转折，则从句为让步状语从句；如果主句
-
-
- 和从句有因果关系，则从句为原因状语从句。例如：
-
-
-7. a. *Oldas he is*, he dares the dangers of icy north。虽然他老了，但仍敢于
-
-
-冒北方冰寒的危险。
-
-
-b. *Oldas he is,* he has to go to bed early. 因为他老了，他不得不早去睡
-
-
-觉。
-
-
-Ⅳ. 比较状语从句
-
-
-A. 一般比较（从句内常省略与主语相同的成分）
-
-
-(a)as…as 和……一样（或同样）的…[注意：这里第一个as是副词，
-
-
- 作“一样”讲；第二个as是连词，作“如同”、“像”讲。]
-
-
-1. Thisline is as long as that one(is). 这条线和那条线同样长。
-
-
-本句也可写成：Thisline is* no* *less long than* that one. 但是注意aslong as
-
-
-还可用于条件状语从句。
-
-
-2. Dyingis* as* natural *as* living. 死和生一样，都是自然现象。（意译）
-
-
-3. Heworks* as* hard *a*s we. 他工作和我们同样努力。
-
-
-4. WheelA revolves *as* fast *as* wheel B. A轮和B轮旋转得同样快。
-
-
-5. Thisis just *as* important an experiment *as* that. 这个实验和那个实验正好
-
-
-同样重要。
-
-
-6. Thespeed 0f sound in water is about four times *as* great *as*in air. 声音在水
-
-
-中的速度比在空气中大三倍左右。（直译：……速度是在空气中的四倍左右。）
-
-
-。 39. 
-
-
-
-
-
-
-7. Thetemperature in the tower is *as* high *as* 500℃. 塔内温度高达500℃。
-
-
-8. Theart of paper-making was dosovered* as* early *as* 1800years ago. 远在一
-
-
-千八百年前就发明了造纸法。
-
-
-9. Heis *as* diligent *as* (he is)honest. 他又诚实又勤奋。
-
-
-10. Thegarden is *as* still *as* still(can bc). 这座花园再寂静不过了。
-
-
-11. Heranswer is *as* plain *as* plain can be. 她的答复再明白也没有了。
-
-
-12. Einsteinwas as great a scientist *as* any（或anybody）(else). 爱因斯坦是一
-
-
-位少有的伟大科学家
-
-
-(b)not so as 不如（或没有）……那样……
-
-
-1. LineAB is *not so* long *as* 1ine CD. AB线不如CD线（那样）长。
-
-
-2. WheelA does *not* revolve *so* fast *as* wheelB. A轮没有B轮旋转那样快。
-
-
-3. Manuses some non-metals *not* *so* widely *as*metals. 人类使用某些非金属，
-
-
-不如金属那样广泛。
-
-
-4. *Nothingis so* precious *as* time. 时间最可贵。（原意为：没有东西象时间那
-
-
-样可贵了。）
-
-
-5. Thework did *not go so* smoothly *as* we hoped. 工作进行得没有我们希望的
-
-
-那样顺利。
-
-
-6. None*of* the pure metals is *so* valuable to the industry *as*the alloys. 对工业
-
-
-来说，没有一个纯金属像合金那样有价值。
-
-
-(c)not as…as 和……不一样…（强调两者间的不同）
-
-
-1. LineAB is *not as *long *as* line CD，buta little longer（或shorter）. AB线和
-
-
-CD线的长度不一样，AB线比较长一些（或短一些）。
-
-
-2. WheelA does *not* revolve* as* fast *as* wheel B，butmuch faster. A轮和B轮
-
-
-的旋转速度不同，而A轮的旋转快得多。
-
-
-注：上述两句中若没有接上“but…”，则notas…as通常和notso…as同义，都
-
-
-表示“前者不如后者…”含义。
-
-
-B. 比拟
-
-
-“as…+as+所比拟的事物”的含义为“如…一样”
-
-
-1. Itis* as* white *as* snow. 其白如雪。
-
-
-2. *as*quick *as* lightning速如闪电
-
-
-3. *as*light *as* afeather轻如鸿毛
-
-
-4. ashot as fire热如火
-
-
-Ⅴ. as，justas，muchas和asif（或asthough）引出行为方式状语从句或
-
-
-表语从句。
-
-
-. 40。
-
-
-
-
-
-
-A. as按照……样子、方式、办法……
-
-
-1. Wemust do *as* the doctor tells us. 我们必须按照医生嘱咐去做。
-
-
-2. Youmust try to hold the tool *as* I do. 你必须试着像我这样握住这个工
-
-
-具。
-
-
-3. Leavethe things *as* they are. 让那些东西保持原状。（或：别动那些东西。）
-
-
-4. Theresult of this experiment is good enough *as* it is. 照现在这样，这个实
-
-
-验的结果够不错了。
-
-
-5. Everythinghappened* as* (had been)expected. 每件事情都按照所预料的发
-
-
-生了。
-
-
-6. Theletter readsd *as* (what)follows. 那封信的原文如下。
-
-
-上述最后两句里as后的省略成分，在一般情况下，不必把它们加进去。
-
-
-7. Heatdoes not travel by convection in a so1id，becausethe solid does not
-
-
-move as does aliquid. 热量在固体内不能靠对流传递，因为固体不能像液
-
-
-体那样流动。（注意as引出的行为方式状语从句内有时可能有主、谓语颠
-
-
-倒现象. 本句末的does为代动词。）
-
-
-B. 用as…，(so)…；…as…；…justas…；justas…，so…表示出带有方式
-
-
- 状语从句的主从复合句。这里副词so的含义相当于inthe same proportion
-
-
-（按相同的比例或程度），inlike manner（同样地），inthe same way（以相同的
-
-
- 方式或方法）。连词as作“如同“、”像”讲。as前使用just是为了加强语气。有
-
-
-时主句中主语、谓语可能颠倒。例如：
-
-
-l. *As*two is to three, *so* is four to six. 四比六等于二比三。
-
-
-2. Airis to man *as* water is to fish. 空气对于人，如同水对于鱼。
-
-
-3. Mostplants need sunlight *just as* they need water. 大多数植物正像需要水
-
-
-那样需要阳光。
-
-
-4. *Justas* water is the most important of liquids，*so*air is the most important
-
-
-ofgases. 空气是气体中最重要的一种，正像水是液体中最重要的一种那
-
-
-样。
-
-
-5. *As*you treat me，soI shall treat you. 你怎样对待我，我也将怎样对待
-
-
-你。
-
-
-6. *As*is the teacher，sois the pupil. 有什么样的老师，就有什么样的学生。
-
-
-（或意译为：有其师必有其徒。）
-
-
- 注：注意由as引出的方式从句内有时省略主语。
-
-
-1）Do*as*(it)seems best. 按看起来是最好的方式办事。
-
-
-2）Youmust do so much *as*(it)is required of you. 你必须做要求你做的
-
-
-那么多的事。
-
-
-C. 用muchas引出从句，表示“和…几乎一样”的比拟意味。例如：
-
-
-We are dealing withsomething that flows along a conductor，*muchas*
-
-
-water flows through apipe. 我们正在研究沿着导体流动的一种东西，这种情
-
-
- 况和水通过管道的流动几乎一样。（联系第42页例3，4及末段说明。）
-
-
-D. asif和asthough好像…似的（从句一般用虚拟语气）[参阅第458，
-
-
-459页]
-
-
-1. Heatcan flow from a hot body to a cooler body *as if* it were afluid. 热好
-
-
-像流体一样，能够从一个热的物体传到一个较冷的物体。
-
-
-2. Manhas to look after his rivers *as if* they were blood vessel in ahuman
-
-
-body. 人类必须照管好江河，好像它们是人体内的血管。
-
-
-3. Sheworks hard *as* she never knew fatigue. 她努力工作，仿佛她从来不知道
-
-
-疲倦那样。
-
-
-注1：asif比asthough更为常用。注意现在也有人在asif后用陈述语气，因
-
-
-为asif本身的语义已体现出后面的内容含有虚拟语气。例如：
-
-
-It looks *as if*our team* is* “(或*were*)goingto win. 看来我们队要赢。
-
-
-注2：asif后还可直接跟不定式。例如：Sheopened her lips *as if to say*
-
-
-*something*. 她张开嘴，好像要说些什么。
-
-
-注3：注意asif或asthough有时引出的从句省略了与主句相同的主语及其
-
-
-相应的be的变化形式。例如：Hereached out his hand *as though*(he
-
-
-was）tryingto shake John by the hand. 他伸出乎似乎想和约翰握手。
-
-
-五、用as引出宾语补语、主语补语
-
-
-I. as引出宾语补语的常用短语
-
-
-1. Weregard the sun *as* *the chief source of heat andlight*. 我们把太阳看成
-
-
-是主要的热源和光源。
-
-
-2. Weconsider radio waves *as radiant energy*. 我们认为无线电波是辐射能。
-
-
-在科技文章里，常见的有下列一些“动词（或短语动词）+名词（或代词）+
-
-
-as+宾语补语”这样的结构：
-
-
-to accept…*as* 把……承认为，承认……是
-
-
-to define…*as* 把……解释为，对……下的定义是
-
-
-to consider…*as* 把……认为是
-
-
-to refer to…*as* 把……指为（叫做）
-
-
-to think of…*as* 把……看作
-
-
-to treat…*as* 把……当做；以……来对待……
-
-
-to describe…*as* 把……描述成
-
-
-。 42. 
-
-
-
-
-
-to regard…*as*把……看成
-
-
-II. as引出的宾语补语有如下几种表示形式
-
-
-A. *as*+名词
-
-
-Weusually define energy *as the ability to do work*. 我们通常下定义说，能
-
-
-能作功的本领。
-
-
-B. *as*+形容词
-
-
-1. Weoften regard gas *as compressible*. 我们经常把气体看成是可压缩的。
-
-
-2. Weaccept the conclusion *as true*. 我们承认这个结论是真实的。
-
-
-C. *as*+介词短语
-
-
-Weregard that conclusion *as of consequence*. 我们把这个结论看成是具
-
-
-有意义的。
-
-
-D. *as*+分词或分词短语
-
-
-1. Weconsider the wire *as disconnected*. 我们认为这条线没有接好。
-
-
-2. Weconsider this machine *as representing the best one in ourplant*. 我们把
-
-
-这台机器认为是我们工厂里最好的一台。（或：……认为是代表我们工厂
-
-
-里最好的一台。）
-
-
-E. 下列各句里as也引出宾语补语
-
-
-1. Theuse of silverd *as a conductor* is limited because of its cost. 由于成本高，
-
-
-银作导体用是受到限制的。（asa conductor作silver的补语，可联系动词的
-
-
-搭配用法：touse silver *as a conductor*. 这里*asa conductor*作宾补。）
-
-
-2. Imake it *as a rule* to go to our workshop before 6∶00every morning. 我
-
-
-总是每天早上六点前到车间去。(it为形式宾语，后面的不定式为真正宾
-
-
-语。直译：我每天早上六点前去车间，这件事我已视为惯例。）
-
-
-III. As引同主语补语
-
-
-上一节里的大部分句子都能变为被动态句子：
-
-
-1. 主动句：Weregard the sun *as the chidf source of heat and light*. 
-
-
-被动句：Thesun is regarded *as the chief source of heat and light*(*byus*). 
-
-
-太阳被认为是主要的热源和光源。
-
-
- 2. 主动句：Wecannot consider this suggestion *as established*. 
-
-
-被动句：Thissuggestion cannot be considered *as established*. 这个提议不
-
-
-能（被）认为已成立了。
-
-
-在主动句里，as所引出的补语说明作宾语的thesun和thissuggestion，
-
-
-所以叫做宾语补语。在被动句中，as引出的补语变为说明作主语的thesun和
-
-
-thissuggestion，所以叫做主语补语. 如果扩大主语补语概念，从对主语补足这
-
-
-个广义来看，则下列各句内的as所引出的成分也可视为主语补语：
-
-
-. 43. 
-
-
-
-
-
-
-1. *Asmembers of the environment protection committee* we must set upgood
-
-
-examplc. 作为环保委员会成员，我们必须树立好榜样. （从意义上也可理
-
-
-解为原因状语。）
-
-
-2. Metallurgy*as an applied science* treats of the deriving of metals andtheir
-
-
-specialproperties. 冶金学作为一门应用科学，是研究金属的提炼方法及其
-
-
-特性的。（从意义上也可理解为同位语。）
-
-
-3. Howcan this be described merely as lacking of experience?这怎么能说成
-
-
-只是缺乏经验呢?
-
-
-4. Weproduce a lot of H<SUB>2</SUB>SO<SUB>4</SUB>，HCland HNO<SUB>3</SUB> which are known *as*“*thethree*
-
-
-*main strong*acids”inj”dustry. 我们生产大量硫酸、盐酸和硝酸，它们通
-
-
-称为工业中“三大强酸”。（省略*whichare*，则*knownas*…作后置定语。）
-
-
-Ⅳ. 由as引出另一种形式的主语补语
-
-
-1. Ihave come here *as a manager*. 我以经理的身份来到这里。
-
-
-2. Manypetroleum products serve *as raw materials for the chemical*
-
-
-*industries*. 许多石油产品用作各化学工业的原料。
-
-
-3. Whencoal burns，partof it is lef *as ash*. 煤在燃烧时，它的一部分作为灰
-
-
-烬留了下来。
-
-
-六、用as引出表语或表语从句
-
-
-1. Thesociety is *as a stage*. 社会好比是个舞台。
-
-
-2. Itmay be *as it you say*. 这也许是你说的那样。
-
-
-3. Theanswer is *as it should be*. 答案本应如此。
-
-
-4. Thingsare not always *as they seem to be*. 事情并不总是像表面上看来的那
-
-
-样。
-
-
-5. Theroom loks just *as it did* when her 1ate husband worked in it. 这房间
-
-
-还是她的已故丈夫在那儿办公时的那个样子。
-
-
-七、用as引出同位语
-
-
-1. Derekto1d us about his experiences *as a young man*. 德立克告诉了我们有
-
-
-关他年轻时的一些经历。
-
-
-2. Metals possessmanyspeeialproperties,* as* (或 *such as*)*ductiliey*，
-
-
-*fusibility andmalleability*. 金属具有许多特有的性能，如延展性、可熔性
-
-
-和可锻性。
-
-
-3. *Asan insulator*，oilis better than air.作为一种绝缘体来说，油比空气好。
-
-
-4. Sidneyis their team leader，and*as such* has to sign this paper. 锡德尼是他
-
-
-. 44. 
-
-
-们的队长，而作为队长他就得在这文件上签字。
-
-
-八、用as引出插入句
-
-
-as作“如同……那样，正如……那样”解，也可引出一个附带说明的句子，
-
-
- 表示说话人说出这句话的根据，或对这句话的态度，或作出某种解释或评论，
-
-
-这种成分叫做插入句，它一般必须用逗号隔开。
-
-
-1. Thedifference，*asI see it* ,is one of method and not of principle. 照我看
-
-
-来，这是一个方法上，而不是原则上的分歧。（one代替difference。）
-
-
-2. *Asit is*，wecannot go there. 就目前情况而言，我们不能去那儿。
-
-
-3. Thisold machine must be, *as it appears to me*，replacedby a computer-
-
-
-controlledmachine. 依我看来，这台旧机器必须换成一台由计算机控制的
-
-
-机器。
-
-
-4. Theproducts of the chemical industry make a major contribution to
-
-
-present-daystandards of living，andlife, *as we know it today*，wouldbe
-
-
-impossible withoutthose products. 化学工业产品对今日生活水平作出重
-
-
-要贡献，并且正如我们目前所知道那样，要是没有这些产品，我们的生活
-
-
-就不可思议。
-
-
-还有一种插入句形式的定语从句所表示的意思与上述例句很相似。参阅
-
-
-第35页Ⅳ。
-
-
-九、as的其它用法
-
-
-I. 在下列句子里as所引出的从句，从句子结构来看是方式状语从句，作
-
-
- “像……那样的”讲，从意义来讲，是定语从句。因此，能领会其用法就行。
-
-
-1. Copperas it *comes from ordinary smelting works *contains many
-
-
-impurities. 从普通熔炼厂出来的那样的铜，含有许多杂质。
-
-
-2. Hewrote about China *as it was* *thirty years *ago. 他曾写过三十年前的中
-
-
-国。
-
-
-II. 下列句子里的“as+过去分词或过去分词短语”可用作定语（联系下文
-
-
-第48页l（B））：
-
-
-See the answers *asgiuen at the end of this book*. 请参阅本书末所给出的
-
-
-那些答案。
-
-
- 注l：as的基本含义是“像……那样的”。asgiven之类的定语，表示说话人对
-
-
-他所讲的话通过这样方式来加以解释，对此提出他的看法，或举例以证
-
-
-实他的观点。如果是平铺直叙的定语，还可以把as取消。如：Seethe
-
-
-answers given atthe end of this book. 
-
-
-. 45. 
-
-
-
-
-
-
-
-注2：对于theanswers *as given*…，也可以改为：theanswers *as they are given*
-
-
-…。现在再举两个相类似的短语：
-
-
-1）theelements *as* (*they are*)*pointed out below* 如下面所指出的那些
-
-
-元素
-
-
-2）theinstruments as (*they are*)*listed below*如下面所列举的那些仪器
-
-
-III. asmany（用于可数名词）（与……）同样的，（与……）数相同的；asmuch
-
-
-（用于不可数名词）（与……）同量的；同样地
-
-
-1. Thereare sixty tools in that workshop；andthere are *as many* in ours. 那
-
-
-个车间有六十件工具；我们车间里也有同数量的工具（或也有六十件）。
-
-
-2. Hedid it in three hours，butit took me *as many days*. 这件工作他用三小
-
-
-时做完，可是却花了我三天（才把那件工作做完）。
-
-
-3. Fixfifty hooks to *as many ropes*. 在这五十个钩子上，每一个都系上一条绳
-
-
-子。（意译）
-
-
-4. Thiscar can run sixty miles in *as many* minutes. 这辆汽车在六十分钟里
-
-
-（或每小时）能跑六十英里。
-
-
-5. Ithink *as much*. 我也这样想. （或译：我想到的也是这些。）
-
-
-十、as用法的判别
-
-
-I. 注意as和其前后的有关词（如so，such，same，many，much等）的内
-
-
- 在联系。现以其中as和such的搭配为例，来说明内在联系的变化。
-
-
-1. X-rayscan penetrate through many materials，*suchas* wood，clothand thin
-
-
-sheets ofaluminium. X射线能够穿透许多材料，例如木材、布和薄铝板等。
-
-
-2. Theprogrammed robot is *such as* I have never seen before. 这样的程控机
-
-
-器人我从未见过。（意译）
-
-
-3. *Such*materials* as*（are）copperand silver are called good conductors. 像铜
-
-
-和银那样的材料称之为良导体。
-
-
-4. Thisis a new type of precision instrument，and*as such* it is quite widely
-
-
-used. 这是一种新型的精密仪器，因而十分广泛地（被）使用。
-
-
-上面四句都用了as和such两词，但它们在各句中排列组合和前后的相
-
-
-互联系不全然相同，意义就不同。第l、2句中都用了suchas，但第l句中，such
-
-
-as前有一个逗号，逗号前是复数名词，这时suchas后所列举的东西是前面
-
-
-materials的同位语。第2句的suchas前没有逗号，such在该句中只能作表语
-
-
-用，其后面的as又只能是such的关系代词，引出定语从句。这时such就只能
-
-
-作“这样的人、事、物”解。
-
-
-第3句中的as前有个指示词such，由于such是定语，后面与之呼应的as
-
-
-. 46. 
-
-
-
-
-
-
- 从句必然是进一步说明前面的such的，故从句也是定语从句。判别时抓住as
-
-
- 前面有没有这个指示词such即可，但与第2句的差别在于第2句中的such
-
-
- 单独作代词用，作“这样的人、事、物”讲，而第3句中的such是形容词。只作
-
-
- “这样的”讲。故后面必有such所修饰的名词materials。
-
-
-第4句和前三句不同点是用了assuch，而不是suchas。词序变了，意思就
-
-
-变了。第4句表面上把assuch译为“因而”，这是翻译技巧问题。实际上该句
-
-
- 原意仍是：“这是一种新型的精密仪器，像这样的仪器它是十分广泛地被使用
-
-
-的。”
-
-
-根据上述，我们认为必须注意那些常用的一套一套的“排列组合”。
-
-
-II. 根据上下文来判断as的语法功用。
-
-
-单个as引出的从句有：时间从句、原因从句、让步从句、比较从句、方式状
-
-
- 语从句、定语从句、表语从句和插入句（见第45页八)。由于在这些句中只有单
-
-
- 个as，前后没有像such，so，same，as，that，many，much之类的有关词的搭配和
-
-
- 衬托，判别从句的语法意义就要靠上下文和逻辑性来进行。例如：
-
-
-1. Wecannot see sound waves *as they travel through air*. 当声波通过空气
-
-
-时，我们并不能看见它。（时间从句）
-
-
-2. *Asheat energy makes things moue*，itis a form of energy. 由于热能可使物
-
-
-体运动，所以它是一种能。（原因从句)
-
-
- 注：用as引导的原因从句，它与主句一般具有明显的因果关系。利用这一点，
-
-
-就可基本上把as引导的原因从句和时间从句相区别开了。
-
-
-3. *Muchds she would like to see this film*，Iam afraid she is too busy to go to
-
-
-thecinema. 虽然她特别愿意看这部电影，但我恐怕她太忙，去不了电影
-
-
-院。（让步从句）
-
-
-4. Whenthe circuit is closed，thebattery sets these electrons in motion
-
-
-through the wiresand motor back to the battery again，*muchas the pump*
-
-
-*sets the waterin motion*. 当电路闭合时，蓄电池使电子流经电线和马达，
-
-
-然后再返回蓄电池。这种情况和水泵使水流动的情况是十分类似的。（行为
-
-
-方式从句，表示比拟）
-
-
-5. Theresult of his research is good enough* as it is*. 照现在这样，他的研究
-
-
-结果够不错了。（方式状语从句）
-
-
-6. Itmay be *as you say*. 这也许是你说的那样。（表语从句）
-
-
-7. Gases*as we know*，expandmore rapidly than solids when they are heated. 
-
-
-据我们所知，当受热时，气体比固体膨胀得快。（插入句意味的定语从句）
-
-
-第1句和第2句只能从句义来判别（见本页注），语法本身无能为力。
-
-
-第3句much是句中状语。由于位置挪到as前面，就构成让步从句的结构
-
-
-47
-
-
-
-
-
-
-（见第38页Ⅲ）。但第4句从表面上看，也有muchas形式，但由于句中不
-
-
-需要much作动词的状语，于是就不能构成让步从句的结构。这样就意味
-
-
-着用muchas（作“和……几乎一样”讲）引出一个行为方式从句，表示出和
-
-
-主句的比拟。第5句如果按原因、时间翻译，句义怎么也讲不通，也不合逻
-
-
-辑。如果按方式状语从句译，正好讲得通，这就表示对该句判别正确。第6
-
-
-句中asyou say非作表语从句分析不可，否则该句子成了没有表语了。第7
-
-
-句as引出的从句前后有逗号隔开，一般说来，作插入句的可能性就比较大
-
-
-了。但作插入句用还缺少一个宾语them（作know的宾语）。可是，就其从句
-
-
-意思来看，倒可译为“据我们所知”。如果把该从句分析为as代替整个主句
-
-
-意思的定语从句（参阅第35页Ⅳ），也未尝不可。因此，希望不必过多地抠
-
-
-语法分析，能领会其意就可以了。
-
-
-As在各种句型和固定词组里的用法
-
-
-现把上面的“As的主要用法和判别”中提到的或没有提到的as在各种固
-
-
-定词组里的用法归纳如下：
-
-
-1. （A）单个as引出各种从句：
-
-
-时间从句（见上文第38页四、Ⅰ）；
-
-
-原因从句（见上文第38页四、Ⅱ）；
-
-
-让步从句（见上文第38页四、Ⅲ）；
-
-
-比较状语从句（见上文第39页四、Ⅳ）；
-
-
-方式状语从句（见上文第40页四、Ⅴ）；
-
-
-表语从句（见上文第44页六）；
-
-
-定语从句（见上文第33页—到第37页二和三）；
-
-
-插入句（见上文第45页八）。
-
-
-同位语（见上文第44页七）
-
-
-（B）“as+过去分词短语”，一般构成定语、状语、宾语补语、主语补语或有
-
-
-省略成分的从句：
-
-
-（1）Hehopes we will be able to carry out everything *as planned*. 他
-
-
-希望我们能按计划行事。（状语）
-
-
-（2）Thenucleus is heavy *as compared with electrons*. 和电子相比，核
-
-
-就较重。（状语，或相当于状语从句：ifit is compared with
-
-
-electrons. )
-
-
-（3）Theelectrons，*asshown in Fig*. 5，arevery light. 电子非常轻，如
-
-
-图5所示。（定语或相当于非限制性定语从句。在后一种情况下，
-
-
-. 48. 
-
-
-
-
-
-
-
-从句中省略is，而as代替主句整个意思。）
-
-
-（4）Seethe answers *as given at the end of this book*. 请参阅本书末给
-
-
-的答案。（定语）
-
-
-（5）Wecan think of an atom *as made up of nucleus and electrons*. 
-
-
-我们可把原子看作是由核子和电子组成。（宾语补语）
-
-
-（6）Matteris spoken of *as electrically constituted*. 我们说物质是由带
-
-
-电粒子构成. （主语补语）
-
-
-（7）Ifthe separator is（或goes）outof order，checkand c1ean *as*（*it*
-
-
-*is*）*required*。如果该分离器出故障，则根据需要进行检查和清
-
-
-理。（省略句本身是状语从句。）
-
-
-（C）“as+介词短语”（这种结构前后多半有逗号，可译为“如…”、“像…”）：
-
-
-（1）Thef1ow of current in a semiconductor can be formed by a flow of
-
-
-negative charges，*asin the case of conductors*. 半导体中电流的
-
-
-流动，像导体内情况一样，是通过负电荷的流动而形成的。
-
-
-（2）*Asin the first method*，thegas must be preheated to 150℃. 如同
-
-
-第一种方法，该气体必须预热到150℃。
-
-
-（3）Iheard the whir *as from a car*. 我听到了好像汽车的呼呼声。
-
-
-（4）Withoutintelligence and diligence on the part of the students，*as*
-
-
-*indeed withoutthe leadership and the coaching of the teachers*，a
-
-
-good examinationresult will not come. 在部分学生身上，如果他
-
-
-们没有智力和勤奋，确实如同没有老师的指导和训练一样，就不
-
-
-会有好的考试成绩. 
-
-
-2. asa matter of fact事实上，其实
-
-
-（1）*Asa matter of fact*，mathematicsfinds its application in every science. 
-
-
-事实上，数学在各门科学中都有它的用处。
-
-
-（2）*Asa matter of fact*，Iknow nothing about the constructions of the
-
-
-informationproducts. 其实我对这些信息产品的构造一无所知。
-
-
-3. asa result结果，终于，因此
-
-
-（1）Shestudied hard. *Asa result*，shemade fast progress in the studies. 
-
-
-她学习用功。因此她在学习方面进步很快。
-
-
-（2）Theproduction has begun，*asa result*，torise rapidly. 生产终于开始
-
-
-迅速地上升。（或译：结果是生产已经开始迅速上升。）
-
-
-4. asa result（或consequence）of…作为…结果，由于…结果
-
-
-（1）*Asa result of*（或*Asa consequence of*，*Inconsequence of*，*Consequent*
-
-
-*upon*）itsrise in temperature the gas expands. 由于温度上升，气体就
-
-
-. 49. 
-
-
-
-
-
-
-膨胀。
-
-
-（2） Sciencemeanssystematicknowledge possessed* as a result*（或*asa*
-
-
-*consequence*)of practice and study. 科学是由于实践和研究的结果而
-
-
-获得的系统知识。
-
-
-5. asa rule， 作为一个常规，通常，习以为常
-
-
-（1）*Asa rule*，wekeep records on au the experiments so that we may have
-
-
-enoughdata. 我们通常总是对所有的实验都作记录，以便得到足够的
-
-
-资料。
-
-
-（2）Theysum up their experience at the end（或close）of every year *as a*
-
-
-*rule*. 他们通常年终总结经验。
-
-
-6. asa whole作为一个整体（来看）
-
-
-（1）Weshould analyse the problem *as a whole*. 我们应该把这个问题作为
-
-
-一个整体来分析。（状语）
-
-
-（2）Heis to be responsible for the work *as a whole*. 他将要负责整个工
-
-
-作。（定语)
-
-
-7. asabove如上
-
-
-It has beenexplalned *as above*. 这件事已在上面解释过了。
-
-
-8. asagainst与…对照，与…对比
-
-
-（1） Therearemorethanthreehundredmiddle schoolsinTianjinthis
-
-
-year，*asagainst *only 80 before 1iberation. 今年天津有三百多所中学，
-
-
-而解放前只有八十所。
-
-
-（2）Theproduction of various electron tubes has been increased four times
-
-
-*as against*1958. 电子管产量已比1958年增加了三倍。
-
-
-9. as…as 像…一样，如…一样（详见前文第39页四、ⅣA、B）
-
-
-l0。“as+形容词（或副词）+as+形容词（或副词）” 又…又…
-
-
-（1）Thismethod is *as *simple *as* practical. 这种方法又实用又简单。
-
-
-（2）Thewheel turns *as* fast *as* stably. 这个轮子旋转得又快又稳。
-
-
-11. as…asany（或anybody）不弱于任何的…，史无前例的…
-
-
-He is *as*great a scientist *as *any. （他是一位少有的大科学家。）
-
-
-12. as…asanything非常地…，无可比拟地…
-
-
-（1）Thework *is as* easy *as anything*. 这项工作特别容易。（相当于：…as
-
-
-easy as can be)
-
-
-（2）Iwill make it *as* clean *as anything *can be. 我将尽量把它弄干净。（也
-
-
-可改为：…asclean as possiblc。)
-
-
-13. beas+形容词（如clear，easy等)+as+与前相同的形容词+canbe
-
-
-. 50. 
-
-
-
-
-
-
-The facts are *as*cleard，day. 这些事实十分清楚。
-
-
-14. as…asever像往常一样…
-
-
-She works as hardas *ever*. 她工作一贯努力。（原义为：她和往常一样，努力工作。也可写：Sheworks *as *hard *as before*. )
-
-
-15. as…aspossible尽可能地…
-
-
-（1）weshould Study *as* hard *as possible*我们应当尽可能地努力学习。
-
-
-（2）*as*soon *as possible*尽可能早
-
-
-（3）*as*big *as possible*尽可能大，越大越好
-
-
-（4）*as*carefully *as possible*越仔细越好
-
-
-（5）*as*dar *as possible*尽可能，尽力
-
-
-16. asbefore依旧
-
-
-He gave the sameanswer *as before*（或*asever*). 他依然作了相同的答复. （原义：他给了与以前相同的答复。)
-
-
-17. ascompared with和…相比
-
-
-Chinatodayhas producedmuchmoresteel as *com paredwith *China yesterday. 今天的中国已比过去的中国生产了多得多的钢。
-
-
-18. asearly as…早在…
-
-
-As *earlyas*1949，hesuggested that plan. 早在1949年他就提出了那个计划。（1949前不能用in。）
-
-
-19. as（或so）faras…is concerned（或goes） 就…而论
-
-
-As（或*So*）*foras* the quality of tones *is concerned*（或*goes*），thisradio-set is quite up to the standard. 就音质而论，这架收音机已完全达到标准。
-
-
-20. as（或so）faras we know. 就我们所知
-
-
-（1）*Asfar as we know*，notall of us realize the importance of this step. 
-
-
-据我们所知，并不是我们中间每一个人都明瞭采取这一步骤的重要性。
-
-
-（2）Not*so far as we know*. 据我们所知，并非这样。
-
-
-21. asfouows如下
-
-
-The text reads *asfollows*. 原文如下。
-
-
-22. Asfor（或asto） 至于，讲到，关于
-
-
-（1）As*for*（或*Asto*）physics，itis not diffcult at all. 至于物理学，那一点也不难。
-
-
-（2）Asfor us，wehave no objeetion. 至于我们，则并不反对。
-
-
-23. asgood as跟…一样，几乎等于
-
-
-（1）Sheis *as good* *as* her words. 她遵守诺言。（或译：她实践诺言。)
-
-
-. 51. 
-
-
-
-
-
-
-
-（2）Thenoise of this machine is so low；itis *as good* *as* silent. 这台机器的噪音如此之低，如同没有声音一样。
-
-
-24. asif好像…似的（参阅第42页）
-
-
-25. asit does（或did）实际上（与现在分词短语连用时有原因意味）
-
-
-（1）Theprocess involves *as it* *does* the oxidation ofCO. 这个过程实际上涉及到CO的氧化。
-
-
-（2）Theinstrument is of great interest, involving *as it does* a newprinciple of work. 该仪器由于涉及新的工作原理而具有重要意义。
-
-
-（3）Living*as we did *in a remote village, we rarely had visitors. 由于当时我们住在偏僻的村庄，所以很少有客人来访。（当涉及的主体是人时，则用其相应的人称代词。同时还必须注意主句所用的时态。本句内谓语用过去时态，就用aswe did。如果谓语用现在时，则就应该用aswe do. )
-
-
-26. asit is（或was) 1. 在句首，作“但在实际上，实际上”讲；2。在句末，作“照原来样子”讲；3. 与分词连用有原因意味。
-
-
-（1）*Asit was*，wedid help them. 事实上，我们的确帮了他们。
-
-
-（2）Carryout the plan *as it is*. 请照原样执行计划。
-
-
-（3）Itis good enough *as it is*。照现在的样子够不错了。
-
-
-（4）Leavethe things *as they are*. 别动这些东西。（直译为：让这些东西照样放在那儿。)
-
-
-注意it不是一成不变的，可根据它实际上所代表的名词，改用we，they，you，he等其他人称。上句前面为thethings，故后面用they。
-
-
-（5）Burdened*as he was*，hecould not walk fast。由于负荷太重，他不能走快。
-
-
-27. asit were（插入语） 仿佛，好像，可以说
-
-
-The skv iscovered，*asit were*，witha black curtain. 天空好像被黑幕遮住了似的。
-
-
-28. （a）aslike as not很可能；多半
-
-
-*As like as not*,he is already there. 他很可能已在那儿。
-
-
-（b）aslikely as not多半
-
-
-She wil1 fail *aslikely as not*. 她多半会失败。
-
-
-29. （a）aslong as…如同…之久；如同…长（引出比较状语从句）
-
-
-（1）Stay*as long* *as* you like. 你爱呆多久，就呆多久。（句中*as*you like为比较状语从句）
-
-
-（2）Sothe tree’s shadow will also be *three* *times as long* *asthe tree* is
-
-
-. 52. 
-
-
-
-
-
-*high*. 因此，树影长度将是树高的三倍。（第二个*as*引出比较状语从句。）
-
-
-（b）aslong *as*…当……时（引出时间状语从句）
-
-
-I will fight forthe cause of science and education *as long* as Ilive. 我活一天，就要为科学和教育事业奋斗一天。
-
-
-（c）so（或as）longas…只要……（引出条件状语从句）
-
-
-You may use thatdictionary *so*（或*as*）*longas* you keep it clean. 你可以用那本辞典，只要你把它保持清洁。
-
-
-上句中aslong as和solong as还可用ifonly代替。
-
-
-30. asmany（与……）同样的；与（……）数相同的
-
-
-（1）Thoseflve days seemed to me *as many* years. 那五天对我好像等于五年一样。
-
-
-（2）Weexpected to sell 500 tickets，butwe sold twice *as many*. 我们原希望出售500张票，但后来售出500张的两倍。
-
-
-31. asmany…as…如…一般多…；凡…的…都
-
-
-（1）Fromthis library you can borrow *as many* books *as* you wantto read. 
-
-
-在这个图书馆内，凡是你想读的书都能借到。
-
-
-（2）Thereare *as many *people in your class *as* in ourclass。你班和我班的人数相同。
-
-
-32. （a）asmany（或much，fast等）agam. as…两倍于，是…的两倍，多（或
-
-
-快)一倍
-
-
-b)half asmany（或much，fast等）againas…是…的一倍半，多（或快)半倍
-
-
-（c）halfas many（或much，fast等）as… 是…的一半
-
-
-（1）Ihave *as many* video discs *again* *as*he. 我有的影碟是他有的两倍。（表示：…比他多一倍。）（相当于：Ihave twice as many video discs as he. ）
-
-
-（2）WheelA turns *half* *as* *fast* *again* as wheelB. A轮转动比B轮快半倍。
-
-
-（3）Theyhave produced *half* *as much* steel *as*we. 他们生产的钢比我们生产的少一半。
-
-
-33. asmatters stand按目前情况来说
-
-
-*As mattersstand*，hedoes not likc to make the plan public. 就目前情况而论，他不愿公开那个计划。
-
-
-34（a）asmuch（与…）同量的；同样地
-
-
-
-、. 53 . 
-
-
-
-
-（1）Comparedwith steel，alumlnumhas a third its modulus of elastlicity, weighs a third *as much*,and costs about three times *as much*.与钢相比，铝的弹性模数是钢的1/3，重量也是钢的1/3,
-
-
-而价格则是钢的三倍左右。
-
-
-（2）Iwas in the least not surprised，forI had expected *as much*. 我（丝）毫不惊奇，因为我早已料到会有这样的事。（意思接近于somuch。）
-
-
-（3）Ihope *as much*. 我也这样希望。
-
-
-（b）asmuch…as…如…一般多的…
-
-
-（1）Onthe moon itself the force of gravitation is one sixth as *much*asit is on the earth. 在月球上，重力是地球上的六分之一。
-
-
-（2）Younever get *as much* useful work out of a machine *as* youput into it. 你从机器得到的有效功，永远不会等同于你输入的功。
-
-
-35. asnear as…差一点…,几乎…
-
-
-She was *as near*could be knocked down by a car. 她差一点被汽车撞倒。
-
-
-36. asnear as no matter差一点…，很接近于…
-
-
-The child came* asnear as no* *matter* being drowned. 这小孩差一点被淹死。
-
-
-37. asof o1d仍旧，照旧
-
-
-Such dresscs arc infashion *as of old*. 这样一些服装仍然流行。
-
-
-38. asoften as not常常，屡次
-
-
-We go to the exhibitionhall *as often as not*. 我们常去展览馆。
-
-
-39. asregards（或concerns）+名词 至于，提到，关于，就…说
-
-
-*Asregards*（或concerns）thatcutting machine, its moving parts have been wornout. 至于那台金属切割机，它的活动机件已被磨损。
-
-
-40. asshown…如…所示
-
-
-The value of X，as(*is*)*shown* *in Fig*. 2，isgreat. 如图2所示，X值是大的。（引出非限制性定语从句）
-
-
-41. as…（从句），so…（主句） 如同……一样，……
-
-
-*As *theatomis theunitparticleforelements,* so* themoleculeforms an indivisible unit for compounds. 如同原于是元素的基本单位粒子一样，分子形成了化合物的一个最小单位。
-
-
-42. assoon as…（连接时间从句） 一…就（参阅第282页三和283页四）
-
-
-（1）*Assoon as* the experiment was over, we went to the library. 那个实
-
-
-。 54. 
-
-
-
-
-
-
-验一完成，我们就去图书馆了。
-
-
-(2)*As soon as* wedisconnect one end of a wire leading to the electric-light bulb，thelight goes out at once. 我们一把通电灯泡的一根金属线断开，电灯立即熄灭。
-
-
-(3)Speak to Prof. Lu*as soon* *as* you can. 你尽早对卢教授去说。
-
-
-辨异：Speakto her *as fast as* you can. 你对她说话，能说多快就多快。
-
-
-43. assoon as possible尽早地
-
-
-We must improve ourequipment *as soon* *as* possible. (或*assoon* *as we can*). 我们必须尽早改进设备。
-
-
-44. assuch像这样的人、事、物；作为这样的人、事、物；以…资格、名义、身份；因而
-
-
-(1)He is our teachcr,and *as such* must be respected. 他是我们的老师，因此必须受到尊敬。
-
-
-(2)He was a foreignerand was treated *as such*. 他是外国人，所以受到对待外国人的待遇。
-
-
-(3)History *as such*was often neglected. 以往历史本身常被忽视。
-
-
-(4)wcalth，*assuch*，doesn’tmatter much. 单是有钱财算不了什么。
-
-
-45. asthe case may be看情况，随机应变地
-
-
-(1)In taking apicture，theshutter，thefocal length and the other things must be adjusted *as the* *casemay be*。在拍照过程中，快门、焦距等等，必须按实际情况加以调整。
-
-
-(2)He arranges matters*as the case may be*. 他按照实际情况安排事情。
-
-
-46. asthings are就目前情况而论
-
-
-*As things are*，wecannot put the plan into pratice. 就目前情况说来，我们还不能将此计划付诸实施。
-
-
-47. asthings go按事态发展来看
-
-
-*As things go*，theyare looking at this problam. 就事态发展来看，他们正在分析这个问题。
-
-
-48. asthough…(行为方法状语从句)好像……似的(用法同asif，详见本文第24条)
-
-
-49. asto关于，至于
-
-
-(1)*As to* thishome computer, it can be guaranteed for one year. 至于这台家用计算机，它能保修一年。
-
-
-(2)A question arises *asto* how we shall refit the eqmipment. 关于如何改装那个装置的问题提出来了。(asto接一个介词宾语从句。)
-
-
-. 55. 
-
-
-
-
-
-
-50。astouching(或concerning)+名词 关于…，有关…,涉及…
-
-
-Please inform me *astouching*(或concerning)thematter. 关于那件事的情况，请你通知我。
-
-
-51. asusual照例，照常
-
-
-(1)He arrived onschedule(或ontime)as *usual*. 他照常准时到达。
-
-
-(2)The notebookcomputer operates well *as usual*. 这台笔记本电脑与平时一样，运转良好。
-
-
-52. aswell又，也，同样
-
-
-(1)He speaks English *aswell*. 他也讲英语。
-
-
-(2)The board presidenthas knowledge and experience *as well*。这位董事长既有学问，又有经验。
-
-
-(3)This law is true ofother gases *as well*. 该定律也适用于其它气体。
-
-
-(4)Not only does thedistance travelled in unit time remain the same but the direction *aswell* does not change. 不仅单位时间内的移动距离不变，而且其方向也不变。(由于Notonly在句首，后面主、谓语要用颠倒语序。)
-
-
-53. aswell as和…一样，不但…而且…
-
-
-(1)He works *as wellas *he can. 他尽可能地做好工作。
-
-
-(2)You workd *as wellas* he. 你和他都一样工作。(原义：他工作，而你也工作。)
-
-
-(3)Those Chinese pupilsstudy English *as well as* Chinese. 那些中国学生不仅学汉语，而且还学英语。(注意先译后面的Chinese，然后再译前面的English。)
-
-
-(4)He has skill *aswell* *as* knowledge. 他既有学问，又有熟练技能。
-
-
-(5)Air，*aswell* *as* water, is needed to make plants grow. 空气同水一样是植物生长所必需的。(注意句中两个逗号也可不用。后面不能用are。)
-
-
-(6)Small towns *aswell* *as* big cities are being rapidlyindustriaulized. 小城镇和大城市一样，都在迅速地工业化。
-
-
-(7)The three gas lawsare true of all gases，*aswell as* of air. 气体三定律适用于空气，也适用于所有气体。
-
-
-(8)We can turn clectricenergy into light energy *as well* *as* into heatenergy. 我们不但能把电能转化为热能，也能转化为光能。
-
-
-(9)He agrees withyou，*aswell as* I. 不但我同意你，他也同意你。
-
-
-(10)He agrees withyou，*aswell* *as* with me. 他不但同意我,也同意你。
-
-
-54. asyet到目前为止
-
-
-(1)He has not finishedthe work *as yet*. 他到现在还没有完成那项工作。
-
-
-(2)Thelaptop(computer)has worked well *as yet*. 到目前为止这台膝上型电脑运转正常。
-
-
-55. accordingas…(从句)随…而定，依照…
-
-
-The thermometer risesor falls *according* *as* the air is hot or cold. 温度表随着空气的热冷而升降。
-
-
-56. inasmuchas…(引出原因从句) 因为…
-
-
-*Inasmuch* *as*the pressure increases with depth, there is a greater pressureat thelowersurfaceofthesubmergedbodythanatthe uppersurface. 因为压力随深度而增加，所以浸入水中的物体的底面
-
-
-所受到的压力比顶面大。
-
-
-57. Insofaras …(从句) 在……范围内，在……限度内
-
-
-*Insofar as *I cansee，theyare all satisfied with this arrangement. 据我了解，他们对这一安排都感到满意。
-
-
-58. beknown as叫做，通称为
-
-
-This microcomputer *isknown* *as* a palmtop PC. 这个微型计算机叫做掌上型电脑。
-
-
-59. justas well正因如此
-
-
-Sinee water is souniversally present，perhapsit is *just* *as well* that its properties have beenstudied. 因为水到处存在，也许正因为如此，对水的性质已经作了研究。
-
-
-60. justas with…正如同…一样(比较状语)
-
-
-*Just* *as with*theparauelwaterpumps, thecurrentsfromtheseparauelgenerators will add together to make a total flow of 100 amperes. 正如同并联的水泵一样，这些并联的发电机所产生的电流将加在一起，以构成100安培的总电流。
-
-
-61. may as well，mightas well(后者婉转) 还是……好，不妨，也好
-
-
-(1)You *may*(或*might*)*aswell *repeat the experiment. 你还是把这个实验重做一次为好。
-
-
-(2)You *may as well*begin at once. 你不妨立即着手。
-
-
-62. may(或might)aswell…as(…)与其(…)宁肯…做为好
-
-
-(1)One *may* *aswell* not know a thing at all* as* know itimperfectly. 与其一知半解，不如完全不知为好。
-
-
-(2)You *might* *aswell* advice me to give up my plan *as* my argument. 你
-
-
-. 57. 
-
-
-
-
-
-
-要我放弃我的论点，还不如要我放弃我的计划。(句中might并不表示过去时，而是虚拟语气，实际上表示：要我放弃自己论点和计划均不可能。)
-
-
-63. no…so…as(…) 没…像(…)那样
-
-
-No substance socompletely permeates our lives *as* do water, air and thelike. 没有一种物质像水、空气等那样为我们生活所必不可少。(as引出的比较状语从句内有主、谓语颠倒现象。其中do为代动词。)
-
-
-64. notso…as(…)不如(…)那样…
-
-
-He does *not*study *so* hard *as* you. 他学习不如你用功。
-
-
-65. notso much as…甚至连…也不，竟未…
-
-
-(1)He does not *somuch* *as* understand this law. 他甚至连这个定律都不了解。
-
-
-(2)There is *not somuch* *as* an error in his answer. 他的回答连一个错也没有。
-
-
-注：当notso much和as分开时，其用法有异。例如：
-
-
-The oceans do *not somuch* divide the world *as* unite it. 与其说海洋分割世界，还不如说海洋连接世界。
-
-
-66.not so much…as… 与其说……不如说……(这里notso much相当于less，而as相当于than。)
-
-
-(1)He is *not so much*a teacher *as *a writer. 与其说他是教师,不如说是作家。(=He*is* *less* a teacher *than* a writer. )
-
-
-(2)A man’s worth lies*not* so much in what he has as in what he is. 一个人的价值不在于他拥有什么，而在于他是什么样的人。(句中两个what分别作in的介词宾语从句。)
-
-
-67. same…as…(接定语从句) 和……相同的(参阅第34页)
-
-
-I am reading *thesame* book *as* you read yesterday. 我正在读的书就是你昨天读的那本书。
-
-
-68. soas to(后接不定式动词) 为的是，以便…；以致…
-
-
-(1)We must go early *soas to be *in time. 我们必须早去，才能准时。(目的状语)
-
-
-(2)He worked hard *soas to end* the task with success. 他努力干，终于胜利完成了任务。(结果状语)
-
-
-69. so…asto(接不定式动词) 如此地…以致…；若前与be连用，则表示祈使句中“请”之意。例如：
-
-
-(1)He wrote *so*carefully *as to make* every word clear. 他写得如此地小
-
-
-. 58. 
-
-
-
-
-
-
-心，所以每个单词都很清晰。
-
-
-(2)Heattreatment isused*soasto improve*thepropertiesofsomemetals. 使用热处理可改进某些金属的性能。
-
-
-(3)Petroleum maybe of low viscosity or *so* viscous *as to be* nearly im-mobile. 石油有低粘度的，也有粘得几乎不能流动的。
-
-
-(4)*Be* sokind(或good)*asto help *me in doing(或making)thesum.劳驾帮我算一下。
-
-
-70. solong as…(条件从句) 只要…(参阅第53页)
-
-
-Every wire carrying anelectric current has a magnetic field *so*(或*as*)*longas* the current flows. 只要有电流通过，每根带电的金属丝都产生磁场。
-
-
-71. so(或as)faras…(条件从句) 就…而论
-
-
-(1)So(或As)*faras* the quality of tones is concerned，thisradio set is quite up to the standard. 就音质而论，这台无线电完全达到标准。
-
-
-(2)The scientificresearch is well on the way *so far as* I know据我所知，这项科学研究正蓬勃开展。
-
-
-72. suchas…像…那(或这)样的(详见第37页)
-
-
-73. such…as 像…那(或这)样的(详见第37页)
-
-
-74. such(…)asto+不定式短语 如此的…以致(结果状语)
-
-
-This problem is *suchas to* interest only a fewpeopIe. (=Itis *such* a problem *as to*interest only a few people. )这样的问题只能使少数人感兴趣。(联系第157页第4句)
-
-
-75. withoutso much as+动名词短语 甚至连…也不；竟然没有……
-
-
-(1)He left the room*without* *so much* *as* closing door. 他连门都没关就离开了房间。
-
-
-(2)She went away*without* *so much* *as* saying good-bye.她竟然不辞而去。
 
 
 At的基本含义及其搭配用法分类
@@ -4582,7 +1935,7 @@ c. Theyoung man went *away with* herdaughter. 这个男青年带走了她的女�
 d. weall went *away with* something to think over. 我们带着要仔细考虑的事离开了。
 
 
-e. Don’t go*awaywith*theideathatyouwon’tbecriticized you’re your mistake. 不要以为你犯了错误不会受到批评。
+e. Don't go*awaywith*theideathatyouwon'tbecriticized you’re your mistake. 不要以为你犯了错误不会受到批评。
 
 
 Back的搭配及其引申用法的理解
@@ -4605,7 +1958,7 @@ Back主要作副词用，但还可兼名词、形容词和动词. 这里仅讨�
 含义时的用法举例
 
 
-cau(v. )*back*(在对方打来电话以后我)回电话；Bear*back* so that the car may pass. 往后挤，让这辆汽车通过。come*back*(她)回来，(短裙子即shortskins)重新流行；drive(v. )*back*驾车回去，(他)开车把(某人)送回去；drop(或fall)*back*(价格)回落；fall*back*(人群即thecrowd)后退，(敌人)退却，(我)往后摔倒；draw(或pull)*back*(人群)往后撤，(他)背弃协议[后加fromthe agreement。由“退离…”引申过来]；Get*back*(或Stay*back*)!后退(或呆在后面)!getback into bed回去睡觉；get*back* to…(他)重返(故乡即hishometown)，(她)再次找(你)谈谈(尤指通电话)；go*back*(你)回去，(你们)后退两米[后加twometers]；go*back* from…(他)背弃(合同即thecontract或朋友)；go*back* to…回到(上海或那个话题即thetopic)(他)回到(他的妈妈)身边；Hewas *back* at nine o’clock. 他九点回来的。Howfar is it to Tianjin and *back*?去天津来回有多远?Theboy is *back* in his work. 这男孩学业落在后面。Keep*back*!别往前走!look*back*往后看；move(v. )*back*往后退，(他)将(他的部下即hismen)调回来；put*back*(船)返航进入港口[后加intothe port]或回到岸边[后加tothe shore]；ride*back*骑马、骑车或乘车回去；run*back*跑回来，开车回来；Wewon’t stand(或sit)*back*if you punish your brother. 如果你惩罚你的兄弟，我们不会坐视不管。Theinformation center stands(或sits)*back*the road. 信息中心的位置离马路有一段距离。step(或stand)b*ack*后退或往后站；turn*back*(她)回来，翻到(第六页)[后加topage six]；walk*back*步行或(走)回来等
+cau(v. )*back*(在对方打来电话以后我)回电话；Bear*back* so that the car may pass. 往后挤，让这辆汽车通过。come*back*(她)回来，(短裙子即shortskins)重新流行；drive(v. )*back*驾车回去，(他)开车把(某人)送回去；drop(或fall)*back*(价格)回落；fall*back*(人群即thecrowd)后退，(敌人)退却，(我)往后摔倒；draw(或pull)*back*(人群)往后撤，(他)背弃协议[后加fromthe agreement。由“退离…”引申过来]；Get*back*(或Stay*back*)!后退(或呆在后面)!getback into bed回去睡觉；get*back* to…(他)重返(故乡即hishometown)，(她)再次找(你)谈谈(尤指通电话)；go*back*(你)回去，(你们)后退两米[后加twometers]；go*back* from…(他)背弃(合同即thecontract或朋友)；go*back* to…回到(上海或那个话题即thetopic)(他)回到(他的妈妈)身边；Hewas *back* at nine o’clock. 他九点回来的。Howfar is it to Tianjin and *back*?去天津来回有多远?Theboy is *back* in his work. 这男孩学业落在后面。Keep*back*!别往前走!look*back*往后看；move(v. )*back*往后退，(他)将(他的部下即hismen)调回来；put*back*(船)返航进入港口[后加intothe port]或回到岸边[后加tothe shore]；ride*back*骑马、骑车或乘车回去；run*back*跑回来，开车回来；Wewon't stand(或sit)*back*if you punish your brother. 如果你惩罚你的兄弟，我们不会坐视不管。Theinformation center stands(或sits)*back*the road. 信息中心的位置离马路有一段距离。step(或stand)b*ack*后退或往后站；turn*back*(她)回来，翻到(第六页)[后加topage six]；walk*back*步行或(走)回来等
 
 
 二、副词baek和有关动词搭配，表示“叫回、带回、送回、放回、收回、调回、搬回、退回、取回、交回(或交还)、撤回、回请”等含义时的用法举例
@@ -4868,7 +2221,7 @@ Thanksto和For表示原因用法比较
 表语从句
 
 
-1. Hedidn’t go to school，*becausehe was ill*. 他因为有病没去上学。(原因状语从句，从句前可不打逗号)
+1. Hedidn't go to school，*becausehe was ill*. 他因为有病没去上学。(原因状语从句，从句前可不打逗号)
 
 
 2. a.Thisis *because she studies hard*. 这是由于她学习努力。(表语从句)
@@ -5637,7 +2990,7 @@ Beyond的搭配用法及理解
 1. Heis *beyond* such a thing. 他不屑(或决不)做这样的事。
 
 
-2.Don’t ask him howthey are to pay the bills；hehas gone *beyond*caring. 别问他，他们将如何支付这些账单；他已不再操心(或在乎)了。(由“超脱或不屑于关心这件事”引申过来。)
+2.Don't ask him howthey are to pay the bills；hehas gone *beyond*caring. 别问他，他们将如何支付这些账单；他已不再操心(或在乎)了。(由“超脱或不屑于关心这件事”引申过来。)
 
 
 3. He hasonlyashortsightedplan,andsoheis*beyond *thinking of the future. 他只有一个眼光短浅的计划，因而不屑考虑将来。
@@ -5658,7 +3011,7 @@ Beyond的搭配用法及理解
 六、副词beyond作“再过去”、“再往前”、“远处或往远处”或“以后时期”等讲，常可根据上下文理解为beyond后省略了有关词语
 
 
-1. Thebuilding is very high. Idon’t know whether there is any house*beyond*. 这楼很高。我不知道再前面是否有什么房子。(可以理解为*beyond*
+1. Thebuilding is very high. Idon't know whether there is any house*beyond*. 这楼很高。我不知道再前面是否有什么房子。(可以理解为*beyond*
 
 
 . 84. 
@@ -5796,7 +3149,7 @@ But及其搭配关系的用法和判别
 
 
 
-2. Youcan’t get the book anywhere *but* here(或inthis bookshop). 除非在这里(或在这家书店)，你在任何地方也得不到这本书。
+2. Youcan't get the book anywhere *but* here(或inthis bookshop). 除非在这里(或在这家书店)，你在任何地方也得不到这本书。
 
 
 3.while carrying theinstrument，donot touch any parts *but* the carrier bars and thebed. 当搬运这台仪器时，除了搬运杆和床座外，其它任何零件都不要碰。
@@ -5835,7 +3188,7 @@ l.It is *anything but*a multimedia computer. 这决不是一台多媒体计算�
 2. HerFrench was *anything but *correct before1997. 1997年以前她的法语错误百出。(原义是“…决非正确”。)
 
 
-3. Isn’tthere *anything* in your hometown *but*mountains?难道你的故乡只有山吗?(意译)
+3. Isn'tthere *anything* in your hometown *but*mountains?难道你的故乡只有山吗?(意译)
 
 
 五、“what(who，whose等疑问词)+but…”表示的意思与“nothingbut&quot;，“noone(或none)but”同义(参阅本页三和下页六)
@@ -5991,7 +3344,7 @@ l.Mr. Wangis *not only* a worker *but*(*also*)astudent. 王先生不仅是个工
 4. Ido not say *but that* A will vary with B in a largedegree. 我没说A不会在很大程度上随B而变。
 
 
-5. Ican’t come，not*but that* I should likc to come. 我不能来，并非不肯来。
+5. Ican't come，not*but that* I should likc to come. 我不能来，并非不肯来。
 
 
 6.It cannot be *butthat* something will happen. 一定有事情要发生。
@@ -6012,7 +3365,7 @@ l.Mr. Wangis *not only* a worker *but*(*also*)astudent. 王先生不仅是个工
 3. Whoknows *but*(*what*)it may beso?或许如此，也未可知。(原义为：“谁知道这也许不是如此呢?”或“谁能说这也许不是如此?”)
 
 
-4. Ican’t do it；not*but what* a younger man might be able to do it. 我不能做，但是比我年轻的人也许能做。
+4. Ican't do it；not*but what* a younger man might be able to do it. 我不能做，但是比我年轻的人也许能做。
 
 
 十四、butyet作连词用，当“可是”、“然而”讲
@@ -6584,7 +3937,7 @@ C. No，I*don*'*t*. 不，我不是每天去。(后面不再加*go*)。
 1. *Scarcely*(或*Hardly*)*didthey speak* about the difficulties in their work. 他们很少谈到自已工作中的困难。
 
 
-2. Shedoesn’t know and *neither does shecare*. 她不知道也不关心。(这里应以第二个分句的句首出现否定词为准，后面主、谓语采用疑问句格式的颠倒语序。)
+2. Shedoesn't know and *neither does shecare*. 她不知道也不关心。(这里应以第二个分句的句首出现否定词为准，后面主、谓语采用疑问句格式的颠倒语序。)
 
 
 Down的搭配用法及其分类理解
@@ -6629,7 +3982,7 @@ book *down*…登记下(一笔款子即asum of money)；charge…*down*to sb.’
 时的用法举例
 
 
-dash*down*…迅速喝下(一杯酒等)，匆匆写下(一本小说等)；drink…*down*一口喝下(一杯水)；get…*down*困难地把(药丸即thepill或酒等)喝下；…won’tgo *down*(这药丸等)吞不下去；put*down* so much food(这男孩)吃下那么多的食物；swallow*down*…吞下(药或食物等)；take*down*…口服(药等)，带(客人)下楼，拉下(窗户等)；wolf*down*…(他)狼吞虎咽地吃
+dash*down*…迅速喝下(一杯酒等)，匆匆写下(一本小说等)；drink…*down*一口喝下(一杯水)；get…*down*困难地把(药丸即thepill或酒等)喝下；…won'tgo *down*(这药丸等)吞不下去；put*down* so much food(这男孩)吃下那么多的食物；swallow*down*…吞下(药或食物等)；take*down*…口服(药等)，带(客人)下楼，拉下(窗户等)；wolf*down*…(他)狼吞虎咽地吃
 
 
 (早饭)等
@@ -7267,7 +4620,7 @@ Either和Either…or的用法
 2. Thechild cannot speak，he*cannot* write，*either*. 这个小孩不会说话，也不会写。(这里第二部分也可改为：*neither*(或*nor*)canhe write. )
 
 
-3. Ifhe doesn’t go，Iwon’t go *either*. 如果他不去，那么我也不去。(第二部分也可改为neitherwill I go. )
+3. Ifhe doesn't go，Iwon't go *either*. 如果他不去，那么我也不去。(第二部分也可改为neitherwill I go. )
 
 
 4. Chinawill not be a superpower, *not either* or ever in the future. 中国不做超级大国，现在不做，将来也永远不做。
@@ -7373,10 +4726,10 @@ Enough的用法
 1. Youcannot take *enough*(=*too much*)care. 你不论怎么小心，也不会过分。
 
 
-2. He*couldn*’t go back fast*enough*. 他恨不得马上回去。(原意为：我回去速度无论多快，都不可能算够快。)
+2. He*couldn*'t go back fast*enough*. 他恨不得马上回去。(原意为：我回去速度无论多快，都不可能算够快。)
 
 
-注：应注意上下文和语序，下面句子就不属于本句型：Hehas lived in London for ten years，butstrangely *enough* he can’t speak English. 他在伦敦住了十年，但够奇怪的是他不会讲英语。(插入语)
+注：应注意上下文和语序，下面句子就不属于本句型：Hehas lived in London for ten years，butstrangely *enough* he can't speak English. 他在伦敦住了十年，但够奇怪的是他不会讲英语。(插入语)
 
 
 五、enough的其它用法
@@ -7429,10 +4782,10 @@ Ever的用法
 二、ever用于将来发生的动作，表示强调的意思
 
 
-1. P1easedon’t *ever* do that again!请绝对不要再做那件事了。(祈使句常表示将来动作。)
+1. P1easedon't *ever* do that again!请绝对不要再做那件事了。(祈使句常表示将来动作。)
 
 
-2. Shewon’t *ever* speak of it any more. 她决不会再讲这件事。
+2. Shewon't *ever* speak of it any more. 她决不会再讲这件事。
 
 
 3. Ifyou *ever* see George，givehim my kindregards. 如果你将来某时见到乔治，请代我向他问好。(当主句为将来时或用祈使句表示将来时态时，条件或时间状语从句内的现在时态实际上表示将来时。)
@@ -7633,7 +4986,7 @@ III. 引出具有强调语气的时间、地点、方式状语从句：
 1. *Whereverthere* *is plenty* *of sun and* *rain*，thefields are green. 哪里阳光雨水充足，哪里的田野就绿油油的。(地点状语从句)
 
 
-2. *Wheneverpeople say that sort* *of thing*，youknow they don’t mean cloningtechnology. 每当人们说那种事时，你知道他们并不是指克隆技术而言的。(时间状语从句)
+2. *Wheneverpeople say that sort* *of thing*，youknow they don't mean cloningtechnology. 每当人们说那种事时，你知道他们并不是指克隆技术而言的。(时间状语从句)
 
 
 3. Youmay solve the problam *whichever way youlike*. 哪种方法你喜欢，就用哪种方法解这道题。(方式状语从句)
@@ -7738,7 +5091,7 @@ Except和介词But用法比较
 2. Thereis nothing on the table *but *a creditcard. 桌子上除了有一张信用卡以外，别无它物。(在否定句中*but*可用*except*或besides代替。)
 
 
-3. a. Hedidn’t know where the net friend club was，*exceptthat it was near the railwaystation*. (当时)他不知道网友俱乐部在哪里，只知道它在火车站附近。(连词*that*引出介词宾语从句。不宜用but代替*except*。)
+3. a. Hedidn't know where the net friend club was，*exceptthat it was near the railwaystation*. (当时)他不知道网友俱乐部在哪里，只知道它在火车站附近。(连词*that*引出介词宾语从句。不宜用but代替*except*。)
 
 
 b. Sheknew *nothing but*(或*except*)*thatwe would soon come here*. (当时)她只知道我们很快来这里. (因为有*nothing*，使*but*和*except*可互换。)
@@ -7805,7 +5158,7 @@ First的用法
 b. Thatwas the *first *time they had been alone together. 那是他们第一次单独在一起。
 
 
-6. Theyhaven’t *the first idea* what it means. 他们丝毫不知道这是什么意思。
+6. Theyhaven't *the first idea* what it means. 他们丝毫不知道这是什么意思。
 
 
 (这里*thefirst*…作“最初的一点点”讲，用于否定句。)
@@ -7931,7 +5284,7 @@ sb. 为某人讲话，为某人辩护[但有时作讲话支持或赞成(某提�
 3. Hehas studied at Nankai University *for* four years. 他在南开大学已学了四年。
 
 
-4. Ihaven’t seen him *for* years. 我多年未见到他了。
+4. Ihaven't seen him *for* years. 我多年未见到他了。
 
 
 5. Heruns *for* two kilometers every morning. 他每天早晨跑两公里路。
@@ -7985,7 +5338,7 @@ allow*for*…考虑到或顾及(例外情况，特殊困难等)[系由‘‘对�
 1. *For*scenery，thereis no place like Guilin in China. 就景色而论，中国桂林首屈一指。
 
 
-2. *For*my part，Idon’t agree with you on this point. 就我来讲，在这点上我不同意你的看法。
+2. *For*my part，Idon't agree with you on this point. 就我来讲，在这点上我不同意你的看法。
 
 
 3. *For*one thing，shestudies hard. 举一例，她学习努力。(由“就一件事来说”
@@ -8373,7 +5726,7 @@ to effect capture of aparticle. 重核比轻核有较多的能级，所以它更
 1. Wewill *<U>have</U>* *you know* that we have made the machine*<U>work</U>* at fullspeed. 我们将要使你知道，我们已使这台机器全速运转了。(划线处为主句中的宾语补语。)
 
 
-2. Wecan’t *have the motor <U>run idle</U>*. 我们不能让马达空转。(同上)
+2. Wecan't *have the motor <U>run idle</U>*. 我们不能让马达空转。(同上)
 
 
 注意使用本句型结构时，有时表示主语人的意志，有时表示与主语人的意志无关。
@@ -8447,7 +5800,7 @@ He *has* only onefinger *left*. 他只剩下一个指头。(定语)
 3. We*have him* *trying* *an expertment*. 我们让他在试作一个实验。
 
 
-4. Wecan’t *have them wasting* *the material in* *thisway*. 我们不能允许他们这样浪费那种材料。
+4. Wecan't *have them wasting* *the material in* *thisway*. 我们不能允许他们这样浪费那种材料。
 
 
 5. Letus *have* *Dr*. *Fangover*. 让我们请方博士过来吧。
@@ -8595,7 +5948,7 @@ Howfar，Howfast，Howoften等用法
 2. Thequestion is *how much one cubic meter* *of air weighs undernormal conditions*. 问题是在标准情况下，一立方米空气重多少。(表语从句，试与上面第5句比较主、谓语词序。)
 
 
-3. Ididn’t know *how many English words you had learned* *fortwo years*. 当时我不知你们两年学了多少英语单词。(宾语从句)
+3. Ididn't know *how many English words you had learned* *fortwo years*. 当时我不知你们两年学了多少英语单词。(宾语从句)
 
 
 4. Heanswered the question *how volume* *is affected* *bytemperature*. 他回答了温度如何影响体积这个问题。(thequestion的同位语从句)
@@ -8648,7 +6001,7 @@ b. *Ifthe boy should*(或*wereto*)*study hard*，hewould pass the exam. 假如�
 1. Heasked us *if English is our* *majorsubject*. 他问了我们英语是不是我们的主要课程。(可用*whether*代替*if*。)
 
 
-2. Idon’t know *if the figures are accurate*. 我不知数字是否精确。(同上)
+2. Idon't know *if the figures are accurate*. 我不知数字是否精确。(同上)
 
 
 注：*if*和*whether*引导宾语从句时稍有差别。参阅第358页第四项说明。
@@ -8856,7 +6209,7 @@ B. 表示“用若干时间”
 
 
 
-2. Thepolicemen haven’t had a fast sleep *in a week*。警察一周内没有睡过一次好觉。
+2. Thepolicemen haven't had a fast sleep *in a week*。警察一周内没有睡过一次好觉。
 
 
 C. 表示“隔若干时间以后”这时一般用于表示将来时的句子中，而且动词多数为终止性动词(如return，come等)
@@ -9715,7 +7068,7 @@ E. 不定式短语作条件状语
 F. 不定式短语作让步状语
 
 
-*To do his best*，hewon’t be able to review so many lessons in time. 即使他竭尽全力，他仍不能按时复习那么多课的书。
+*To do his best*，hewon't be able to review so many lessons in time. 即使他竭尽全力，他仍不能按时复习那么多课的书。
 
 
 Ⅷ. 不定式短语作同位语：
@@ -10228,7 +7581,7 @@ B. being前没有is或was之类动词，仅仅是动名词&quot;being+过去分�
 3. Hewent this way in order to escape being seen. 他走这条路是为了避开被人看见。(直接宾语)
 
 
-4. Shehasn’t been used to being spoken to like thatyet. 她尚不习惯于别人那样地对她说话。(介词宾语)
+4. Shehasn't been used to being spoken to like thatyet. 她尚不习惯于别人那样地对她说话。(介词宾语)
 
 
 C. “being(现在分词)+过去分词”作定语和在独立分词结构中以及介词后的“主谓”结构(即复合结构)中的用法
@@ -10258,7 +7611,7 @@ A. 作主语用：
 注：“Thereis+no+-ing&quot;表示“不可能”之意。
 
 
-4. a. It’sno use *asking the old woman*—shedoesn’t understand what we
+4. a. It’sno use *asking the old woman*—shedoesn't understand what we
 
 
 say. 问这位老妇人毫无用处——她不懂得我们说的话。(本句还可用
@@ -10568,7 +7921,7 @@ a *writing* desk 写字桌
 1. wesaw the train *coming towards the* *station*. (当时)我们看见火车正朝着车站开过来。
 
 
-2. Thoseconditions can’t have you *doing theexperiment*. 那些条件不能使你做这个实验。
+2. Thoseconditions can't have you *doing theexperiment*. 那些条件不能使你做这个实验。
 
 
 Ⅶ. 注意“主语+动词+宾语+as+-ing”结构，这里-ing作宾语补语用：
@@ -10723,7 +8076,7 @@ B. 复合结构作主语、宾语、介词宾语(含“物主代词+-ing”作�
 1. *Somecompanies working together* developed some new-type buildingmaterials. 几家公司协作，研制出一些新型的建筑材料。(复合结构作主语。)
 
 
-2. *Yourgoing there* won’t help much. 你们去那边，不一定会有多少帮助。(主语)
+2. *Yourgoing there* won't help much. 你们去那边，不一定会有多少帮助。(主语)
 
 
 3. Weregretted *him*(或*his*)*misunderstandingus*. 我们由于他误解了我们而感到遗憾。(复合结构或宾语)
@@ -10957,7 +8310,7 @@ I. -ing语法功用的初步综合比较：(以cuttingmetal为例)
 10. *Cuttingmetal*，theworkers are very careful. 切削金属时，工人们是非常谨慎的。(时间状语)
 
 
-11. While*cutting metal*，theworkers don’t talk with each other. 工人们在切削金属时不相互交谈。(*cutting*前省略“theworkers are”，故*cutting*是谓语组成部分。)
+11. While*cutting metal*，theworkers don't talk with each other. 工人们在切削金属时不相互交谈。(*cutting*前省略“theworkers are”，故*cutting*是谓语组成部分。)
 
 
 12. Thereare lots of *metal* *cutting* machines in ourplant. 我们厂里有许多金属切割机床。(定语)
@@ -11251,10 +8604,10 @@ b. Hemust remember *to send the video mail*. 他必须记住把这个语音邮�
 
 
 
-1）Shedidn’t endure *seeing*（或*tosee*）suchanimals cruelly treated. 那时她不忍去看这样一些动物受到残酷对待。
+1）Shedidn't endure *seeing*（或*tosee*）suchanimals cruelly treated. 那时她不忍去看这样一些动物受到残酷对待。
 
 
-2）Ican’t bear *being*（或*tobe*）*laughedat*. 我不能忍受被别人取笑。
+2）Ican't bear *being*（或*tobe*）*laughedat*. 我不能忍受被别人取笑。
 
 
 C. 动词go后的动作若为表示运动游戏的非谓语动词，则一般用现在分
@@ -11377,7 +8730,7 @@ theschool（她）对校外的事一无所知；act*outside of* the law（他）
 2. Lisais just inside（或*outside*）. 莉萨正好在里面（或在外面）。
 
 
-3. Don’tlook inside（或*outside*）. 不要往里面（或外面）看。
+3. Don'tlook inside（或*outside*）. 不要往里面（或外面）看。
 
 
 4. Theboy put his socks on *inside* out. 这男孩把短袜穿反了。
@@ -11541,7 +8894,7 @@ of*it*. 这个计划无可争辩地是最好的，我们必须仔细研究（它
 体结构也表明了这一点。
 
 
-5. Itis the third time（that）Johnhas been late，isn’t*it*？这是约翰第三次迟
+5. Itis the third time（that）Johnhas been late，isn't*it*？这是约翰第三次迟
 
 
  到，是吧？（反意疑问句）
@@ -11559,7 +8912,7 @@ of*it*. 这个计划无可争辩地是最好的，我们必须仔细研究（它
 故只好用it和its作其代词. 例如：Isaw your daughter and her baby
 
 
-yesterday. Ididn’t know whether *it* is a boy or a girl. 昨天我见到了你
+yesterday. Ididn't know whether *it* is a boy or a girl. 昨天我见到了你
 
 
 的女儿及她的婴孩。我（当时）不知道这婴孩是男孩还是女孩。
@@ -11778,7 +9131,7 @@ feel，regard，find，tell，make，take，have（声称）等。
 持你的。
 
 
-3. Don’tworry. I’llsee to *it that you*’*ll get your share*. 别着急。我一定保证
+3. Don'tworry. I’llsee to *it that you*’*ll get your share*. 别着急。我一定保证
 
 
 使你获得你名下的份额。
@@ -12029,7 +9382,7 @@ E. 注意强调句型的疑问句词序和强调状语从句中的关联词时�
 问句，故itwas不颠倒词序。注意这种强调句型中还可省略*that*。）
 
 
-2）Shccouldn’t say what *it was that* bothered her. 她说不出是什么打扰
+2）Shccouldn't say what *it was that* bothered her. 她说不出是什么打扰
 
 
 了她。（同上）
@@ -12386,7 +9739,7 @@ Lest，Incase和Forfear that引出从句的用法
 1. Helocked up the document *for fear that* *it*(*should*)*bestolen*. 他把文件锁好了，免得被窃。(也可用lest代之。)
 
 
-2. Youdon’t make a noise *in case you*(*should*)*wakethem*. 你们别闹，免得惊醒他们。
+2. Youdon't make a noise *in case you*(*should*)*wakethem*. 你们别闹，免得惊醒他们。
 
 
 3. Takecare *lest you*(*should*)fall. 当心不要跌倒。(也可用Takecare *in*
@@ -12823,7 +10176,7 @@ May的主要用法
 6. A：“Whatever has happened to Mary？”甲：“玛丽究竟出什么事啦?’’
 
 
-B：“Idon’t know. She*may* have got lost. ”乙：‘‘我不知道。她也许迷路了。”
+B：“Idon't know. She*may* have got lost. ”乙：‘‘我不知道。她也许迷路了。”
 
 
 七、“maywell+动词”和“andwell+主语+may”用法举例在本句型中well按withgood reason(有充分理由)或reasonably(有理地)去理解，就易于记住本句型用法
@@ -12887,7 +10240,7 @@ Might的主要用法
 3. Underopen sky，thecoefficient *might* range from 3 to 5. 露天时，该系数值范围也许为3到5。
 
 
-4. Yououghtn’t to have driven that car with the brakes out0f order.You*might* have had a serious aceident. 你本来就不该驾驶那辆刹车失灵的汽车。你会出严重车祸的。
+4. Yououghtn't to have driven that car with the brakes out0f order.You*might* have had a serious aceident. 你本来就不该驾驶那辆刹车失灵的汽车。你会出严重车祸的。
 
 
 三、might用于目的从句。如果主句的谓语动词是过去时，目的状语从句
@@ -13108,7 +10461,7 @@ twentyyears. 在最近20年中该城市人口已增加一（或两）倍多。�
 *morethan*修饰动词double或triple。）
 
 
-10. Don’task her to withdraw her suggestion，orshe will stick to it *all the*
+10. Don'task her to withdraw her suggestion，orshe will stick to it *all the*
 
 
 *more*. 不要请她撤回她的建议，否则她会越加坚持了。
@@ -13375,7 +10728,7 @@ must的主要用法
 一、情态动词must作“必须“讲，和haveto，needto近义。否定式用need
 
 
-not（或needn’t），作“不必”讲。若用mustnot(或mustn’t)，则作“不可以”、“不
+not（或needn't），作“不必”讲。若用mustnot(或mustn't)，则作“不可以”、“不
 
 
 准”讲，有“禁止”的含义
@@ -13390,7 +10743,7 @@ not（或needn’t），作“不必”讲。若用mustnot(或mustn’t)，则�
 订计划。
 
 
-3. You*needn’t* repair the beeper，forit operates quite normally. 你不必修理
+3. You*needn't* repair the beeper，forit operates quite normally. 你不必修理
 
 
 这个寻呼机，因为它工作很正常。
@@ -13896,7 +11249,7 @@ Near的用法
 2. TheChristmas Day is *near*. 圣诞节临近。
 
 
-3. Ididn’t know they were *near* friends. （当时）我不知道他们是亲密的朋友。
+3. Ididn't know they were *near* friends. （当时）我不知道他们是亲密的朋友。
 
 
 4. a. Thegirl was *near* to tears. 那时那小女孩几乎要哭了。
@@ -13961,7 +11314,7 @@ b. Thecapital shortage was *near* to ruining our boss. （当时）资金短缺�
 意。
 
 
-1）Ihavert’t been *near* my hometown for years. 我多年没有回家乡了。
+1）Ihavert't been *near* my hometown for years. 我多年没有回家乡了。
 
 
 2）Henever goes* near*a dancing hall. 他从来不去舞厅。
@@ -14071,7 +11424,7 @@ doctor？你要不要派人请医生来？（这里*need*为实义动词。）
 未实现的动作
 
 
-1. Sheneedn’t have gone to the club last week. 她上周其实不必去俱乐部。
+1. Sheneedn't have gone to the club last week. 她上周其实不必去俱乐部。
 
 
 （事实上她已经去了。若用She*didn*’*t* *need to go* to the club last week，则
@@ -14116,7 +11469,7 @@ doctor？你要不要派人请医生来？（这里*need*为实义动词。）
 2. A：Mommy，canI play with the pager？妈妈，我能玩这个寻呼机吗？B：
 
 
-Don’t you*dare*（或You*dare*）！量你不敢（或你敢）！
+Don't you*dare*（或You*dare*）！量你不敢（或你敢）！
 
 
 Neither，Nor和Neither…nor…的用法
@@ -14238,7 +11591,7 @@ everythingfreezes. 大气能帮助维持一个相当均衡的温度，因此在�
 大部分区域内，气候既不会热得使生物枯焦，也不会冷得使万物冻僵。
 
 
- 注：注意双重否定变为肯定句的情况。例如：Emilydoesn’t neither speak or
+ 注：注意双重否定变为肯定句的情况。例如：Emilydoesn't neither speak or
 
 
 write. 埃米莉既能说又能写。
@@ -14299,7 +11652,7 @@ B：*Neither*he is. *Neither*is his younger sister. 乙：他确实不用
 注：注意前后两句使用不同的助动词或情态动词。有时可单独使用neither。
 
 
-1）Hedoesn’t know，*nor*can I guess. 他不知道，我也猜不出来。
+1）Hedoesn't know，*nor*can I guess. 他不知道，我也猜不出来。
 
 
 2）Iknow the answer *neither*. （=I do not know the answer，either. ）我
@@ -14575,7 +11928,7 @@ b. Allthe naughty children（或Allof them）werenot back yesterday. 并不是�
 1. *Nothing*in the world moves faster than light. 世界上没有东西比光运动得更快了。
 
 
-2. Isaw* nothing* on the desk. =I didn’t see anything on the desk. 我在书桌上没有看到什么（或任何）东西。
+2. Isaw* nothing* on the desk. =I didn't see anything on the desk. 我在书桌上没有看到什么（或任何）东西。
 
 
 3. Theyworked up a private company from *nothing*. 他们白手起家筹建了一个私营公司。
@@ -14621,7 +11974,7 @@ b）Iam *no *physicist. 我对物理一窍不通。
 b）Sheis *on *good at English composition. 她对于英语作文一窍不通。
 
 
-3. Ihaven’t seen Derek for years，buthe is* no* different. 我已有多年未见到德立克了，但他丝毫没变样。
+3. Ihaven't seen Derek for years，buthe is* no* different. 我已有多年未见到德立克了，但他丝毫没变样。
 
 
 二、在“notmore（或其它词的比较级）…than…”和“nomore（或其它词的比较级）…than…”中，前者为一般否定，但原文在than后却不出现任何否定词
@@ -14728,7 +12081,7 @@ We hope*not*. 我们希望不要刮大风。（不能说*Wedon*’*t* *hope*. �
 2. Isthere any doubt about it？关于这件事还有什么疑义吗？
 
 
-I think*not*. 我认为没有疑义。（不能说<SUP>※</SUP>*I*don’t think so回答，因为对方并
+I think*not*. 我认为没有疑义。（不能说<SUP>※</SUP>*I*don't think so回答，因为对方并
 
 
 没有表明自己的任何观点。）
@@ -15268,7 +12621,7 @@ be fond*of*…喜欢或酷爱（某人、游戏等）；beproud *of*…为（祖
 有时连词that也可省略。例如：
 
 
-1）Iam afraid（*that*）Ican’t go there tomorrow. 我怕明天不能去那边。
+1）Iam afraid（*that*）Ican't go there tomorrow. 我怕明天不能去那边。
 
 
 2）Sheis sure（*that*）youwill win the game。他确信你们能赢这场比赛。
@@ -17338,7 +14691,7 @@ l. *One*plus（或and）oneis two. 1加1等于2。
 3. Weall rose up as *one* at once. 我们立即全体起立. 
 
 
-4. Youdon’t try to talk at *one* time. 你们不要同时抢着讲话。
+4. Youdon't try to talk at *one* time. 你们不要同时抢着讲话。
 
 
 二、one泛指“一个人”，后接of+某类人或物，则为“…中之一（人或物）。
@@ -17353,7 +14706,7 @@ l. *One*plus（或and）oneis two. 1加1等于2。
 2. Tianjinis *one* of the big cities in China. 天津是中国的大城市之一。
 
 
-3. Thechild didn’t know ice and steam are* one*. （那时）这小孩不知道冰和水
+3. Thechild didn't know ice and steam are* one*. （那时）这小孩不知道冰和水
 
 
 蒸汽是一回事。
@@ -17392,7 +14745,7 @@ history的同位语，也是为避免重复history而用的代词。后面extend
 为后置定语。）
 
 
-2. A：Thosemobile phones don’t look nice. 那些移动电话不好看。
+2. A：Thosemobile phones don't look nice. 那些移动电话不好看。
 
 
 B：Hereis *one* which looks quite nice. 这里有一部很好看。（one代替前面
@@ -17434,7 +14787,7 @@ Or，OrElse，Else的用法
 的任何东西。
 
 
-2. Computersthemselves don’t know when to add，*or*subtract，orcompare，
+2. Computersthemselves don't know when to add，*or*subtract，orcompare，
 
 
 or requestinput. 计算机本身不知道何时加、减、比较或要求输入。
@@ -17552,7 +14905,7 @@ versa或者反过来（也是这样）等
 3. Where*else* else did Prof. Lugo？卢教授还去了什么地方？
 
 
-4. Whichelse of you didn’t hend in the homework?你们中间还有哪一个没有
+4. Whichelse of you didn't hend in the homework?你们中间还有哪一个没有
 
 
 。247. 
@@ -17941,7 +15294,7 @@ Ought用法
 2. Thefly test ought to be carried out. 这项试飞应该进行。
 
 
-二、否定式oughtnot相当于mustn’t，作“不许可”讲。一般要用should
+二、否定式oughtnot相当于mustn't，作“不许可”讲。一般要用should
 
 
 not表示“不应该”。
@@ -17956,10 +15309,10 @@ not表示“不应该”。
 
 
 
-2. She*ought to* go by air，*shouldn’t*she？她应该乘飞机去，可不是吗？（反意疑
+2. She*ought to* go by air，*shouldn't*she？她应该乘飞机去，可不是吗？（反意疑
 
 
-问句要求句末用ought的否定式shouldn’t。）
+问句要求句末用ought的否定式shouldn't。）
 
 
 三、oughto作“该”讲，用于表示可能性、期望。
@@ -18642,7 +15995,7 @@ listen*out*留心听；listen*out *for…留心听好（注意事项等）；loo
 接“汽车正开过来”、“路面很滑”等句子]；search*out *the book he needs查找他
 
 
-需要的书；watch*out *that you don’t catch cold当心你别感冒；watch*out *for…
+需要的书；watch*out *that you don't catch cold当心你别感冒；watch*out *for…
 
 
 警惕或提防（某人、汽车、蛇等），监视（敌机等），注意寻找（邮递员、某人的汽
@@ -19348,7 +16701,7 @@ be in aposition（或condition）towalk. 没有人的脚和地之间的摩擦，
 我偶然踩上小狗的尾巴，小狗便疼得大声吠叫。
 
 
-5. Theteacher doesn’t like *it* when the students are late. 学生迟到时，老师就
+5. Theteacher doesn't like *it* when the students are late. 学生迟到时，老师就
 
 
 对此不高兴。（it在句中代替“学生迟到”这个情况。）
@@ -19506,7 +16859,7 @@ have enoughtime. 只要我时间够，我就一定再把机器拆一次。（句
 要及时给马达上润滑油，马达就会运转得好。
 
 
-3. We’llgo to Paris for（或on）ourholiday *provided*（或providing）itisn’t
+3. We’llgo to Paris for（或on）ourholiday *provided*（或providing）itisn't
 
 
 tooexpensive. 只要花费不太贵，我们将去巴黎度假。
@@ -19698,7 +17051,7 @@ trustworthy. 他宁可等到完全确信玛丽可靠，他才愿意依靠她。�
 
 
 
-4. Wehad（或would）*rather*the students didn’t conduct another experiment. 
+4. Wehad（或would）*rather*the students didn't conduct another experiment. 
 
 
 我们宁愿让学生不做另外一个实验。
@@ -19919,7 +17272,7 @@ II. 注意ratherthan有时省去than及其后的词。例如：
 略。必须根据上下文去理解被省略的是什么。）
 
 
-2. I*would rather* you didn’t do anything about it for the timebeing. 我倒希
+2. I*would rather* you didn't do anything about it for the timebeing. 我倒希
 
 
 望你对这件事暂时不要采取行动。（注意句中*wouldrather*后无原形动词，
@@ -20012,7 +17365,7 @@ line是宾语补语。）
 五、副词right作“在右面”、“向右”讲
 
 
-Don’t turn*right*！别向右拐弯！
+Don't turn*right*！别向右拐弯！
 
 
 六、名词right作“正确”、“权利”、“右”讲
@@ -20109,7 +17462,7 @@ the*teachers*’help老师们的帮助；*children*’*s*books儿童读物；*ma
 也注意of后单独使用名词所有格的情况
 
 
-I. Thisbook* isn’t mine*，but*Ms. Ye’s*。这本书不是我的，而是叶女士的。
+I. Thisbook* isn't mine*，but*Ms. Ye’s*。这本书不是我的，而是叶女士的。
 
 
 2. Thatis a close friend of *Professor Lin’s*. 那是林教授的一位密友。
@@ -20524,7 +17877,7 @@ about any device isits efficiency. 既然热和功可以相互转换，那么对
 但前者多用于书面语中。例如：
 
 
-*Inasmuchas*（或Inas much as）itis not your fault，youneedn’t care. 既
+*Inasmuchas*（或Inas much as）itis not your fault，youneedn't care. 既
 
 
  然这不是你的错，你就不必介意了。（也可用since代之。）
@@ -20619,7 +17972,7 @@ ago）. 自从1978年（或22午前）以来我们取得了伟大的成就。（
 一直没有见到他。
 
 
-2. Sheleft home a week ago and I haven’t heard from her *since*。她一周以前
+2. Sheleft home a week ago and I haven't heard from her *since*。她一周以前
 
 
 离家，从那时起我一直未听到她的音讯。
@@ -21016,10 +18369,10 @@ III. sothat引出的从句内出现情态动词，则大多数是目的状语从
  况说来，都要用逻辑判断作为最后核查。只有这样，才能查出例外情况。例如：
 
 
-1. Itwas raining，*sothat* we couldn’t go out。当时正下着雨，所以我们没能出
+1. Itwas raining，*sothat* we couldn't go out。当时正下着雨，所以我们没能出
 
 
-去。（结果状语从句，尽管从句内出现情态动词couldn’t。）
+去。（结果状语从句，尽管从句内出现情态动词couldn't。）
 
 
 . 281. 
@@ -21105,7 +18458,7 @@ l. Youwill *soon* go to the factory. 你们很快要下厂了。（指时间的�
 1）*Assoon as* she discovered her errors, she made the necessarycorrections to her data. （那时）她一发现有错，她就对自己的数据作必要的修改。
 
 
-2）Hedidn’t arrive *as soon* *as* we hadexpected. 我们早就料到，他到不了。（assoon as并非引出时间状语从句。）
+2）Hedidn't arrive *as soon* *as* we hadexpected. 我们早就料到，他到不了。（assoon as并非引出时间状语从句。）
 
 
 四、注意都表示“一……就……”的几个同义句的表达式
@@ -21166,7 +18519,7 @@ c. Shortlyafter I had done that，Irealized I had made a mistake.
 2. *Soonerthan* do such a thing，I*would* stay here. 我宁可留在这里，也不愿做这样的事。
 
 
-3. Wouldn’tyou *sooner* take this medicine *than* besick?你宁可不吃药而甘愿生病吗?
+3. Wouldn'tyou *sooner* take this medicine *than* besick?你宁可不吃药而甘愿生病吗?
 
 
 注：这里用would表示虚拟语气。
@@ -21823,13 +19176,13 @@ Nickel steel isalso elastic，*thatis*，itcan stand vibration，shocks，and
 Ⅷ. that作状语用，表示“那样”、“那么”含义：
 
 
-1. Wecan’t walk* that far*. 我们不能走那么远。
+1. Wecan't walk* that far*. 我们不能走那么远。
 
 
 2. Ihave done only *that much*. 我只做了那么多。
 
 
-3. Ifthe tool is* that *bad，youmustn’t use it. 如果工具那样坏，那末你们就不
+3. Ifthe tool is* that *bad，youmustn't use it. 如果工具那样坏，那末你们就不
 
 
 可使用了。
@@ -22782,13 +20135,13 @@ to be *done*. ）
 动得越自由。（本句第二部分主谓语不颠倒也可，即去掉do。）
 
 
-4. *Themore *you learn，*themore *you find you don’t know. 学得越多，就发现
+4. *Themore *you learn，*themore *you find you don't know. 学得越多，就发现
 
 
 知道东西越少。（未按原文结构翻译。注意第二个*themore*是和find后的宾
 
 
-语从句的谓语don’tknow有关。）
+语从句的谓语don'tknow有关。）
 
 
 5. *Theharder* you work，*thegreater *progress you will make. 你越用功，你进
@@ -23291,7 +20644,7 @@ undiscovered. 根据周期表，似乎还有一些元素未发现。
 6. Therestands a chemical plant by the river. 那条河边有一个化工厂。
 
 
-7. Theredoesn’t seem to be too much hope of his being still alive. 他仍然活在
+7. Theredoesn't seem to be too much hope of his being still alive. 他仍然活在
 
 
 世上的希望似乎不太大。
@@ -23437,7 +20790,7 @@ Though和Although的用法和注意点
 makedeals. 虽然他才18岁，但他已学会如何做生意。
 
 
- 2. *Though*（或*Although*）shewent to the budgetstore，shedidn’t buy
+ 2. *Though*（或*Although*）shewent to the budgetstore，shedidn't buy
 
 
 anything. 尽管她去廉价商店了，但她什么都没有买。
@@ -23646,7 +20999,7 @@ come *through*on the phone from Beijing（她）从北京打来电话；cut*thro
 过（考试等）；getsb. *through*让某人通过[注：结合上下文去理解“通过考试
 
 
-或复试等”]；Itried to phone him about it，butcouldn’t get *through*. 我力争
+或复试等”]；Itried to phone him about it，butcouldn't get *through*. 我力争
 
 
  打电话告诉他这件事，但没有打通（电话）。go（或pass）*through*…（学生等）
@@ -25197,7 +22550,7 @@ thecoat匆匆穿上（或脱下）外衣，throwoneself *down*迅速趴下]等
 的立场一致。
 
 
-6. Thegirl can’t even put a single sentence *together*. 这女孩甚至还不能完整
+6. Thegirl can't even put a single sentence *together*. 这女孩甚至还不能完整
 
 
 地造一个简单的句子。
@@ -25622,7 +22975,7 @@ sea. 以往她常转向窗户，面向窗外仅有的茫茫大海。（过去习
 
 
 
-4. He*didn’t use to go *there. =He*used not*（或*Heusedn’t*）togo* there*. 他以往
+4. He*didn't use to go *there. =He*used not*（或*Heusedn't*）togo* there*. 他以往
 
 
 一向不去那边。
@@ -25775,7 +23128,7 @@ stop）undfr（water）for10 seconds（他）在水下呆了10秒钟[过去时�
 from *under *thebridge. 这孩子从桥底下出来。Thereare *under* ten computers
 
 
-in theroom. 房间里的计算机不足十台。Don’tgive a lot of money to children
+in theroom. 房间里的计算机不足十台。Don'tgive a lot of money to children
 
 
 *under* sevenyears old. 不要给七岁以下的小孩许多钱。Thetrain travels 200
@@ -25969,7 +23322,7 @@ until或till的宾语. ）
 现这封信。
 
 
-2. Shedidn’t finish reading your paper* until* after l turnedback. 直到我回来
+2. Shedidn't finish reading your paper* until* after l turnedback. 直到我回来
 
 
 以后她才读完你的论文。
@@ -25990,7 +23343,7 @@ you have listenedto the tape. 请你在听了磁带录音后再看听力理解�
 封信。（注意few构成否定句。）
 
 
-6. Don’tcome and see me *until*（或*till*）youhave fulfilled your task。直到你
+6. Don'tcome and see me *until*（或*till*）youhave fulfilled your task。直到你
 
 
 完成任务才能前来见我。
@@ -27384,7 +24737,7 @@ way的定语。该句可译为：她正在回家途中。
 道碍事。（同上）
 
 
-b. Don’tstand* in the way *of the teacher. 别妨碍老师。（状语）
+b. Don'tstand* in the way *of the teacher. 别妨碍老师。（状语）
 
 
 二、名词way作“方法”、“方式”讲
@@ -27518,7 +24871,7 @@ which plants buildup in photosynthesis。人类使用的大部分能量来自太
 不同的眼光来看这个情况。
 
 
-7. Don’tstand *in the way*. 别站着挡道。
+7. Don'tstand *in the way*. 别站着挡道。
 
 
 What的用法和判别
@@ -27569,7 +24922,7 @@ b. *Which*is your teachcr，sheor he？哪一个是你的老师，是她还是�
 1. *What*computers have you ever used？你使用过什么样的计算机？
 
 
-2. Hedoesn’t know *what* beeper he should buy. 他不知道他应该买什么样的
+2. Hedoesn't know *what* beeper he should buy. 他不知道他应该买什么样的
 
 
 寻呼机。
@@ -27683,7 +25036,7 @@ be *what wedesire to be*. 我们能够而且决心做自己想做的事。我们
 规模。（*what*从句在句中作宾语补语。）
 
 
-8. *What*is it you don’t like about winter weather？你不喜欢冬天天气的哪一
+8. *What*is it you don't like about winter weather？你不喜欢冬天天气的哪一
 
 
 . 346. 
@@ -28037,7 +25390,7 @@ things）which…”讲，就要结合具体句子进行比较，取其中符合
 句，toothers为doing的状语。）
 
 
-2. Hedoesn’t care *what *people said about him. 他不关心人们议论他什么。
+2. Hedoesn't care *what *people said about him. 他不关心人们议论他什么。
 
 
 3. Itis not a question how much a man knows，but*what use* he can make of
@@ -28082,7 +25435,7 @@ When的用法和判别
 1. *When*did you buy the stocks and bonds？你何时买的这些股票和债券？
 
 
-2. Hedoesn’t know *when to* get online。他不知何时上网。
+2. Hedoesn't know *when to* get online。他不知何时上网。
 
 
 3. From*when *did our paging business begin to grow rapidly？我们的寻呼
@@ -28197,7 +25550,7 @@ That was in1979，since*when* things have been better. 那是在1979年，
 三、when引出名词从句
 
 
-l. Ididn’t know *when*（=whattime）itwas. 那时我不知道是什么时候。
+l. Ididn't know *when*（=whattime）itwas. 那时我不知道是什么时候。
 
 
 2. *Whenall the students can operate computers* is an important problem. 何时
@@ -28357,7 +25710,7 @@ b. Askher *when she comes back*. 她回来时你就问她。（when引导时间�
 语从句。）
 
 
-2. Idon’t know *when they will come*；but*when they come* I shall have a talk
+2. Idon't know *when they will come*；but*when they come* I shall have a talk
 
 
 withthem。我不知道他们何时来，但他们来时，我将找他们谈一谈。（第一
@@ -28593,7 +25946,7 @@ electriccurrent. 钢不仅常用于电线申，而且还用于要求钢进行传
 三、where引导名词从句
 
 
-1. Wedon’t know *where he works*. 我们不知道他在哪里工作。（宾语从句）
+1. Wedon't know *where he works*. 我们不知道他在哪里工作。（宾语从句）
 
 
 2. Thatis just *where they are mistaken*. 那正是他们错误所在之处。（表语从
@@ -28745,7 +26098,7 @@ live. Justas important is *whether the air is clean or polluted*. 空气十分�
 
 
 
-4. Wedon’t know *whether*（或*if*）*itis right*. 我们不知道这是否对。（宾语从
+4. Wedon't know *whether*（或*if*）*itis right*. 我们不知道这是否对。（宾语从
 
 
 句）
@@ -28902,7 +26255,7 @@ help him to doit. 不管他成败如何，我们都必须帮助他做这件事�
 否能进入核电站。（宾语从句）
 
 
-2. *Ifthey have discussed the problem*，reallyI don’t know. 他们是否讨论了
+2. *Ifthey have discussed the problem*，reallyI don't know. 他们是否讨论了
 
 
 这个问题，我真的不知道. （*If*引出宾语从句，因强调才提前，后面主句谓
@@ -28947,7 +26300,7 @@ whether之前又没有逗号，这时whether引导的从句多半是同位语从
 （或not）时，作“无论如何”、“不管怎样”讲。
 
 
-1. *Whetheror not they designed this kind of video telephone set*，Idon’t
+1. *Whetheror not they designed this kind of video telephone set*，Idon't
 
 
 know. 他们是否设计过这种可视电话机，我不知道。
@@ -29000,7 +26353,7 @@ Which的用法和判断
 方法进行这个试验，这种还是那种方法？
 
 
-2. Thereare many types of pagers in the shop. Idon’t know *which one you*
+2. Thereare many types of pagers in the shop. Idon't know *which one you*
 
 
 *likebest*. 商店里有许多寻呼机，我不知道你最喜欢哪一种型式。（*which*引
@@ -29979,7 +27332,7 @@ Whose的用法
 2. *Whose*are those books？那些书是谁的？
 
 
-3. Idon’t know *whose portable computer you are usting*. 我不知道你在使用
+3. Idon't know *whose portable computer you are usting*. 我不知道你在使用
 
 
 谁的手提式计算机。（宾语从句）
@@ -30153,13 +27506,13 @@ question。）
 3. Oh，youlook weak today. *Whyyou not go and see the doctor*？奥，你今天
 
 
-脸色显得虚弱。为什么不去看医生？（第二部分也可改为：Whydidn’t you
+脸色显得虚弱。为什么不去看医生？（第二部分也可改为：Whydidn't you
 
 
 go and see thedoctor？）
 
 
-4. *Why*haven’t you sent him away？为什么还没有打发他走？
+4. *Why*haven't you sent him away？为什么还没有打发他走？
 
 
 5. *Why*didyou beeome a chemistry teacher？为何你当了一名化学教师？
@@ -30168,7 +27521,7 @@ go and see thedoctor？）
 6. *Why*let her come in？Shewell stand in the way. 为什么让她进来？她会碍
 
 
-事的。（第一部分有Don’tlet her come in含义。）
+事的。（第一部分有Don'tlet her come in含义。）
 
 
 7. Weshould praise the girl for the reason *why she* studiesbest。我们应该表
@@ -30257,7 +27610,7 @@ Will的主要用法
 三、will表示一种主观猜想，作“谅必”、“大概”、“将会”讲
 
 
-1. Thiscomputer doesn’t work normally. It*will* be the one you bought ten
+1. Thiscomputer doesn't work normally. It*will* be the one you bought ten
 
 
 yearsago. 这台计算机操作不正常。这大概是你十年前买的那一台吧。
@@ -30454,7 +27807,7 @@ agree*with*…同意（你或你的计划）；bein agreement *with* sb. there�
 the salegirl’soffer），（他们）最后彼此达成一致[*with*后加eachother]；I
 
 
-don’t hold *with*this plan. 我不同意这个计划。（常用于否定句或疑问句。）go
+don't hold *with*this plan. 我不同意这个计划。（常用于否定句或疑问句。）go
 
 
 *with* sb. onthis suggestion有关这个建议我同意某人看法；go*with*…（家具
@@ -30524,10 +27877,10 @@ working up acompany]；engage*with*…（这个齿轮即thisgear）和（那个�
 即thatone）啮合或咬合在一起；unite（*v*. ）*with*…（使）（理论）和（实践）统一
 
 
-或结合，（油）和（水）不相融[谓语用doesn’t…]；mix（*v*. ）*with*…将（蛋即
+或结合，（油）和（水）不相融[谓语用doesn't…]；mix（*v*. ）*with*…将（蛋即
 
 
-eggs）和（水）混合在一起，（油）和（水）不相融[谓语用doesn’tmix]；mix…up
+eggs）和（水）混合在一起，（油）和（水）不相融[谓语用doesn'tmix]；mix…up
 
 
 *with*…将（这个词）和（那个词）混淆不清；communicate*with*…（她）和（我
@@ -30667,13 +28020,13 @@ deal*with*…处理（困难），处罚（某人），公正对待（某人）[
 银行）打交道；Whathave you done *with*…？你对（这个顽皮小孩即the
 
 
-naughtychild）作了什么处理或你把（我的书）弄到哪里去了？Ifhe can’t get
+naughtychild）作了什么处理或你把（我的书）弄到哪里去了？Ifhe can't get
 
 
 any water，whatwill he have to do *with*？如果他搞不到水，那么他将不得不
 
 
-用什么来将就过去（或凑付一下）呢？can’t do *with*…（我）无法容忍（那么
+用什么来将就过去（或凑付一下）呢？can't do *with*…（我）无法容忍（那么
 
 
 大的闹声即somuch noise）；manage*with*…（他）用（旧的机器）来对付（或将
@@ -30687,10 +28040,10 @@ any water，whatwill he have to do *with*？如果他搞不到水，那么他将
 
 
 
-就）过去；can’tbear（或putup）*with*…不能容忍（这样一种工作态度即such
+就）过去；can'tbear（或putup）*with*…不能容忍（这样一种工作态度即such
 
 
-a workattitude）；can’thold *with* the son cutting a class不能容忍儿子旷一节
+a workattitude）；can'thold *with* the son cutting a class不能容忍儿子旷一节
 
 
 课；bepatient *with*…（她）对（儿女）耐心；befaced（或confronted）*with*…面
@@ -30799,7 +28152,7 @@ experiment *with*windows open. 我们当时在窗户敞开情况下做了这样�
 In gases，theparticles are far apart，*with*empty between. 气体中各粒子相互
 
 
-隔开，其间有空隙。*With*so much homework to be done，Ican’t go to the
+隔开，其间有空隙。*With*so much homework to be done，Ican't go to the
 
 
 cinema. 有那么多作业，我不能去看电影。*With*five minutes to go before the
@@ -31092,7 +28445,7 @@ information. 至于GDP（指国内生产总值）我们即将发布进一步的
 信息。
 
 
-2）Hedidn’t say anything* with regard* *to* his ownincome. 他没有说有
+2）Hedidn't say anything* with regard* *to* his ownincome. 他没有说有
 
 
 关他个人收入的任何情况。
@@ -31166,13 +28519,13 @@ software。你有这样的知识和经验，一定能编出好的软件。
 二十、介词with短语作“虽然或尽管”讲时用法举例
 
 
-1. *With*all her money，sheisn’t living a happy life. 尽管她很有钱，但她并没
+1. *With*all her money，sheisn't living a happy life. 尽管她很有钱，但她并没
 
 
 有过着幸福的生活。
 
 
-2. Idon’t like this project *with* all its advantages. 尽管这个项目有许多有利
+2. Idon't like this project *with* all its advantages. 尽管这个项目有许多有利
 
 
 条件，但我不喜欢（它）。
@@ -31226,7 +28579,7 @@ morning we arrivedat an agreement. 我们对这份合同讨论了好几个星期
 结果于今天上午达成协议。
 
 
-5. Hedidn’t accept many good pieces of advice，*with*disastrous results. 他不
+5. Hedidn't accept many good pieces of advice，*with*disastrous results. 他不
 
 
 接受许多有益的劝告，结果遭到灾难性的后果。
@@ -31292,7 +28645,7 @@ come（或bewell）*within*range（敌人）正好处于射程范围内；be*wit
 即thescope of our duty）范围，（他的年龄即hisage）在（规定限度即the
 
 
-prescribedlimits）内；won’trefuse to do anything *within* reason不会拒绝做任
+prescribedlimits）内；won'trefuse to do anything *within* reason不会拒绝做任
 
 
 何合理的事；be*within*…（这些结果即theresults）在（精确度即theaccuracy）
@@ -31511,7 +28864,7 @@ b. Johnlooked at us *without expression*. 那时约翰毫无表情地看着我�
 再说一句话便离开了网友俱乐部。
 
 
-4. Youshouldn’t get out *without a coat on* in this weather. 这种天气你不应
+4. Youshouldn't get out *without a coat on* in this weather. 这种天气你不应
 
 
 该不穿外衣往外走。
@@ -31526,7 +28879,7 @@ b. Johnlooked at us *without expression*. 那时约翰毫无表情地看着我�
 三、介词without和否定句搭配时的用法举例
 
 
-1. You*couldn’t* get in *without a passport*. 没有护照你就进不去。
+1. You*couldn't* get in *without a passport*. 没有护照你就进不去。
 
 
 2. Theyrejected your proposal，and*not without reason*. 他们拒绝了你的提
@@ -31541,7 +28894,7 @@ b. Johnlooked at us *without expression*. 那时约翰毫无表情地看着我�
 浪。）
 
 
-4. Wecan’t speak English without making a mistake. 我们不能毫无错误地讲
+4. Wecan't speak English without making a mistake. 我们不能毫无错误地讲
 
 
 英语。（或译：我们讲英语不能不出错。）
@@ -31550,13 +28903,13 @@ b. Johnlooked at us *without expression*. 那时约翰毫无表情地看着我�
 四、副词without用法也可理解为介词without后的有关词被省略的结果
 
 
-1. Ifwe haven’t any optical computer，weshall have to do *without*. 如果没有
+1. Ifwe haven't any optical computer，weshall have to do *without*. 如果没有
 
 
 光计算机，那么我们只好不用了。
 
 
-2. Thereisn’t a pager for everyone，sosome of us will have to go *without*. 做
+2. Thereisn't a pager for everyone，sosome of us will have to go *without*. 做
 
 
 不到每人都有一个寻呼机，我们中间有的人只好没有寻呼机。
@@ -31690,7 +29043,7 @@ experiments. 本来她早就来超市了，但是她当时太忙于做她的实�
 1. Tomorrow*would* be a fine day。明天会是个晴天。（语气比will婉转。）
 
 
-2. Isuppose what she has said is true. Idon’t think she *would *tell me a lie. 
+2. Isuppose what she has said is true. Idon't think she *would *tell me a lie. 
 
 
 我想她说的话是真实的，我认为她不会对我说谎。（同上）
@@ -31734,7 +29087,7 @@ will委婉
 个实验进行下去，而不愿放弃不做. 
 
 
-5. *Would*you *rather* I didn’t talk about it？你不愿意要我谈这件事吧？（注意
+5. *Would*you *rather* I didn't talk about it？你不愿意要我谈这件事吧？（注意
 
 
 *wouldrather*后面直接用名词从句。）
@@ -31824,7 +29177,7 @@ to：
 （这句话并不表示“他现在不再在星期日工作”。）
 
 
-七、以would表示过去的不可避免的倾向，而wouldn’t表示过去办不到
+七、以would表示过去的不可避免的倾向，而wouldn't表示过去办不到
 
 
 的事。
@@ -32291,7 +29644,7 @@ firm nextweek. 昨天他听说我们下星期将去一个大型高科技公司�
 3）Shesaid she *was about to start*. 她说她马上要动身了。
 
 
-4）Ididn’t expect he *was going to fetch *my hat for me ftom thenext
+4）Ididn't expect he *was going to fetch *my hat for me ftom thenext
 
 
 room. 我没想到他准备从隔壁房间里为我拿来帽子。
@@ -32550,7 +29903,7 @@ II. 现在完成时和过去一般时的比较：
 6. When*did *she *go to* Shanghai Bund？她何时去上海外滩了？
 
 
-7. I*haven’t been* to Shanghai Bund。我没有去过上海外滩。
+7. I*haven't been* to Shanghai Bund。我没有去过上海外滩。
 
 
 8. I*did not go *to Shanghai Bund last year. 去年我没有去上海外滩。
@@ -32681,16 +30034,16 @@ they would succeedin the end. 他们失败过几次，但他们仍然相信最�
 去完成时变为虚拟语气表示法中的一种形式。例如：
 
 
-1）I*had hoped *to go for a walk，butsomeone called and I couldn’t get
+1）I*had hoped *to go for a walk，butsomeone called and I couldn't get
 
 
 away. 我本来希望出去散步。但有人来找，脱不了身。
 
 
-2）Iwish（that）I*hadn’t spoken like* that. 我巴不得当时没那样说多好。
+2）Iwish（that）I*hadn't spoken like* that. 我巴不得当时没那样说多好。
 
 
-3）Ifhe *had left* for Beijing yesterday，youcouldn’t have met him today. 
+3）Ifhe *had left* for Beijing yesterday，youcouldn't have met him today. 
 
 
 假如他昨天动身去北京的话，那么今天早就碰不到他了。
@@ -33657,7 +31010,7 @@ by引出行为发生者。
 10. *Heated*，themetal expands. 金属受热就膨胀。(状语)
 
 
-11. Theydaren’t ask questions，forthey are afraid of *being laughed *at. 他们
+11. Theydaren't ask questions，forthey are afraid of *being laughed *at. 他们
 
 
 不敢提问，因为他们怕遭到嘲笑。(这里介词宾语是涉及主语的动名词被
@@ -33749,7 +31102,7 @@ by引出行为发生者。
 锁上了。)
 
 
-6. Thewindow was *shut* at six when I went by，butI don’t know when it *was*
+6. Thewindow was *shut* at six when I went by，butI don't know when it *was*
 
 
 *shut*. 我在六点钟路过时，这扇窗户是关着的，但我不知这窗户是什么时候
@@ -33993,7 +31346,7 @@ B. 否定结构：主语+谓语(随主语而变的be、have或助动词、情态
 3. He*has not* bought a P. C. yet. 他尚未买个人计算机。
 
 
-4. Prof. Lu*doesn’t get* online on Sundays。卢教授星期日不上网。
+4. Prof. Lu*doesn't get* online on Sundays。卢教授星期日不上网。
 
 
  注：英语还有用never，neither，no，none，nothing，nobody，hardly，scarcely
@@ -34061,13 +31414,13 @@ allmeans完全可以或务必这样等。
 来回答。但译成汉语时，差别很大。例如：
 
 
-Haven’t you beento Shanghai?你没去过上海吗?
+Haven't you beento Shanghai?你没去过上海吗?
 
 
 Yes，Ihave. 不，我去过。
 
 
-No，Ihaven’t. 是，我没去过。
+No，Ihaven't. 是，我没去过。
 
 
 B. 特殊疑问句 疑问句前出现疑问词的，叫做特殊疑问句。这时句中主
@@ -34148,7 +31501,7 @@ Who to(或Towhom)?给谁写的?
  注3：名词从句(如主语从句、宾语从句、表语从句等)用疑问词引导时，其后面
 
 
-的主语、谓语不必颠倒。例如：Idon’t know *when the conference will be*
+的主语、谓语不必颠倒。例如：Idon't know *when the conference will be*
 
 
 。406. 
@@ -34158,7 +31511,7 @@ Who to(或Towhom)?给谁写的?
 
 
 
-*held*. 我不知道该会何时举行。(*when*引出宾语从句。若将Idon’t know
+*held*. 我不知道该会何时举行。(*when*引出宾语从句。若将Idon't know
 
 
 改为Myquestion is，则*when*引出表语从句。)
@@ -34191,10 +31544,10 @@ D. 反意疑问句 提问者先提出情况和看法，然后问对方是否同�
  部分为否定句，则后面简短问句就用肯定式. 例如：
 
 
-1. She*is* your teacher，*isn’tshe*？她是你们的老师，对不?
+1. She*is* your teacher，*isn'tshe*？她是你们的老师，对不?
 
 
-2. Hehasn’t been to Japan，*hashe*?他没去过日本，是吗?
+2. Hehasn't been to Japan，*hashe*?他没去过日本，是吗?
 
 
 3. Theysaid nothing about it，didthey?他们关于这件事没说什么，对吗?
@@ -34227,7 +31580,7 @@ D. 反意疑问句 提问者先提出情况和看法，然后问对方是否同�
 含有命令口吻。不算反意疑问句。)
 
 
-b. Havea cup of tea，won’tyou？请喝一杯茶。(用于请客场合，仍是反
+b. Havea cup of tea，won'tyou？请喝一杯茶。(用于请客场合，仍是反
 
 
 意疑问句。)
@@ -34320,7 +31673,7 @@ III. 祈使句 用来提出请求、命令、建议或祝愿等。主语you常�
 解。例如：
 
 
-1)Wasn’t it aworderful match!这是一场太精彩的比赛了!(注意无否
+1)Wasn't it aworderful match!这是一场太精彩的比赛了!(注意无否
 
 
 定含义。)
@@ -34528,7 +31881,7 @@ III. 主从复合句 含有两套或更多的主谓结构，其中有一个是�
 须跟上时代的发展。(表语从句)
 
 
-4. Idon’t know *who invented computers*。我不知道谁发明了计算机。(宾语从
+4. Idon't know *who invented computers*。我不知道谁发明了计算机。(宾语从
 
 
 句)
@@ -34971,7 +32324,7 @@ l. Didyou buy *a non*-*stick pan*?(当时)你买了不粘锅吗?
 深化改革。(动名词短语或不定式短语作宾语。)
 
 
-b. Shedidn’t go out，andso escaped *being seen*. (那时)她不外出，因此避
+b. Shedidn't go out，andso escaped *being seen*. (那时)她不外出，因此避
 
 
 免了被人看见。(动名词被动态作宾语。)
@@ -35858,7 +33211,7 @@ physicalexercises. 我们决不应忽视体育锻炼。
 话，他们就有了勇气，并继续战斗下去。
 
 
-7. Hewon’t go* at all risks*. 他不会冒一切危险前去。
+7. Hewon't go* at all risks*. 他不会冒一切危险前去。
 
 
 8. *Atall events*，youought not to stay here. 无论如何，你不应当留在这里。
@@ -36225,10 +33578,10 @@ and *often*must be tired. ）
 肯定语气的did前面。）
 
 
-5. a. Shedoesn’t* really* like such a child. 她不怎么喜欢这样一个小孩。
+5. a. Shedoesn't* really* like such a child. 她不怎么喜欢这样一个小孩。
 
 
-b. I*really *don’t like such a boy. 我实在不喜欢这个男孩。（注意a，b句意
+b. I*really *don't like such a boy. 我实在不喜欢这个男孩。（注意a，b句意
 
 
 思有所不同。）
@@ -36243,10 +33596,10 @@ b. I*really *don’t like such a boy. 我实在不喜欢这个男孩。（注意
 
 
 
-Microsoft. 她可能不会去微软公司。（若用简略的否定式won’t，则
+Microsoft. 她可能不会去微软公司。（若用简略的否定式won't，则
 
 
-Probably只能用于won’t前面。）
+Probably只能用于won't前面。）
 
 
 C. 表示好坏的评价性副词多半用于句末部分。若用于修饰分词，则放在
@@ -36788,7 +34141,7 @@ nobody，noone，aperson，whoever等。
 勿踏草地。（意译）
 
 
-4）When*a person* doesn’t want to live on，*they*are often difficult to
+4）When*a person* doesn't want to live on，*they*are often difficult to
 
 
 listen to suchadvice. 当一个人不想活下去时，常很难听从这样的劝
@@ -37315,7 +34668,7 @@ take to get morefresh water. 较为严重的问题之一是我们采取什么
 不坚持要他出席会议。
 
 
-6）Theaccident couldn’t have happened *except that it did*. 那事故本来
+6）Theaccident couldn't have happened *except that it did*. 那事故本来
 
 
 不可能发生，但却发生了。
@@ -37815,7 +35168,7 @@ excess过度，过量；incoordination协调地；incommon共同 等
 检修一下。（“seeto…”原义为“留心”、“注意”。）
 
 
-3. Ifyou don’t believe him，goand* see*（*vi. *）*into*the matter. 如果你不相信
+3. Ifyou don't believe him，goand* see*（*vi. *）*into*the matter. 如果你不相信
 
 
 他，你就去调查这件事吧。
@@ -37878,7 +35231,7 @@ excess过度，过量；incoordination协调地；incommon共同 等
 8. Isaw him *on the way home*. 我在回家路上见到了他。
 
 
-9. Don’tstand* in the way*. 不要挡路站着。
+9. Don'tstand* in the way*. 不要挡路站着。
 
 
 Ⅵ. 注意介词短语在句中的位置：
@@ -38601,7 +35954,7 @@ planets. 宇航员认为有朝一日他们可截取外星智能人发出的信�
 头脑十分灵敏。
 
 
-2）Itdidn’t strike me as surprisedthat nobody talked about the matter. 
+2）Itdidn't strike me as surprisedthat nobody talked about the matter. 
 
 
 当时没人谈及此事，并不使我感到惊讶。（it为形式主语，that从句为
@@ -38625,7 +35978,7 @@ planets. 宇航员认为有朝一日他们可截取外星智能人发出的信�
 
 
 
-3. Hisbedroom was dirty，andso he didn’t ask me*in*. 当时他的卧室很脏，因
+3. Hisbedroom was dirty，andso he didn't ask me*in*. 当时他的卧室很脏，因
 
 
 此没请我入内。
@@ -38667,7 +36020,7 @@ gloves的宾语补语。）
 Ⅸ. 用what从句（一种凝聚力很大的名词从句）作宾语补语
 
 
-1. Noweach type of computer has its own name. Youmustn’t call it *what*
+1. Noweach type of computer has its own name. Youmustn't call it *what*
 
 
 *you will*（*callit*）。现在每种型式的计算机各有它自己的名称。你不可以随
@@ -39495,7 +36848,7 @@ III. 用“Wereit not for+宾语”或“Butthat+从句”表示假设从句的�
 式。
 
 
-1. *Wereit not for *(=*If it were not for*)*a computer*，youcouldn’t get on 1ine
+1. *Wereit not for *(=*If it were not for*)*a computer*，youcouldn't get on 1ine
 
 
 and send a videoe-mailto a friend from over thc sea. 假如没有计算机，你
@@ -39588,10 +36941,10 @@ true，*wouldhave acted* differently. ）一个真正的朋友就不会这样做
 8. (a)*Ifonly *he *were *alive！要是他活着多好啊！
 
 
-(b) *If only *I*hadn’t lost it*！要是没丢失（它）多好！
+(b) *If only *I*hadn't lost it*！要是没丢失（它）多好！
 
 
-9. I*wish*(*that*)I *hadn’t* saidthat. 悔不该当时那样讲了. （原义是：但愿我当
+9. I*wish*(*that*)I *hadn't* saidthat. 悔不该当时那样讲了. （原义是：但愿我当
 
 
 时没那样讲多好啊！显然是对过去没实现的事表示遗憾。）
@@ -39615,7 +36968,7 @@ true，*wouldhave acted* differently. ）一个真正的朋友就不会这样做
 从句内容实际上是和现在事实相反的，故用虚拟语气。）
 
 
-12. HowI *wish* it* weren’t*（或*wasn't*）raining！现在要是不下雨多好！（本句为
+12. HowI *wish* it* weren't*（或*wasn't*）raining！现在要是不下雨多好！（本句为
 
 
 感叹句结构。）
@@ -39968,7 +37321,7 @@ time. 她竟）然用很短时间做完这个实验，真令人惊异。
 然会如此容易。
 
 
-4. Wejust *couldn’t believe* that the new building *should be*so beautiful. 我们
+4. Wejust *couldn't believe* that the new building *should be*so beautiful. 我们
 
 
 简直不相信新楼会这样漂亮。
@@ -40037,7 +37390,7 @@ am sorry，theywere disappointed等句子后面的从句中
 and、or、butalso、while、though等手段把各分句并列地连接起来的方法
 
 
-1. Thisbeeper w*orks well*，butthat one doesn’t(*workwell*). 这个寻呼机正
+1. Thisbeeper w*orks well*，butthat one doesn't(*workwell*). 这个寻呼机正
 
 
 常工作，但那个就不行。
@@ -40462,7 +37815,7 @@ thc better. 越快越好等.
 请参加你的生日聚会。
 
 
-4. It’sa pity(*that*)you can’t operate a computer。很遗憾，你不会操作计
+4. It’sa pity(*that*)you can't operate a computer。很遗憾，你不会操作计
 
 
 算机。
@@ -40516,13 +37869,13 @@ thisprocess. 我们去年开发的软件可用来控制这个过程‘
 注：注意有时省略的不是和主句相同的成份。例如：
 
 
-1）Theywon’t buy such a computer as yours(*is*)。他们不会买像你那样
+1）Theywon't buy such a computer as yours(*is*)。他们不会买像你那样
 
 
 的计算机。
 
 
-2）Doyou think the boy is doing something(*that*)he shouldn’t(do)？
+2）Doyou think the boy is doing something(*that*)he shouldn't(do)？
 
 
 你是否认为这男孩正在做他不应该做的事吗？
@@ -40691,7 +38044,7 @@ l. Gladto see you。见着你，很高兴。
 早上同朋友出去，下午做了个实验。
 
 
-4. Doesn’tmatter. 没有关系。
+4. Doesn'tmatter. 没有关系。
 
 
 5. Timefor rest. 该休息了。
@@ -40742,7 +38095,7 @@ Yes，thcyare. 是的，他们有进步。
 Yes，Ido，thanks. 谢谢，我生活幸福。
 
 
-4. Ican’t go to Shanghai subway station today，butI can next week. 我今天
+4. Ican't go to Shanghai subway station today，butI can next week. 我今天
 
 
 不能去上海地铁站，但我下周能去。
@@ -40767,7 +38120,7 @@ A. 1. CanEmily do this work？埃米莉能做这件工作吗？
 I think *so*. 我想她行。
 
 
-I think *not*（或I*don’t* think *so*）。我想他不行。
+I think *not*（或I*don't* think *so*）。我想他不行。
 
 
 2. Jcssicamay not be free today.If *so* you will not come to me.杰西卡
@@ -40788,7 +38141,7 @@ I am afraid*not*.我怕不能。
 为难吗？
 
 
-I hope*not*。我希望不会。（注意不说Idon’t hope so. ）
+I hope*not*。我希望不会。（注意不说Idon't hope so. ）
 
 
 3. Wemay be free today. Ifnot，youwill not come to us.我们今天可能有
@@ -40863,7 +38216,7 @@ C. 1. Doesshe write 1etters to them？她写信给他们吗？
 家五星级宾馆是因为什么呢？
 
 
-4. Wedon’t know who it was (that)called the doctor？我们不知道是谁请了
+4. Wedon't know who it was (that)called the doctor？我们不知道是谁请了
 
 
 。 468. 
@@ -41337,7 +38690,7 @@ There is nouse(*in*)explaining it to her any more. 这件事再向她解释是�
 这些事实我们都讨论了，并且由每个人检验。
 
 
-2. This*conclusion *we heard her say something about，andcan’t be wrong. 这
+2. This*conclusion *we heard her say something about，andcan't be wrong. 这
 
 
 个结论我们听她说过，是不可能错的。
@@ -41956,7 +39309,7 @@ luckily（或happily）forsb. 算某人幸运，fortunately幸好，strangely奇
 1. Thiscomputer is up-to-date，*indeed*. 这台计算机确是最新式的。
 
 
-2. *Certainly*，shewon’t go to China Telecom with you. 当然她不会和你一起
+2. *Certainly*，shewon't go to China Telecom with you. 当然她不会和你一起
 
 
 去中国电信。
@@ -41977,7 +39330,7 @@ not calledme. 奇怪，他未来过中国联通。更奇怪，他没给我打电
 注：注意同一个副词有时作插入语，有时却作状语。
 
 
-1）*Frankly*，Ihaven’t been to Shanghai Museum yet. 坦率地说，我还未
+1）*Frankly*，Ihaven't been to Shanghai Museum yet. 坦率地说，我还未
 
 
 去过上海博物馆。（插入语。但下句中*frankly*作状语。）
@@ -42430,7 +39783,7 @@ disc？Hereyou are. 你要这个光盘吗？给你。
 conductselectricity；*so*it does. 铜能导电；它确是这样。
 
 
-4. Idon’t think Joe will come，*nor*（或*neither*）willSidhey. 我想乔不会来，
+4. Idon't think Joe will come，*nor*（或*neither*）willSidhey. 我想乔不会来，
 
 
 锡德尼也不会来。（若后句改为*nordoes Sidney*，则全句意思变为：我想乔
@@ -42480,7 +39833,7 @@ indefinitely onceit had started. 如果不存在由摩擦而产生的能量损�
 子，但他操作计算机比我好。
 
 
-3. *Tryas I might*，Icouldn’t lift the box. 我使最大劲也抬不动这个箱子。
+3. *Tryas I might*，Icouldn't lift the box. 我使最大劲也抬不动这个箱子。
 
 
 4. *Howeverhard I try*，Icannot understand this question. 尽管我费好大的
@@ -42582,7 +39935,7 @@ so is thepupil. 什么样的老师就有什么样的学生。
 句首部，后面主语、谓语仍按陈述句语序。
 
 
-1. Idon’t know *who* he is. 我不知他是谁。
+1. Idon't know *who* he is. 我不知他是谁。
 
 
 2. Heknows little about *what* was said at the meeting. 关于会上说的内容，他
@@ -43147,7 +40500,7 @@ policy of openingwider to the outside world。国民经济迅速发展是和对�
 签上了。
 
 
-2. *Don’tlet fly away *this 1ittie strange bird. 别让这只奇怪的小鸟飞走. 
+2. *Don'tlet fly away *this 1ittie strange bird. 别让这只奇怪的小鸟飞走. 
 
 
 3. Modernphysics wnl make *possible *synthetic production of theelements. 现
