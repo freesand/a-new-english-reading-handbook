@@ -6368,7 +6368,7 @@ inf. 动词不定式的用法和判别
 不定式一般由“*to*+动词原形”构成。它具有原动词的搭配关系(如宾语、状语等)。在科技文章中见到的动词不定式有下列表中几个形式(以write(写)为例)：
 
 
-<TABLE WIDTH=448 CELLPADDING=7 CELLSPACING=0>	<COL WIDTH=77>	<COL WIDTH=160>	<COL WIDTH=169>	<TR VALIGN=TOP><TD WIDTH=77 HEIGHT=3><P CLASS="western" ALIGN=RIGHT>语态
+<TABLE WIDTH=448 CELLPADDING=7 CELLSPACING=0> <COL WIDTH=77> <COL WIDTH=160> <COL WIDTH=169> <TR VALIGN=TOP><TD WIDTH=77 HEIGHT=3><P CLASS="western" ALIGN=RIGHT>语态
 
 
 时态
@@ -6380,7 +6380,7 @@ inf. 动词不定式的用法和判别
 </TD><TD WIDTH=169>被动态
 
 
-</TD>	</TR>	<TR VALIGN=TOP><TD WIDTH=77 HEIGHT=3>一般式
+</TD> </TR> <TR VALIGN=TOP><TD WIDTH=77 HEIGHT=3>一般式
 
 
 </TD><TD WIDTH=160>to write
@@ -6389,14 +6389,14 @@ inf. 动词不定式的用法和判别
 </TD><TD WIDTH=169>to be written
 
 
-</TD>	</TR>	<TR VALIGN=TOP><TD WIDTH=77 HEIGHT=8>进行式
+</TD> </TR> <TR VALIGN=TOP><TD WIDTH=77 HEIGHT=8>进行式
 
 
 </TD><TD WIDTH=160>to be writing
 
 
 </TD><TD WIDTH=169>
-</TD>	</TR>	<TR VALIGN=TOP><TD WIDTH=77 HEIGHT=4>完成式
+</TD> </TR> <TR VALIGN=TOP><TD WIDTH=77 HEIGHT=4>完成式
 
 
 </TD><TD WIDTH=160>to have written
@@ -6405,14 +6405,14 @@ inf. 动词不定式的用法和判别
 </TD><TD WIDTH=169>to have been written
 
 
-</TD>	</TR>	<TR VALIGN=TOP><TD WIDTH=77 HEIGHT=10>完成进行式
+</TD> </TR> <TR VALIGN=TOP><TD WIDTH=77 HEIGHT=10>完成进行式
 
 
 </TD><TD WIDTH=160>to have been writing
 
 
 </TD><TD WIDTH=169>
-</TD>	</TR></TABLE>
+</TD> </TR></TABLE>
 1. Heatis required *to change* ice to water. 把冰变为水，就需要热。(一般式主
 
 
@@ -30103,7 +30103,7 @@ threeyears. 到明年夏天，她一直在保险公司工作将有三年了。
 
 
 
-<CENTER>	<TABLE WIDTH=548 CELLPADDING=7 CELLSPACING=0><COL WIDTH=23><COL WIDTH=79><COL WIDTH=118><COL WIDTH=118><COL WIDTH=140><TR><TD WIDTH=23 VALIGN=TOP>态
+<CENTER> <TABLE WIDTH=548 CELLPADDING=7 CELLSPACING=0><COL WIDTH=23><COL WIDTH=79><COL WIDTH=118><COL WIDTH=118><COL WIDTH=140><TR><TD WIDTH=23 VALIGN=TOP>态
 
 
 时
@@ -30244,7 +30244,7 @@ wouldhave
 been
 
 
-</TD></TR>	</TABLE>
+</TD></TR> </TABLE>
 </CENTER>
 
 被动态和几个值得注意的问题
@@ -30306,7 +30306,7 @@ been
 
 
 
-<CENTER>	<TABLE WIDTH=394 CELLPADDING=7 CELLSPACING=0><COL WIDTH=23><COL WIDTH=79><COL WIDTH=107><COL WIDTH=129><TR><TD WIDTH=23 VALIGN=TOP>
+<CENTER> <TABLE WIDTH=394 CELLPADDING=7 CELLSPACING=0><COL WIDTH=23><COL WIDTH=79><COL WIDTH=107><COL WIDTH=129><TR><TD WIDTH=23 VALIGN=TOP>
 </TD><TD WIDTH=79>一般
 
 
@@ -30440,7 +30440,7 @@ we
 they
 
 
-</TD></TR>	</TABLE>
+</TD></TR> </TABLE>
 </CENTER>
 
 
@@ -35218,13 +35218,13 @@ in短语是作time的定语用的过去分词used所要求的搭配关系。)
 
 
 
-<TABLE WIDTH=568 CELLPADDING=7 CELLSPACING=0>	<COL WIDTH=270>	<COL WIDTH=270>	<TR VALIGN=TOP><TD WIDTH=270>介词
+<TABLE WIDTH=568 CELLPADDING=7 CELLSPACING=0> <COL WIDTH=270> <COL WIDTH=270> <TR VALIGN=TOP><TD WIDTH=270>介词
 
 
 </TD><TD WIDTH=270>副词
 
 
-</TD>	</TR>	<TR VALIGN=TOP><TD WIDTH=270>1. Heis *in* the laboratory. 他在实验
+</TD> </TR> <TR VALIGN=TOP><TD WIDTH=270>1. Heis *in* the laboratory. 他在实验
 
 
 室。
@@ -35236,7 +35236,7 @@ in短语是作time的定语用的过去分词used所要求的搭配关系。)
 习本交来。
 
 
-</TD>	</TR>	<TR VALIGN=TOP><TD WIDTH=270>2. Lubricatingoils came well *up* the
+</TD> </TR> <TR VALIGN=TOP><TD WIDTH=270>2. Lubricatingoils came well *up* the
 
 
 range of boilingpoints. 润滑油大
@@ -35257,7 +35257,7 @@ industries. 我们必须加速信息产
 业的发展。
 
 
-</TD>	</TR>	<TR VALIGN=TOP><TD WIDTH=270>3. Shegot* off* the bus. 她走下公共
+</TD> </TR> <TR VALIGN=TOP><TD WIDTH=270>3. Shegot* off* the bus. 她走下公共
 
 
 汽车。
@@ -35272,7 +35272,7 @@ quantity ofheat. 该反应放出少量
 热。
 
 
-</TD>	</TR>	<TR VALIGN=TOP><TD WIDTH=270>4. Theypassed the square *by* bus. 
+</TD> </TR> <TR VALIGN=TOP><TD WIDTH=270>4. Theypassed the square *by* bus. 
 
 
 （那时）他们乘车经过广场。
@@ -35284,7 +35284,7 @@ quantity ofheat. 该反应放出少量
 他们排着队通过。
 
 
-</TD>	</TR></TABLE>
+</TD> </TR></TABLE>
 上述副词位置能挪后，但直接宾语为代词时，副词只能放在后面。介词位
 
 
@@ -36602,7 +36602,7 @@ it。如果他们真的来，我就给他们讲讲这件事。（假设的情况
 现将上述三种假设情况汇总成下列一表：
 
 
-<TABLE WIDTH=568 CELLPADDING=7 CELLSPACING=0>	<COL WIDTH=107>	<COL WIDTH=147>	<COL WIDTH=273>	<TR VALIGN=TOP><TD WIDTH=107>假设类型
+<TABLE WIDTH=568 CELLPADDING=7 CELLSPACING=0> <COL WIDTH=107> <COL WIDTH=147> <COL WIDTH=273> <TR VALIGN=TOP><TD WIDTH=107>假设类型
 
 
 </TD><TD WIDTH=147>假设条件从句
@@ -36611,7 +36611,7 @@ it。如果他们真的来，我就给他们讲讲这件事。（假设的情况
 </TD><TD WIDTH=273>主句
 
 
-</TD>	</TR>	<TR VALIGN=TOP><TD WIDTH=107>与现在事实相反的假设
+</TD> </TR> <TR VALIGN=TOP><TD WIDTH=107>与现在事实相反的假设
 
 
 </TD><TD WIDTH=147>If+主语+动词过去时（be用were）或用主、谓语语序颠倒方法
@@ -36629,7 +36629,7 @@ it。如果他们真的来，我就给他们讲讲这件事。（假设的情况
 +would
 
 
-</TD>	</TR>	<TR VALIGN=TOP><TD WIDTH=107>与过去事实相反的假设
+</TD> </TR> <TR VALIGN=TOP><TD WIDTH=107>与过去事实相反的假设
 
 
 </TD><TD WIDTH=147>If+主语+过去完成时或用主、谓语语序颠倒方法
@@ -36647,7 +36647,7 @@ it。如果他们真的来，我就给他们讲讲这件事。（假设的情况
 +would
 
 
-</TD>	</TR>	<TR VALIGN=TOP><TD WIDTH=107>与将来事实可能相反的假设
+</TD> </TR> <TR VALIGN=TOP><TD WIDTH=107>与将来事实可能相反的假设
 
 
 </TD><TD WIDTH=147>If+主语+should（或werebe）+动词原形或用主、谓语语序颠倒方法
@@ -36665,7 +36665,7 @@ it。如果他们真的来，我就给他们讲讲这件事。（假设的情况
 +would
 
 
-</TD>	</TR></TABLE>
+</TD> </TR></TABLE>
 
  注：1. 主句还可用could（能够），might（或许，可以）代替should，would，只是
 
