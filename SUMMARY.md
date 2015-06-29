@@ -17,3 +17,4 @@
 * [Away 的搭配用法及其分类理解](017.md)
 * [Back 的搭配及其引申用法的理解](018.md)
 * [Be 的九种基本用法和判别](019.md)
+* [Because, Because of, Due to, Owing to, Thanks to 和 For 表示原因用法比较](020.md)
