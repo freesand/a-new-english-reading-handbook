@@ -2103,7 +2103,7 @@ Thanksto和For表示原因用法比较
 1. Hedidn't go to school，*becausehe was ill*. 他因为有病没去上学。(原因状语从句，从句前可不打逗号)
 
 
-2. a.Thisis *because she studies hard*. 这是由于她学习努力。(表语从句)
+2. a.This is  *because she studies hard*. 这是由于她学习努力。(表语从句)
 
 
 b. Thereason why we were late was *that the school bus brokedown*. 我们迟到的原因是校车抛锚了。(that不能用because代替，否则reason和because在含义上有点重复。)
@@ -2515,7 +2515,7 @@ Below的用法
 4. Thepressure causes the ice to melt at a temperature slightly* below*0℃. 加压能使冰在微低于0℃的温度下融化。
 
 
-5. Thisis *below* consideration. 这是不值得考虑的。
+5. This is  *below* consideration. 这是不值得考虑的。
 
 
 6. Mostof the energy we use come from *below the ground* in the form ofcoal,oil and gas. 我们使用的大部分能量系以煤、石油和煤气形式出现，都来自地下。(介词短语*belowthe ground*作介词from的宾语。)
@@ -5031,7 +5031,7 @@ First的用法
 4. Shewon *first place* in the race. 她在比赛中获得第一名。(表示名次时，前面的定冠词常不用。)
 
 
-5. a. Thisis the *first* time(that)I have heard ofit. 这是我第一次听说这件事。(that引出的从句中必须用现在完成时。若主句中谓语为was，则从句内用过去完成时。详见下句。)
+5. a. This is  the *first* time(that)I have heard ofit. 这是我第一次听说这件事。(that引出的从句中必须用现在完成时。若主句中谓语为was，则从句内用过去完成时。详见下句。)
 
 
 b. Thatwas the *first *time they had been alone together. 那是他们第一次单独在一起。
@@ -6804,13 +6804,13 @@ chance(机会)，tendency(趋势、倾向)，determination(决心)，order(命
 令、指令)等，其后均可用不定式短语作后置定语。
 
 
-2. Thisis the work *to be done*。这是要做的工作。
+2. This is  the work *to be done*。这是要做的工作。
 
 
 3. Itis a difficult question *to answer*. 这是一个难以回答的问题。
 
 
-4. Thisis a fine room *to work in*. 这是一间适于(在其内)工作的好房间。
+4. This is  a fine room *to work in*. 这是一间适于(在其内)工作的好房间。
 
 
 注2：注意上两句中不定式作定语的特点：不定式中缺位的宾语或介词宾语正好是所修饰的前面名词。现再举几例如下：
@@ -7006,7 +7006,7 @@ X. 注意“疑问词+不定式”在句中的功能(通常顶一个名词)：
 I. 用for+名词(或代词)宋表示不定式的行为逻辑主体：
 
 
-1. Thisis the right place *for a plant to grow*. 这正是一种植物生长的好地方。(定语)
+1. This is  the right place *for a plant to grow*. 这正是一种植物生长的好地方。(定语)
 
 
 2. The electroniccomputerisnotonlyanidealmachine *for us tosolve complicated* *problems* *with *but(also)a gooddevice *for* *us to store* *facts and informationin*. 电子计算机不仅是我们用以解难题的一种理想机器，而且也是我们储存资料和数据的良好装置。(定语)
@@ -7710,7 +7710,7 @@ B. -ing或其短语在所修饰的名词的后面
 重量和占有空间。
 
 
-2. Thisis the ratio of oxygen *reacting* to water*formed*. 这就是参加反应的氧和生成的水之间的比。
+2. This is  the ratio of oxygen *reacting* to water*formed*. 这就是参加反应的氧和生成的水之间的比。
 
 
 3. Theman *working* *by the machine with the worker* is astudent. 在机器旁边和工人一起劳动的男人是一个学生。
@@ -8049,7 +8049,7 @@ XⅥ. -ing的名词化(第171页Ⅵ中的-ing也可视为名词化)
 1. Multiplythe centigrade *reading *by 1.8 because l℃equals1.8F. 将摄氏读数乘以1.8，因为1℃等于1.8T。
 
 
-2. Thisis the *meaning* of Newton’s Third Law： there is always an equal reaction to everyaction. 这是牛顿第三定律的意义：对于每一个作用力总是有其大小相等的反作用力。
+2. This is  the *meaning* of Newton’s Third Law： there is always an equal reaction to everyaction. 这是牛顿第三定律的意义：对于每一个作用力总是有其大小相等的反作用力。
 
 
 3. Calculatethe unknowns in the *following*：…计算下面的未知数：……
@@ -9420,7 +9420,7 @@ l. Silverhas the *least* resistance of the metals. 在这些金属中间，银�
 二、“least+形容词或副词’’构成劣等最高级，作“最不……”讲
 
 
-1. Thisis *the least* expensive method. 这是最不费钱的方法。
+1. This is  *the least* expensive method. 这是最不费钱的方法。
 
 
 2. Thesemotors operate *least* noisily. 这些电动机运转时的噪音最小。
@@ -12401,7 +12401,7 @@ be built*of*…（房子等）由（砖、木等）建成；becomposed *of*…�
 注1：有时直接用“beof+材料…”来表示“由什么材料制成”。例如：
 
 
-1）Thebridge is *of* stone. 该桥由石头砌成。（联系：Thisis a bridge *of* stone. 这是一座石头砌成的桥。）
+1）Thebridge is *of* stone. 该桥由石头砌成。（联系：This is  a bridge *of* stone. 这是一座石头砌成的桥。）
 
 
 2）Thewalls are *of* brick. 墙是砖砌成的。（联系：Theyare walls *of *brick. 它们是砖砌的墙。）
@@ -12693,7 +12693,7 @@ D. makea study* of* sth. 对某事进行研究；makean adjustment *of* the
 4. Heis a bit *of* everything. 他什么都懂得一点. 
 
 
-5. Thisis something *of* a disappointment. 这是件相当使人失望的事。
+5. This is  something *of* a disappointment. 这是件相当使人失望的事。
 
 
  注1：本句型中be换成have，后面用“in或on+sb. 或其代词”，则变为另一
@@ -16635,7 +16635,7 @@ B：翻译成汉语时，一般要先译代词所代替的名词，然后再译�
 二、形容词型物主代词只能作定语
 
 
-1. Thisis *my*（或*your*，*his*，*her*）book. 这是我的（或你的，他的，她的）书。
+1. This is  *my*（或*your*，*his*，*her*）book. 这是我的（或你的，他的，她的）书。
 
 
 2. Allmatter has *its *weight. 一切物质都有其重量。
@@ -16816,7 +16816,7 @@ Rather和Fairly的用法差异
 一、副词rather和fairly都可作“相当地”讲。但含义不同
 
 
-1. Thisis d *rather*（或*ratheran*）easybook. 这本书颇为浅易。（有过于浅易、
+1. This is  d *rather*（或*ratheran*）easybook. 这本书颇为浅易。（有过于浅易、
 
 
 。267. 
@@ -16830,7 +16830,7 @@ Rather和Fairly的用法差异
 也许不适当的意味。）
 
 
-2. Thisis a *fairly* easy book. 这是一本相当浅易的书。（有“因而，也许，适
+2. This is  a *fairly* easy book. 这是一本相当浅易的书。（有“因而，也许，适
 
 
 当”的意思。）
@@ -17220,7 +17220,7 @@ line是宾语补语。）
 2. Letus take arightturn. 让我们向右拐弯。
 
 
-3. Thisis the *right* side of a piece of cloth. 这是一块布的正面。
+3. This is  the *right* side of a piece of cloth. 这是一块布的正面。
 
 
 四、副词right作“正确地”、“恰当地”、“恰好”、“完全地”讲
@@ -17380,7 +17380,7 @@ I. Thisbook* isn't mine*，but*Ms. Ye’s*。这本书不是我的，而是叶�
 有格的情况
 
 
-1. Thisis our *car’s *engine. 这是我们汽车的发动机。
+1. This is  our *car’s *engine. 这是我们汽车的发动机。
 
 
 2. The*moon’s* gravity is much weaker than the* earth’s*. 月球引力比地球引力
@@ -17439,13 +17439,13 @@ I. Thisbook* isn't mine*，but*Ms. Ye’s*。这本书不是我的，而是叶�
 九、注意易混淆的几个句子意思
 
 
-1. *Thisis Mr. Fang’spicture*. 这是方先生的照片。
+1. *This is  Mr. Fang’spicture*. 这是方先生的照片。
 
 
-2. Thisis a *picture* fo *Mr. Fang*. 这是方先生本人的照片。
+2. This is  a *picture* fo *Mr. Fang*. 这是方先生本人的照片。
 
 
-3. Thisis a *picture* fo *Mr. Fang*. 这是方先生所持有的照片中的一张。
+3. This is  a *picture* fo *Mr. Fang*. 这是方先生所持有的照片中的一张。
 
 
 4. Thispicture is *Mr. Fang’s*. 这张照片是方先生的。
@@ -18619,7 +18619,7 @@ II. that，those作指示代词。
 A. 用以指示所说及的单个人或物，有时代表前面句子的整个意思。
 
 
-1. Thisis a manager；thatis a student. 这是一位经理；那是一位学生。
+1. This is  a manager；thatis a student. 这是一位经理；那是一位学生。
 
 
 2. Theseare machines；*those*are instruments. 这些是机器；那些是仪表。
@@ -18749,7 +18749,7 @@ III. that作关系代词（代替人或物），引导限制性定语从句。�
 generation ofcomputer. 他们是设计新一代计算机的研究生。
 
 
-2. Thisis the same instrument（*that*）Iused yesterday. 这就是我昨天所用的
+2. This is  the same instrument（*that*）Iused yesterday. 这就是我昨天所用的
 
 
 那个相同的仪器。（也可用*thesame*…*as*代替*thesame*…*that*。）
@@ -19103,7 +19103,7 @@ Nickel steel isalso elastic，*thatis*，itcan stand vibration，shocks，and
 呼喊着。
 
 
-5. Thisis not the way *that*（=*inwhich*）*wedid the test last time*. 这不是我
+5. This is  not the way *that*（=*inwhich*）*wedid the test last time*. 这不是我
 
 
 们上次做试验用的方法。
@@ -19380,7 +19380,7 @@ V. 注意that省略的几种情况。
 A. 在定语从句中，that作动词的宾语或介词的宾语时可省略：
 
 
-1. Thisis the Benz（*that*）Ibought yesterday. 这是我昨天买的那辆奔驰车。
+1. This is  the Benz（*that*）Ibought yesterday. 这是我昨天买的那辆奔驰车。
 
 
 2. Liquidstake on the shape of the container（*that*）theyare placed in. 液体
@@ -19389,7 +19389,7 @@ A. 在定语从句中，that作动词的宾语或介词的宾语时可省略：
 呈现盛它的容器的形状。
 
 
-3. Thisis not the good bridge（*that*）Ithought it to be。这不是我所想的那种
+3. This is  not the good bridge（*that*）Ithought it to be。这不是我所想的那种
 
 
 好桥梁。（*that*在定语从句内作宾语的“表语”。）
@@ -24588,7 +24588,7 @@ Beijing即作*way*的定语. 而在Sheis on the *way home*中，副词home作
 way的定语。该句可译为：她正在回家途中。
 
 
-2. Thisis a *way* whereby（=bywhich）wemay succeed. 这是一条我们可
+2. This is  a *way* whereby（=bywhich）wemay succeed. 这是一条我们可
 
 
 获得成功的途径。（whereby引出定语从句。）
@@ -24628,7 +24628,7 @@ b. Don'tstand* in the way *of the teacher. 别妨碍老师。（状语）
 法 （ways后有不定式短语作后置定语。）
 
 
-2. Thisis the right *way* of doing a thing. 这是办事的正确方法。（表语。也可
+2. This is  the right *way* of doing a thing. 这是办事的正确方法。（表语。也可
 
 
 改为“…wayto do a thing”。）
@@ -24870,7 +24870,7 @@ b. *Which*is your teachcr，sheor he？哪一个是你的老师，是她还是�
 的（事情）是很重要的。（主语从句）
 
 
-2. Thisis not *what*（=*thething which*）*Imeant*. 这不是我的本意。（表语从
+2. This is  not *what*（=*thething which*）*Imeant*. 这不是我的本意。（表语从
 
 
 句）
@@ -27072,7 +27072,7 @@ business. 就谁去上海出差，我已咨询了这里所有领导的意见。�
 二、关系代词who和whom用于定语从句
 
 
-1. Thisis the student *who repaired our radio set yesterday*. 这人就是昨天修
+1. This is  the student *who repaired our radio set yesterday*. 这人就是昨天修
 
 
 理我们无线电的那个学生。（限制性定语从句）
@@ -27105,7 +27105,7 @@ business. 就谁去上海出差，我已咨询了这里所有领导的意见。�
 Who is theman（*whom*）*youwere talking to *when I saw you yesterday?
 
 
-又如：Thisis the worker（*whom*）*Imet yesterday*. 这是我昨天遇到的那
+又如：This is  the worker（*whom*）*Imet yesterday*. 这是我昨天遇到的那
 
 
 个工人。
@@ -29116,7 +29116,7 @@ second. 分子仍然总在运动，其中有些分子的运动速度达每秒一
 二、副词yet和比较级连用，作“还要”、“更”讲，常可用even代替
 
 
-1. Thisis a *yet*（或*even*）*moredifficult* task. 这是一项更为艰巨的任务。
+1. This is  a *yet*（或*even*）*moredifficult* task. 这是一项更为艰巨的任务。
 
 
 2. Wemust study *yet*（或*even*）*harder*. 我们必须更加努力学习。
@@ -30826,7 +30826,7 @@ by引出行为发生者。
 1. Theproblam *discussed* is very important. 所讨论的问题十分重要。(定语)
 
 
-2. Thisis a question *to be answered* at once. 这是一个立即要(给予)回答的问
+2. This is  a question *to be answered* at once. 这是一个立即要(给予)回答的问
 
 
 401
@@ -31805,7 +31805,7 @@ III. 主从复合句 含有两套或更多的主谓结构，其中有一个是�
 行，就让他们试用另外一种方法。(原因状语从句)
 
 
-10. Thisis *where my mother lives*. 这就是我母亲居住的地方。(表语从句)
+10. This is  *where my mother lives*. 这就是我母亲居住的地方。(表语从句)
 
 
 You have to go*where you met that *experienced programmer. 你务必去你
@@ -33496,7 +33496,7 @@ C. 表示好坏的评价性副词多半用于句末部分。若用于修饰分�
 3. Thegirl has been *ill*-*treated*. 这女孩已受到虐待。
 
 
-4. Thisis* well*-*known*multinational（或multistate）corporation. 这是一家
+4. This is * well*-*known*multinational（或multistate）corporation. 这是一家
 
 
 著名的跨国公司。
@@ -39629,7 +39629,7 @@ come in. 只有警察才能进入。
 注2：以here为句首的句子，当后面谓语为be时，主语和谓语常颠倒。如果主
 
 
-语为人称代词，则主、谓语不颠倒。例如：1. Herewe are. Thisis the
+语为人称代词，则主、谓语不颠倒。例如：1. Herewe are. This is  the
 
 
 shoppingcenter. 我们到了。这就是购物中心。2. Doyou want this video
@@ -39823,7 +39823,7 @@ so is thepupil. 什么样的老师就有什么样的学生。
 知道极少。
 
 
-3. Thisis the teacher of *whom *I spoke to you. 这就是我对你说过的那位老
+3. This is  the teacher of *whom *I spoke to you. 这就是我对你说过的那位老
 
 
 师。
@@ -40027,10 +40027,10 @@ made已犯的错误等。
 但有时过去分词位于所修饰的名词前或后，在意义上有差别：
 
 
-1. Thisis the best computer* known*. 这是已知的‘电脑中’最好的电脑。
+1. This is  the best computer* known*. 这是已知的‘电脑中’最好的电脑。
 
 
-2. Thisis the best* known* computer. 这是最有名的电脑。（不一定是最好的电
+2. This is  the best* known* computer. 这是最有名的电脑。（不一定是最好的电
 
 
 脑，因为best仅说明known。）
@@ -40157,7 +40157,7 @@ nevermove. 没有足以克服阻力的力，静止的物体决不会运动。（
 开大学的教授吗？（介词短语作定语，一般都后置。）
 
 
-11. Thisis a film *about the life of astronauts*. 这是一部描绘宇航员生活的影
+11. This is  a film *about the life of astronauts*. 这是一部描绘宇航员生活的影
 
 
 片。（同上）
@@ -40430,7 +40430,7 @@ policy of openingwider to the outside world。国民经济迅速发展是和对�
  II. 注意only或alone的词序和所修饰的词之间的关系：
 
 
-l. Thisis the* only *example that they know. 他们所知道的例子只有这一
+l. This is  the* only *example that they know. 他们所知道的例子只有这一
 
 
 个。（句中*only*在名词前作形容词用，作“唯一的”、“仅有的”讲。）
@@ -40482,7 +40482,7 @@ III. 注意more和byfar的位置：
 2. Add50 more grams of salt to the water. 再加50克盐于水中。
 
 
-3. Thisis* by far* the best condition. 这是最最好的条件。
+3. This is * by far* the best condition. 这是最最好的条件。
 
 
 4. Itis better by far. 这好得多了。（=…is*much* better，）
@@ -41893,7 +41893,7 @@ d. Thepilot has *run out of *fuel. 飞行员已将燃料耗尽。
 单个语义。
 
 
-2. a. Thisis *a tower of a building*. 这是一座宝塔式的大楼。（不能理解为of
+2. a. This is  *a tower of a building*. 这是一座宝塔式的大楼。（不能理解为of
 
 
 a building修饰atower，应把atower of理解为“像宝塔一般的”，修饰
