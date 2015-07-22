@@ -45,3 +45,4 @@
 * [Forth 的搭配用法](045.md)
 * [Forward(s) 的搭配用法](046.md)
 * [From 的搭配用法及其短语分类理解](047.md)
+* [Hardly 和 Scarcely 的用法及注意点](048.md)
