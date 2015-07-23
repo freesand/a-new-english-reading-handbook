@@ -47,3 +47,4 @@
 * [From 的搭配用法及其短语分类理解](047.md)
 * [Hardly 和 Scarcely 的用法及注意点](048.md)
 * [Have (或 Has) 的用法](049.md)
+* [How, How many, How much, How long, How far，How fast, How often 等用法](050.md)
