@@ -58,3 +58,4 @@
 * [Least（包括作“最不…”讲）的用法](058.md)
 * [Less（包括作“较不…”讲）的用法](059.md)
 * [Lest, In case 和 For fear that 引出从句的用法](060.md)
+* [Like 的搭配用法](061.md)
