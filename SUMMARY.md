@@ -70,3 +70,4 @@
 * [Near 的用法](070.md)
 * [Need 和 Dare 的用法及注意点](071.md)
 * [Neither, Nor 和 Neither… nor… 的用法](072.md)
+* [Never 用法](073.md)
