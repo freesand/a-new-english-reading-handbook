@@ -80,3 +80,4 @@
 * [Once 的用法](080.md)
 * [One 和 Ones 的用法](081.md)
 * [Or, Or Else, Else 的用法](082.md)
+* [Other 和 Another 用法差异](083.md)
