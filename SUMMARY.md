@@ -82,3 +82,4 @@
 * [Or, Or Else, Else 的用法](082.md)
 * [Other 和 Another 用法差异](083.md)
 * [Other than 的用法](084.md)
+* [Otherwise 用法](085.md)
